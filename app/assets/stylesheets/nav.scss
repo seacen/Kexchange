@@ -1,0 +1,51 @@
+.dropdown-menu {
+  padding: 20px;
+}
+// .dropdowninput {
+//   padding:50px;
+// }
+
+$theme: #FF6666;
+$text: #FFFFFF;
+$hover: #FFE6FF;
+
+.navbar-default {
+    background-color: $theme;
+    // border-color: #E7E7E7;
+}
+.navbar-default input {
+    color: $text;
+    // border-color: #E7E7E7;
+}
+.navbar-default input.black {
+    color: #777;
+    // border-color: #E7E7E7;
+}
+/* title */
+.navbar-default .navbar-brand {
+    color: $text;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: $hover;
+}
+/* link */
+.navbar-default .navbar-nav > li > a {
+    color: $text;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: $hover;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: $theme;
+    background-color: $text;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: $theme;
+    background-color: $text;
+}

@@ -11,7 +11,7 @@ class SessionsController < ApplicationController
 	  	# Save them in the session
 	  	log_in user
 	  	# Redirect to posts page
-	  	redirect_to articles_path
+	  	redirect_to user
 	else
 		redirect_to :back, alert: 'wrong username or password, please try again'
 	end

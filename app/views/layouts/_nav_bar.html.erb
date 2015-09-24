@@ -1,4 +1,4 @@
-<nav class="navbar navbar-inverse nospace">
+<nav class="navbar navbar-default nospace">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -8,46 +8,42 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Brand</a>
+      <%= link_to 'Kexchange',curr_user, class: 'navbar-brand' %>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
-        <li><a href="#">Link</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">One more separated link</a></li>
-          </ul>
-        </li>
-      </ul>
-      <form class="navbar-form navbar-left" role="search">
-        <div class="form-group">
-          <input type="text" class="form-control" placeholder="Search">
-        </div>
-        <button type="submit" class="btn btn-default">Submit</button>
-      </form>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Link</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-          </ul>
-        </li>
-      </ul>
+      <% if curr_user %>
+        <ul class="nav navbar-nav navbar-right">
+          <% if current_page?(curr_user) %>
+            <li class="active">
+          <% else %>
+            <li>
+          <% end %>
+          <%= link_to "Welcome! #{curr_user.username}", curr_user %></li>
+          <% if current_page?(edit_user_path(id:curr_user.id)) %>
+            <li class="active">
+          <% else %>
+            <li>
+          <% end %>
+          <%= link_to "Edit Profile", edit_user_path(curr_user.id)%></li>
+          <li><%= link_to "Log Out", logout_path, method: :delete%></li>
+        </ul>
+      <% else %>
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Login <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <%= simple_form_for(:credentials, url: signin_path) do |f| %>
+                <%= f.input :username, placeholder: 'username', label: false, input_html: {class: 'dropdowninput'} %>
+                <%= f.input :password, placeholder: 'password', label: false, input_html: {class: 'dropdowninput'} %>
+                <%= f.button :submit, 'login', class:'black' %>
+              <% end %>
+            </div>
+          </li>
+        </ul>
+      <% end %>
+
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>

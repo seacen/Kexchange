@@ -9,6 +9,7 @@
 </head>
 <body>
   <%= render partial: '/layouts/nav_bar' %>
+  
   <div class="container">
     <% flash.each do |name, msg| -%>
       <% if name == 'notice' %>
