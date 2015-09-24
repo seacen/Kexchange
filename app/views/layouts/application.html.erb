@@ -1,14 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Kexchange</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
 </head>
 <body>
-
-<%= yield %>
-
+  <%= render partial: '/layouts/nav_bar' %>
+  <div class="container">
+    <% flash.each do |name, msg| -%>
+      <% if name == 'notice' %>
+        <%= content_tag :div, msg, class: "alert alert-success" %>
+      <% elsif name == 'alert' %>
+        <%= content_tag :div, msg, class: "alert alert-danger" %>
+      <% else %>
+        <%= content_tag :div, msg, class: name %>
+      <% end %>
+    <% end -%>
+  	<%= yield %>
+  </div>
 </body>
 </html>

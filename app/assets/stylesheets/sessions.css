@@ -1,0 +1,8 @@
+.nospace {
+  margin-bottom: auto;
+  /*min-height: 300px;*/
+}
+.jumbotext {
+  padding: inherit;
+  text-align:center;
+}
