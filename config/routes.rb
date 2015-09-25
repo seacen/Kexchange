@@ -5,8 +5,8 @@ Rails.application.routes.draw do
   # You can have the root of your site routed with "root"
   root 'sessions#index'
   # Example of regular route:
-  get 'sessions/index', as: :home
-  get 'sessions/login', as: :login
+  get 'index' => 'sessions#index', as: :home
+  get 'login' => 'sessions#login', as: :login
   post 'sessions/do_login', as: :signin
   delete 'sessions/logout', as: :logout
 

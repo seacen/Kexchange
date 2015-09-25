@@ -1,7 +1,7 @@
 class SessionsController < ApplicationController
   # Before actions to check paramters
   before_action :session_params, only: [:do_login]
-  before_action :check_unlogin, only: [:index]
+  before_action :check_unlogin, only: [:index, :login]
   before_action :authenticate_user, only: [:logout]
 
   def do_login
