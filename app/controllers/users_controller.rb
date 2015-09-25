@@ -18,7 +18,7 @@ class UsersController < ApplicationController
     respond_to do |format|
       if @user.save
         log_in @user
-        format.html { redirect_to login_path, notice: 'user was successfully created.' }
+        format.html { redirect_to @user, notice: 'user was successfully created.' }
         format.json { render :show, status: :created, location: @user }
       else
         format.html { render :new }
@@ -60,7 +60,7 @@ class UsersController < ApplicationController
 
   def check_valid
     unless @user == curr_user
-      redirect_to edit_user_path(curr_user.id), alert: 'no authorization to perform this'# , status: :unauthorized
+      redirect_to curr_user, alert: 'no authorization to perform this'# , status: :unauthorized
     end
   end
 

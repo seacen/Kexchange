@@ -9,18 +9,18 @@
 </head>
 <body>
   <%= render partial: '/layouts/nav_bar' %>
-  
+  <% flash.each do |name, msg| -%>
+    <% if name == 'notice' %>
+      <%= content_tag :div, msg, class: "alert alert-success" %>
+    <% elsif name == 'alert' %>
+      <%= content_tag :div, msg, class: "alert alert-danger" %>
+    <% else %>
+      <%= content_tag :div, msg, class: name %>
+    <% end %>
+  <% end -%>
   <div class="container">
-    <% flash.each do |name, msg| -%>
-      <% if name == 'notice' %>
-        <%= content_tag :div, msg, class: "alert alert-success" %>
-      <% elsif name == 'alert' %>
-        <%= content_tag :div, msg, class: "alert alert-danger" %>
-      <% else %>
-        <%= content_tag :div, msg, class: name %>
-      <% end %>
-    <% end -%>
   	<%= yield %>
   </div>
+  <%= render '/layouts/footer' %>
 </body>
 </html>

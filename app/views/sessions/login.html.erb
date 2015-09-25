@@ -1,0 +1,8 @@
+<div class="page-header">
+  <h3>LOGIN</h3>
+</div>
+<%= simple_form_for(:credentials, url: signin_path) do |f| %>
+  <%= f.input :username %>
+  <%= f.input :password %>
+  <%= f.button :submit, 'login' %>
+<% end %>

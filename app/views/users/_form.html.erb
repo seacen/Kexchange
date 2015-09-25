@@ -1,6 +1,6 @@
 <%= simple_form_for(@user) do |f| %>
   <%= f.error_notification %>
-  <%= f.input :username %>
+  <%= f.input :username, hint: 'must be greater than 3 characters' %>
   <%= f.input :password %>
   <%= f.input :password_confirmation %>
   <%= f.input :email %>

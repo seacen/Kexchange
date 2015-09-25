@@ -14,11 +14,16 @@ $hover: #FFE6FF;
     // border-color: #E7E7E7;
 }
 .navbar-default input {
-    color: $text;
+    color: $theme;
     // border-color: #E7E7E7;
 }
+@media (max-width: 767px) {
+  .navbar-default input {
+      color: $text;
+  }
+}
 .navbar-default input.black {
-    color: #777;
+    color: $theme;
     // border-color: #E7E7E7;
 }
 /* title */
@@ -48,4 +53,32 @@ $hover: #FFE6FF;
 .navbar-default .navbar-nav > .open > a:focus {
     color: $theme;
     background-color: $text;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 40px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 48px;
+  background-color: $theme;
+  color: $text;
+  text-align:center;
+}
+.foottext {
+  padding-top: 12px;
+  padding-bottom: -12px;
+}
+a.white:hover,a.white:focus,a.white {
+  color: $text;
 }

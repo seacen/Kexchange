@@ -5,8 +5,9 @@ Rails.application.routes.draw do
   # You can have the root of your site routed with "root"
   root 'sessions#index'
   # Example of regular route:
-  get 'sessions/index', as: :login
-  post 'sessions/login', as: :signin
+  get 'sessions/index', as: :home
+  get 'sessions/login', as: :login
+  post 'sessions/do_login', as: :signin
   delete 'sessions/logout', as: :logout
 
   # Example of named route that can be invoked with purchase_url(id: product.id)
