@@ -1,13 +1,10 @@
 <%= simple_form_for(@user) do |f| %>
   <%= f.error_notification %>
-  <%= f.input :username, hint: 'must be greater than 3 characters' %>
+  <%= f.input :username %>
   <%= f.input :password %>
   <%= f.input :password_confirmation %>
   <%= f.input :email %>
   <%= f.input :location %>
-
-  <div class="form-group">
-    <%= f.submit 'Submit', class: 'btn btn-default' %>
-    <%= link_to 'Back', :back, class:"btn btn-default" %>
-  </div>
+  <%= f.button :submit, t('create') %>
+  <span><%= link_to t('back'), home_path, class:"btn btn-default back" %></span>
 <% end %>

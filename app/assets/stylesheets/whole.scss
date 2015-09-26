@@ -12,6 +12,9 @@ body {
   color: $theme;
   // background-color: $theme;
 }
+.alert {
+  text-align: center;
+}
 .jumbotron {
   background-color: $text;
   .btn {
@@ -29,7 +32,7 @@ body {
 }
 @media (max-width: 767px) {
   .jumbotext {
-      padding-top: 11vh;
+      padding-top: 10vh;
       padding-bottom: 4vh;
   }
   .jumbotron {
@@ -44,6 +47,13 @@ body {
       font-size: 1.1em;
     }
   }
+  .building {
+    html[lang="zh-CN"] & {
+      h5 {
+        font-size: 1.42em;
+      }
+    }
+  }
 }
 .jumbobtn {
   margin-top: 20px;
@@ -51,9 +61,13 @@ body {
 }
 .jumbobtn-login {
   margin-top: 20px;
+  margin-left: 10px;
   padding-left: 42px;
   padding-right: 42px;
-  margin-left: 10px;
+  html[lang="zh-CN"] & {
+    padding-left: 33px;
+    padding-right: 33px;
+  }
 }
 .page-header,.page-title {
   h1,h2,h3 {
@@ -62,4 +76,7 @@ body {
 }
 .page-title {
   padding: 20px;
+}
+.back {
+  margin-left: 10px;
 }

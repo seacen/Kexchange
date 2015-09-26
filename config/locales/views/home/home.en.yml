@@ -1,0 +1,6 @@
+en:
+  home:
+    jumbotron:
+      description: "A platform for K-pop album cards exchange"
+      sign_up: "Sign up now"
+      login: "Login"

@@ -1,0 +1,15 @@
+en:
+  login: "Login"
+  username: "Username"
+  password: "Password"
+  back: "Back"
+  create: 'Create'
+  welcome: 'Welcome! '
+  logout: 'Log Out'
+  building:
+    title: 'Welcome to Kexchange!'
+    body: 'The site is still under construction, stay turned for real soon updates!'
+    hint: 'You can check your profile detail at edit profile on top right'
+  footer:
+    tech: " tech"
+    copyright: " All Right Reserved"

@@ -1,0 +1,15 @@
+zh-CN:
+  login: "登录"
+  username: "用户名"
+  password: "密码"
+  back: "返回"
+  create: '创建'
+  welcome: '欢迎！'
+  logout: '注销'
+  building:
+    title: '欢迎进入Kexchange！'
+    body: '网站还在建造，敬请期待马上到来的更新！'
+    hint: '您可以在右上角点击“修改资料”查看个人资料'
+  footer:
+    tech: "科技"
+    copyright: "版权所有"

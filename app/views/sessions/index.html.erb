@@ -2,7 +2,7 @@
 <div class="jumbotron">
   <div class="container jumbotext">
     <h1>Kexchange</h1>
-    <p>A platform for K-pop album cards exchange</p>
-    <%= link_to 'Sign up now', new_user_path, class:'btn btn-default btn-lg jumbobtn' %>
-    <%= link_to 'Login', login_path, class:'btn btn-default btn-lg jumbobtn-login' %>
+    <p><%= t 'home.jumbotron.description' %></p>
+    <%= link_to t('home.jumbotron.sign_up'), new_user_path, class:'btn btn-default btn-lg jumbobtn' %>
+    <%= link_to t('home.jumbotron.login'), login_path, class:'btn btn-default btn-lg jumbobtn-login' %>
   </div>

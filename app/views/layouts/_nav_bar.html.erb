@@ -20,24 +20,24 @@
           <% else %>
             <li>
           <% end %>
-          <%= link_to "Welcome! #{curr_user.username}", curr_user %></li>
+          <%= link_to t('welcome')+curr_user.username, curr_user %></li>
           <% if current_page?(edit_user_path(id:curr_user.id)) %>
             <li class="active">
           <% else %>
             <li>
           <% end %>
-          <%= link_to "Edit Profile", edit_user_path(curr_user.id)%></li>
-          <li><%= link_to "Log Out", logout_path, method: :delete%></li>
+          <%= link_to t('user.edit.heading'), edit_user_path(curr_user.id)%></li>
+          <li><%= link_to t('logout'), logout_path, method: :delete%></li>
         </ul>
       <% else %>
         <ul class="nav navbar-nav navbar-right">
           <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Login <span class="caret"></span></a>
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><%= t 'login' %> <span class="caret"></span></a>
             <ul class="dropdown-menu">
               <%= simple_form_for(:credentials, url: signin_path) do |f| %>
-                <%= f.input :username, placeholder: 'username', label: false, input_html: {class: 'dropdowninput'} %>
-                <%= f.input :password, placeholder: 'password', label: false, input_html: {class: 'dropdowninput'} %>
-                <%= f.button :submit, 'login', class:'black' %>
+                <%= f.input :username, placeholder: t('username'), label: false, input_html: {class: 'dropdowninput'} %>
+                <%= f.input :password, placeholder: t('password'), label: false, input_html: {class: 'dropdowninput'} %>
+                <%= f.button :submit, t('login'), class:'black' %>
               <% end %>
             </div>
           </li>

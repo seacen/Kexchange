@@ -1,8 +1,9 @@
 <div class="page-header">
-  <h3>LOGIN</h3>
+  <h3><%= t('login') %></h3>
 </div>
 <%= simple_form_for(:credentials, url: signin_path) do |f| %>
   <%= f.input :username %>
   <%= f.input :password %>
-  <%= f.button :submit, 'login' %>
+  <%= f.button :submit, t('login') %>
+  <span><%= link_to t('back'), home_path, class:"btn btn-default back" %></span>
 <% end %>

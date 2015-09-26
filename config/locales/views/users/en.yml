@@ -1,0 +1,6 @@
+en:
+  user:
+    new:
+      heading: 'Create Account'
+    edit:
+      heading: 'Edit Profile'
