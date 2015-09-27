@@ -7,6 +7,9 @@ $text: #FFFFFF;
 body {
   // color: $theme;
   padding-top: 60px;
+  html[lang="zh-CN"] & {
+    font-family: "PingFang","Microsoft YaHei",sans-serif;
+  }
 }
 .btn {
   color: $theme;
