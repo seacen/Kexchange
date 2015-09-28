@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150924125915) do
+ActiveRecord::Schema.define(version: 20150928071803) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -45,16 +45,6 @@ ActiveRecord::Schema.define(version: 20150924125915) do
 
   add_index "cards", ["album_id"], name: "index_cards_on_album_id", using: :btree
 
-  create_table "claims", force: :cascade do |t|
-    t.integer  "user_id"
-    t.integer  "card_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
-  add_index "claims", ["card_id"], name: "index_claims_on_card_id", using: :btree
-  add_index "claims", ["user_id"], name: "index_claims_on_user_id", using: :btree
-
   create_table "companies", force: :cascade do |t|
     t.string   "name"
     t.datetime "created_at", null: false
@@ -63,12 +53,12 @@ ActiveRecord::Schema.define(version: 20150924125915) do
 
   create_table "requests", force: :cascade do |t|
     t.integer  "user_id"
-    t.integer  "card_id"
+    t.integer  "own_id"
+    t.integer  "want_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
 
-  add_index "requests", ["card_id"], name: "index_requests_on_card_id", using: :btree
   add_index "requests", ["user_id"], name: "index_requests_on_user_id", using: :btree
 
   create_table "users", force: :cascade do |t|
@@ -83,8 +73,5 @@ ActiveRecord::Schema.define(version: 20150924125915) do
   add_foreign_key "albums", "artists"
   add_foreign_key "artists", "companies"
   add_foreign_key "cards", "albums"
-  add_foreign_key "claims", "cards"
-  add_foreign_key "claims", "users"
-  add_foreign_key "requests", "cards"
   add_foreign_key "requests", "users"
 end

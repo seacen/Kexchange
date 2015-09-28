@@ -2,8 +2,10 @@
 
 one:
   user_id: 
-  card_id: 
+  own_id: 
+  want_id: 
 
 two:
   user_id: 
-  card_id: 
+  own_id: 
+  want_id: 
