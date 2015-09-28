@@ -13,3 +13,5 @@ en:
   footer:
     tech: " tech"
     copyright: " All Right Reserved"
+  login_fail: 'wrong username or password, please try again'
+  login_required: 'please login to proceed the previous actions'

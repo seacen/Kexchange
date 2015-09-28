@@ -13,7 +13,7 @@ class SessionsController < ApplicationController
       # Redirect to posts page
       redirect_to user
     else
-      redirect_to :back, alert: 'wrong username or password, please try again'
+      redirect_to login_path, alert: t('login_fail')
     end
   end
 

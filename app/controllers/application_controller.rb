@@ -9,7 +9,7 @@ class ApplicationController < ActionController::Base
 
   def authenticate_user
     if !curr_user
-      redirect_to login_path, alert: 'please login'
+      redirect_to login_path, alert: t('login_required')
     end
   end
 

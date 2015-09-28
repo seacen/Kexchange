@@ -2,5 +2,10 @@ zh-CN:
   user:
     new:
       heading: '创建账户'
+      success: '创建成功！'
     edit:
       heading: '修改资料'
+      success: '修改资料成功'
+    destroy:
+      success: '删除账户成功'
+    unauthorized: '您没有权限进行该操作'

@@ -18,7 +18,7 @@ class UsersController < ApplicationController
     respond_to do |format|
       if @user.save
         log_in @user
-        format.html { redirect_to @user, notice: 'user was successfully created.' }
+        format.html { redirect_to @user, notice: t('user.new.success') }
         format.json { render :show, status: :created, location: @user }
       else
         format.html { render :new }
@@ -32,7 +32,7 @@ class UsersController < ApplicationController
   def update
     respond_to do |format|
       if @user.update(user_params)
-        format.html { redirect_to @user, notice: 'user was successfully updated.' }
+        format.html { redirect_to @user, notice: t('user.edit.success') }
         format.json { render :show, status: :ok, location: @user }
       else
         format.html { render :edit }
@@ -47,7 +47,7 @@ class UsersController < ApplicationController
     log_out @user
     @user.destroy
     respond_to do |format|
-      format.html { redirect_to login_path, notice: 'user was successfully destroyed.' }
+      format.html { redirect_to login_path, notice: t('user.destroy.success') }
       format.json { head :no_content }
     end
   end
@@ -60,7 +60,7 @@ class UsersController < ApplicationController
 
   def check_valid
     unless @user == curr_user
-      redirect_to curr_user, alert: 'no authorization to perform this'# , status: :unauthorized
+      redirect_to curr_user, alert: t('user.unauthorized')# , status: :unauthorized
     end
   end
 

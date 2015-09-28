@@ -2,5 +2,10 @@ en:
   user:
     new:
       heading: 'Create Account'
+      success: 'Account was successfully created.'
     edit:
       heading: 'Edit Profile'
+      success: 'Account was successfully updated.'
+    destroy:
+      success: 'Account was successfully destroyed.'
+    unauthorized: 'No authorization to perform this'

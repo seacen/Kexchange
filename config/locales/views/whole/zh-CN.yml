@@ -13,3 +13,5 @@ zh-CN:
   footer:
     tech: "科技"
     copyright: "版权所有"
+  login_fail: '您输入的用户名或密码有误，请重试'
+  login_required: '请登录'
