@@ -1,5 +1,6 @@
 class UsersController < ApplicationController
   before_action :set_user, only: [:show, :edit, :update, :destroy]
+  before_action :set_cities, only: [:new, :edit]
   before_action :authenticate_user, only: [:edit, :destroy, :update, :show]
   before_action :check_valid, only: [:edit, :destroy, :update, :show]
   before_action :check_unlogin, only: [:new, :create]
@@ -14,7 +15,8 @@ class UsersController < ApplicationController
   end
 
   def create
-    @user = User.new(user_params)
+    @user = User.new(user_params.except(:city))
+    @user.city_id = user_params[:city].to_i
     respond_to do |format|
       if @user.save
         log_in @user
@@ -31,7 +33,11 @@ class UsersController < ApplicationController
   # PATCH/PUT /users/1.json
   def update
     respond_to do |format|
-      if @user.update(user_params)
+      unless @user.update(user_params.except(:city))
+        format.html { render :edit }
+        format.json { render json: @user.errors, status: :unprocessable_entity }
+      end
+      if @user.update(city_id: user_params[:city].to_i)
         format.html { redirect_to @user, notice: t('user.edit.success') }
         format.json { render :show, status: :ok, location: @user }
       else
@@ -58,6 +64,11 @@ class UsersController < ApplicationController
     @user = User.find(params[:id])
   end
 
+  def set_cities
+    @countries = Country.all
+    @cities = City.all
+  end
+
   def check_valid
     unless @user == curr_user
       redirect_to curr_user, alert: t('user.unauthorized')# , status: :unauthorized
@@ -65,6 +76,6 @@ class UsersController < ApplicationController
   end
 
   def user_params
-    params.require(:user).permit(:email, :username, :password, :location, :password_confirmation)
+    params.require(:user).permit(:email, :username, :password, :city, :password_confirmation)
   end
 end

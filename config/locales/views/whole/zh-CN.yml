@@ -4,6 +4,7 @@ zh-CN:
   password: "密码"
   back: "返回"
   create: '创建'
+  submit: '确定'
   welcome: '欢迎！'
   logout: '注销'
   building:

@@ -48,3 +48,4 @@ end
 gem 'bcrypt', '~> 3.1.7'
 gem 'simple_form'
 gem 'rails-i18n'
+gem 'globalize'

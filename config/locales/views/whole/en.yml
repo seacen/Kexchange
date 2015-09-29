@@ -4,6 +4,7 @@ en:
   password: "Password"
   back: "Back"
   create: 'Create'
+  submit: 'Submit'
   welcome: 'Welcome! '
   logout: 'Log Out'
   building:
