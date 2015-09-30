@@ -1,6 +1,5 @@
 class UsersController < ApplicationController
   before_action :set_user, only: [:show, :edit, :update, :destroy]
-  before_action :set_cities, only: [:new, :edit]
   before_action :authenticate_user, only: [:edit, :destroy, :update, :show]
   before_action :check_valid, only: [:edit, :destroy, :update, :show]
   before_action :check_unlogin, only: [:new, :create]
@@ -58,11 +57,6 @@ class UsersController < ApplicationController
     # Use callbacks to share common setup or constraints between actions.
   def set_user
     @user = User.find(params[:id])
-  end
-
-  def set_cities
-    @countries = Country.all
-    @cities = City.all
   end
 
   def check_valid
