@@ -15,8 +15,8 @@ class UsersController < ApplicationController
   end
 
   def create
-    @user = User.new(user_params.except(:city))
-    @user.city_id = user_params[:city].to_i
+    @user = User.new(user_params)
+    # @user.city_id = user_params[:city].to_i
     respond_to do |format|
       if @user.save
         log_in @user
@@ -33,11 +33,7 @@ class UsersController < ApplicationController
   # PATCH/PUT /users/1.json
   def update
     respond_to do |format|
-      unless @user.update(user_params.except(:city))
-        format.html { render :edit }
-        format.json { render json: @user.errors, status: :unprocessable_entity }
-      end
-      if @user.update(city_id: user_params[:city].to_i)
+      if @user.update(user_params)
         format.html { redirect_to @user, notice: t('user.edit.success') }
         format.json { render :show, status: :ok, location: @user }
       else

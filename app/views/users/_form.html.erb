@@ -4,7 +4,8 @@
   <%= f.input :password %>
   <%= f.input :password_confirmation %>
   <%= f.input :email %>
-  <%= f.input :city, collection: @cities, label_method: :name, value_method: :id, selected: @user.city_id %>
+  <%= f.input :city %>
+  <!-- <%= f.input :city, collection: @cities, label_method: :name, value_method: :id, selected: @user.city_id %> -->
   <%= f.button :submit, t('submit') %>
   <span><%= link_to t('back'), home_path, class:"btn btn-default back" %></span>
 <% end %>
