@@ -1,0 +1,9005 @@
+zh-CN:
+  SCN:
+    name: "喜岑联合王国"
+    SSC:
+      name: "喜岑特别市"
+      TYD:
+        name: "泰妍区"
+  :1:
+    name: "中国"
+    :11:
+      name: "北京"
+      :1:
+        name: "东城"
+      :2:
+        name: "西城"
+      :5:
+        name: "朝阳"
+      :6:
+        name: "丰台"
+      :7:
+        name: "石景山"
+      :8:
+        name: "海淀"
+      :9:
+        name: "门头沟"
+      :11:
+        name: "房山"
+      :12:
+        name: "通州"
+      :13:
+        name: "顺义"
+      :21:
+        name: "昌平"
+      :24:
+        name: "大兴"
+      :26:
+        name: "平谷"
+      :27:
+        name: "怀柔"
+      :28:
+        name: "密云"
+      :29:
+        name: "延庆"
+    :12:
+      name: "天津"
+      :1:
+        name: "和平"
+      :2:
+        name: "河东"
+      :3:
+        name: "河西"
+      :4:
+        name: "南开"
+      :5:
+        name: "河北"
+      :6:
+        name: "红桥"
+      :26:
+        name: "滨海新区"
+      :10:
+        name: "东丽"
+      :11:
+        name: "西青"
+      :12:
+        name: "津南"
+      :13:
+        name: "北辰"
+      :21:
+        name: "宁河"
+      :22:
+        name: "武清"
+      :23:
+        name: "静海"
+      :24:
+        name: "宝坻"
+      :25:
+        name: "蓟县"
+    :13:
+      name: "河北"
+      :1:
+        name: "石家庄"
+      :2:
+        name: "唐山"
+      :3:
+        name: "秦皇岛"
+      :4:
+        name: "邯郸"
+      :5:
+        name: "邢台"
+      :6:
+        name: "保定"
+      :7:
+        name: "张家口"
+      :8:
+        name: "承德"
+      :9:
+        name: "沧州"
+      :10:
+        name: "廊坊"
+      :11:
+        name: "衡水"
+    :14:
+      name: "山西"
+      :1:
+        name: "太原"
+      :2:
+        name: "大同"
+      :3:
+        name: "阳泉"
+      :4:
+        name: "长治"
+      :5:
+        name: "晋城"
+      :6:
+        name: "朔州"
+      :7:
+        name: "晋中"
+      :8:
+        name: "运城"
+      :9:
+        name: "忻州"
+      :10:
+        name: "临汾"
+      :11:
+        name: "吕梁"
+    :15:
+      name: "内蒙古"
+      :1:
+        name: "呼和浩特"
+      :2:
+        name: "包头"
+      :3:
+        name: "乌海"
+      :4:
+        name: "赤峰"
+      :5:
+        name: "通辽"
+      :6:
+        name: "鄂尔多斯"
+      :7:
+        name: "呼伦贝尔"
+      :8:
+        name: "巴彦淖尔"
+      :9:
+        name: "乌兰察布"
+      :22:
+        name: "兴安"
+      :25:
+        name: "锡林郭勒"
+      :29:
+        name: "阿拉善"
+    :21:
+      name: "辽宁"
+      :1:
+        name: "沈阳"
+      :2:
+        name: "大连"
+      :3:
+        name: "鞍山"
+      :4:
+        name: "抚顺"
+      :5:
+        name: "本溪"
+      :6:
+        name: "丹东"
+      :7:
+        name: "锦州"
+      :8:
+        name: "营口"
+      :9:
+        name: "阜新"
+      :10:
+        name: "辽阳"
+      :11:
+        name: "盘锦"
+      :12:
+        name: "铁岭"
+      :13:
+        name: "朝阳"
+      :14:
+        name: "葫芦岛"
+    :22:
+      name: "吉林"
+      :1:
+        name: "长春"
+      :2:
+        name: "吉林"
+      :3:
+        name: "四平"
+      :4:
+        name: "辽源"
+      :5:
+        name: "通化"
+      :6:
+        name: "白山"
+      :7:
+        name: "松原"
+      :8:
+        name: "白城"
+      :24:
+        name: "延边"
+    :23:
+      name: "黑龙江"
+      :1:
+        name: "哈尔滨"
+      :2:
+        name: "齐齐哈尔"
+      :3:
+        name: "鸡西"
+      :4:
+        name: "鹤岗"
+      :5:
+        name: "双鸭山"
+      :6:
+        name: "大庆"
+      :7:
+        name: "伊春"
+      :8:
+        name: "佳木斯"
+      :9:
+        name: "七台河"
+      :10:
+        name: "牡丹江"
+      :11:
+        name: "黑河"
+      :12:
+        name: "绥化"
+      :27:
+        name: "大兴安岭"
+    :31:
+      name: "上海"
+      :1:
+        name: "黄浦"
+      :3:
+        name: "卢湾"
+      :4:
+        name: "徐汇"
+      :5:
+        name: "长宁"
+      :6:
+        name: "静安"
+      :7:
+        name: "普陀"
+      :8:
+        name: "闸北"
+      :9:
+        name: "虹口"
+      :11:
+        name: "杨浦"
+      :12:
+        name: "闵行"
+      :13:
+        name: "宝山"
+      :14:
+        name: "嘉定"
+      :15:
+        name: "浦东新区"
+      :16:
+        name: "金山"
+      :17:
+        name: "松江"
+      :26:
+        name: "奉贤"
+      :29:
+        name: "青浦"
+      :30:
+        name: "崇明"
+    :32:
+      name: "江苏"
+      :1:
+        name: "南京"
+      :2:
+        name: "无锡"
+      :3:
+        name: "徐州"
+      :4:
+        name: "常州"
+      :5:
+        name: "苏州"
+      :6:
+        name: "南通"
+      :7:
+        name: "连云港"
+      :8:
+        name: "淮安"
+      :9:
+        name: "盐城"
+      :10:
+        name: "扬州"
+      :11:
+        name: "镇江"
+      :12:
+        name: "泰州"
+      :13:
+        name: "宿迁"
+    :33:
+      name: "浙江"
+      :1:
+        name: "杭州"
+      :2:
+        name: "宁波"
+      :3:
+        name: "温州"
+      :4:
+        name: "嘉兴"
+      :5:
+        name: "湖州"
+      :6:
+        name: "绍兴"
+      :7:
+        name: "金华"
+      :8:
+        name: "衢州"
+      :9:
+        name: "舟山"
+      :10:
+        name: "台州"
+      :11:
+        name: "丽水"
+    :34:
+      name: "安徽"
+      :1:
+        name: "合肥"
+      :2:
+        name: "芜湖"
+      :3:
+        name: "蚌埠"
+      :4:
+        name: "淮南"
+      :5:
+        name: "马鞍山"
+      :6:
+        name: "淮北"
+      :7:
+        name: "铜陵"
+      :8:
+        name: "安庆"
+      :10:
+        name: "黄山"
+      :11:
+        name: "滁州"
+      :12:
+        name: "阜阳"
+      :13:
+        name: "宿州"
+      :15:
+        name: "六安"
+      :16:
+        name: "亳州"
+      :17:
+        name: "池州"
+      :18:
+        name: "宣城"
+    :35:
+      name: "福建"
+      :1:
+        name: "福州"
+      :2:
+        name: "厦门"
+      :3:
+        name: "莆田"
+      :4:
+        name: "三明"
+      :5:
+        name: "泉州"
+      :6:
+        name: "漳州"
+      :7:
+        name: "南平"
+      :8:
+        name: "龙岩"
+      :9:
+        name: "宁德"
+    :36:
+      name: "江西"
+      :1:
+        name: "南昌"
+      :2:
+        name: "景德镇"
+      :3:
+        name: "萍乡"
+      :4:
+        name: "九江"
+      :5:
+        name: "新余"
+      :6:
+        name: "鹰潭"
+      :7:
+        name: "赣州"
+      :8:
+        name: "吉安"
+      :9:
+        name: "宜春"
+      :10:
+        name: "抚州"
+      :11:
+        name: "上饶"
+    :37:
+      name: "山东"
+      :1:
+        name: "济南"
+      :2:
+        name: "青岛"
+      :3:
+        name: "淄博"
+      :4:
+        name: "枣庄"
+      :5:
+        name: "东营"
+      :6:
+        name: "烟台"
+      :7:
+        name: "潍坊"
+      :8:
+        name: "济宁"
+      :9:
+        name: "泰安"
+      :10:
+        name: "威海"
+      :11:
+        name: "日照"
+      :12:
+        name: "莱芜"
+      :13:
+        name: "临沂"
+      :14:
+        name: "德州"
+      :15:
+        name: "聊城"
+      :16:
+        name: "滨州"
+      :17:
+        name: "菏泽"
+    :41:
+      name: "河南"
+      :1:
+        name: "郑州"
+      :2:
+        name: "开封"
+      :3:
+        name: "洛阳"
+      :4:
+        name: "平顶山"
+      :5:
+        name: "安阳"
+      :6:
+        name: "鹤壁"
+      :7:
+        name: "新乡"
+      :8:
+        name: "焦作"
+      :9:
+        name: "濮阳"
+      :10:
+        name: "许昌"
+      :11:
+        name: "漯河"
+      :12:
+        name: "三门峡"
+      :13:
+        name: "南阳"
+      :14:
+        name: "商丘"
+      :15:
+        name: "信阳"
+      :16:
+        name: "周口"
+      :17:
+        name: "驻马店"
+      :18:
+        name: "济源"
+    :42:
+      name: "湖北"
+      :1:
+        name: "武汉"
+      :2:
+        name: "黄石"
+      :3:
+        name: "十堰"
+      :5:
+        name: "宜昌"
+      :6:
+        name: "襄阳"
+      :7:
+        name: "鄂州"
+      :8:
+        name: "荆门"
+      :9:
+        name: "孝感"
+      :10:
+        name: "荆州"
+      :11:
+        name: "黄冈"
+      :12:
+        name: "咸宁"
+      :13:
+        name: "随州"
+      :28:
+        name: "恩施"
+      :94:
+        name: "仙桃"
+      :95:
+        name: "潜江"
+      :96:
+        name: "天门"
+      A21:
+        name: "神农架"
+    :43:
+      name: "湖南"
+      :1:
+        name: "长沙"
+      :2:
+        name: "株洲"
+      :3:
+        name: "湘潭"
+      :4:
+        name: "衡阳"
+      :5:
+        name: "邵阳"
+      :6:
+        name: "岳阳"
+      :7:
+        name: "常德"
+      :8:
+        name: "张家界"
+      :9:
+        name: "益阳"
+      :10:
+        name: "郴州"
+      :11:
+        name: "永州"
+      :12:
+        name: "怀化"
+      :13:
+        name: "娄底"
+      :31:
+        name: "湘西"
+    :44:
+      name: "广东"
+      :1:
+        name: "广州"
+      :2:
+        name: "韶关"
+      :3:
+        name: "深圳"
+      :4:
+        name: "珠海"
+      :5:
+        name: "汕头"
+      :6:
+        name: "佛山"
+      :7:
+        name: "江门"
+      :8:
+        name: "湛江"
+      :9:
+        name: "茂名"
+      :12:
+        name: "肇庆"
+      :13:
+        name: "惠州"
+      :14:
+        name: "梅州"
+      :15:
+        name: "汕尾"
+      :16:
+        name: "河源"
+      :17:
+        name: "阳江"
+      :18:
+        name: "清远"
+      :19:
+        name: "东莞"
+      :20:
+        name: "中山"
+      :51:
+        name: "潮州"
+      :52:
+        name: "揭阳"
+      :53:
+        name: "云浮"
+    :45:
+      name: "广西"
+      :1:
+        name: "南宁"
+      :2:
+        name: "柳州"
+      :3:
+        name: "桂林"
+      :4:
+        name: "梧州"
+      :5:
+        name: "北海"
+      :6:
+        name: "防城港"
+      :7:
+        name: "钦州"
+      :8:
+        name: "贵港"
+      :9:
+        name: "玉林"
+      :10:
+        name: "百色"
+      :11:
+        name: "贺州"
+      :12:
+        name: "河池"
+      :13:
+        name: "来宾"
+      :14:
+        name: "崇左"
+    :46:
+      name: "海南"
+      :1:
+        name: "海口"
+      :2:
+        name: "三亚"
+      :3:
+        name: "三沙"
+      :91:
+        name: "五指山"
+      :92:
+        name: "琼海"
+      :93:
+        name: "儋州"
+      :95:
+        name: "文昌"
+      :96:
+        name: "万宁"
+      :97:
+        name: "东方"
+      A25:
+        name: "定安"
+      A26:
+        name: "屯昌"
+      A27:
+        name: "澄迈"
+      A28:
+        name: "临高"
+      A30:
+        name: "白沙"
+      A31:
+        name: "昌江"
+      A33:
+        name: "乐东"
+      A34:
+        name: "陵水"
+      A35:
+        name: "保亭"
+      A36:
+        name: "琼中"
+    :50:
+      name: "重庆"
+      :1:
+        name: "万州"
+      :2:
+        name: "涪陵"
+      :3:
+        name: "渝中"
+      :4:
+        name: "大渡口"
+      :5:
+        name: "江北"
+      :6:
+        name: "沙坪坝"
+      :7:
+        name: "九龙坡"
+      :8:
+        name: "南岸"
+      :9:
+        name: "北碚"
+      :85:
+        name: "两江新区"
+      :10:
+        name: "万盛"
+      :11:
+        name: "双桥"
+      :12:
+        name: "渝北"
+      :13:
+        name: "巴南"
+      :21:
+        name: "长寿"
+      :22:
+        name: "綦江"
+      :23:
+        name: "潼南"
+      :24:
+        name: "铜梁"
+      :25:
+        name: "大足"
+      :26:
+        name: "荣昌"
+      :27:
+        name: "璧山"
+      :28:
+        name: "梁平"
+      :29:
+        name: "城口"
+      :30:
+        name: "丰都"
+      :31:
+        name: "垫江"
+      :32:
+        name: "武隆"
+      :33:
+        name: "忠县"
+      :34:
+        name: "开县"
+      :35:
+        name: "云阳"
+      :36:
+        name: "奉节"
+      :37:
+        name: "巫山"
+      :38:
+        name: "巫溪"
+      :39:
+        name: "黔江"
+      :40:
+        name: "石柱"
+      :41:
+        name: "秀山"
+      :42:
+        name: "酉阳"
+      :43:
+        name: "彭水"
+      :81:
+        name: "江津"
+      :82:
+        name: "合川"
+      :83:
+        name: "永川"
+      :84:
+        name: "南川"
+    :51:
+      name: "四川"
+      :1:
+        name: "成都"
+      :3:
+        name: "自贡"
+      :4:
+        name: "攀枝花"
+      :5:
+        name: "泸州"
+      :6:
+        name: "德阳"
+      :7:
+        name: "绵阳"
+      :8:
+        name: "广元"
+      :9:
+        name: "遂宁"
+      :10:
+        name: "内江"
+      :11:
+        name: "乐山"
+      :13:
+        name: "南充"
+      :14:
+        name: "眉山"
+      :15:
+        name: "宜宾"
+      :16:
+        name: "广安"
+      :17:
+        name: "达州"
+      :18:
+        name: "雅安"
+      :19:
+        name: "巴中"
+      :20:
+        name: "资阳"
+      :32:
+        name: "阿坝"
+      :33:
+        name: "甘孜"
+      :34:
+        name: "凉山"
+    :52:
+      name: "贵州"
+      :1:
+        name: "贵阳"
+      :2:
+        name: "六盘水"
+      :3:
+        name: "遵义"
+      :4:
+        name: "安顺"
+      :22:
+        name: "铜仁"
+      :23:
+        name: "黔西南"
+      :24:
+        name: "毕节"
+      :26:
+        name: "黔东南"
+      :27:
+        name: "黔南"
+    :53:
+      name: "云南"
+      :1:
+        name: "昆明"
+      :3:
+        name: "曲靖"
+      :4:
+        name: "玉溪"
+      :5:
+        name: "保山"
+      :6:
+        name: "昭通"
+      :7:
+        name: "丽江"
+      :8:
+        name: "普洱"
+      :9:
+        name: "临沧"
+      :23:
+        name: "楚雄"
+      :25:
+        name: "红河"
+      :26:
+        name: "文山"
+      :28:
+        name: "西双版纳"
+      :29:
+        name: "大理"
+      :31:
+        name: "德宏"
+      :33:
+        name: "怒江"
+      :34:
+        name: "迪庆"
+    :54:
+      name: "西藏"
+      :1:
+        name: "拉萨"
+      :21:
+        name: "昌都"
+      :22:
+        name: "山南"
+      :23:
+        name: "日喀则"
+      :24:
+        name: "那曲"
+      :25:
+        name: "阿里"
+      :26:
+        name: "林芝"
+    :61:
+      name: "陕西"
+      :1:
+        name: "西安"
+      :2:
+        name: "铜川"
+      :3:
+        name: "宝鸡"
+      :4:
+        name: "咸阳"
+      :5:
+        name: "渭南"
+      :6:
+        name: "延安"
+      :7:
+        name: "汉中"
+      :8:
+        name: "榆林"
+      :9:
+        name: "安康"
+      :10:
+        name: "商洛"
+    :62:
+      name: "甘肃"
+      :1:
+        name: "兰州市"
+      :2:
+        name: "嘉峪关"
+      :3:
+        name: "金昌"
+      :4:
+        name: "白银"
+      :5:
+        name: "天水"
+      :6:
+        name: "武威"
+      :7:
+        name: "张掖"
+      :8:
+        name: "平凉"
+      :9:
+        name: "酒泉"
+      :10:
+        name: "庆阳"
+      :11:
+        name: "定西"
+      :12:
+        name: "陇南"
+      :29:
+        name: "临夏"
+      :30:
+        name: "甘南"
+    :63:
+      name: "青海"
+      :1:
+        name: "西宁"
+      :21:
+        name: "海东"
+      :22:
+        name: "海北"
+      :23:
+        name: "黄南"
+      :25:
+        name: "海南"
+      :26:
+        name: "果洛"
+      :27:
+        name: "玉树"
+      :28:
+        name: "海西"
+    :64:
+      name: "宁夏"
+      :1:
+        name: "银川"
+      :2:
+        name: "石嘴山"
+      :3:
+        name: "吴忠"
+      :4:
+        name: "固原"
+      :5:
+        name: "中卫"
+    :65:
+      name: "新疆"
+      :1:
+        name: "乌鲁木齐"
+      :2:
+        name: "克拉玛依"
+      :21:
+        name: "吐鲁番"
+      :22:
+        name: "哈密"
+      :23:
+        name: "昌吉"
+      :27:
+        name: "博尔塔拉"
+      :28:
+        name: "巴音郭楞"
+      :29:
+        name: "阿克苏"
+      :30:
+        name: "克孜勒苏"
+      :31:
+        name: "喀什"
+      :32:
+        name: "和田"
+      :40:
+        name: "伊犁"
+      :42:
+        name: "塔城"
+      :43:
+        name: "阿勒泰"
+      :91:
+        name: "石河子"
+      :92:
+        name: "阿拉尔"
+      :93:
+        name: "图木舒克"
+      :94:
+        name: "五家渠"
+      :95:
+        name: "北屯"
+    :71:
+      name: "台湾"
+      :1:
+        name: "台北市"
+      :2:
+        name: "高雄市"
+      :3:
+        name: "基隆市"
+      :4:
+        name: "台中市"
+      :5:
+        name: "台南市"
+      :6:
+        name: "新竹市"
+      :7:
+        name: "嘉义市"
+      :8:
+        name: "台北县"
+      :9:
+        name: "宜兰县"
+      :10:
+        name: "桃园县"
+      :11:
+        name: "新竹县"
+      :12:
+        name: "苗栗县"
+      :13:
+        name: "台中县"
+      :14:
+        name: "彰化县"
+      :15:
+        name: "南投县"
+      :16:
+        name: "云林县"
+      :17:
+        name: "嘉义县"
+      :18:
+        name: "台南县"
+      :19:
+        name: "高雄县"
+      :20:
+        name: "屏东县"
+      :22:
+        name: "台东县"
+      :23:
+        name: "花莲县"
+      :21:
+        name: "澎湖县"
+    :81:
+      name: "香港"
+      HCW:
+        name: "中西区"
+      HEA:
+        name: "东区"
+      KKC:
+        name: "九龙城区"
+      KKT:
+        name: "观塘区"
+      HSO:
+        name: "南区"
+      KSS:
+        name: "深水埗区"
+      KWT:
+        name: "黄大仙区"
+      HWC:
+        name: "湾仔区"
+      KYT:
+        name: "油尖旺区"
+      NIS:
+        name: "离岛区"
+      NKT:
+        name: "葵青区"
+      NNO:
+        name: "北区"
+      NSK:
+        name: "西贡区"
+      NST:
+        name: "沙田区"
+      NTM:
+        name: "屯门区"
+      NTP:
+        name: "大埔区"
+      NTW:
+        name: "荃湾区"
+      NYL:
+        name: "元朗区"
+    :82:
+      name: "澳门"
+      OLF:
+        name: "花地玛堂区"
+      ANT:
+        name: "圣安多尼堂区"
+      CAT:
+        name: "大堂区"
+      LAW:
+        name: "望德堂区"
+      LAZ:
+        name: "风顺堂区"
+      TPA:
+        name: "氹仔"
+      CLN:
+        name: "路环"
+  ALB:
+    name: "阿尔巴尼亚"
+    ALB:
+      name: "阿尔巴尼亚"
+      EL:
+        name: "爱尔巴桑"
+      DI:
+        name: "迪勃拉"
+      TR:
+        name: "地拉那"
+      DR:
+        name: "都拉斯"
+      VL:
+        name: "发罗拉"
+      FR:
+        name: "费里"
+      GJ:
+        name: "吉诺卡斯特"
+      KO:
+        name: "科尔察"
+      KU:
+        name: "库克斯"
+      LE:
+        name: "莱什"
+      BR:
+        name: "培拉特"
+      SH:
+        name: "斯库台"
+  DZA:
+    name: "阿尔及利亚"
+    DZA:
+      name: "阿尔及利亚"
+      ADR:
+        name: "阿德拉尔"
+      ALG:
+        name: "阿尔及尔"
+      ADE:
+        name: "艾因·德夫拉"
+      ATE:
+        name: "艾因·蒂姆尚特"
+      AAE:
+        name: "安纳巴"
+      ORA:
+        name: "奥兰"
+      BAT:
+        name: "巴特纳"
+      BJA:
+        name: "贝贾亚"
+      BEC:
+        name: "贝沙尔"
+      EBA:
+        name: "贝伊德"
+      BIS:
+        name: "比斯克拉"
+      BOR:
+        name: "布尔吉·布阿雷里吉"
+      BLI:
+        name: "布利达"
+      BOU:
+        name: "布迈德斯"
+      BOA:
+        name: "布依拉"
+      TIP:
+        name: "蒂巴扎"
+      TIS:
+        name: "蒂斯姆西勒特"
+      GHA:
+        name: "盖尔达耶"
+      GUE:
+        name: "盖尔马"
+      KHE:
+        name: "罕西拉"
+      REL:
+        name: "赫利赞"
+      JIJ:
+        name: "吉杰尔"
+      DJE:
+        name: "杰勒法"
+      CZL:
+        name: "君士坦丁"
+      LAG:
+        name: "拉格瓦特"
+      MUA:
+        name: "马斯卡拉"
+      MED:
+        name: "麦迪亚"
+      MIL:
+        name: "密拉"
+      MOS:
+        name: "莫斯塔加纳姆"
+      MSI:
+        name: "姆西拉"
+      NAA:
+        name: "纳阿马"
+      SET:
+        name: "塞蒂夫"
+      SAI:
+        name: "赛伊达"
+      SKI:
+        name: "斯基克达"
+      SAH:
+        name: "苏克·阿赫拉斯"
+      ETA:
+        name: "塔里夫"
+      TAM:
+        name: "塔曼拉塞特"
+      TEB:
+        name: "特贝萨"
+      TLE:
+        name: "特莱姆森"
+      IOU:
+        name: "提济乌祖"
+      TIA:
+        name: "提亚雷特"
+      TIN:
+        name: "廷杜夫"
+      EOU:
+        name: "瓦德"
+      OUA:
+        name: "瓦尔格拉"
+      OEB:
+        name: "乌姆布阿基"
+      SBA:
+        name: "西迪贝勒阿贝斯"
+      CHL:
+        name: "谢里夫"
+      ILL:
+        name: "伊利齐"
+  AFG:
+    name: "阿富汗"
+    AFG:
+      name: "阿富汗"
+      HEA:
+        name: "赫拉特"
+      KBL:
+        name: "喀布尔"
+      KDH:
+        name: "坎大哈"
+      MZR:
+        name: "马扎里沙里夫"
+  ARG:
+    name: "阿根廷"
+    ARG:
+      name: "阿根廷"
+      PRA:
+        name: "巴拉那"
+      VDM:
+        name: "别德马"
+      PSS:
+        name: "波萨达斯"
+      BHI:
+        name: "布兰卡港"
+      BUE:
+        name: "布宜诺斯艾利斯"
+      FMA:
+        name: "福莫萨"
+      JUJ:
+        name: "胡胡伊"
+      CTC:
+        name: "卡塔马卡"
+      COR:
+        name: "科尔多瓦"
+      CNQ:
+        name: "科连特斯"
+      VLK:
+        name: "克劳斯城"
+      COC:
+        name: "肯考迪娅"
+      IRJ:
+        name: "拉里奥哈"
+      LPG:
+        name: "拉普拉塔"
+      RES:
+        name: "雷西斯滕匹亚"
+      RGL:
+        name: "里奥加耶戈斯"
+      RCU:
+        name: "里奥夸尔托"
+      CRD:
+        name: "里瓦达维亚海军准将城"
+      ROS:
+        name: "罗萨里奥"
+      RWO:
+        name: "罗森"
+      MDQ:
+        name: "马德普拉塔"
+      MDZ:
+        name: "门多萨"
+      NQN:
+        name: "内乌肯"
+      SLA:
+        name: "萨尔塔"
+      SDE:
+        name: "圣地亚哥-德尔埃斯特罗"
+      SFN:
+        name: "圣菲"
+      UAQ:
+        name: "圣胡安"
+      AFA:
+        name: "圣拉斐尔"
+      LUQ:
+        name: "圣路易斯"
+      RSA:
+        name: "圣罗莎"
+      SMC:
+        name: "圣米格尔-德图库曼"
+      SNS:
+        name: "圣尼古拉斯"
+      REL:
+        name: "特雷利乌"
+      USH:
+        name: "乌斯怀亚"
+  ARE:
+    name: "阿拉伯联合酋长国"
+    ARE:
+      name: "阿拉伯联合酋长国"
+      AZ:
+        name: "阿布扎比"
+      AL:
+        name: "艾因"
+      DU:
+        name: "迪拜"
+      SH:
+        name: "沙迦"
+  ABW:
+    name: "阿鲁巴"
+    ABW:
+      name: "阿鲁巴"
+      ABW:
+        name: "阿鲁巴"
+  OMN:
+    name: "阿曼"
+    OMN:
+      name: "阿曼"
+      BA:
+        name: "巴提奈地区"
+      ZA:
+        name: "达希莱地区"
+      SH:
+        name: "东部地区"
+      MA:
+        name: "马斯喀特省"
+      MU:
+        name: "穆桑达姆省"
+      DA:
+        name: "内地地区"
+      WU:
+        name: "中部地区"
+      ZU:
+        name: "佐法尔省"
+  AZE:
+    name: "阿塞拜疆"
+    AZE:
+      name: "阿塞拜疆"
+      ABS:
+        name: "阿布歇隆"
+      XAC:
+        name: "哈奇马斯"
+      KAL:
+        name: "卡尔巴卡尔"
+      QAZ:
+        name: "卡扎赫"
+      LAN:
+        name: "连科兰"
+      MQA:
+        name: "密尔-卡拉巴赫"
+      MSA:
+        name: "穆甘-萨连"
+      NQA:
+        name: "纳戈尔诺－卡拉巴赫"
+      NX:
+        name: "纳希切万"
+      PRI:
+        name: "普利亚拉克斯"
+      SA:
+        name: "舍基"
+      SMC:
+        name: "苏姆盖特"
+      SIR:
+        name: "锡尔万"
+      GA:
+        name: "占贾"
+  ASC:
+    name: "阿森松岛"
+    ASC:
+      name: "阿森松岛"
+      ASC:
+        name: "阿森松岛"
+  EGY:
+    name: "埃及"
+    EGY:
+      name: "埃及"
+      ASW:
+        name: "阿斯旺"
+      GBY:
+        name: "古尔代盖"
+      CAI:
+        name: "开罗"
+      SKH:
+        name: "苏布拉开马"
+      ALY:
+        name: "亚历山大"
+  ETH:
+    name: "埃塞俄比亚"
+    ETH:
+      name: "埃塞俄比亚"
+      AF:
+        name: "阿法尔"
+      AH:
+        name: "阿姆哈拉"
+      OR:
+        name: "奥罗米亚"
+      BG:
+        name: "宾香古尔"
+      DD:
+        name: "德雷达瓦"
+      GB:
+        name: "甘贝拉各族"
+      HR:
+        name: "哈勒里民族"
+      SN:
+        name: "南方各族"
+      SM:
+        name: "索马里"
+      TG:
+        name: "提格雷"
+      AA:
+        name: "亚的斯亚贝巴"
+  IRL:
+    name: "爱尔兰"
+    IRL:
+      name: "爱尔兰"
+      OF:
+        name: "奥法利"
+      TP:
+        name: "蒂珀雷里"
+      DB:
+        name: "都柏林"
+      DG:
+        name: "多内加尔"
+      GW:
+        name: "戈尔韦"
+      KD:
+        name: "基尔代尔"
+      KK:
+        name: "基尔肯尼"
+      CV:
+        name: "卡范"
+      CW:
+        name: "卡洛"
+      KR:
+        name: "凯里"
+      CK:
+        name: "科克"
+      CL:
+        name: "克莱尔"
+      LF:
+        name: "朗福德"
+      LT:
+        name: "劳斯"
+      LA:
+        name: "崂斯"
+      LM:
+        name: "利默里克"
+      LR:
+        name: "利特里姆"
+      RC:
+        name: "罗斯康芒"
+      MY:
+        name: "梅奥"
+      MT:
+        name: "米斯"
+      MG:
+        name: "莫内根"
+      SL:
+        name: "斯莱戈"
+      WK:
+        name: "威克洛"
+      WX:
+        name: "韦克斯福德"
+      WF:
+        name: "沃特福德"
+      WM:
+        name: "西米斯"
+  EST:
+    name: "爱沙尼亚"
+    EST:
+      name: "爱沙尼亚"
+      :65:
+        name: "贝尔瓦"
+      :37:
+        name: "哈留"
+      :70:
+        name: "拉普拉"
+      :57:
+        name: "里亚内"
+      :67:
+        name: "帕尔努"
+      :74:
+        name: "萨雷"
+      :78:
+        name: "塔尔图"
+      :82:
+        name: "瓦尔加"
+      :84:
+        name: "维良地"
+      :59:
+        name: "维鲁"
+      :86:
+        name: "沃鲁"
+      :39:
+        name: "希尤"
+      :51:
+        name: "耶尔韦"
+      :49:
+        name: "耶盖瓦"
+      :44:
+        name: "依达－维鲁"
+  AND:
+    name: "安道尔"
+    AND:
+      name: "安道尔"
+      :7:
+        name: "安道尔城"
+      :5:
+        name: "奥尔迪诺"
+      :3:
+        name: "恩坎普"
+      :2:
+        name: "卡尼略"
+      :8:
+        name: "莱塞斯卡尔德－恩戈尔达"
+      :4:
+        name: "马萨纳"
+      :6:
+        name: "圣胡利娅－德洛里亚"
+  AGO:
+    name: "安哥拉"
+    AGO:
+      name: "安哥拉"
+      CNO:
+        name: "北宽扎"
+      LNO:
+        name: "北隆达"
+      BGO:
+        name: "本戈"
+      BGU:
+        name: "本格拉"
+      BIE:
+        name: "比耶"
+      CAB:
+        name: "卡宾达"
+      CNN:
+        name: "库内内"
+      CCU:
+        name: "宽多库邦戈"
+      LUA:
+        name: "罗安达"
+      MAL:
+        name: "马兰热"
+      MOX:
+        name: "莫希科"
+      NAM:
+        name: "纳米贝"
+      CUS:
+        name: "南宽扎"
+      LSU:
+        name: "南隆达"
+      HUA:
+        name: "万博"
+      HUI:
+        name: "威拉"
+      UIG:
+        name: "威热"
+      ZAI:
+        name: "扎伊尔"
+  AIA:
+    name: "安圭拉"
+    AIA:
+      name: "安圭拉"
+      AIA:
+        name: "安圭拉"
+  ATG:
+    name: "安提瓜岛和巴布达"
+    ATG:
+      name: "安提瓜岛和巴布达"
+      ATG:
+        name: "安提瓜岛和巴布达"
+  AUS:
+    name: "澳大利亚"
+    NT:
+      name: "北部地区"
+      PAL:
+        name: "北帕默斯顿"
+      DRW:
+        name: "达尔文"
+    ACT:
+      name: "堪培拉"
+      CBR:
+        name: "堪培拉"
+    QLD:
+      name: "昆士兰"
+      BNE:
+        name: "布里斯班"
+      OOL:
+        name: "黄金海岸"
+      CNS:
+        name: "凯恩斯"
+      CUD:
+        name: "日光海岸"
+      TSV:
+        name: "汤斯维尔"
+      TWB:
+        name: "图文巴"
+    SA:
+      name: "南澳大利亚"
+      ADL:
+        name: "阿德莱德"
+      PUG:
+        name: "奥古斯塔港"
+      MGB:
+        name: "甘比亚山"
+      WAY:
+        name: "怀阿拉"
+      PLO:
+        name: "林肯港"
+      MYB:
+        name: "默里布里奇"
+      PPI:
+        name: "皮里港"
+      VHA:
+        name: "维克托港"
+    TAS:
+      name: "塔斯马尼亚"
+      BWT:
+        name: "伯尼港"
+      DPO:
+        name: "德文波特"
+      HBA:
+        name: "霍巴特"
+      LST:
+        name: "朗塞斯顿"
+    VIC:
+      name: "维多利亚"
+      GEX:
+        name: "吉朗"
+      MEL:
+        name: "墨尔本"
+    WA:
+      name: "西澳大利亚"
+      ALH:
+        name: "奥尔巴尼"
+      BUY:
+        name: "班伯里"
+      FRE:
+        name: "弗里曼特尔港"
+      GET:
+        name: "杰拉尔顿"
+      KGI:
+        name: "卡尔古利"
+      MDU:
+        name: "曼哲拉"
+      PER:
+        name: "珀斯"
+    NSW:
+      name: "新南威尔士"
+      NTL:
+        name: "纽卡斯尔"
+      WOL:
+        name: "伍伦贡"
+      HBS:
+        name: "悉尼"
+  AUT:
+    name: "奥地利"
+    AUT:
+      name: "奥地利"
+      BUR:
+        name: "布尔根兰"
+      TYR:
+        name: "蒂罗尔"
+      VOR:
+        name: "福拉尔贝格"
+      CAT:
+        name: "克恩顿"
+      SZG:
+        name: "萨尔茨堡"
+      UAU:
+        name: "上奥地利"
+      STY:
+        name: "施蒂利亚"
+      VDD:
+        name: "维也纳"
+      LAU:
+        name: "下奥地利"
+  ALA:
+    name: "奥兰群岛"
+    ALA:
+      name: "奥兰群岛"
+      ALA:
+        name: "奥兰群岛"
+  BRB:
+    name: "巴巴多斯岛"
+    BRB:
+      name: "巴巴多斯岛"
+      BRB:
+        name: "巴巴多斯岛"
+  PNG:
+    name: "巴布亚新几内亚"
+    PNG:
+      name: "巴布亚新几内亚"
+      NO:
+        name: "北部"
+      BV:
+        name: "布干维尔"
+      EH:
+        name: "东部高地"
+      ES:
+        name: "东塞皮克"
+      EB:
+        name: "东新不列颠"
+      EN:
+        name: "恩加"
+      GU:
+        name: "海湾"
+      MD:
+        name: "马当"
+      MN:
+        name: "马努斯"
+      MB:
+        name: "米尔恩湾"
+      NC:
+        name: "莫尔兹比港"
+      MR:
+        name: "莫罗贝"
+      SH:
+        name: "南部高地"
+      SI:
+        name: "钦布"
+      SA:
+        name: "桑道恩"
+      WE:
+        name: "西部"
+      WH:
+        name: "西部高地"
+      WB:
+        name: "西新不列颠"
+      NI:
+        name: "新爱尔兰"
+  BHS:
+    name: "巴哈马"
+    BHS:
+      name: "巴哈马"
+      BHS:
+        name: "巴哈马"
+  PAK:
+    name: "巴基斯坦"
+    PAK:
+      name: "巴基斯坦"
+      PEW:
+        name: "白沙瓦"
+      LYP:
+        name: "费萨拉巴德"
+      GUJ:
+        name: "故吉软瓦拉"
+      HDD:
+        name: "海德拉巴"
+      KCT:
+        name: "卡拉奇"
+      LHE:
+        name: "拉合尔"
+      RWP:
+        name: "拉瓦尔品第"
+      MUX:
+        name: "木尔坦"
+      ISB:
+        name: "伊斯兰堡"
+  PRY:
+    name: "巴拉圭"
+    PRY:
+      name: "巴拉圭"
+      AM:
+        name: "阿曼拜"
+      PH:
+        name: "阿耶斯总统省"
+      PA:
+        name: "巴拉瓜里"
+      BO:
+        name: "博克龙"
+      GU:
+        name: "瓜伊拉"
+      CG:
+        name: "卡瓜苏"
+      CN:
+        name: "卡嫩迪尤"
+      CZ:
+        name: "卡萨帕"
+      CC:
+        name: "康塞普西翁"
+      CD:
+        name: "科迪勒拉"
+      MI:
+        name: "米西奥内斯"
+      NE:
+        name: "涅恩布库"
+      AG:
+        name: "上巴拉圭"
+      AN:
+        name: "上巴拉那"
+      SP:
+        name: "圣佩德罗"
+      AS:
+        name: "亚松森特别区"
+      IT:
+        name: "伊塔普亚"
+      CE:
+        name: "中央"
+  PSE:
+    name: "巴勒斯坦"
+    PSE:
+      name: "巴勒斯坦"
+      GZ:
+        name: "加沙地带"
+      WE:
+        name: "西岸"
+  BHR:
+    name: "巴林"
+    BHR:
+      name: "巴林"
+      :5:
+        name: "北部"
+      :1:
+        name: "哈德"
+      :12:
+        name: "哈马德"
+      :9:
+        name: "里法"
+      :3:
+        name: "麦纳麦"
+      :2:
+        name: "穆哈拉格"
+      :10:
+        name: "西部"
+      :8:
+        name: "伊萨城"
+      :7:
+        name: "中部"
+  PAN:
+    name: "巴拿马"
+    PAN:
+      name: "巴拿马"
+      PAN:
+        name: "巴拿马"
+  BRA:
+    name: "巴西"
+    BRA:
+      name: "巴西"
+      AC:
+        name: "阿克里"
+      AL:
+        name: "阿拉戈斯"
+      AP:
+        name: "阿马帕"
+      PR:
+        name: "巴拉那"
+      BSB:
+        name: "巴西利亚"
+      BA:
+        name: "巴伊亚"
+      RN:
+        name: "北里奥格兰德"
+      PE:
+        name: "伯南布哥"
+      GO:
+        name: "戈亚斯"
+      RO:
+        name: "朗多尼亚"
+      RJ:
+        name: "里约热内卢"
+      RR:
+        name: "罗赖马"
+      MA:
+        name: "马拉尼昂"
+      MT:
+        name: "马托格罗索"
+      MG:
+        name: "米纳斯吉拉斯"
+      RS:
+        name: "南里奥格兰德"
+      MS:
+        name: "南马托格罗索"
+      PA:
+        name: "帕拉"
+      PB:
+        name: "帕拉伊巴"
+      PI:
+        name: "皮奥伊"
+      CE:
+        name: "塞阿拉"
+      SE:
+        name: "塞尔希培"
+      ES:
+        name: "圣埃斯皮里图"
+      SP:
+        name: "圣保罗"
+      SC:
+        name: "圣卡塔琳娜"
+      TO:
+        name: "托坎廷斯"
+      AM:
+        name: "亚马孙"
+  BLR:
+    name: "白俄罗斯"
+    BLR:
+      name: "白俄罗斯"
+      BR:
+        name: "布列斯特"
+      HO:
+        name: "戈梅利"
+      HR:
+        name: "格罗德诺"
+      MI:
+        name: "明斯克市"
+      MA:
+        name: "莫吉廖夫"
+      VI:
+        name: "维捷布斯克"
+  BMU:
+    name: "百慕大"
+    BMU:
+      name: "百慕大"
+      BMU:
+        name: "百慕大"
+  BGR:
+    name: "保加利亚"
+    BGR:
+      name: "保加利亚"
+      BOJ:
+        name: "布尔加斯"
+      KHO:
+        name: "卡斯科伏"
+      ROU:
+        name: "鲁塞"
+      LVP:
+        name: "洛维奇"
+      OZA:
+        name: "蒙塔纳"
+      PDV:
+        name: "普罗夫迪夫"
+      SOF:
+        name: "索非亚"
+      GSO:
+        name: "索非亚市"
+      VAR:
+        name: "瓦尔纳"
+  MNP:
+    name: "北马里亚纳群岛"
+    MNP:
+      name: "北马里亚纳群岛"
+      MNP:
+        name: "北马里亚纳群岛"
+  BEN:
+    name: "贝宁"
+    BEN:
+      name: "贝宁"
+      AL:
+        name: "阿黎博里"
+      AK:
+        name: "阿塔科拉"
+      LI:
+        name: "滨海"
+      BOH:
+        name: "波希康市"
+      BO:
+        name: "博尔古"
+      AQ:
+        name: "大西洋"
+      PL:
+        name: "高原"
+      KO:
+        name: "库福"
+      MO:
+        name: "莫诺"
+      CO:
+        name: "丘陵"
+      OU:
+        name: "韦梅"
+      DO:
+        name: "峡谷"
+      ZO:
+        name: "祖"
+  BEL:
+    name: "比利时"
+    BEL:
+      name: "比利时"
+      WHT:
+        name: "埃诺"
+      VAN:
+        name: "安特卫普"
+      WBR:
+        name: "布拉班特-瓦隆"
+      BRU:
+        name: "布鲁塞尔"
+      VOV:
+        name: "东佛兰德"
+      VBR:
+        name: "佛兰芒-布拉班特"
+      WLG:
+        name: "列日"
+      VLI:
+        name: "林堡"
+      WLX:
+        name: "卢森堡"
+      WNA:
+        name: "那慕尔"
+      VWV:
+        name: "西佛兰德"
+  ISL:
+    name: "冰岛"
+    ISL:
+      name: "冰岛"
+      ISL:
+        name: "冰岛"
+  PRI:
+    name: "波多黎各"
+    PRI:
+      name: "波多黎各"
+      PRI:
+        name: "波多黎各"
+  POL:
+    name: "波兰"
+    POL:
+      name: "波兰"
+      ELB:
+        name: "埃尔布隆格"
+      OLS:
+        name: "奥尔什丁"
+      OSS:
+        name: "奥斯特罗文卡"
+      BZG:
+        name: "比得哥什"
+      PIO:
+        name: "彼得库夫"
+      BYT:
+        name: "比托姆"
+      BAP:
+        name: "比亚瓦波德拉斯卡"
+      BIA:
+        name: "比亚维斯托克"
+      OPO:
+        name: "波莱"
+      POZ:
+        name: "波兹南"
+      DAB:
+        name: "达布罗瓦戈尼察"
+      GOW:
+        name: "大波兰地区戈茹夫"
+      WRO:
+        name: "弗罗茨瓦夫"
+      WLO:
+        name: "弗沃茨瓦韦克"
+      GDN:
+        name: "格但斯克"
+      GDY:
+        name: "格丁尼亚"
+      GWC:
+        name: "格利维采"
+      GRU:
+        name: "格鲁琼兹"
+      CHO:
+        name: "海乌姆"
+      WAW:
+        name: "华沙"
+      CHZ:
+        name: "霍茹夫"
+      KAL:
+        name: "卡利什"
+      KTW:
+        name: "卡托维兹"
+      KLC:
+        name: "凯尔采"
+      KON:
+        name: "科宁"
+      OSZ:
+        name: "科沙林"
+      KRK:
+        name: "克拉科夫"
+      KRO:
+        name: "克罗斯诺"
+      RDM:
+        name: "拉多姆"
+      LEG:
+        name: "莱格尼察"
+      LEZ:
+        name: "莱什诺"
+      LUL:
+        name: "卢布林"
+      RDS:
+        name: "鲁达"
+      LOD:
+        name: "罗兹"
+      IEG:
+        name: "绿山城"
+      MYL:
+        name: "米什洛维采"
+      PIL:
+        name: "皮瓦"
+      PRZ:
+        name: "普热梅希尔"
+      PLO:
+        name: "普沃茨克"
+      CIE:
+        name: "切哈努夫"
+      RZE:
+        name: "热舒夫"
+      SZZ:
+        name: "什切青"
+      SKI:
+        name: "斯凯尔涅维采"
+      SLP:
+        name: "斯武普斯克"
+      SWL:
+        name: "苏瓦乌基"
+      SOP:
+        name: "索波特"
+      SWC:
+        name: "索斯诺维茨"
+      TAR:
+        name: "塔尔努夫"
+      QEP:
+        name: "塔尔诺布热格"
+      TYY:
+        name: "特切"
+      TOR:
+        name: "托伦"
+      WZH:
+        name: "瓦乌布日赫"
+      QOY:
+        name: "沃姆扎"
+      SOW:
+        name: "希米亚诺维采"
+      SWI:
+        name: "希维诺乌伊希切"
+      SWT:
+        name: "希维托赫洛维采"
+      SDC:
+        name: "谢德尔采"
+      SIR:
+        name: "谢拉兹"
+      NOW:
+        name: "新松奇"
+      JAW:
+        name: "雅沃兹诺"
+      JEG:
+        name: "耶莱尼亚古拉"
+      ZAB:
+        name: "扎布热"
+      ZAM:
+        name: "扎莫希奇"
+  BOL:
+    name: "玻利维亚"
+    BOL:
+      name: "玻利维亚"
+      ALT:
+        name: "奥尔托"
+      ORU:
+        name: "奥鲁罗"
+      BEN:
+        name: "贝尼"
+      POI:
+        name: "波多西"
+      QUI:
+        name: "基拉科洛"
+      CBB:
+        name: "科恰班巴"
+      LPB:
+        name: "拉巴斯"
+      PAN:
+        name: "潘多"
+      CHU:
+        name: "丘基萨卡"
+      SAC:
+        name: "萨卡巴"
+      SRZ:
+        name: "圣克鲁斯"
+      TJA:
+        name: "塔里哈"
+  BIH:
+    name: "波斯尼亚和黑塞哥维那"
+    BIH:
+      name: "波斯尼亚和黑塞哥维那"
+      FPO:
+        name: "波萨维纳"
+      FBP:
+        name: "波斯尼亚－波德里涅"
+      FTO:
+        name: "多米斯拉夫格勒"
+      FHN:
+        name: "黑塞哥维那－涅雷特瓦"
+      FSA:
+        name: "萨拉热窝"
+      FTU:
+        name: "图兹拉－波德里涅"
+      FUS:
+        name: "乌纳－萨纳"
+      FHB:
+        name: "西波斯尼亚"
+      FZH:
+        name: "西黑塞哥维那"
+      FZE:
+        name: "泽尼察－多博伊"
+      FSB:
+        name: "中波斯尼亚"
+  BWA:
+    name: "博茨瓦纳"
+    BWA:
+      name: "博茨瓦纳"
+      BWA:
+        name: "博茨瓦纳"
+  BLZ:
+    name: "伯利兹"
+    BLZ:
+      name: "伯利兹"
+      BZ:
+        name: "伯利兹"
+      OW:
+        name: "橘园"
+      CY:
+        name: "卡约"
+      CR:
+        name: "科罗萨尔"
+      SC:
+        name: "斯坦港"
+      TO:
+        name: "托莱多"
+  BTN:
+    name: "不丹"
+    BTN:
+      name: "不丹"
+      BTN:
+        name: "不丹"
+  BFA:
+    name: "布基纳法索"
+    BFA:
+      name: "布基纳法索"
+      BAL:
+        name: "巴雷"
+      BAM:
+        name: "巴姆"
+      BAN:
+        name: "巴瓦"
+      BAZ:
+        name: "巴泽加"
+      PON:
+        name: "波尼"
+      BLG:
+        name: "布尔古"
+      BOK:
+        name: "布尔基恩德"
+      BOR:
+        name: "布古里巴"
+      GAN:
+        name: "冈祖尔古"
+      GOU:
+        name: "古尔马"
+      ZIR:
+        name: "济罗"
+      KAD:
+        name: "卡焦戈"
+      KEN:
+        name: "凯内杜古"
+      KOO:
+        name: "科蒙加里"
+      COM:
+        name: "科莫埃"
+      KOP:
+        name: "孔皮恩加"
+      KOS:
+        name: "孔西"
+      KOL:
+        name: "库尔佩罗戈"
+      KOW:
+        name: "库尔维奥戈"
+      KOT:
+        name: "库里滕加"
+      LER:
+        name: "雷拉巴"
+      LOR:
+        name: "罗卢姆"
+      MOU:
+        name: "穆翁"
+      NAM:
+        name: "纳门滕加"
+      NAH:
+        name: "纳乌里"
+      NAY:
+        name: "纳亚拉"
+      GNA:
+        name: "尼亚尼亚"
+      NOU:
+        name: "努姆比埃尔"
+      PAS:
+        name: "帕索雷"
+      SEN:
+        name: "塞诺"
+      SAG:
+        name: "桑吉"
+      SAM:
+        name: "桑马滕加"
+      SOR:
+        name: "苏鲁"
+      SOM:
+        name: "苏姆"
+      TAP:
+        name: "塔波阿"
+      TUY:
+        name: "图伊"
+      HOU:
+        name: "乌埃"
+      OUB:
+        name: "乌布里滕加"
+      OUD:
+        name: "乌达兰"
+      SIS:
+        name: "锡西里"
+      YAG:
+        name: "亚加"
+      YAT:
+        name: "亚滕加"
+      IOA:
+        name: "伊奥巴"
+      ZOW:
+        name: "宗德韦奥戈"
+      ZOD:
+        name: "宗多马"
+  BDI:
+    name: "布隆迪"
+    BDI:
+      name: "布隆迪"
+      BB:
+        name: "布班扎"
+      BR:
+        name: "布鲁里"
+      BM:
+        name: "布琼布拉城市"
+      BU:
+        name: "布琼布拉乡村"
+      NG:
+        name: "恩戈齐"
+      KI:
+        name: "基龙多"
+      GI:
+        name: "基特加"
+      KR:
+        name: "卡鲁济"
+      KY:
+        name: "卡扬扎"
+      CA:
+        name: "坎库佐"
+      RT:
+        name: "鲁塔纳"
+      RY:
+        name: "鲁伊吉"
+      MA:
+        name: "马坎巴"
+      MU:
+        name: "穆拉姆维亚"
+      MW:
+        name: "穆瓦洛"
+      MY:
+        name: "穆因加"
+      CI:
+        name: "锡比托凯"
+  BVT:
+    name: "布韦岛"
+    BVT:
+      name: "布韦岛"
+      BVT:
+        name: "布韦岛"
+  PRK:
+    name: "朝鲜"
+    PRK:
+      name: "朝鲜"
+      HAE:
+        name: "海州"
+      HYE:
+        name: "惠山"
+      KAN:
+        name: "江界"
+      KSN:
+        name: "开城"
+      NAS:
+        name: "罗先"
+      NAM:
+        name: "南浦"
+      FNJ:
+        name: "平壤"
+      CHO:
+        name: "清津"
+      SAR:
+        name: "沙里院"
+      HAM:
+        name: "咸兴"
+      SII:
+        name: "新义州"
+      WON:
+        name: "元山"
+  DNK:
+    name: "丹麦"
+    DNK:
+      name: "丹麦"
+      AR:
+        name: "奥胡斯"
+      VSV:
+        name: "北日德兰"
+      BO:
+        name: "博恩霍尔姆"
+      FRE:
+        name: "菲特烈堡"
+      FY:
+        name: "菲茵"
+      CPH:
+        name: "哥本哈根"
+      RIB:
+        name: "里伯"
+      RKG:
+        name: "灵克宾"
+      RKE:
+        name: "罗斯基勒"
+      VBI:
+        name: "南日德兰"
+      ST:
+        name: "斯多斯特姆"
+      VIB:
+        name: "维堡"
+      VEJ:
+        name: "维厄勒"
+      VS:
+        name: "西希兰"
+  DEU:
+    name: "德国"
+    DEU:
+      name: "德国"
+      ARN:
+        name: "阿恩斯贝格"
+      ERF:
+        name: "爱尔福特"
+      ANS:
+        name: "安斯巴格"
+      AGB:
+        name: "奥格斯堡"
+      BE:
+        name: "柏林"
+      BYU:
+        name: "拜伊罗特"
+      BFE:
+        name: "比勒费尔德"
+      POT:
+        name: "波茨坦"
+      BOM:
+        name: "波鸿"
+      HB:
+        name: "不来梅"
+      BRW:
+        name: "不伦瑞克"
+      DAR:
+        name: "达姆施塔特"
+      DET:
+        name: "代特莫尔特"
+      DRS:
+        name: "德累斯顿"
+      DES:
+        name: "德绍"
+      DUS:
+        name: "杜塞尔多夫"
+      FFO:
+        name: "法兰克福"
+      FBG:
+        name: "弗赖堡"
+      HAE:
+        name: "哈雷"
+      HH:
+        name: "汉堡"
+      HAJ:
+        name: "汉诺威"
+      KEL:
+        name: "基尔"
+      GBN:
+        name: "吉森"
+      KAE:
+        name: "卡尔斯鲁厄"
+      KAS:
+        name: "卡塞尔"
+      CHE:
+        name: "开姆尼斯"
+      KOB:
+        name: "科布伦次"
+      CGN:
+        name: "科隆"
+      LEJ:
+        name: "莱比锡"
+      LDH:
+        name: "兰茨胡特"
+      LBG:
+        name: "吕讷堡"
+      MAG:
+        name: "马格德堡"
+      MHG:
+        name: "曼海姆"
+      MAI:
+        name: "美因兹"
+      MUN:
+        name: "明斯特"
+      MUC:
+        name: "慕尼黑"
+      NUE:
+        name: "纽伦堡"
+      SWH:
+        name: "什未林"
+      STR:
+        name: "斯图加特"
+      TRI:
+        name: "特里尔"
+      WIB:
+        name: "威斯巴登"
+      WUG:
+        name: "维尔茨堡"
+  TLS:
+    name: "东帝汶"
+    TLS:
+      name: "东帝汶"
+      AL:
+        name: "阿伊莱乌"
+      AN:
+        name: "阿伊纳罗"
+      ER:
+        name: "埃尔梅拉"
+      AM:
+        name: "安贝诺"
+      BA:
+        name: "包考"
+      BO:
+        name: "博博纳罗"
+      DI:
+        name: "帝力"
+      KO:
+        name: "科瓦利马"
+      LA:
+        name: "劳滕"
+      LI:
+        name: "利基卡"
+      MT:
+        name: "马纳图托"
+      MF:
+        name: "马努法伊"
+      VI:
+        name: "维克克"
+  TGO:
+    name: "多哥"
+    TGO:
+      name: "多哥"
+      M:
+        name: "滨海区"
+      S:
+        name: "草原区"
+      P:
+        name: "高原区"
+      K:
+        name: "卡拉区"
+      C:
+        name: "中部区"
+  DMA:
+    name: "多米尼加"
+    DMA:
+      name: "多米尼加"
+      DMA:
+        name: "多米尼加"
+  DOM:
+    name: "多米尼加共和国"
+    DOM:
+      name: "多米尼加共和国"
+      DOM:
+        name: "多米尼加共和国"
+  RUS:
+    name: "俄罗斯"
+    RUS:
+      name: "俄罗斯"
+      ABA:
+        name: "阿巴坎"
+      ARK:
+        name: "阿尔汉格尔斯克"
+      AGI:
+        name: "阿金斯科耶"
+      DYR:
+        name: "阿纳德尔"
+      AST:
+        name: "阿斯特拉罕"
+      ESL:
+        name: "埃利斯塔"
+      ORL:
+        name: "奥廖尔"
+      ORE:
+        name: "奥伦堡"
+      BAX:
+        name: "巴尔瑙尔"
+      PNZ:
+        name: "奔萨"
+      PKC:
+        name: "彼得罗巴甫洛夫斯克"
+      PES:
+        name: "彼得罗扎沃茨克"
+      PER:
+        name: "彼尔姆"
+      BBZ:
+        name: "比罗比詹"
+      BEL:
+        name: "别尔哥罗德"
+      COK:
+        name: "伯力"
+      BQS:
+        name: "布拉戈维申斯克"
+      BRY:
+        name: "布良斯克"
+      CHE:
+        name: "车里雅宾斯克"
+      CHI:
+        name: "赤塔"
+      ROS:
+        name: "顿河畔罗斯托夫"
+      OMS:
+        name: "鄂木斯克"
+      VOG:
+        name: "伏尔加格勒"
+      VMR:
+        name: "弗拉基米尔"
+      VLA:
+        name: "弗拉季高加索"
+      GOA:
+        name: "戈尔诺－阿尔泰斯克"
+      GRV:
+        name: "格罗兹尼"
+      VVO:
+        name: "海参崴"
+      KHM:
+        name: "汉特－曼西斯克"
+      KIR:
+        name: "基洛夫"
+      KGD:
+        name: "加里宁格勒"
+      KZN:
+        name: "喀山"
+      KLF:
+        name: "卡卢加"
+      KOS:
+        name: "科斯特罗马"
+      KRR:
+        name: "克拉斯诺达尔"
+      KYA:
+        name: "克拉斯诺亚尔斯克"
+      KEM:
+        name: "克麦罗沃"
+      KYZ:
+        name: "克孜勒"
+      KUD:
+        name: "库德姆卡尔"
+      KRO:
+        name: "库尔干"
+      URS:
+        name: "库尔斯克"
+      LIP:
+        name: "利佩茨克"
+      RYA:
+        name: "梁赞"
+      MCX:
+        name: "马哈奇卡拉"
+      MAG:
+        name: "马加丹"
+      IN:
+        name: "马加斯"
+      MAY:
+        name: "迈科普"
+      MMK:
+        name: "摩尔曼斯克"
+      MOW:
+        name: "莫斯科"
+      NAL:
+        name: "纳尔奇克"
+      NNM:
+        name: "纳里扬马尔"
+      JSA:
+        name: "南萨哈林斯克"
+      VUS:
+        name: "诺夫哥罗德"
+      PAL:
+        name: "帕拉纳"
+      PSK:
+        name: "普斯科夫"
+      CSY:
+        name: "切博克萨雷"
+      CKS:
+        name: "切尔克斯克"
+      TYU:
+        name: "秋明"
+      SAR:
+        name: "萨拉托夫"
+      SKX:
+        name: "萨兰斯克"
+      SLY:
+        name: "萨列哈尔德"
+      SAM:
+        name: "萨马拉"
+      SCW:
+        name: "瑟克特夫卡尔"
+      SPE:
+        name: "圣彼得堡"
+      LNX:
+        name: "斯摩棱斯克"
+      STA:
+        name: "斯塔夫罗波尔"
+      TAM:
+        name: "坦波夫"
+      TVE:
+        name: "特维尔"
+      TUL:
+        name: "图拉"
+      TOM:
+        name: "托木斯克"
+      VOR:
+        name: "沃罗涅什"
+      VLG:
+        name: "沃洛格达"
+      UFA:
+        name: "乌法"
+      UUD:
+        name: "乌兰乌德"
+      ULY:
+        name: "乌里扬诺夫斯克"
+      UOB:
+        name: "乌斯季奥尔登斯基"
+      GOJ:
+        name: "下诺夫哥罗德"
+      NVS:
+        name: "新西伯利亚"
+      JAK:
+        name: "雅库茨克"
+      JAR:
+        name: "雅罗斯拉夫尔"
+      JEK:
+        name: "叶卡捷林堡"
+      IKT:
+        name: "伊尔库茨克"
+      IJK:
+        name: "伊热夫斯克"
+      IVO:
+        name: "伊万诺沃"
+      YOL:
+        name: "约什卡尔奥拉"
+  ECU:
+    name: "厄瓜多尔"
+    ECU:
+      name: "厄瓜多尔"
+      A:
+        name: "阿苏艾"
+      O:
+        name: "埃尔奥罗"
+      E:
+        name: "埃斯梅拉尔达斯"
+      B:
+        name: "玻利瓦尔"
+      G:
+        name: "瓜亚斯"
+      W:
+        name: "加拉帕戈斯"
+      C:
+        name: "卡尔奇"
+      F:
+        name: "卡尼亚尔"
+      X:
+        name: "科托帕希"
+      L:
+        name: "洛哈"
+      R:
+        name: "洛斯里奥斯"
+      M:
+        name: "马纳比"
+      S:
+        name: "莫罗纳－圣地亚哥"
+      D:
+        name: "纳波，奥雷利亚纳"
+      Y:
+        name: "帕斯塔萨"
+      P:
+        name: "皮钦查"
+      H:
+        name: "钦博拉索"
+      Z:
+        name: "萨莫拉－钦奇佩"
+      U:
+        name: "苏昆毕奥斯"
+      T:
+        name: "通古拉瓦"
+      I:
+        name: "因巴布拉"
+  ERI:
+    name: "厄立特里亚"
+    ERI:
+      name: "厄立特里亚"
+      KE:
+        name: "安塞巴"
+      SK:
+        name: "北红海"
+      BR:
+        name: "加什·巴尔卡"
+      DE:
+        name: "南部"
+      DK:
+        name: "南红海"
+      MA:
+        name: "中部"
+  FRA:
+    name: "法国"
+    FRA:
+      name: "法国"
+      ARL:
+        name: "阿尔勒"
+      AJA:
+        name: "阿雅克修"
+      QXB:
+        name: "艾克斯"
+      ORR:
+        name: "奥尔良"
+      PAR:
+        name: "巴黎"
+      BSN:
+        name: "贝桑松"
+      DIJ:
+        name: "第戎"
+      FRJ:
+        name: "弗雷瑞斯"
+      CFR:
+        name: "卡昂"
+      RNS:
+        name: "雷恩"
+      LIO:
+        name: "里昂"
+      LLE:
+        name: "里尔"
+      LIG:
+        name: "利摩日"
+      URO:
+        name: "鲁昂"
+      MRS:
+        name: "马赛"
+      MZM:
+        name: "梅斯"
+      MPL:
+        name: "蒙彼利埃"
+      NTE:
+        name: "南特"
+      NCE:
+        name: "尼斯"
+      CSM:
+        name: "沙隆"
+      TLS:
+        name: "图卢兹"
+      VAA:
+        name: "瓦朗斯"
+      AMI:
+        name: "亚眠"
+  FRO:
+    name: "法罗群岛"
+    FRO:
+      name: "法罗群岛"
+      FRO:
+        name: "法罗群岛"
+  PYF:
+    name: "法属波利尼西亚"
+    PYF:
+      name: "法属波利尼西亚"
+      PYF:
+        name: "法属波利尼西亚"
+  GUF:
+    name: "法属圭亚那"
+    GUF:
+      name: "法属圭亚那"
+      GUF:
+        name: "法属圭亚那"
+  ATF:
+    name: "法属南部领地"
+    ATF:
+      name: "法属南部领地"
+      ATF:
+        name: "法属南部领地"
+  VAT:
+    name: "梵蒂冈"
+    VAT:
+      name: "梵蒂冈"
+      VAT:
+        name: "梵蒂冈"
+  PHL:
+    name: "菲律宾"
+    PHL:
+      name: "菲律宾"
+      DOR:
+        name: "达沃"
+      CAO:
+        name: "卡卢坎"
+      MNL:
+        name: "马尼拉"
+      CEB:
+        name: "宿务"
+  FJI:
+    name: "斐济"
+    FJI:
+      name: "斐济"
+      FJI:
+        name: "斐济"
+  FIN:
+    name: "芬兰"
+    FIN:
+      name: "芬兰"
+      ESP:
+        name: "埃斯波"
+      OLU:
+        name: "奥卢"
+      POR:
+        name: "波里"
+      PRV:
+        name: "博尔沃"
+      HMY:
+        name: "海门林纳"
+      HEL:
+        name: "赫尔辛基"
+      KAJ:
+        name: "卡亚尼"
+      KOK:
+        name: "科科拉"
+      KTK:
+        name: "科特卡"
+      KUO:
+        name: "库奥皮奥"
+      LHI:
+        name: "拉赫蒂"
+      LPP:
+        name: "拉彭兰塔"
+      RVN:
+        name: "罗瓦涅米"
+      MHQ:
+        name: "玛丽港"
+      MIK:
+        name: "米凯利"
+      TMP:
+        name: "坦佩雷"
+      TKU:
+        name: "图尔库"
+      VAA:
+        name: "瓦萨"
+      VAT:
+        name: "万塔"
+      JOE:
+        name: "约恩苏"
+  CPV:
+    name: "佛得角"
+    CPV:
+      name: "佛得角"
+      PA:
+        name: "保尔"
+      PN:
+        name: "波多诺伏"
+      BV:
+        name: "博阿维斯塔岛"
+      BR:
+        name: "布拉瓦岛"
+      RG:
+        name: "大里贝拉"
+      FO:
+        name: "福古岛"
+      MA:
+        name: "马尤岛"
+      MO:
+        name: "莫斯特罗"
+      PR:
+        name: "普拉亚"
+      SL:
+        name: "萨尔岛"
+      SA:
+        name: "圣安唐岛"
+      IA:
+        name: "圣地亚哥岛"
+      SD:
+        name: "圣多明戈"
+      SF:
+        name: "圣菲利普"
+      CA:
+        name: "圣卡塔琳娜"
+      CR:
+        name: "圣克鲁斯"
+      SM:
+        name: "圣米戈尔"
+      SN:
+        name: "圣尼古拉岛"
+      SV:
+        name: "圣维森特岛"
+      TA:
+        name: "塔拉法尔"
+  FLK:
+    name: "弗兰克群岛"
+    FLK:
+      name: "弗兰克群岛"
+      FLK:
+        name: "弗兰克群岛"
+  GMB:
+    name: "冈比亚"
+    GMB:
+      name: "冈比亚"
+      GMB:
+        name: "冈比亚"
+  COG:
+    name: "刚果"
+    COG:
+      name: "刚果"
+      COG:
+        name: "刚果"
+  COD:
+    name: "刚果民主共和国"
+    COD:
+      name: "刚果民主共和国"
+      COD:
+        name: "刚果民主共和国"
+  COL:
+    name: "哥伦比亚"
+    COL:
+      name: "哥伦比亚"
+      ARA:
+        name: "阿劳卡"
+      ANT:
+        name: "安提奥基亚"
+      NDS:
+        name: "北桑坦德"
+      BDC:
+        name: "波哥大首都区"
+      BOL:
+        name: "博利瓦尔"
+      BOY:
+        name: "博亚卡"
+      ATL:
+        name: "大西洋"
+      GVR:
+        name: "瓜维亚雷"
+      GJR:
+        name: "瓜希拉"
+      GNA:
+        name: "瓜伊尼亚"
+      QUI:
+        name: "金迪奥"
+      CAL:
+        name: "卡尔达斯"
+      CAQ:
+        name: "卡克塔"
+      CAS:
+        name: "卡萨纳雷"
+      CAU:
+        name: "考卡"
+      VDC:
+        name: "考卡山谷"
+      COR:
+        name: "科尔多巴"
+      CAM:
+        name: "昆迪纳马卡"
+      RIS:
+        name: "利萨拉尔达"
+      MAG:
+        name: "马格达雷那"
+      MET:
+        name: "梅塔"
+      NAR:
+        name: "纳里尼奥"
+      PUT:
+        name: "普图马约"
+      CHO:
+        name: "乔科"
+      CES:
+        name: "塞萨尔"
+      SAN:
+        name: "桑坦德"
+      SAP:
+        name: "圣安德烈斯-普罗维登西亚"
+      SUC:
+        name: "苏克雷"
+      TOL:
+        name: "托利马"
+      VIC:
+        name: "维查达"
+      VAU:
+        name: "沃佩斯"
+      HUI:
+        name: "乌伊拉"
+      AMZ:
+        name: "亚马孙"
+  CRI:
+    name: "哥斯达黎加"
+    CRI:
+      name: "哥斯达黎加"
+      A:
+        name: "阿拉胡埃拉"
+      H:
+        name: "埃雷迪亚"
+      G:
+        name: "瓜纳卡斯特"
+      C:
+        name: "卡塔戈"
+      L:
+        name: "利蒙"
+      P:
+        name: "蓬塔雷纳斯"
+      SJ:
+        name: "圣何塞"
+  GGY:
+    name: "格恩西岛"
+    GGY:
+      name: "格恩西岛"
+      GGY:
+        name: "格恩西岛"
+  GRD:
+    name: "格林纳达"
+    GRD:
+      name: "格林纳达"
+      GRD:
+        name: "格林纳达"
+  GRL:
+    name: "格陵兰"
+    GRL:
+      name: "格陵兰"
+      GRL:
+        name: "格陵兰"
+  CUB:
+    name: "古巴"
+    CUB:
+      name: "古巴"
+      :11:
+        name: "奥尔金"
+      :1:
+        name: "比那尔德里奥"
+      :5:
+        name: "比亚克拉拉"
+      :12:
+        name: "格拉玛"
+      :14:
+        name: "关塔那摩"
+      :2:
+        name: "哈瓦那"
+      :3:
+        name: "哈瓦那城"
+      :9:
+        name: "卡马圭"
+      :10:
+        name: "拉斯图纳斯"
+      :4:
+        name: "马坦萨斯"
+      MAY:
+        name: "马亚里"
+      MZO:
+        name: "曼萨尼罗"
+      :99:
+        name: "青年岛特区"
+      :13:
+        name: "圣地亚哥"
+      :7:
+        name: "圣斯皮里图斯"
+      :6:
+        name: "西恩富戈斯"
+      :8:
+        name: "谢戈德阿维拉"
+  GLP:
+    name: "瓜德罗普"
+    GLP:
+      name: "瓜德罗普"
+      GLP:
+        name: "瓜德罗普"
+  GUM:
+    name: "关岛"
+    GUM:
+      name: "关岛"
+      GUM:
+        name: "关岛"
+  GUY:
+    name: "圭亚那"
+    GUY:
+      name: "圭亚那"
+      EW:
+        name: "埃塞奎博群岛-西德梅拉拉"
+      BW:
+        name: "巴里马-瓦伊尼"
+      PM:
+        name: "波默伦-苏佩纳姆"
+      PI:
+        name: "波塔罗-锡帕鲁尼"
+      DM:
+        name: "德梅拉拉-马海卡"
+      EC:
+        name: "东伯比斯-科兰太因"
+      CM:
+        name: "库尤尼-马扎鲁尼"
+      MB:
+        name: "马海卡-伯比斯"
+      UD:
+        name: "上德梅拉拉-伯比斯"
+      UT:
+        name: "上塔库图-上埃塞奎博"
+  KAZ:
+    name: "哈萨克斯坦"
+    KAZ:
+      name: "哈萨克斯坦"
+      AYK:
+        name: "阿尔卡累克"
+      AKM:
+        name: "阿克莫拉"
+      AKS:
+        name: "阿克苏"
+      AKT:
+        name: "阿克托别"
+      ALA:
+        name: "阿拉木图"
+      ARY:
+        name: "阿雷斯"
+      AST:
+        name: "阿斯塔纳市"
+      ATY:
+        name: "阿特劳"
+      EKB:
+        name: "埃基巴斯图兹"
+      BXH:
+        name: "巴尔喀什"
+      PAV:
+        name: "巴甫洛达尔"
+      SEV:
+        name: "北哈萨克斯坦"
+      VOS:
+        name: "东哈萨克斯坦"
+      ZYR:
+        name: "济良诺夫斯克"
+      DMB:
+        name: "江布尔"
+      DZH:
+        name: "杰兹卡兹甘"
+      KAR:
+        name: "卡拉干达"
+      KZO:
+        name: "卡拉扎尔"
+      KAP:
+        name: "卡普恰盖"
+      KST:
+        name: "科斯塔奈"
+      KZY:
+        name: "克孜勒奥尔达"
+      KEN:
+        name: "肯套"
+      KUR:
+        name: "库尔恰托夫"
+      LKK:
+        name: "利萨科夫斯克"
+      LEN:
+        name: "列宁诺戈尔斯克"
+      RUD:
+        name: "鲁德内"
+      MAN:
+        name: "曼格斯套"
+      KGT:
+        name: "南哈萨克斯坦"
+      SAR:
+        name: "萨兰"
+      SEM:
+        name: "塞梅伊"
+      SAK:
+        name: "沙赫京斯克"
+      STE:
+        name: "斯捷普诺戈尔斯克"
+      TEK:
+        name: "铁克利"
+      TEM:
+        name: "铁米尔套"
+      TUR:
+        name: "突厥斯坦"
+      ZAP:
+        name: "西哈萨克斯坦"
+      ZHA:
+        name: "扎纳奥津"
+  HTI:
+    name: "海地"
+    HTI:
+      name: "海地"
+      HTI:
+        name: "海地"
+  KOR:
+    name: "韩国"
+    :27:
+      name: "大邱"
+      DSG:
+        name: "达城郡"
+      TAE:
+        name: "大邱"
+      SUS:
+        name: "寿城区"
+    :30:
+      name: "大田"
+      :30:
+        name: "大田"
+    :26:
+      name: "釜山"
+      :26:
+        name: "釜山"
+    :29:
+      name: "光州"
+      :29:
+        name: "光州"
+    :41:
+      name: "济州特别自治道"
+      :41:
+        name: "济州特别自治道"
+    :42:
+      name: "江原道"
+      CHC:
+        name: "春川市"
+      TGH:
+        name: "东海市"
+      GSG:
+        name: "高城郡"
+      HSG:
+        name: "横城郡"
+      HCN:
+        name: "洪川郡"
+      HCH:
+        name: "华川郡"
+      KAG:
+        name: "江陵市"
+      JSE:
+        name: "旌善郡"
+      IJE:
+        name: "麟蹄郡"
+      YWL:
+        name: "宁越郡"
+      POG:
+        name: "平昌郡"
+      SUK:
+        name: "三陟市"
+      SHO:
+        name: "束草市"
+      TBK:
+        name: "太白市"
+      CWN:
+        name: "铁原郡"
+      YNY:
+        name: "襄阳郡"
+      YGU:
+        name: "杨口郡"
+      WJU:
+        name: "原州市"
+    :49:
+      name: "京畿道"
+      ASG:
+        name: "安城市"
+      ASN:
+        name: "安山市"
+      ANY:
+        name: "安养市"
+      POC:
+        name: "抱川市"
+      SEO:
+        name: "城南市"
+      DDC:
+        name: "东豆川市"
+      BCN:
+        name: "富川市"
+      GYG:
+        name: "高阳市"
+      GMG:
+        name: "光明市"
+      KWU:
+        name: "广州市"
+      GCN:
+        name: "果川市"
+      HNM:
+        name: "河南市"
+      HCH:
+        name: "华城市"
+      GPG:
+        name: "加平郡"
+      GMP:
+        name: "金浦市"
+      GRI:
+        name: "九里市"
+      GUN:
+        name: "军浦市"
+      YJU:
+        name: "骊州郡"
+      ICE:
+        name: "利川市"
+      YCN:
+        name: "涟川郡"
+      YNG:
+        name: "龙仁市"
+      NYU:
+        name: "南杨州市"
+      PTK:
+        name: "平泽市"
+      PJU:
+        name: "坡州市"
+      SHE:
+        name: "始兴市"
+      SUO:
+        name: "水原市"
+      OSN:
+        name: "乌山市"
+      YPG:
+        name: "扬平郡"
+      YYU:
+        name: "杨州市"
+      UWN:
+        name: "仪旺市"
+      UIJ:
+        name: "议政府市"
+    :43:
+      name: "庆尚北道"
+      ADG:
+        name: "安东市"
+      BHA:
+        name: "奉化郡"
+      GRG:
+        name: "高灵郡"
+      KUM:
+        name: "龟尾市"
+      KMC:
+        name: "金泉市"
+      GWI:
+        name: "军威郡"
+      YEC:
+        name: "醴泉郡"
+      KPO:
+        name: "浦项市"
+      CGK:
+        name: "漆谷郡"
+      CDO:
+        name: "淸道郡"
+      CSG:
+        name: "靑松郡"
+      GYS:
+        name: "庆山市"
+      GJU:
+        name: "庆州市"
+      YEJ:
+        name: "荣州市"
+      SJU:
+        name: "尙州市"
+      UJN:
+        name: "蔚珍郡"
+      MGG:
+        name: "闻庆市"
+      SEJ:
+        name: "星州郡"
+      USG:
+        name: "义城郡"
+      YYG:
+        name: "英阳郡"
+      YDK:
+        name: "盈德郡"
+      YCH:
+        name: "永川市"
+      ULG:
+        name: "郁陵郡"
+    :44:
+      name: "庆尚南道"
+      CNG:
+        name: "昌宁郡"
+      CHW:
+        name: "昌原市"
+      GSO:
+        name: "固城郡"
+      HDG:
+        name: "河东郡"
+      KMH:
+        name: "金海市"
+      HIN:
+        name: "晋州市"
+      GCH:
+        name: "居昌郡"
+      KJE:
+        name: "巨济市"
+      YSN:
+        name: "梁山市"
+      MAS:
+        name: "马山市"
+      MIR:
+        name: "密阳市"
+      NHE:
+        name: "南海郡"
+      SCH:
+        name: "山淸郡"
+      SAH:
+        name: "泗川市"
+      TYG:
+        name: "统营市"
+      HCE:
+        name: "陜川郡"
+      HAN:
+        name: "咸安郡"
+      HYG:
+        name: "咸阳郡"
+      URG:
+        name: "宜宁郡"
+      CHF:
+        name: "鎭海市"
+    :47:
+      name: "全罗北道"
+      SCG:
+        name: "淳昌郡"
+      PUS:
+        name: "扶安郡"
+      GCG:
+        name: "高敞郡"
+      GJE:
+        name: "金堤市"
+      JEO:
+        name: "井邑市"
+      MJU:
+        name: "茂朱郡"
+      NWN:
+        name: "南原市"
+      JNJ:
+        name: "全州市"
+      KUV:
+        name: "群山市"
+      ISL:
+        name: "任实郡"
+      WAJ:
+        name: "完州郡"
+      IKS:
+        name: "益山市"
+      JSU:
+        name: "长水郡"
+      JAN:
+        name: "鎭安郡"
+    :48:
+      name: "全罗南道"
+      BSG:
+        name: "宝城郡"
+      GHG:
+        name: "高兴郡"
+      GSE:
+        name: "谷城郡"
+      WND:
+        name: "莞岛郡"
+      KAN:
+        name: "光阳市"
+      HAE:
+        name: "海南郡"
+      HSN:
+        name: "和顺郡"
+      GJN:
+        name: "康津郡"
+      YOS:
+        name: "丽水市"
+      YGG:
+        name: "灵光郡"
+      YAM:
+        name: "灵岩郡"
+      NJU:
+        name: "罗州市"
+      MOK:
+        name: "木浦市"
+      GRE:
+        name: "求礼郡"
+      SYS:
+        name: "顺天市"
+      DYA:
+        name: "潭阳郡"
+      MAN:
+        name: "务安郡"
+      HPG:
+        name: "咸平郡"
+      SAN:
+        name: "新安郡"
+      JSN:
+        name: "长城郡"
+      JHG:
+        name: "长兴郡"
+      JDO:
+        name: "珍岛郡"
+    :28:
+      name: "仁川"
+      :28:
+        name: "仁川"
+    :11:
+      name: "首尔"
+      :11:
+        name: "首尔"
+    :31:
+      name: "蔚山"
+      :31:
+        name: "蔚山"
+    :45:
+      name: "忠清北道"
+      BEN:
+        name: "报恩郡"
+      JYG:
+        name: "曾坪郡"
+      DYG:
+        name: "丹阳郡"
+      JCH:
+        name: "堤川市"
+      GSN:
+        name: "槐山郡"
+      CWO:
+        name: "淸原郡"
+      CJJ:
+        name: "淸州市"
+      OCN:
+        name: "沃川郡"
+      ESG:
+        name: "阴城郡"
+      YDG:
+        name: "永同郡"
+      JCN:
+        name: "鎭川郡"
+      CHU:
+        name: "忠州市"
+    :46:
+      name: "忠清南道"
+      BOR:
+        name: "保宁市"
+      BYO:
+        name: "扶余郡"
+      GOJ:
+        name: "公州市"
+      HSE:
+        name: "洪城郡"
+      GYE:
+        name: "鸡龙市"
+      GSA:
+        name: "锦山郡"
+      YOS:
+        name: "礼山郡"
+      NSN:
+        name: "论山市"
+      CYG:
+        name: "青阳郡"
+      SSA:
+        name: "瑞山市"
+      SCE:
+        name: "舒川郡"
+      TAN:
+        name: "泰安郡"
+      TJI:
+        name: "唐津郡"
+      CHO:
+        name: "天安市"
+      ASA:
+        name: "牙山市"
+      YGI:
+        name: "燕岐郡"
+  NLD:
+    name: "荷兰"
+    NLD:
+      name: "荷兰"
+      AER:
+        name: "阿尔梅勒"
+      AME:
+        name: "阿默斯福特"
+      AMS:
+        name: "阿姆斯特丹"
+      ARN:
+        name: "阿纳姆"
+      APE:
+        name: "阿珀尔多伦"
+      ASS:
+        name: "阿森"
+      EDE:
+        name: "埃德"
+      EMM:
+        name: "埃门"
+      EIN:
+        name: "埃因霍芬"
+      BRD:
+        name: "布雷达"
+      TLB:
+        name: "蒂尔堡"
+      DOR:
+        name: "多德雷赫特"
+      ENS:
+        name: "恩斯赫德"
+      GRQ:
+        name: "格罗宁根"
+      HRA:
+        name: "哈勒姆"
+      HAG:
+        name: "海牙"
+      HFD:
+        name: "霍夫多尔普"
+      LID:
+        name: "莱顿"
+      LEY:
+        name: "莱利斯塔德"
+      RTM:
+        name: "鹿特丹"
+      LWR:
+        name: "吕伐登"
+      MST:
+        name: "马斯特里赫特"
+      MDL:
+        name: "米德尔堡"
+      NIJ:
+        name: "奈梅亨"
+      HTB:
+        name: "斯海尔托亨博思"
+      UTC:
+        name: "乌得勒支"
+      ZWO:
+        name: "兹沃勒"
+      ZTM:
+        name: "佐特尔梅"
+  ANT:
+    name: "荷属安地列斯"
+    ANT:
+      name: "荷属安地列斯"
+      ANT:
+        name: "荷属安地列斯"
+  HMD:
+    name: "赫德和麦克唐纳群岛"
+    HMD:
+      name: "赫德和麦克唐纳群岛"
+      HMD:
+        name: "赫德和麦克唐纳群岛"
+  HND:
+    name: "洪都拉斯"
+    HND:
+      name: "洪都拉斯"
+      AT:
+        name: "阿特兰蒂达"
+      PA:
+        name: "埃尔帕拉伊索"
+      OC:
+        name: "奥科特佩克"
+      OL:
+        name: "奥兰乔"
+      FM:
+        name: "弗朗西斯科-莫拉桑"
+      GD:
+        name: "格拉西亚斯-阿迪奥斯"
+      IB:
+        name: "海湾群岛"
+      CR:
+        name: "科尔特斯"
+      CL:
+        name: "科隆"
+      CM:
+        name: "科马亚瓜"
+      CP:
+        name: "科潘"
+      PZ:
+        name: "拉巴斯"
+      LE:
+        name: "伦皮拉"
+      CH:
+        name: "乔卢特卡"
+      CHO:
+        name: "乔罗马"
+      VA:
+        name: "山谷"
+      SB:
+        name: "圣巴巴拉"
+      IN:
+        name: "因蒂布卡"
+      YO:
+        name: "约罗"
+  KIR:
+    name: "基里巴斯"
+    KIR:
+      name: "基里巴斯"
+      PHO:
+        name: "菲尼克斯群岛"
+      GIL:
+        name: "吉尔伯特群岛"
+      LIN:
+        name: "莱恩群岛"
+  DJI:
+    name: "吉布提"
+    DJI:
+      name: "吉布提"
+      S:
+        name: "阿里萨比赫区"
+      O:
+        name: "奥博克区"
+      K:
+        name: "迪基勒区"
+      T:
+        name: "塔朱拉区"
+  KGZ:
+    name: "吉尔吉斯斯坦"
+    KGZ:
+      name: "吉尔吉斯斯坦"
+      O:
+        name: "奥什"
+      B:
+        name: "巴特肯"
+      GB:
+        name: "比什凯克市"
+      C:
+        name: "楚河"
+      J:
+        name: "贾拉拉巴德"
+      KBA:
+        name: "卡拉巴尔塔"
+      KKO:
+        name: "卡拉库尔"
+      KAN:
+        name: "坎特"
+      KJ:
+        name: "科克扬加克"
+      MS:
+        name: "迈利赛"
+      N:
+        name: "纳伦"
+      SU:
+        name: "苏卢克图"
+      T:
+        name: "塔拉斯"
+      TK:
+        name: "塔什库梅尔"
+      UG:
+        name: "乌兹根"
+      Y:
+        name: "伊塞克湖"
+  GIN:
+    name: "几内亚"
+    GIN:
+      name: "几内亚"
+      BOK:
+        name: "博凯"
+      NZR:
+        name: "恩泽雷科雷"
+      FRN:
+        name: "法拉纳"
+      KND:
+        name: "金迪亚"
+      KNK:
+        name: "康康"
+      CNK:
+        name: "科纳克里"
+      LAB:
+        name: "拉贝"
+      MAM:
+        name: "玛木"
+  GNB:
+    name: "几内亚比绍"
+    GNB:
+      name: "几内亚比绍"
+      GNB:
+        name: "几内亚比绍"
+  CAN:
+    name: "加拿大"
+    CAN:
+      name: "加拿大"
+      ABB:
+        name: "阿伯茨福"
+      EDM:
+        name: "埃德蒙顿"
+      OSH:
+        name: "奥沙瓦"
+      BAR:
+        name: "巴里"
+      CBR:
+        name: "布列塔尼角"
+      TOR:
+        name: "多伦多"
+      FRE:
+        name: "弗雷德里顿"
+      GLP:
+        name: "圭尔夫"
+      HAL:
+        name: "哈利法克斯"
+      HAM:
+        name: "哈密尔顿"
+      YXY:
+        name: "怀特霍斯"
+      KWL:
+        name: "基劳纳"
+      BRP:
+        name: "基奇纳"
+      KGN:
+        name: "金斯敦"
+      CAL:
+        name: "卡里加里"
+      QUE:
+        name: "魁北克"
+      REG:
+        name: "里贾纳"
+      LOD:
+        name: "伦敦"
+      MTR:
+        name: "蒙特利尔"
+      SUD:
+        name: "萨德伯里"
+      SAK:
+        name: "萨斯卡通"
+      TRR:
+        name: "三河城"
+      THU:
+        name: "桑德贝"
+      SBE:
+        name: "舍布鲁克"
+      SCA:
+        name: "圣卡塔琳娜"
+      SJB:
+        name: "圣约翰斯"
+      VIC:
+        name: "维多利亚"
+      VAN:
+        name: "温哥华"
+      WNP:
+        name: "温尼伯"
+      WDR:
+        name: "温莎"
+      OTT:
+        name: "渥太华"
+      CHA:
+        name: "夏洛特敦"
+      YZF:
+        name: "耶洛奈夫"
+      IQL:
+        name: "伊魁特"
+  GHA:
+    name: "加纳"
+    GHA:
+      name: "加纳"
+      AS:
+        name: "阿散蒂"
+      OBU:
+        name: "奥布阿西"
+      NO:
+        name: "北部"
+      BA:
+        name: "布朗阿哈福"
+      GA:
+        name: "大阿克拉"
+      EA:
+        name: "东部"
+      UE:
+        name: "上东部"
+      UW:
+        name: "上西部"
+      VO:
+        name: "沃尔特"
+      WE:
+        name: "西部"
+      CE:
+        name: "中部"
+  GAB:
+    name: "加蓬"
+    GAB:
+      name: "加蓬"
+      OL:
+        name: "奥果韦-洛洛"
+      OI:
+        name: "奥果韦-伊温多"
+      OM:
+        name: "滨海奥果韦"
+      NG:
+        name: "恩古涅"
+      ES:
+        name: "河口"
+      NY:
+        name: "尼扬加"
+      HO:
+        name: "上奥果韦"
+      WN:
+        name: "沃勒-恩特姆"
+      MO:
+        name: "中奥果韦"
+  KHM:
+    name: "柬埔寨"
+    KHM:
+      name: "柬埔寨"
+      OC:
+        name: "奥多棉吉"
+      KB:
+        name: "白马市"
+      PR:
+        name: "柏威夏"
+      PL:
+        name: "拜林市"
+      BM:
+        name: "班迭棉吉"
+      KZC:
+        name: "磅清扬"
+      KO:
+        name: "磅士卑"
+      KZK:
+        name: "磅同"
+      KM:
+        name: "磅湛"
+      PG:
+        name: "波罗勉"
+      TK:
+        name: "茶胶"
+      SVR:
+        name: "柴桢"
+      KL:
+        name: "干丹"
+      KKZ:
+        name: "戈公"
+      KMT:
+        name: "贡布"
+      PNH:
+        name: "金边市"
+      KH:
+        name: "桔井"
+      RBE:
+        name: "腊塔纳基里"
+      BA:
+        name: "马德望"
+      MWV:
+        name: "蒙多基里"
+      PO:
+        name: "菩萨"
+      TNX:
+        name: "上丁"
+      KA:
+        name: "西哈努克市"
+      REP:
+        name: "暹粒"
+  CZE:
+    name: "捷克共和国"
+    CZE:
+      name: "捷克共和国"
+      OL:
+        name: "奥洛穆茨"
+      PL:
+        name: "比尔森"
+      PR:
+        name: "布拉格直辖市"
+      KR:
+        name: "赫拉德茨-克拉洛韦"
+      KA:
+        name: "卡罗维发利"
+      LI:
+        name: "利贝雷克"
+      MO:
+        name: "摩拉维亚-西里西亚"
+      JC:
+        name: "南摩拉维亚"
+      PA:
+        name: "帕尔杜比采"
+      VY:
+        name: "维索基纳"
+      US:
+        name: "乌斯季"
+      ST:
+        name: "中捷克"
+      ZL:
+        name: "兹林"
+  ZWE:
+    name: "津巴布韦"
+    ZWE:
+      name: "津巴布韦"
+      MN:
+        name: "北马塔贝莱兰"
+      BU:
+        name: "布拉瓦约"
+      ME:
+        name: "东马绍纳兰"
+      HA:
+        name: "哈拉雷"
+      ML:
+        name: "马尼卡兰"
+      MV:
+        name: "马斯温戈"
+      MS:
+        name: "南马塔贝莱兰"
+      MW:
+        name: "西马绍纳兰"
+      MD:
+        name: "中部"
+      MC:
+        name: "中马绍纳兰"
+  CMR:
+    name: "喀麦隆"
+    CMR:
+      name: "喀麦隆"
+      ADA:
+        name: "阿达马瓦"
+      NOR:
+        name: "北部"
+      EXN:
+        name: "北端"
+      LIT:
+        name: "滨海"
+      EST:
+        name: "东部"
+      SUD:
+        name: "南部"
+      NOT:
+        name: "西北"
+      OUE:
+        name: "西部"
+      SOU:
+        name: "西南"
+      CEN:
+        name: "中央"
+  QAT:
+    name: "卡塔尔"
+    QAT:
+      name: "卡塔尔"
+      MS:
+        name: "北部"
+      DW:
+        name: "多哈"
+      GW:
+        name: "古韦里耶"
+      KR:
+        name: "豪尔"
+      JB:
+        name: "杰里扬拜特奈"
+      RN:
+        name: "赖扬"
+      WK:
+        name: "沃克拉"
+      UL:
+        name: "乌姆锡拉勒"
+      JM:
+        name: "朱迈利耶"
+  CYM:
+    name: "开曼群岛"
+    CYM:
+      name: "开曼群岛"
+      CYM:
+        name: "开曼群岛"
+  CCK:
+    name: "科科斯群岛"
+    CCK:
+      name: "科科斯群岛"
+      CCK:
+        name: "科科斯群岛"
+  COM:
+    name: "科摩罗"
+    COM:
+      name: "科摩罗"
+      COM:
+        name: "科摩罗"
+  CIV:
+    name: "科特迪瓦"
+    CIV:
+      name: "科特迪瓦"
+      AG:
+        name: "阿涅比"
+      BF:
+        name: "巴芬"
+      VB:
+        name: "邦达马河谷"
+      DE:
+        name: "登盖莱"
+      NC:
+        name: "恩济－科莫埃"
+      FR:
+        name: "弗罗马格尔"
+      LC:
+        name: "湖泊"
+      MR:
+        name: "马拉韦"
+      SB:
+        name: "南邦达马"
+      SC:
+        name: "南科莫埃"
+      HT:
+        name: "萨桑德拉"
+      SV:
+        name: "萨瓦纳"
+      DH:
+        name: "山地"
+      WR:
+        name: "沃罗杜古"
+      BS:
+        name: "下萨桑德拉"
+      LG:
+        name: "泻湖"
+      ZA:
+        name: "赞赞"
+      MV:
+        name: "中卡瓦利"
+      MC:
+        name: "中科莫埃"
+  KWT:
+    name: "科威特"
+    KWT:
+      name: "科威特"
+      KWT:
+        name: "科威特"
+  HRV:
+    name: "克罗地亚"
+    HRV:
+      name: "克罗地亚"
+      :14:
+        name: "奥西耶克-巴拉尼亚"
+      :7:
+        name: "别洛瓦尔-比洛戈拉"
+      :8:
+        name: "滨海和山区"
+      :11:
+        name: "波热加-斯拉沃尼亚"
+      :12:
+        name: "布罗德-波萨维纳"
+      :19:
+        name: "杜布罗夫斯克-内雷特瓦"
+      :4:
+        name: "卡尔洛瓦茨"
+      :6:
+        name: "科普里夫尼察-克里热夫齐"
+      :2:
+        name: "克拉皮纳-扎戈列"
+      :9:
+        name: "利卡-塞尼"
+      :20:
+        name: "梅吉穆列"
+      :1:
+        name: "萨格勒布"
+      :21:
+        name: "萨格勒布市"
+      :17:
+        name: "斯普利特-达尔马提亚"
+      :5:
+        name: "瓦拉日丁"
+      :10:
+        name: "维罗维蒂察-波德拉维纳"
+      :16:
+        name: "武科瓦尔-斯里耶姆"
+      :15:
+        name: "希贝尼克-克宁"
+      :3:
+        name: "锡萨克-莫斯拉维纳"
+      :18:
+        name: "伊斯特拉"
+      :13:
+        name: "扎达尔"
+  KEN:
+    name: "肯尼亚"
+    KEN:
+      name: "肯尼亚"
+      EMA:
+        name: "埃尔格约-马拉奎特"
+      BAR:
+        name: "巴林戈"
+      BUN:
+        name: "邦戈马"
+      BOM:
+        name: "博美特"
+      BUS:
+        name: "布希亚"
+      EMB:
+        name: "恩布"
+      HOB:
+        name: "霍马湾"
+      KIA:
+        name: "基安布"
+      KIL:
+        name: "基里菲"
+      KIR:
+        name: "基里尼亚加"
+      KIS:
+        name: "基苏木"
+      KIT:
+        name: "基图伊"
+      KII:
+        name: "基西"
+      GAS:
+        name: "加里萨"
+      KAK:
+        name: "卡卡梅加"
+      KAJ:
+        name: "卡耶亚多"
+      KEY:
+        name: "凯里乔"
+      KWA:
+        name: "夸勒"
+      LAU:
+        name: "拉木"
+      LAI:
+        name: "莱基皮亚"
+      MAC:
+        name: "马查科斯"
+      MAK:
+        name: "马瓜尼"
+      RBT:
+        name: "马萨布布"
+      MAN:
+        name: "曼德拉"
+      MER:
+        name: "梅鲁"
+      MOM:
+        name: "蒙巴萨"
+      MIG:
+        name: "米戈利"
+      MUR:
+        name: "穆兰卡"
+      NUU:
+        name: "纳库鲁"
+      NAR:
+        name: "纳罗克"
+      NAN:
+        name: "南迪"
+      NA:
+        name: "内罗毕"
+      NIT:
+        name: "尼蒂"
+      NYM:
+        name: "尼亚米拉"
+      NYN:
+        name: "年达鲁阿"
+      NYE:
+        name: "涅里"
+      UAS:
+        name: "桑布卢"
+      TRI:
+        name: "塔纳河"
+      TTA:
+        name: "泰塔塔维塔"
+      TNZ:
+        name: "特兰斯-恩佐亚"
+      TUR:
+        name: "图尔卡纳"
+      WJR:
+        name: "瓦吉尔"
+      UGI:
+        name: "瓦辛基苏"
+      VIH:
+        name: "韦希加"
+      WPO:
+        name: "西波克特"
+      SIA:
+        name: "夏亚"
+      ISI:
+        name: "伊希约洛"
+      CE:
+        name: "中央"
+  COK:
+    name: "库克群岛"
+    COK:
+      name: "库克群岛"
+      COK:
+        name: "库克群岛"
+  LVA:
+    name: "拉脱维亚"
+    LVA:
+      name: "拉脱维亚"
+      ALU:
+        name: "阿卢克斯内"
+      AIZ:
+        name: "爱兹克劳克雷"
+      OGR:
+        name: "奥格雷"
+      BAL:
+        name: "巴尔维"
+      BAU:
+        name: "包斯卡"
+      CES:
+        name: "采西斯"
+      DOB:
+        name: "多贝莱"
+      GUL:
+        name: "古尔贝内"
+      JEK:
+        name: "杰卡布皮尔斯"
+      KRA:
+        name: "克拉斯拉瓦"
+      KUL:
+        name: "库尔迪加"
+      RZR:
+        name: "雷泽克内"
+      RGA:
+        name: "里加"
+      LPK:
+        name: "利耶帕亚"
+      LIM:
+        name: "林巴济"
+      LUD:
+        name: "卢扎"
+      MAD:
+        name: "马多纳"
+      PRE:
+        name: "普雷利"
+      SAL:
+        name: "萨尔杜斯"
+      TAL:
+        name: "塔尔西"
+      DGR:
+        name: "陶格夫皮尔斯"
+      TUK:
+        name: "图库马"
+      VLK:
+        name: "瓦尔加"
+      VLM:
+        name: "瓦尔米耶拉"
+      VSL:
+        name: "文茨皮尔斯"
+      JGR:
+        name: "叶尔加瓦"
+  LSO:
+    name: "莱索托"
+    LSO:
+      name: "莱索托"
+      D:
+        name: "伯里亚"
+      B:
+        name: "布塔布泰"
+      G:
+        name: "古廷"
+      H:
+        name: "加查斯内克"
+      C:
+        name: "莱里贝"
+      E:
+        name: "马费滕"
+      A:
+        name: "马塞卢"
+      F:
+        name: "莫哈莱斯胡克"
+      J:
+        name: "莫霍特隆"
+      K:
+        name: "塔巴采卡"
+  LAO:
+    name: "老挝"
+    LAO:
+      name: "老挝"
+      AT:
+        name: "阿速坡"
+      BL:
+        name: "波里坎赛"
+      BK:
+        name: "博乔"
+      XI:
+        name: "川圹"
+      PH:
+        name: "丰沙里"
+      KH:
+        name: "甘蒙"
+      HO:
+        name: "华潘"
+      LP:
+        name: "琅勃拉邦"
+      LM:
+        name: "琅南塔"
+      XN:
+        name: "赛宋本行政特区"
+      XE:
+        name: "色贡"
+      SL:
+        name: "沙拉湾"
+      SV:
+        name: "沙湾拿吉"
+      XA:
+        name: "沙耶武里"
+      VI:
+        name: "万象"
+      OU:
+        name: "乌多姆赛"
+      CH:
+        name: "占巴塞"
+  LBN:
+    name: "黎巴嫩"
+    LBN:
+      name: "黎巴嫩"
+      AS:
+        name: "北部"
+      BI:
+        name: "贝卡"
+      BA:
+        name: "贝鲁特"
+      JL:
+        name: "黎巴嫩山"
+      NA:
+        name: "奈拜提耶市"
+      JA:
+        name: "南部"
+  LBR:
+    name: "利比里亚"
+    LBR:
+      name: "利比里亚"
+      GBA:
+        name: "巴波卢"
+      BG:
+        name: "邦"
+      BOP:
+        name: "博波卢"
+      BM:
+        name: "博米"
+      GB:
+        name: "大巴萨"
+      GG:
+        name: "大吉德"
+      CM:
+        name: "大角山"
+      GK:
+        name: "大克鲁"
+      FT:
+        name: "菲什敦"
+      RG:
+        name: "吉河"
+      RI:
+        name: "里弗塞斯"
+      LO:
+        name: "洛法"
+      MG:
+        name: "马吉比"
+      MY:
+        name: "马里兰"
+      MO:
+        name: "蒙特塞拉多"
+      NI:
+        name: "宁巴"
+      SI:
+        name: "锡诺"
+  LBY:
+    name: "利比亚"
+    LBY:
+      name: "利比亚"
+      LBY:
+        name: "利比亚"
+  LTU:
+    name: "立陶宛"
+    LTU:
+      name: "立陶宛"
+      AL:
+        name: "阿利图斯"
+      KA:
+        name: "考纳斯"
+      KL:
+        name: "克莱佩达"
+      MA:
+        name: "马里扬泊列"
+      PA:
+        name: "帕涅韦日斯"
+      TA:
+        name: "陶拉格"
+      TE:
+        name: "特尔希艾"
+      VI:
+        name: "维尔纽斯"
+      UT:
+        name: "乌田纳"
+      SI:
+        name: "希奥利艾"
+      AKM:
+        name: "亚克曼"
+  LIE:
+    name: "列支敦士登"
+    LIE:
+      name: "列支敦士登"
+      LIE:
+        name: "列支敦士登"
+  REU:
+    name: "留尼旺岛"
+    REU:
+      name: "留尼旺岛"
+      REU:
+        name: "留尼旺岛"
+  LUX:
+    name: "卢森堡"
+    LUX:
+      name: "卢森堡"
+      DD:
+        name: "迪基希"
+      GG:
+        name: "格雷文马赫"
+      LL:
+        name: "卢森堡"
+  RWA:
+    name: "卢旺达"
+    RWA:
+      name: "卢旺达"
+      BY:
+        name: "比温巴"
+      BU:
+        name: "布塔雷"
+      NY:
+        name: "恩延扎"
+      KG:
+        name: "基本古"
+      KY:
+        name: "基布耶"
+      KR:
+        name: "基加利-恩加利"
+      KV:
+        name: "基加利市"
+      GK:
+        name: "吉孔戈罗"
+      GS:
+        name: "吉塞尼"
+      GT:
+        name: "吉塔拉马"
+      KA:
+        name: "卡布加"
+      RW:
+        name: "卢瓦马加纳"
+      RH:
+        name: "鲁汉戈"
+      RU:
+        name: "鲁亨盖里"
+      CY:
+        name: "尚古古"
+      UM:
+        name: "乌姆塔拉"
+  ROU:
+    name: "罗马尼亚"
+    ROU:
+      name: "罗马尼亚"
+      AL:
+        name: "阿尔巴尤利亚"
+      AR:
+        name: "阿拉德"
+      OR:
+        name: "奥拉迪亚"
+      BA:
+        name: "巴克乌"
+      BM:
+        name: "巴亚马雷"
+      BN:
+        name: "比斯特里察"
+      BO:
+        name: "博托沙尼"
+      BC:
+        name: "布加勒斯特"
+      BS:
+        name: "布拉索夫"
+      BL:
+        name: "布勒伊拉"
+      BZ:
+        name: "布泽乌"
+      DT:
+        name: "德罗贝塔-塞维林堡"
+      DE:
+        name: "德瓦"
+      TI:
+        name: "蒂米什瓦拉"
+      FO:
+        name: "福克沙尼"
+      GL:
+        name: "加拉茨"
+      GG:
+        name: "久尔久"
+      CT:
+        name: "康斯坦察"
+      DO:
+        name: "克拉约瓦"
+      CR:
+        name: "克勒拉希"
+      CN:
+        name: "克卢日纳波卡"
+      VI:
+        name: "勒姆尼库沃尔恰"
+      RE:
+        name: "雷希察"
+      MC:
+        name: "梅尔库里亚丘克"
+      PI:
+        name: "皮特什蒂"
+      PN:
+        name: "皮亚特拉尼亚姆茨"
+      PL:
+        name: "普洛耶什蒂"
+      SM:
+        name: "萨图·马雷"
+      SG:
+        name: "圣格奥尔基"
+      ST:
+        name: "斯拉蒂纳"
+      SB:
+        name: "斯洛博齐亚"
+      SU:
+        name: "苏恰瓦"
+      TA:
+        name: "特尔戈维什泰"
+      TM:
+        name: "特尔古穆列什"
+      TJ:
+        name: "特尔古日乌"
+      TU:
+        name: "图尔恰"
+      VA:
+        name: "瓦斯卢伊"
+      SO:
+        name: "锡比乌"
+      IS:
+        name: "雅西"
+      AD:
+        name: "亚厉山德里亚"
+      ZA:
+        name: "扎勒乌"
+  MDG:
+    name: "马达加斯加"
+    MDG:
+      name: "马达加斯加"
+      AS:
+        name: "安齐拉纳纳"
+      FN:
+        name: "菲亚纳兰楚阿"
+      MJ:
+        name: "马哈赞加"
+      AN:
+        name: "塔那那利佛"
+      TM:
+        name: "图阿马西拉"
+      TL:
+        name: "图利亚拉"
+  MDV:
+    name: "马尔代夫"
+    MDV:
+      name: "马尔代夫"
+      ADD:
+        name: "阿杜"
+      AAD:
+        name: "北阿里"
+      THD:
+        name: "北蒂拉杜马蒂"
+      MAD:
+        name: "北马洛斯马杜卢"
+      MLD:
+        name: "北米拉杜马杜卢"
+      NAD:
+        name: "北尼兰杜"
+      HAD:
+        name: "北苏瓦迪瓦"
+      FAA:
+        name: "法迪福卢"
+      FEA:
+        name: "费利杜"
+      FMU:
+        name: "福阿穆拉库"
+      HDH:
+        name: "哈杜马蒂"
+      KLH:
+        name: "科卢马杜卢"
+      MAL:
+        name: "马累"
+      MAA:
+        name: "马累岛"
+      MUA:
+        name: "穆拉库"
+      AAU:
+        name: "南阿里"
+      THU:
+        name: "南蒂拉杜马蒂"
+      MAU:
+        name: "南马洛斯马杜卢"
+      MLU:
+        name: "南米拉杜马杜卢"
+      NAU:
+        name: "南尼兰杜"
+      HAU:
+        name: "南苏瓦迪瓦"
+  MLT:
+    name: "马耳他"
+    MLT:
+      name: "马耳他"
+      MLT:
+        name: "马耳他"
+  MWI:
+    name: "马拉维"
+    MWI:
+      name: "马拉维"
+      N:
+        name: "北部区"
+      S:
+        name: "南部区"
+      C:
+        name: "中央区"
+  MYS:
+    name: "马来西亚"
+    PH:
+      name: "槟榔屿"
+      BWH:
+        name: "北海"
+      PEN:
+        name: "槟城"
+      BMJ:
+        name: "大山脚"
+      NTE:
+        name: "高渊"
+    PS:
+      name: "玻璃市"
+      KGR:
+        name: "加央"
+    TR:
+      name: "丁加奴"
+      KEM:
+        name: "甘马挽"
+      TGG:
+        name: "瓜拉丁加奴"
+      DGN:
+        name: "龙运"
+      MAR:
+        name: "马江"
+      SET:
+        name: "实兆"
+      HUL:
+        name: "乌鲁"
+      BES:
+        name: "勿述"
+    KD:
+      name: "吉打"
+      PGT:
+        name: "巴东得腊"
+      PEN:
+        name: "笨筒"
+      LGK:
+        name: "浮罗交怡"
+      KOR:
+        name: "哥打士打"
+      KPA:
+        name: "古邦巴素"
+      KMU:
+        name: "瓜拉姆达"
+      BLZ:
+        name: "华玲"
+      KLM:
+        name: "居林"
+      BMA:
+        name: "万拉峇鲁"
+    KN:
+      name: "吉兰丹"
+      PPU:
+        name: "巴西富地"
+      PMA:
+        name: "巴西马"
+      TMR:
+        name: "丹那美拉"
+      TUM:
+        name: "道北"
+      BAC:
+        name: "登卓"
+      KBR:
+        name: "哥打巴鲁"
+      KUG:
+        name: "瓜拉吉赖"
+      GMU:
+        name: "话望生"
+      MAC:
+        name: "马樟"
+      JEL:
+        name: "日里"
+    KL:
+      name: "吉隆坡"
+      KUL:
+        name: "吉隆坡"
+    ML:
+      name: "马六甲"
+      MEL:
+        name: "马六甲市"
+      AOG:
+        name: "亚罗牙也"
+      JAS:
+        name: "野新"
+    LB:
+      name: "纳闽"
+      LBU:
+        name: "纳闽"
+      VIC:
+        name: "维多利亚"
+    PG:
+      name: "彭亨"
+      BER:
+        name: "百乐"
+      PEK:
+        name: "北根"
+      TEM:
+        name: "淡马鲁"
+      JER:
+        name: "而连突"
+      KUA:
+        name: "关丹"
+      CAH:
+        name: "金马仑高原"
+      RAU:
+        name: "劳勿"
+      KUL:
+        name: "立卑"
+      MAR:
+        name: "马兰"
+      BEN:
+        name: "文冬"
+      TOM:
+        name: "云冰"
+    PK:
+      name: "霹雳"
+      TAS:
+        name: "安顺"
+      TAM:
+        name: "丹绒马"
+      SSP:
+        name: "和丰"
+      LUM:
+        name: "紅土坎"
+      BGA:
+        name: "华都牙也"
+      KAR:
+        name: "江沙"
+      TPG:
+        name: "太平"
+      IPH:
+        name: "怡保"
+    JH:
+      name: "柔佛"
+      POW:
+        name: "笨珍"
+      MEP:
+        name: "丰盛港"
+      KTI:
+        name: "哥打丁宜"
+      KLA:
+        name: "居銮"
+      BAT:
+        name: "峇株巴辖"
+      MUA:
+        name: "麻坡"
+      SGM:
+        name: "昔加末"
+      JHB:
+        name: "新山"
+    NS:
+      name: "森美兰"
+      PDI:
+        name: "波德申"
+      TAI:
+        name: "淡边"
+      SRB:
+        name: "芙蓉"
+      KPI:
+        name: "瓜拉庇劳"
+      REM:
+        name: "林茂"
+      JEP:
+        name: "仁保"
+      JEL:
+        name: "日叻务"
+    SB:
+      name: "沙巴"
+      PAP:
+        name: "吧巴"
+      BEF:
+        name: "保佛"
+      BEL:
+        name: "比鲁兰"
+      PIT:
+        name: "必达士"
+      PMP:
+        name: "兵南邦"
+      TAB:
+        name: "担布南"
+      TEN:
+        name: "丹南"
+      TAW:
+        name: "斗湖"
+      TUR:
+        name: "斗亚兰"
+      BKI:
+        name: "哥打基纳巴鲁"
+      KMU:
+        name: "哥打马鲁都"
+      KEG:
+        name: "根地咬"
+      KUD:
+        name: "古达"
+      KBD:
+        name: "古打毛律"
+      KUN:
+        name: "古纳"
+      KPU:
+        name: "瓜拉班尤"
+      KBT:
+        name: "京那巴登岸"
+      RNU:
+        name: "兰脑"
+      LDU:
+        name: "拿笃"
+      NAB:
+        name: "纳巴湾"
+      SDK:
+        name: "山打根"
+      SPT:
+        name: "西比陶"
+      SMM:
+        name: "仙本那"
+    SR:
+      name: "沙捞越"
+      KCH:
+        name: "古晋"
+      KPI:
+        name: "加帛"
+      LMN:
+        name: "林梦"
+      MYY:
+        name: "美里"
+      BTU:
+        name: "民都鲁"
+      MKM:
+        name: "木胶"
+      BTG:
+        name: "木中"
+      SMH:
+        name: "三马拉汉"
+      SAM:
+        name: "斯里阿曼"
+      SAR:
+        name: "泗里街"
+      SBW:
+        name: "泗务"
+    SL:
+      name: "雪兰莪"
+      PJA:
+        name: "八打灵"
+      GOM:
+        name: "鹅麦"
+      KLG:
+        name: "瓜拉冷岳"
+      KSL:
+        name: "瓜拉雪兰莪"
+      SBM:
+        name: "沙白安南"
+      HUL:
+        name: "乌鲁冷岳"
+      HUS:
+        name: "乌鲁雪兰莪"
+      SEP:
+        name: "雪邦"
+  MLI:
+    name: "马里"
+    MLI:
+      name: "马里"
+      CD:
+        name: "巴马科首都区"
+      KD:
+        name: "基达尔"
+      GA:
+        name: "加奥"
+      KY:
+        name: "卡伊"
+      KL:
+        name: "库利科罗"
+      MP:
+        name: "莫普提"
+      SG:
+        name: "塞古"
+      TB:
+        name: "通布图"
+      SK:
+        name: "锡卡索"
+  MKD:
+    name: "马其顿"
+    MKD:
+      name: "马其顿"
+      MKD:
+        name: "马其顿"
+  MHL:
+    name: "马绍尔群岛"
+    MHL:
+      name: "马绍尔群岛"
+      MHL:
+        name: "马绍尔群岛"
+  MTQ:
+    name: "马提尼克"
+    MTQ:
+      name: "马提尼克"
+      MTQ:
+        name: "马提尼克"
+  MYT:
+    name: "马约特岛"
+    MYT:
+      name: "马约特岛"
+      MYT:
+        name: "马约特岛"
+  IMN:
+    name: "曼岛"
+    IMN:
+      name: "曼岛"
+      IMN:
+        name: "曼岛"
+  MUS:
+    name: "毛里求斯"
+    MUS:
+      name: "毛里求斯"
+      MUS:
+        name: "毛里求斯"
+  MRT:
+    name: "毛里塔尼亚"
+    MRT:
+      name: "毛里塔尼亚"
+      AD:
+        name: "阿德拉尔"
+      AS:
+        name: "阿萨巴"
+      BR:
+        name: "卜拉克纳"
+      HG:
+        name: "东胡德"
+      GO:
+        name: "戈尔戈勒"
+      GM:
+        name: "吉迪马卡"
+      DN:
+        name: "努瓦迪布湾"
+      NO:
+        name: "努瓦克肖特特区"
+      TA:
+        name: "塔甘特"
+      TR:
+        name: "特拉扎"
+      TZ:
+        name: "提里斯-宰穆尔"
+      HC:
+        name: "西胡德"
+      IN:
+        name: "因希里"
+  USA:
+    name: "美国"
+    AR:
+      name: "阿肯色"
+      FYV:
+        name: "费耶特维尔"
+      FSM:
+        name: "史密斯堡"
+      LIT:
+        name: "小石城"
+    AL:
+      name: "阿拉巴马"
+      BHM:
+        name: "伯明罕"
+      MGM:
+        name: "蒙哥马利"
+      MOB:
+        name: "莫比尔"
+    AK:
+      name: "阿拉斯加"
+      ANC:
+        name: "安克雷奇"
+      FAI:
+        name: "费尔班克斯"
+      JNU:
+        name: "朱诺"
+    ID:
+      name: "爱达荷"
+      IDA:
+        name: "爱达荷福尔斯"
+      PIH:
+        name: "波卡特洛"
+      BOI:
+        name: "博伊西"
+      BLK:
+        name: "布莱克富特"
+      COE:
+        name: "科达伦"
+      LWS:
+        name: "刘易斯顿"
+      MJL:
+        name: "莫斯科"
+      ZMU:
+        name: "墨菲"
+      NPA:
+        name: "楠帕"
+      QKM:
+        name: "岂彻姆"
+      SVY:
+        name: "森瓦利"
+      YAF:
+        name: "亚美利加瀑布城"
+    IA:
+      name: "爱荷华"
+      DVN:
+        name: "达文波特"
+      DSM:
+        name: "得梅因"
+      CID:
+        name: "锡达拉皮兹"
+    ND:
+      name: "北达科他"
+      BIS:
+        name: "俾斯麦"
+      GFK:
+        name: "大福克斯"
+      FAR:
+        name: "法戈"
+      MOT:
+        name: "迈诺特"
+    NC:
+      name: "北卡罗来纳"
+      AEV:
+        name: "艾许维尔"
+      DHH:
+        name: "杜罕"
+      GBO:
+        name: "格林斯伯勒"
+      CHE:
+        name: "教堂山"
+      RAG:
+        name: "罗利"
+      RDU:
+        name: "洛利杜罕都会区"
+      CRQ:
+        name: "夏洛特"
+    PA:
+      name: "宾夕法尼亚"
+      AEW:
+        name: "阿伦敦"
+      PHL:
+        name: "费城"
+      PIT:
+        name: "匹兹堡"
+    TX:
+      name: "德克萨斯"
+      ELP:
+        name: "埃尔帕索"
+      AUS:
+        name: "奥斯汀"
+      DAL:
+        name: "达拉斯"
+      CRP:
+        name: "哥帕斯基斯蒂"
+      GLS:
+        name: "交维斯顿"
+      LRD:
+        name: "拉雷多"
+      TXC:
+        name: "麦亚伦"
+      SAT:
+        name: "圣安东尼奥"
+      HOU:
+        name: "休斯敦"
+    OH:
+      name: "俄亥俄"
+      DYT:
+        name: "代顿"
+      CZX:
+        name: "哥伦布"
+      CLE:
+        name: "克利夫兰"
+      TOL:
+        name: "托莱多"
+      CVG:
+        name: "辛辛那提"
+    OK:
+      name: "俄克拉荷马"
+      OKC:
+        name: "俄克拉荷马城"
+      OUN:
+        name: "诺曼"
+      TUL:
+        name: "塔尔萨"
+    OR:
+      name: "俄勒冈"
+      BZO:
+        name: "本德"
+      PDX:
+        name: "波特兰"
+      DLS:
+        name: "达尔斯"
+      DAC:
+        name: "达拉斯"
+      TLM:
+        name: "蒂拉穆克"
+      XFX:
+        name: "格兰茨帕斯"
+      HDX:
+        name: "胡德里弗"
+      CTR:
+        name: "火山口湖"
+      YCV:
+        name: "科瓦利斯"
+      COB:
+        name: "库斯贝"
+      MFR:
+        name: "梅德福"
+      SLE:
+        name: "塞勒姆"
+      STH:
+        name: "圣海伦斯"
+      SPY:
+        name: "斯普林菲尔德"
+      EUG:
+        name: "尤金"
+    FL:
+      name: "佛罗里达"
+      ORL:
+        name: "奥兰多"
+      EYW:
+        name: "基韦斯特"
+      JAX:
+        name: "杰克逊维尔"
+      CPV:
+        name: "卡纳维尔角"
+      FLL:
+        name: "罗德岱堡"
+      MIA:
+        name: "迈阿密"
+      PIE:
+        name: "圣彼德斯堡市"
+      TLH:
+        name: "塔拉哈西"
+      TPA:
+        name: "坦帕"
+    VT:
+      name: "佛蒙特"
+      BTV:
+        name: "伯灵顿"
+      RUT:
+        name: "拉特兰"
+      ZBR:
+        name: "南伯灵顿"
+    DC:
+      name: "哥伦比亚特区"
+      WAS:
+        name: "华盛顿哥伦比亚特区"
+    WA:
+      name: "华盛顿"
+      GEG:
+        name: "斯波坎"
+      TTW:
+        name: "塔科马"
+      SEA:
+        name: "西雅图"
+    WY:
+      name: "怀俄明"
+      EVD:
+        name: "埃文斯顿"
+      CPR:
+        name: "卡斯珀"
+      LAR:
+        name: "拉勒米"
+      RKS:
+        name: "罗克斯普林斯"
+      CYS:
+        name: "夏延"
+      SHR:
+        name: "谢里登"
+    CA:
+      name: "加利福尼亚"
+      SFO:
+        name: "旧金山"
+      LAX:
+        name: "洛杉矶"
+      SAN:
+        name: "圣迭戈"
+      SJC:
+        name: "圣何塞"
+    KS:
+      name: "堪萨斯"
+      ABZ:
+        name: "阿比林"
+      OVL:
+        name: "奥弗兰公园"
+      HCH:
+        name: "哈钦森"
+      KCK:
+        name: "堪萨斯城"
+      XIA:
+        name: "莱文沃思"
+      LWC:
+        name: "劳伦斯"
+      MHK:
+        name: "曼哈顿"
+      TOP:
+        name: "托皮卡"
+      ICT:
+        name: "威奇托"
+    CT:
+      name: "康涅狄格"
+      BDR:
+        name: "布里奇波特"
+      DAQ:
+        name: "达里恩"
+      GRH:
+        name: "格林尼治"
+      HFD:
+        name: "哈特福德"
+      XIN:
+        name: "米德尔顿"
+      HVN:
+        name: "纽黑文"
+      WPT:
+        name: "韦斯特波特"
+      WAT:
+        name: "沃特伯里"
+      NWT:
+        name: "新不列颠"
+    CO:
+      name: "科罗拉多"
+      ASE:
+        name: "阿斯彭"
+      AUX:
+        name: "奥罗拉"
+      WBU:
+        name: "博尔德"
+      GJT:
+        name: "大章克申"
+      DEN:
+        name: "丹佛"
+      FNL:
+        name: "柯林斯堡"
+      COS:
+        name: "科罗拉多斯普林斯"
+      VAC:
+        name: "韦尔"
+    KY:
+      name: "肯塔基"
+      LEX:
+        name: "列克星敦"
+      LUI:
+        name: "路易斯维尔"
+      OWB:
+        name: "欧文斯伯勒"
+    LA:
+      name: "路易斯安那"
+      BTR:
+        name: "巴吞鲁日"
+      SHV:
+        name: "什里夫波特"
+      MSY:
+        name: "新奥尔良"
+    RI:
+      name: "罗德岛"
+      PAW:
+        name: "波塔基特"
+      CQH:
+        name: "克兰斯顿"
+      NPO:
+        name: "纽波特"
+      PVD:
+        name: "普罗维登斯"
+      WST:
+        name: "韦斯特利"
+      SFN:
+        name: "文索基特"
+      UZO:
+        name: "沃威克"
+    MD:
+      name: "马里兰"
+      BAL:
+        name: "巴尔的摩"
+      GAI:
+        name: "盖瑟斯堡"
+      RKV:
+        name: "罗克维尔"
+    MA:
+      name: "马萨诸塞"
+      BZD:
+        name: "波士顿"
+      SFY:
+        name: "斯普林菲尔德"
+      ORH:
+        name: "伍斯特"
+    MT:
+      name: "蒙大拿"
+      BGS:
+        name: "比灵斯"
+      GTF:
+        name: "大瀑布村"
+      MSO:
+        name: "米苏拉"
+    MO:
+      name: "密苏里"
+      COV:
+        name: "哥伦比亚"
+      JEF:
+        name: "杰佛逊市"
+      MKC:
+        name: "堪萨斯城"
+      STL:
+        name: "圣路易斯"
+      SGF:
+        name: "斯普林菲尔德"
+    MS:
+      name: "密西西比"
+      BIX:
+        name: "比洛克西"
+      GPT:
+        name: "格尔夫波特"
+      GLH:
+        name: "格林维尔"
+      HBG:
+        name: "哈蒂斯堡"
+      JAN:
+        name: "杰克逊"
+      MEI:
+        name: "默里迪恩"
+      VKS:
+        name: "维克斯堡"
+    MI:
+      name: "密歇根"
+      ARB:
+        name: "安娜堡"
+      BTL:
+        name: "巴特尔克里克"
+      BCY:
+        name: "贝城"
+      GRR:
+        name: "大急流城"
+      DEO:
+        name: "迪尔伯恩"
+      DET:
+        name: "底特律"
+      FNT:
+        name: "弗林特"
+      WYD:
+        name: "怀恩多特"
+      AZO:
+        name: "卡拉马袓"
+      LAN:
+        name: "兰辛"
+      MKG:
+        name: "马斯基根"
+      PTK:
+        name: "庞菷亚克"
+      SGM:
+        name: "萨吉诺"
+      SSM:
+        name: "苏圣玛丽"
+      WAM:
+        name: "沃伦"
+      PHN:
+        name: "休伦港"
+    ME:
+      name: "缅因"
+      BNQ:
+        name: "班戈"
+      POL:
+        name: "波特兰"
+      QLW:
+        name: "刘易斯顿"
+    MN:
+      name: "明尼苏达"
+      RST:
+        name: "罗切斯特"
+      MES:
+        name: "明尼阿波利斯"
+      STP:
+        name: "圣保罗"
+    SD:
+      name: "南达科他"
+      ABK:
+        name: "阿伯丁"
+      RAP:
+        name: "拉皮德城"
+      FSD:
+        name: "苏福尔斯"
+    SC:
+      name: "南卡罗来纳"
+      NTS:
+        name: "北查尔斯顿"
+      CHS:
+        name: "查尔斯顿"
+      COV:
+        name: "哥伦比亚"
+    NE:
+      name: "内布拉斯加"
+      OMA:
+        name: "奥马哈"
+      XDE:
+        name: "贝尔维尤"
+      LNK:
+        name: "林肯"
+    NV:
+      name: "内华达"
+      EKO:
+        name: "埃尔科"
+      NVS:
+        name: "北拉斯维加斯"
+      VGI:
+        name: "弗吉尼亚城"
+      HNZ:
+        name: "亨德森"
+      CSN:
+        name: "卡森城"
+      LAS:
+        name: "拉斯维加斯"
+      RNO:
+        name: "里诺"
+      SPK:
+        name: "斯帕克斯"
+    NY:
+      name: "纽约"
+      FFO:
+        name: "布法罗"
+      ROC:
+        name: "罗切斯特"
+      QEE:
+        name: "纽约市"
+    DE:
+      name: "特拉华"
+      DOR:
+        name: "多佛"
+      NWK:
+        name: "纽瓦克"
+      ILG:
+        name: "威明顿"
+    TN:
+      name: "田纳西"
+      BSJ:
+        name: "布利斯托"
+      CHA:
+        name: "查塔努加"
+      TRI:
+        name: "金斯波特"
+      MEM:
+        name: "孟菲斯"
+      BNA:
+        name: "纳什维尔"
+      TYS:
+        name: "诺克斯维尔"
+      YTC:
+        name: "三城区"
+      MQY:
+        name: "士麦那"
+      RGI:
+        name: "斯普林希尔"
+      JCY:
+        name: "约翰逊城"
+    WI:
+      name: "威斯康星"
+      ATW:
+        name: "阿普尓顿"
+      OSH:
+        name: "奥什科什"
+      GBK:
+        name: "格林贝"
+      ENW:
+        name: "基诺沙"
+      LSE:
+        name: "拉克罗斯"
+      RAC:
+        name: "拉辛"
+      MTW:
+        name: "马尼托沃克"
+      QMD:
+        name: "迈迪逊"
+      MKE:
+        name: "密尔沃基"
+      EAU:
+        name: "欧克莱尓"
+      AUW:
+        name: "沃索"
+      SBM:
+        name: "希博伊根"
+    VA:
+      name: "维吉尼亚"
+      VAB:
+        name: "弗吉尼亚比奇"
+      ORF:
+        name: "诺福克"
+      HTW:
+        name: "切萨皮克"
+    WV:
+      name: "西佛吉尼亚"
+      CRW:
+        name: "查尔斯顿"
+      HNU:
+        name: "亨廷顿"
+      PKB:
+        name: "帕克斯堡"
+    HI:
+      name: "夏威夷"
+      KHH:
+        name: "凯卢阿"
+      HNL:
+        name: "檀香山"
+      ITO:
+        name: "希洛"
+    NH:
+      name: "新罕布什尔"
+      CON:
+        name: "康科德"
+      MHT:
+        name: "曼彻斯特"
+      ASH:
+        name: "纳舒厄"
+    NM:
+      name: "新墨西哥"
+      ABQ:
+        name: "阿尔伯克基"
+      LRU:
+        name: "拉斯克鲁塞斯"
+      ROW:
+        name: "罗斯韦尔"
+      SAF:
+        name: "圣菲"
+    NJ:
+      name: "新泽西"
+      NRK:
+        name: "纽瓦克"
+      PAT:
+        name: "帕特森"
+      JEC:
+        name: "泽西城"
+    AZ:
+      name: "亚利桑那"
+      PHX:
+        name: "凤凰城"
+      GDA:
+        name: "格兰代尔"
+      MQA:
+        name: "梅萨"
+      STZ:
+        name: "史卡兹代尔"
+      TPE:
+        name: "坦普"
+      TUC:
+        name: "图森"
+      YUM:
+        name: "优玛"
+    IL:
+      name: "伊利诺斯"
+      ALN:
+        name: "奥尔顿"
+      AUZ:
+        name: "奥罗拉"
+      BLO:
+        name: "布卢明顿"
+      DVI:
+        name: "丹维尓"
+      DEK:
+        name: "迪卡尔布"
+      DEC:
+        name: "迪凯持"
+      ESL:
+        name: "东圣路易斯"
+      CMI:
+        name: "厄巴纳-香槟"
+      GSU:
+        name: "盖尔斯堡"
+      MDH:
+        name: "卡本代尔"
+      RKI:
+        name: "罗克艾兰"
+      RFD:
+        name: "罗克福德"
+      NOM:
+        name: "诺黙尔"
+      PLA:
+        name: "皮奥里亚"
+      CRA:
+        name: "森特勒利亚"
+      SPI:
+        name: "斯普林菲尔德"
+      UGN:
+        name: "沃其根"
+      CHI:
+        name: "芝加哥"
+    IN:
+      name: "印第安那"
+      EVV:
+        name: "埃文斯维尔"
+      FWA:
+        name: "韦恩堡"
+      IND:
+        name: "印第安纳波利斯"
+    UT:
+      name: "犹他"
+      OGD:
+        name: "奥格登"
+      LTJ:
+        name: "雷登"
+      OEU:
+        name: "欧仁"
+      PAC:
+        name: "帕克城"
+      PVU:
+        name: "普罗沃"
+      SGU:
+        name: "圣乔治"
+      WVC:
+        name: "西瓦利城"
+      SLC:
+        name: "盐湖城"
+    GA:
+      name: "佐治亚"
+      AUT:
+        name: "奥古斯塔"
+      CZX:
+        name: "哥伦布"
+      MCN:
+        name: "梅肯"
+      SAV:
+        name: "沙瓦纳"
+      TAT:
+        name: "亚特兰大"
+  ASM:
+    name: "美属萨摩亚"
+    ASM:
+      name: "美属萨摩亚"
+      AAN:
+        name: "阿纳"
+      ATU:
+        name: "阿图阿"
+      AIT:
+        name: "艾加伊勒泰"
+      FAA:
+        name: "法塞莱莱阿加"
+      GFG:
+        name: "加盖福毛加"
+      GMG:
+        name: "加加埃毛加"
+      PAL:
+        name: "帕劳利"
+      SAT:
+        name: "萨图帕伊泰阿"
+      SAV:
+        name: "萨瓦伊岛"
+      TUA:
+        name: "图阿马萨加"
+      VAF:
+        name: "瓦奥福诺蒂"
+      VAI:
+        name: "韦西加诺"
+      UPO:
+        name: "乌波卢岛"
+  UMI:
+    name: "美属外岛"
+    UMI:
+      name: "美属外岛"
+      UMI:
+        name: "美属外岛"
+  MNG:
+    name: "蒙古"
+    MNG:
+      name: "蒙古"
+      :69:
+        name: "巴彦洪格尔"
+      :71:
+        name: "巴彦乌勒盖"
+      :67:
+        name: "布尔干"
+      :37:
+        name: "达尔汗乌勒"
+      :61:
+        name: "东方"
+      :63:
+        name: "东戈壁"
+      :35:
+        name: "鄂尔浑"
+      :65:
+        name: "戈壁阿尔泰"
+      :64:
+        name: "戈壁苏木贝尔"
+      :73:
+        name: "后杭爱"
+      :43:
+        name: "科布多"
+      :39:
+        name: "肯特"
+      :41:
+        name: "库苏古尔"
+      UMN:
+        name: "南戈壁"
+      UVO:
+        name: "前杭爱"
+      :49:
+        name: "色楞格"
+      :51:
+        name: "苏赫巴托尔"
+      :46:
+        name: "乌布苏"
+      :1:
+        name: "乌兰巴托市"
+      :57:
+        name: "扎布汗"
+      :59:
+        name: "中戈壁"
+      :47:
+        name: "中央"
+  MSR:
+    name: "蒙特塞拉特"
+    MSR:
+      name: "蒙特塞拉特"
+      MSR:
+        name: "蒙特塞拉特"
+  BGD:
+    name: "孟加拉"
+    BGD:
+      name: "孟加拉"
+      DAC:
+        name: "达卡"
+      CGP:
+        name: "吉大港"
+      KHL:
+        name: "库尔纳"
+  FSM:
+    name: "密克罗尼西亚"
+    FSM:
+      name: "密克罗尼西亚"
+      FSM:
+        name: "密克罗尼西亚"
+  PER:
+    name: "秘鲁"
+    PER:
+      name: "秘鲁"
+      AR:
+        name: "阿雷基帕"
+      AP:
+        name: "阿普里马克"
+      AY:
+        name: "阿亚库乔"
+      AN:
+        name: "安卡什"
+      JUL:
+        name: "胡利亚卡"
+      JU:
+        name: "胡宁"
+      CJ:
+        name: "卡哈马卡"
+      CL:
+        name: "卡亚俄"
+      CU:
+        name: "库斯科"
+      LD:
+        name: "拉利伯塔德"
+      LY:
+        name: "兰巴耶克"
+      LI:
+        name: "利马"
+      LO:
+        name: "洛雷托"
+      MD:
+        name: "马德雷德迪奥斯"
+      MO:
+        name: "莫克瓜"
+      PA:
+        name: "帕斯科"
+      PI:
+        name: "皮乌拉"
+      PU:
+        name: "普诺"
+      CHM:
+        name: "钦博特"
+      CHI:
+        name: "钦查阿尔塔"
+      SM:
+        name: "圣马丁"
+      SUL:
+        name: "苏拉纳"
+      TA:
+        name: "塔克纳"
+      TU:
+        name: "通贝斯"
+      HO:
+        name: "瓦努科"
+      HV:
+        name: "万卡维利卡"
+      UC:
+        name: "乌卡亚利"
+      AM:
+        name: "亚马孙"
+      IC:
+        name: "伊卡"
+  MMR:
+    name: "缅甸"
+    MMR:
+      name: "缅甸"
+      BG:
+        name: "勃固省"
+      SH:
+        name: "掸邦"
+      TN:
+        name: "德林达依省"
+      KN:
+        name: "克伦邦"
+      KC:
+        name: "克钦邦"
+      KH:
+        name: "克耶邦"
+      MG:
+        name: "马圭省"
+      MD:
+        name: "曼德勒省"
+      MN:
+        name: "孟邦"
+      CH:
+        name: "钦邦"
+      RK:
+        name: "若开邦"
+      SG:
+        name: "实皆省"
+      YG:
+        name: "仰光省"
+      AY:
+        name: "伊洛瓦底省"
+  MDA:
+    name: "摩尔多瓦"
+    MDA:
+      name: "摩尔多瓦"
+      MDA:
+        name: "摩尔多瓦"
+  MAR:
+    name: "摩洛哥"
+    MAR:
+      name: "摩洛哥"
+      TGR:
+        name: "丹吉尔"
+      TET:
+        name: "得土安"
+      FES:
+        name: "非斯"
+      CBL:
+        name: "卡萨布兰卡"
+      RSA:
+        name: "拉巴特"
+      MRK:
+        name: "马拉喀什"
+      MKN:
+        name: "梅克内斯"
+      OUJ:
+        name: "乌季达"
+      WSH:
+        name: "西撒哈拉"
+  MCO:
+    name: "摩纳哥"
+    MCO:
+      name: "摩纳哥"
+      MCO:
+        name: "摩纳哥"
+  MOZ:
+    name: "莫桑比克"
+    MOZ:
+      name: "莫桑比克"
+      MOZ:
+        name: "莫桑比克"
+  MEX:
+    name: "墨西哥"
+    MEX:
+      name: "墨西哥"
+      AGU:
+        name: "阿瓜斯卡连斯特"
+      ACA:
+        name: "阿卡普尔科"
+      HMO:
+        name: "埃莫西约"
+      CAM:
+        name: "埃佩切"
+      OBR:
+        name: "奥夫雷贡城"
+      ORI:
+        name: "奥里萨巴"
+      VHM:
+        name: "巴利城"
+      PVR:
+        name: "巴亚尔塔港"
+      VSA:
+        name: "比利亚埃尔莫萨"
+      PRH:
+        name: "波萨里卡"
+      TIJ:
+        name: "蒂华纳"
+      DUR:
+        name: "杜兰戈"
+      ESE:
+        name: "恩塞纳达"
+      GDL:
+        name: "瓜达拉哈拉"
+      GUA:
+        name: "瓜纳华托"
+      JAL:
+        name: "哈拉帕"
+      JUZ:
+        name: "华雷斯"
+      BJU:
+        name: "华雷斯港"
+      CAR:
+        name: "卡门"
+      COL:
+        name: "科利马"
+      QUE:
+        name: "克雷塔罗"
+      CVC:
+        name: "库埃纳瓦卡"
+      CUL:
+        name: "库利阿坎"
+      COA:
+        name: "夸察夸拉克斯"
+      LAP:
+        name: "拉巴斯"
+      LEN:
+        name: "莱昂"
+      REX:
+        name: "雷诺萨"
+      LMM:
+        name: "洛斯莫奇斯"
+      MZT:
+        name: "马萨特兰"
+      MAM:
+        name: "马塔莫罗斯"
+      MID:
+        name: "梅里达"
+      LOV:
+        name: "蒙克洛瓦"
+      MTY:
+        name: "蒙特雷"
+      MLM:
+        name: "莫雷利亚"
+      MEX:
+        name: "墨西哥城"
+      MXL:
+        name: "墨西卡利"
+      NOG:
+        name: "诺加莱斯"
+      PAC:
+        name: "帕丘卡"
+      PUE:
+        name: "普埃布拉"
+      CHI:
+        name: "奇尔潘辛戈"
+      CHH:
+        name: "奇瓦瓦"
+      CTM:
+        name: "切图马尔"
+      SLW:
+        name: "萨尔蒂约"
+      ZAC:
+        name: "萨卡特卡斯"
+      CLY:
+        name: "塞拉亚"
+      SLP:
+        name: "圣路易斯波托亚"
+      TAP:
+        name: "塔帕丘拉"
+      TAM:
+        name: "坦皮科"
+      TLA:
+        name: "特拉斯卡拉"
+      TPQ:
+        name: "特皮克"
+      TCN:
+        name: "特瓦坎"
+      TGZ:
+        name: "图斯特拉-古铁雷斯"
+      TRC:
+        name: "托雷翁"
+      TLC:
+        name: "托卢卡"
+      OAX:
+        name: "瓦哈卡"
+      VIC:
+        name: "维多利亚城"
+      VER:
+        name: "韦拉克鲁斯"
+      UPN:
+        name: "乌鲁阿潘"
+      NLE:
+        name: "新拉雷多"
+      IRP:
+        name: "伊拉普阿托"
+  NAM:
+    name: "纳米比亚"
+    NAM:
+      name: "纳米比亚"
+      ER:
+        name: "埃龙戈"
+      OW:
+        name: "奥汉圭纳"
+      KV:
+        name: "奥卡万戈"
+      OK:
+        name: "奥马赫科"
+      OT:
+        name: "奥姆沙蒂"
+      OJ:
+        name: "奥乔宗蒂约巴"
+      ON:
+        name: "奥沙纳"
+      OO:
+        name: "奥希科托"
+      HA:
+        name: "哈达普"
+      KH:
+        name: "霍马斯"
+      KR:
+        name: "卡拉斯"
+      CA:
+        name: "卡普里维"
+      KU:
+        name: "库内内"
+  ZAF:
+    name: "南非"
+    ZAF:
+      name: "南非"
+      UTN:
+        name: "阿平顿"
+      MAY:
+        name: "艾利弗山"
+      PZB:
+        name: "彼德马里茨堡"
+      PTG:
+        name: "彼德斯堡"
+      PRY:
+        name: "比勒陀利亚"
+      BIY:
+        name: "比索"
+      BDD:
+        name: "布雷达斯多普"
+      BFN:
+        name: "布隆方丹"
+      BHT:
+        name: "布隆克斯特斯普利特"
+      DAA:
+        name: "德阿尔"
+      DUR:
+        name: "德班"
+      DUN:
+        name: "邓迪"
+      BAE:
+        name: "东巴克利"
+      ELS:
+        name: "东伦敦"
+      VRU:
+        name: "弗雷堡"
+      VGG:
+        name: "弗里尼欣"
+      GBD:
+        name: "格罗布莱斯达尔"
+      GIY:
+        name: "基雅尼"
+      KIM:
+        name: "金伯利"
+      CPT:
+        name: "开普敦"
+      KXE:
+        name: "克莱克斯多普"
+      KMH:
+        name: "库鲁曼"
+      UTW:
+        name: "昆士敦"
+      LAY:
+        name: "莱迪史密斯"
+      RFT:
+        name: "兰德方丹"
+      RCB:
+        name: "理查兹湾"
+      RSB:
+        name: "利斯滕堡"
+      MDB:
+        name: "米德尔堡"
+      MZQ:
+        name: "姆库泽"
+      MOO:
+        name: "穆里斯堡"
+      NLP:
+        name: "内尔斯普雷特"
+      NYL:
+        name: "尼尔斯特隆"
+      NCS:
+        name: "纽卡斯尔"
+      GRJ:
+        name: "乔治"
+      SAS:
+        name: "萨索尔堡"
+      ZEC:
+        name: "瑟孔达"
+      IXO:
+        name: "特克索波"
+      TPB:
+        name: "特隆普斯堡"
+      SBU:
+        name: "跳羚"
+      TLH:
+        name: "图拉马哈谢"
+      THY:
+        name: "托霍延杜"
+      WSH:
+        name: "韦茨肖克"
+      WEL:
+        name: "韦尔科姆"
+      ULD:
+        name: "乌伦迪"
+      UTT:
+        name: "乌姆塔塔"
+      WOR:
+        name: "伍斯特"
+      BEW:
+        name: "西博福特"
+      PSS:
+        name: "谢普斯通港"
+      PLZ:
+        name: "伊丽莎白港"
+      JNB:
+        name: "约翰内斯堡"
+  ATA:
+    name: "南极洲"
+    ATA:
+      name: "南极洲"
+      ATA:
+        name: "南极洲"
+  SGS:
+    name: "南乔治亚和南桑德威奇群岛"
+    SGS:
+      name: "南乔治亚和南桑德威奇群岛"
+      SGS:
+        name: "南乔治亚和南桑德威奇群岛"
+  NRU:
+    name: "瑙鲁"
+    NRU:
+      name: "瑙鲁"
+      NRU:
+        name: "瑙鲁"
+  NPL:
+    name: "尼泊尔"
+    NPL:
+      name: "尼泊尔"
+      BA:
+        name: "巴格马蒂"
+      DH:
+        name: "道拉吉里"
+      GA:
+        name: "甘达基"
+      KO:
+        name: "戈西"
+      KA:
+        name: "格尔纳利"
+      JA:
+        name: "贾纳克布尔"
+      RA:
+        name: "拉布蒂"
+      LU:
+        name: "蓝毗尼"
+      MA:
+        name: "马哈卡利"
+      ME:
+        name: "梅吉"
+      NA:
+        name: "纳拉亚尼"
+      BH:
+        name: "佩里"
+      SA:
+        name: "萨加玛塔"
+      SE:
+        name: "塞蒂"
+  NIC:
+    name: "尼加拉瓜"
+    NIC:
+      name: "尼加拉瓜"
+      ES:
+        name: "埃斯特利"
+      AN:
+        name: "北大西洋"
+      BO:
+        name: "博阿科"
+      GR:
+        name: "格拉纳达"
+      CA:
+        name: "卡拉索"
+      LE:
+        name: "莱昂"
+      RV:
+        name: "里瓦斯"
+      MD:
+        name: "马德里斯"
+      MN:
+        name: "马那瓜"
+      MS:
+        name: "马萨亚"
+      MT:
+        name: "马塔加尔帕"
+      AS:
+        name: "南大西洋"
+      CD:
+        name: "奇南德加"
+      CT:
+        name: "琼塔莱斯"
+      SJ:
+        name: "圣胡安河"
+      JI:
+        name: "希诺特加"
+      NS:
+        name: "新塞哥维亚"
+  NER:
+    name: "尼日尔"
+    NER:
+      name: "尼日尔"
+      AJY:
+        name: "阿加德兹"
+      DIF:
+        name: "迪法"
+      TIL:
+        name: "蒂拉贝里"
+      DSS:
+        name: "多索"
+      ZND:
+        name: "津德尔"
+      MFQ:
+        name: "马拉迪"
+      NIM:
+        name: "尼亚美市"
+      THZ:
+        name: "塔瓦"
+  NGA:
+    name: "尼日利亚"
+    NGA:
+      name: "尼日利亚"
+      ABV:
+        name: "阿比亚"
+      OGB:
+        name: "奥博莫绍"
+      KAN:
+        name: "卡诺"
+      LOS:
+        name: "拉各斯"
+      IBA:
+        name: "伊巴丹"
+  NIU:
+    name: "纽埃"
+    NIU:
+      name: "纽埃"
+      NIU:
+        name: "纽埃"
+  NOR:
+    name: "挪威"
+    NOR:
+      name: "挪威"
+      :2:
+        name: "阿克什胡斯"
+      :5:
+        name: "奥普兰"
+      :3:
+        name: "奥斯陆市"
+      :17:
+        name: "北特伦德拉格"
+      :6:
+        name: "布斯克吕"
+      :9:
+        name: "东阿格德尔"
+      :1:
+        name: "东福尔"
+      :20:
+        name: "芬马克"
+      :4:
+        name: "海德马克"
+      :12:
+        name: "霍达兰"
+      :11:
+        name: "罗加兰"
+      :15:
+        name: "默勒－鲁姆斯达尔"
+      :16:
+        name: "南特伦德拉格"
+      :18:
+        name: "诺尔兰"
+      :14:
+        name: "松恩－菲尤拉讷"
+      :8:
+        name: "泰勒马克"
+      :19:
+        name: "特罗姆斯"
+      :10:
+        name: "西阿格德尔"
+      :7:
+        name: "西福尔"
+  NFK:
+    name: "诺福克"
+    NFK:
+      name: "诺福克"
+      NFK:
+        name: "诺福克"
+  PLW:
+    name: "帕劳群岛"
+    PLW:
+      name: "帕劳群岛"
+      PLW:
+        name: "帕劳群岛"
+  PCN:
+    name: "皮特凯恩"
+    PCN:
+      name: "皮特凯恩"
+      PCN:
+        name: "皮特凯恩"
+  PRT:
+    name: "葡萄牙"
+    PRT:
+      name: "葡萄牙"
+      ALL:
+        name: "滨海阿连特茹"
+      PLT:
+        name: "滨海皮尼亚尔"
+      VDP:
+        name: "波尔图"
+      MDR:
+        name: "杜罗"
+      EDV:
+        name: "恩特拉杜罗伏日"
+      FAO:
+        name: "法鲁"
+      FUN:
+        name: "丰沙尔"
+      CAV:
+        name: "卡瓦多"
+      CLB:
+        name: "科瓦贝拉"
+      LIS:
+        name: "里斯本"
+      LTE:
+        name: "利巴特茹"
+      MTE:
+        name: "梅地奥特茹"
+      MLI:
+        name: "米尼奥-利马"
+      BIN:
+        name: "内贝拉北"
+      BIS:
+        name: "内贝拉南"
+      PIN:
+        name: "内皮尼亚尔北"
+      PIS:
+        name: "内皮尼亚尔南"
+      PDL:
+        name: "蓬塔德尔加达"
+      PSE:
+        name: "塞图巴尔半岛"
+      SES:
+        name: "山后"
+      AAT:
+        name: "上阿连特茹"
+      ATM:
+        name: "上特拉斯山"
+      TAM:
+        name: "塔梅加"
+      AES:
+        name: "万福"
+      OES:
+        name: "西部"
+      BAL:
+        name: "下阿连特茹"
+      BVO:
+        name: "下伏日"
+      BMO:
+        name: "下蒙德古"
+      ALC:
+        name: "中阿连特茹"
+  GEO:
+    name: "乔治亚"
+    GEO:
+      name: "乔治亚"
+      GEO:
+        name: "乔治亚"
+  JPN:
+    name: "日本"
+    JPN:
+      name: "日本"
+      :38:
+        name: "爱媛"
+      :23:
+        name: "爱知"
+      :1:
+        name: "北海道"
+      :28:
+        name: "兵库"
+      :47:
+        name: "冲绳"
+      :8:
+        name: "茨城"
+      :27:
+        name: "大阪"
+      :44:
+        name: "大分"
+      :32:
+        name: "岛根"
+      :36:
+        name: "徳岛"
+      :13:
+        name: "东京"
+      :7:
+        name: "福岛"
+      :40:
+        name: "福冈"
+      :18:
+        name: "福井"
+      :16:
+        name: "富山"
+      :33:
+        name: "冈山"
+      :39:
+        name: "高知"
+      :4:
+        name: "宮城"
+      :45:
+        name: "宫崎"
+      :34:
+        name: "广岛"
+      :30:
+        name: "和歌山"
+      :26:
+        name: "京都"
+      :22:
+        name: "静冈"
+      :9:
+        name: "枥木"
+      :46:
+        name: "鹿儿岛"
+      :29:
+        name: "奈良"
+      :31:
+        name: "鸟取"
+      :21:
+        name: "岐阜"
+      :11:
+        name: "埼玉"
+      :12:
+        name: "千叶"
+      :2:
+        name: "青森"
+      :5:
+        name: "秋田"
+      :10:
+        name: "群马"
+      :24:
+        name: "三重"
+      :35:
+        name: "山口"
+      :19:
+        name: "山梨"
+      :6:
+        name: "山形"
+      :14:
+        name: "神奈川"
+      :17:
+        name: "石川"
+      :37:
+        name: "香川"
+      :15:
+        name: "新潟"
+      :43:
+        name: "熊本"
+      :3:
+        name: "岩手"
+      :42:
+        name: "长崎"
+      :20:
+        name: "长野"
+      :25:
+        name: "滋贺"
+      :41:
+        name: "佐贺"
+  SWE:
+    name: "瑞典"
+    SWE:
+      name: "瑞典"
+      BD:
+        name: "北博滕"
+      K:
+        name: "布莱金厄"
+      DLN:
+        name: "达拉纳"
+      UGL:
+        name: "东约特兰"
+      T:
+        name: "厄勒布鲁"
+      I:
+        name: "哥得兰"
+      N:
+        name: "哈兰"
+      H:
+        name: "卡尔马"
+      G:
+        name: "克鲁努贝里"
+      D:
+        name: "南曼兰"
+      AB:
+        name: "斯德哥尔摩"
+      M:
+        name: "斯科耐"
+      S:
+        name: "韦姆兰"
+      C:
+        name: "乌普萨拉"
+      AC:
+        name: "西博滕"
+      U:
+        name: "西曼兰"
+      Y:
+        name: "西诺尔兰"
+      O:
+        name: "西约特兰"
+      F:
+        name: "延雪平"
+      X:
+        name: "耶夫勒堡"
+      Z:
+        name: "耶姆特兰"
+  CHE:
+    name: "瑞士"
+    CHE:
+      name: "瑞士"
+      AG:
+        name: "阿尔高"
+      BS:
+        name: "巴塞尔城市"
+      BL:
+        name: "巴塞尔乡村"
+      BE:
+        name: "伯尔尼"
+      ZG:
+        name: "楚格"
+      FR:
+        name: "弗里堡"
+      GL:
+        name: "格拉鲁斯"
+      GR:
+        name: "格劳宾登"
+      LU:
+        name: "卢塞恩"
+      LA:
+        name: "洛桑"
+      NE:
+        name: "纳沙泰尔"
+      AI:
+        name: "内阿彭策尔"
+      GE:
+        name: "日内瓦"
+      JU:
+        name: "汝拉"
+      SH:
+        name: "沙夫豪森"
+      OW:
+        name: "上瓦尔登"
+      SG:
+        name: "圣加仑"
+      SZ:
+        name: "施维茨"
+      ZH:
+        name: "苏黎世"
+      SO:
+        name: "索洛图恩"
+      TI:
+        name: "提契诺"
+      TG:
+        name: "图尔高"
+      VS:
+        name: "瓦莱"
+      AR:
+        name: "外阿彭策尔"
+      VD:
+        name: "沃"
+      UR:
+        name: "乌里"
+      NW:
+        name: "下瓦尔登"
+  SLV:
+    name: "萨尔瓦多"
+    SLV:
+      name: "萨尔瓦多"
+      APO:
+        name: "阿波帕"
+      AH:
+        name: "阿瓦查潘"
+      LI:
+        name: "滨海"
+      CH:
+        name: "查拉特南戈"
+      DE:
+        name: "德尔加多"
+      KN:
+        name: "基埃-恩特姆"
+      CA:
+        name: "卡瓦尼亚斯"
+      CU:
+        name: "库斯卡特兰"
+      PZ:
+        name: "拉巴斯"
+      LB:
+        name: "拉利伯塔德"
+      UN:
+        name: "拉乌尼翁"
+      MEJ:
+        name: "梅基卡诺斯"
+      MO:
+        name: "莫拉桑"
+      SA:
+        name: "圣安娜"
+      SM:
+        name: "圣米格尔"
+      SS:
+        name: "圣萨尔瓦多"
+      SV:
+        name: "圣维森特"
+      SO:
+        name: "松索纳特"
+      SOY:
+        name: "索亚潘戈"
+      WN:
+        name: "韦莱-恩萨斯"
+      US:
+        name: "乌苏卢坦"
+      IL:
+        name: "伊洛潘戈"
+      CS:
+        name: "中南"
+  WSM:
+    name: "萨摩亚"
+    WSM:
+      name: "萨摩亚"
+      WSM:
+        name: "萨摩亚"
+  SCG:
+    name: "塞尔维亚,黑山"
+    SCG:
+      name: "塞尔维亚,黑山"
+      BEG:
+        name: "贝尔格莱德"
+      POD:
+        name: "波德戈里察"
+      KGV:
+        name: "克拉古涅瓦茨"
+      INI:
+        name: "尼什"
+      NVS:
+        name: "诺维萨德"
+      PRN:
+        name: "普里什蒂纳"
+      SUB:
+        name: "苏博蒂察"
+      ZEM:
+        name: "泽蒙"
+  SLE:
+    name: "塞拉利昂"
+    SLE:
+      name: "塞拉利昂"
+      N:
+        name: "北部"
+      E:
+        name: "东部"
+      S:
+        name: "南部"
+      W:
+        name: "西部区"
+  SEN:
+    name: "塞内加尔"
+    SEN:
+      name: "塞内加尔"
+      DA:
+        name: "达喀尔"
+      FA:
+        name: "法蒂克"
+      ZI:
+        name: "济金绍尔"
+      TH:
+        name: "捷斯"
+      DI:
+        name: "久尔贝勒"
+      KA:
+        name: "考拉克"
+      KO:
+        name: "科尔达"
+      LO:
+        name: "卢加"
+      MA:
+        name: "马塔姆"
+      SL:
+        name: "圣路易"
+      TA:
+        name: "坦巴昆达"
+  CYP:
+    name: "塞浦路斯"
+    CYP:
+      name: "塞浦路斯"
+      :4:
+        name: "法马古斯塔"
+      :6:
+        name: "凯里尼亚"
+      :3:
+        name: "拉纳卡"
+      :2:
+        name: "利马索尔"
+      :1:
+        name: "尼科西亚"
+      :5:
+        name: "帕福斯"
+  SYC:
+    name: "塞舌尔"
+    SYC:
+      name: "塞舌尔"
+      SYC:
+        name: "塞舌尔"
+  SAU:
+    name: "沙特阿拉伯"
+    SAU:
+      name: "沙特阿拉伯"
+      ARA:
+        name: "阿尔阿尔"
+      AHB:
+        name: "艾卜哈"
+      BH:
+        name: "巴哈"
+      BUR:
+        name: "布赖代"
+      DAM:
+        name: "达曼"
+      HBT:
+        name: "哈费尔巴廷"
+      HL:
+        name: "哈伊勒"
+      KMX:
+        name: "海米斯穆谢特"
+      AKH:
+        name: "海耶"
+      HFF:
+        name: "胡富夫"
+      JED:
+        name: "吉达"
+      JZ:
+        name: "吉赞"
+      RD:
+        name: "利雅得"
+      MED:
+        name: "麦地那"
+      ML:
+        name: "麦加"
+      MBR:
+        name: "姆巴拉兹"
+      NR:
+        name: "纳季兰"
+      SAK:
+        name: "塞卡卡"
+      TB:
+        name: "塔布克"
+      TAR:
+        name: "塔伊夫"
+      YNB:
+        name: "延布"
+      JBI:
+        name: "朱拜勒"
+  CXR:
+    name: "圣诞岛"
+    CXR:
+      name: "圣诞岛"
+      CXR:
+        name: "圣诞岛"
+  STP:
+    name: "圣多美和普林西比"
+    STP:
+      name: "圣多美和普林西比"
+      STP:
+        name: "圣多美和普林西比"
+  SHN:
+    name: "圣赫勒拿"
+    SHN:
+      name: "圣赫勒拿"
+      SHN:
+        name: "圣赫勒拿"
+  KNA:
+    name: "圣基茨和尼维斯"
+    KNA:
+      name: "圣基茨和尼维斯"
+      KNA:
+        name: "圣基茨和尼维斯"
+  LCA:
+    name: "圣卢西亚"
+    LCA:
+      name: "圣卢西亚"
+      LCA:
+        name: "圣卢西亚"
+  SMR:
+    name: "圣马力诺"
+    SMR:
+      name: "圣马力诺"
+      SMR:
+        name: "圣马力诺"
+  SPM:
+    name: "圣皮埃尔和米克隆群岛"
+    SPM:
+      name: "圣皮埃尔和米克隆群岛"
+      SPM:
+        name: "圣皮埃尔和米克隆群岛"
+  VCT:
+    name: "圣文森特和格林纳丁斯"
+    VCT:
+      name: "圣文森特和格林纳丁斯"
+      VCT:
+        name: "圣文森特和格林纳丁斯"
+  LKA:
+    name: "斯里兰卡"
+    LKA:
+      name: "斯里兰卡"
+      ADP:
+        name: "阿努拉德普勒"
+      AMP:
+        name: "安帕赖"
+      BAD:
+        name: "巴杜勒"
+      BTC:
+        name: "拜蒂克洛"
+      POL:
+        name: "波隆纳鲁沃"
+      HBA:
+        name: "汉班托特"
+      KIL:
+        name: "基里诺奇"
+      GAL:
+        name: "加勒"
+      GAM:
+        name: "加姆珀哈"
+      JAF:
+        name: "贾夫纳"
+      KLT:
+        name: "卡卢特勒"
+      KEG:
+        name: "凯格勒"
+      KAN:
+        name: "康提"
+      CMB:
+        name: "科伦坡"
+      KUR:
+        name: "库鲁内格勒"
+      RAT:
+        name: "拉特纳普勒"
+      MAN:
+        name: "马纳尔"
+      MAT:
+        name: "马特莱"
+      MAA:
+        name: "马特勒"
+      MON:
+        name: "莫讷勒格勒"
+      MUL:
+        name: "穆莱蒂武"
+      NUE:
+        name: "努沃勒埃利耶"
+      PUT:
+        name: "普塔勒姆"
+      TRR:
+        name: "亭可马里"
+      VAV:
+        name: "瓦武尼亚"
+  SVK:
+    name: "斯洛伐克"
+    SVK:
+      name: "斯洛伐克"
+      BBY:
+        name: "班斯卡-比斯特里察"
+      BTS:
+        name: "布拉迪斯拉发"
+      KOR:
+        name: "科希策"
+      NRA:
+        name: "尼特拉"
+      POV:
+        name: "普雷绍夫"
+      RIL:
+        name: "日利纳"
+      TNA:
+        name: "特尔纳瓦"
+      TRE:
+        name: "特伦钦"
+  SVN:
+    name: "斯洛文尼亚"
+    SVN:
+      name: "斯洛文尼亚"
+      OKR:
+        name: "奥巴尔诺-克拉"
+      OSR:
+        name: "奥斯雷德涅斯洛文"
+      POD:
+        name: "波德拉夫"
+      POM:
+        name: "波穆尔"
+      DLJ:
+        name: "多雷尼"
+      GSZ:
+        name: "戈雷尼"
+      GSK:
+        name: "戈里"
+      KOR:
+        name: "科洛"
+      NKR:
+        name: "诺特拉尼"
+      SAV:
+        name: "萨维尼"
+      SPO:
+        name: "斯波德涅波萨夫"
+      ZAS:
+        name: "扎萨夫"
+  SJM:
+    name: "斯瓦尔巴和扬马廷"
+    SJM:
+      name: "斯瓦尔巴和扬马廷"
+      SJM:
+        name: "斯瓦尔巴和扬马廷"
+  SWZ:
+    name: "斯威士兰"
+    SWZ:
+      name: "斯威士兰"
+      SWZ:
+        name: "斯威士兰"
+  SDN:
+    name: "苏丹"
+    SDN:
+      name: "苏丹"
+      ASH:
+        name: "北部"
+      SIS:
+        name: "赤道"
+      SDA:
+        name: "达尔富尔"
+      SHA:
+        name: "东部"
+      SBG:
+        name: "加扎勒河"
+      KRT:
+        name: "喀土穆"
+      GKU:
+        name: "科尔多凡"
+      ANB:
+        name: "上尼罗"
+      WDH:
+        name: "中部"
+  SUR:
+    name: "苏里南"
+    SUR:
+      name: "苏里南"
+      BR:
+        name: "布罗科蓬多"
+      CR:
+        name: "科罗尼"
+      CM:
+        name: "科默韦讷"
+      MA:
+        name: "马罗韦讷"
+      NI:
+        name: "尼克里"
+      PA:
+        name: "帕拉"
+      PM:
+        name: "帕拉马里博"
+      SA:
+        name: "萨拉马卡"
+      WA:
+        name: "瓦尼卡"
+      SI:
+        name: "西帕里韦尼"
+  SLB:
+    name: "所罗门群岛"
+    SLB:
+      name: "所罗门群岛"
+      GC:
+        name: "瓜达尔卡纳尔"
+      HO:
+        name: "霍尼亚拉"
+      RB:
+        name: "拉纳尔和贝罗纳"
+      MK:
+        name: "马基拉"
+      ML:
+        name: "马莱塔"
+      CH:
+        name: "乔伊索"
+      TM:
+        name: "泰莫图"
+      WE:
+        name: "西部"
+      IS:
+        name: "伊萨贝尔"
+      CE:
+        name: "中部群岛"
+  SOM:
+    name: "索马里"
+    SOM:
+      name: "索马里"
+      SOM:
+        name: "索马里"
+  TJK:
+    name: "塔吉克斯坦"
+    TJK:
+      name: "塔吉克斯坦"
+      DYU:
+        name: "杜尚别"
+      KHO:
+        name: "霍罗格"
+      KAN:
+        name: "卡尼巴达姆"
+      KOF:
+        name: "科法尔尼洪"
+      KHU:
+        name: "苦盏"
+      KTJ:
+        name: "库尔干-秋别"
+      KLB:
+        name: "库洛布"
+      RGU:
+        name: "洛贡"
+      NUR:
+        name: "努雷克"
+      PJK:
+        name: "彭吉肯特"
+      SBA:
+        name: "萨班特"
+      TBS:
+        name: "塔博沙尔"
+      TSZ:
+        name: "图尔孙扎德"
+      UTJ:
+        name: "乌拉秋别"
+      ISF:
+        name: "伊斯法拉"
+  THA:
+    name: "泰国"
+    THA:
+      name: "泰国"
+      :37:
+        name: "安纳乍能"
+      :77:
+        name: "巴蜀"
+      :13:
+        name: "巴吞他尼"
+      :25:
+        name: "巴真"
+      :71:
+        name: "北碧"
+      :19:
+        name: "北标"
+      :94:
+        name: "北大年"
+      :11:
+        name: "北揽"
+      :60:
+        name: "北榄坡"
+      :24:
+        name: "北柳"
+      :76:
+        name: "碧差汶"
+      :93:
+        name: "博达伦"
+      :18:
+        name: "猜那"
+      :36:
+        name: "猜也奔"
+      :53:
+        name: "程逸"
+      :86:
+        name: "春蓬"
+      :20:
+        name: "春武里"
+      :63:
+        name: "达"
+      :23:
+        name: "达叻"
+      :14:
+        name: "大城"
+      :92:
+        name: "董里"
+      :78:
+        name: "佛丕"
+      :73:
+        name: "佛统"
+      :62:
+        name: "甘烹碧"
+      :15:
+        name: "红统"
+      :16:
+        name: "华富里"
+      :46:
+        name: "加拉信"
+      :81:
+        name: "甲米"
+      :22:
+        name: "尖竹汶"
+      :40:
+        name: "孔敬"
+      :21:
+        name: "拉农"
+      :43:
+        name: "廊开"
+      :39:
+        name: "廊莫那浦"
+      :70:
+        name: "叻丕"
+      :42:
+        name: "黎"
+      :45:
+        name: "黎逸"
+      :74:
+        name: "龙仔厝"
+      :85:
+        name: "罗勇"
+      :80:
+        name: "洛坤"
+      :44:
+        name: "玛哈沙拉堪"
+      :10:
+        name: "曼谷"
+      :49:
+        name: "莫达汉"
+      :26:
+        name: "那空那育"
+      :48:
+        name: "那空帕农"
+      :55:
+        name: "难"
+      :51:
+        name: "南奔"
+      :12:
+        name: "暖武里"
+      :54:
+        name: "帕"
+      :56:
+        name: "帕尧"
+      :82:
+        name: "攀牙"
+      :65:
+        name: "彭世洛"
+      :66:
+        name: "披集"
+      :83:
+        name: "普吉"
+      :57:
+        name: "清莱"
+      :50:
+        name: "清迈"
+      :47:
+        name: "色军"
+      :91:
+        name: "沙敦"
+      :27:
+        name: "沙缴"
+      :33:
+        name: "四色菊"
+      :90:
+        name: "宋卡"
+      :64:
+        name: "素可泰"
+      :84:
+        name: "素叻"
+      :32:
+        name: "素林"
+      :72:
+        name: "素攀武里"
+      :96:
+        name: "陶公"
+      :41:
+        name: "乌隆"
+      :61:
+        name: "乌泰他尼"
+      :34:
+        name: "乌汶"
+      :31:
+        name: "武里南"
+      :17:
+        name: "信武里"
+      :35:
+        name: "耶梭通"
+      :95:
+        name: "也拉"
+      :58:
+        name: "夜丰颂"
+      :75:
+        name: "夜功"
+  TZA:
+    name: "坦桑尼亚"
+    TZA:
+      name: "坦桑尼亚"
+      AR:
+        name: "阿鲁沙"
+      PN:
+        name: "奔巴北"
+      PS:
+        name: "奔巴南"
+      PW:
+        name: "滨海"
+      DS:
+        name: "达累斯萨拉姆"
+      DO:
+        name: "多多马"
+      KI:
+        name: "基戈马"
+      KA:
+        name: "卡盖拉"
+      LN:
+        name: "林迪"
+      RK:
+        name: "鲁夸"
+      RV:
+        name: "鲁伍马"
+      MR:
+        name: "马腊"
+      MY:
+        name: "曼亚拉"
+      MO:
+        name: "莫洛戈罗"
+      MB:
+        name: "姆贝亚"
+      MT:
+        name: "姆特瓦拉"
+      MW:
+        name: "姆万扎"
+      KJ:
+        name: "乞力马扎罗"
+      ZN:
+        name: "桑给巴尔"
+      UN:
+        name: "桑给巴尔北"
+      US:
+        name: "桑给巴尔南"
+      MM:
+        name: "桑给巴尔市和西"
+      TB:
+        name: "塔波拉"
+      TN:
+        name: "坦噶"
+      SI:
+        name: "辛吉达"
+      SH:
+        name: "欣延加"
+      IR:
+        name: "伊林加"
+  TON:
+    name: "汤加"
+    TON:
+      name: "汤加"
+      E:
+        name: "埃瓦"
+      H:
+        name: "哈派"
+      N:
+        name: "纽阿斯"
+      T:
+        name: "汤加塔布"
+      V:
+        name: "瓦瓦乌"
+  TCA:
+    name: "特克斯和凯克特斯群岛"
+    TCA:
+      name: "特克斯和凯克特斯群岛"
+      TCA:
+        name: "特克斯和凯克特斯群岛"
+  TAA:
+    name: "特里斯坦达昆哈"
+    TAA:
+      name: "特里斯坦达昆哈"
+      TAA:
+        name: "特里斯坦达昆哈"
+  TTO:
+    name: "特立尼达和多巴哥"
+    TTO:
+      name: "特立尼达和多巴哥"
+      TTO:
+        name: "特立尼达和多巴哥"
+  TUN:
+    name: "突尼斯"
+    TUN:
+      name: "突尼斯"
+      AR:
+        name: "艾尔亚奈"
+      BJ:
+        name: "巴杰"
+      BA:
+        name: "本阿鲁斯"
+      BI:
+        name: "比塞大"
+      KB:
+        name: "吉比利"
+      GB:
+        name: "加贝斯"
+      GF:
+        name: "加夫萨"
+      JE:
+        name: "坚杜拜"
+      LK:
+        name: "卡夫"
+      KS:
+        name: "卡塞林"
+      KR:
+        name: "凯鲁万"
+      MH:
+        name: "马赫迪耶"
+      MN:
+        name: "马努巴"
+      ME:
+        name: "梅德宁"
+      MO:
+        name: "莫纳斯提尔"
+      NA:
+        name: "纳布勒"
+      SF:
+        name: "斯法克斯"
+      SO:
+        name: "苏塞"
+      TA:
+        name: "泰塔温"
+      TU:
+        name: "突尼斯"
+      TO:
+        name: "托泽尔"
+      SD:
+        name: "西迪布济德"
+      SL:
+        name: "锡勒亚奈"
+      ZA:
+        name: "宰格万"
+  TUV:
+    name: "图瓦卢"
+    TUV:
+      name: "图瓦卢"
+      TUV:
+        name: "图瓦卢"
+  TUR:
+    name: "土耳其"
+    TUR:
+      name: "土耳其"
+      ADA:
+        name: "阿达纳"
+      ADI:
+        name: "阿德亚曼"
+      ARD:
+        name: "阿尔达罕"
+      ART:
+        name: "阿尔特温"
+      AFY:
+        name: "阿菲永"
+      AKS:
+        name: "阿克萨赖"
+      AGR:
+        name: "阿勒"
+      AMA:
+        name: "阿马西亚"
+      EDI:
+        name: "埃迪尔内"
+      EZC:
+        name: "埃尔津詹"
+      EZR:
+        name: "埃尔祖鲁姆"
+      ELA:
+        name: "埃拉泽"
+      ESK:
+        name: "埃斯基谢希尔"
+      AYI:
+        name: "艾登"
+      ANK:
+        name: "安卡拉"
+      ANT:
+        name: "安塔利亚"
+      ORD:
+        name: "奥尔杜"
+      BAR:
+        name: "巴尔腾"
+      BAL:
+        name: "巴勒克埃西尔"
+      BAT:
+        name: "巴特曼"
+      BAY:
+        name: "巴伊布尔特"
+      BIL:
+        name: "比莱吉克"
+      BIT:
+        name: "比特利斯"
+      BIN:
+        name: "宾格尔"
+      BOL:
+        name: "博卢"
+      BRD:
+        name: "布尔杜尔"
+      BRS:
+        name: "布尔萨"
+      CKR:
+        name: "昌克勒"
+      DEN:
+        name: "代尼兹利"
+      DIY:
+        name: "迪亚巴克尔"
+      VAN:
+        name: "凡"
+      HKR:
+        name: "哈卡里"
+      HTY:
+        name: "哈塔伊"
+      KLS:
+        name: "基利斯"
+      GIR:
+        name: "吉雷松"
+      GAZ:
+        name: "加济安泰普"
+      GMS:
+        name: "居米什哈内"
+      KRS:
+        name: "卡尔斯"
+      KAH:
+        name: "卡赫拉曼马拉什"
+      KRB:
+        name: "卡拉比克"
+      KRM:
+        name: "卡拉曼"
+      KAS:
+        name: "卡斯塔莫努"
+      KAY:
+        name: "开塞利"
+      KOC:
+        name: "科贾埃利"
+      KLR:
+        name: "柯克拉雷利"
+      KON:
+        name: "科尼亚"
+      KRH:
+        name: "克尔谢希尔"
+      KRK:
+        name: "克勒克卡莱"
+      URF:
+        name: "拉飞"
+      RIZ:
+        name: "里泽"
+      MAR:
+        name: "马尔丁"
+      MAL:
+        name: "马拉蒂亚"
+      MAN:
+        name: "马尼萨"
+      MUG:
+        name: "穆拉"
+      MUS:
+        name: "穆什"
+      NEV:
+        name: "内夫谢希尔"
+      NIG:
+        name: "尼代"
+      CKL:
+        name: "恰纳卡莱"
+      COR:
+        name: "乔鲁姆"
+      KUT:
+        name: "屈塔希亚"
+      SAK:
+        name: "萨卡里亚"
+      SAM:
+        name: "萨姆松"
+      TEL:
+        name: "泰基尔达"
+      TRA:
+        name: "特拉布宗"
+      TUN:
+        name: "通杰利"
+      TOK:
+        name: "托卡特"
+      USK:
+        name: "乌萨克"
+      SIR:
+        name: "锡尔纳克"
+      SII:
+        name: "锡尔特"
+      SIN:
+        name: "锡诺普"
+      SIV:
+        name: "锡瓦斯"
+      IGD:
+        name: "伊迪尔"
+      ICE:
+        name: "伊切尔"
+      ISP:
+        name: "伊斯帕尔塔"
+      IST:
+        name: "伊斯坦布尔"
+      IZM:
+        name: "伊兹密尔"
+      YOZ:
+        name: "约兹加特"
+      ZON:
+        name: "宗古尔达克"
+  TKM:
+    name: "土库曼斯坦"
+    TKM:
+      name: "土库曼斯坦"
+      A:
+        name: "阿哈尔"
+      ASB:
+        name: "阿什哈巴德市"
+      B:
+        name: "巴尔坎"
+      D:
+        name: "达沙古兹"
+      L:
+        name: "列巴普"
+      M:
+        name: "马雷"
+      NEB:
+        name: "涅比特达格"
+  TKL:
+    name: "托克劳"
+    TKL:
+      name: "托克劳"
+      TKL:
+        name: "托克劳"
+  WLF:
+    name: "瓦利斯和福图纳"
+    WLF:
+      name: "瓦利斯和福图纳"
+      WLF:
+        name: "瓦利斯和福图纳"
+  VUT:
+    name: "瓦努阿图"
+    VUT:
+      name: "瓦努阿图"
+      MA:
+        name: "马朗帕"
+      PE:
+        name: "彭纳马"
+      SA:
+        name: "桑马"
+      TA:
+        name: "塔菲阿"
+      TO:
+        name: "托尔巴"
+      SH:
+        name: "谢法"
+  GTM:
+    name: "危地马拉"
+    GTM:
+      name: "危地马拉"
+      PR:
+        name: "埃尔普罗格雷索"
+      ES:
+        name: "埃斯昆特拉"
+      JA:
+        name: "哈拉帕"
+      JU:
+        name: "胡蒂亚帕"
+      QC:
+        name: "基切"
+      QZ:
+        name: "克萨尔特南戈"
+      RE:
+        name: "雷塔卢莱乌"
+      MIX:
+        name: "米克斯科"
+      PE:
+        name: "佩滕"
+      CQ:
+        name: "奇基穆拉"
+      CM:
+        name: "奇马尔特南戈"
+      ZA:
+        name: "萨卡帕"
+      ST:
+        name: "萨卡特佩克斯"
+      AV:
+        name: "上韦拉帕斯"
+      SR:
+        name: "圣罗莎"
+      SM:
+        name: "圣马科斯"
+      SU:
+        name: "苏奇特佩克斯"
+      SO:
+        name: "索洛拉"
+      TO:
+        name: "托托尼卡潘"
+      GU:
+        name: "危地马拉"
+      HU:
+        name: "韦韦特南戈"
+      BV:
+        name: "下韦拉帕斯"
+      VIN:
+        name: "新城"
+      IZ:
+        name: "伊萨瓦尔"
+  VIR:
+    name: "维尔京群岛，美属"
+    VIR:
+      name: "维尔京群岛，美属"
+      VIR:
+        name: "维尔京群岛，美属"
+  VGB:
+    name: "维尔京群岛，英属"
+    VGB:
+      name: "维尔京群岛，英属"
+      VGB:
+        name: "维尔京群岛，英属"
+  VEN:
+    name: "委内瑞拉"
+    VEN:
+      name: "委内瑞拉"
+      D:
+        name: "阿拉瓜"
+      Y:
+        name: "阿马库罗三角洲"
+      C:
+        name: "阿普雷"
+      B:
+        name: "安索阿特吉"
+      E:
+        name: "巴里纳斯"
+      F:
+        name: "玻利瓦尔"
+      P:
+        name: "波图格萨"
+      I:
+        name: "法尔孔"
+      J:
+        name: "瓜里科"
+      A:
+        name: "加拉加斯"
+      G:
+        name: "卡拉沃沃"
+      H:
+        name: "科赫德斯"
+      K:
+        name: "拉腊"
+      W:
+        name: "联邦属地"
+      L:
+        name: "梅里达"
+      M:
+        name: "米兰达"
+      N:
+        name: "莫纳加斯"
+      R:
+        name: "苏克雷"
+      V:
+        name: "苏利亚"
+      S:
+        name: "塔奇拉"
+      T:
+        name: "特鲁希略"
+      O:
+        name: "新埃斯帕塔"
+      U:
+        name: "亚拉奎"
+      Z:
+        name: "亚马孙"
+  BRN:
+    name: "文莱"
+    BRN:
+      name: "文莱"
+      BRN:
+        name: "文莱"
+  UGA:
+    name: "乌干达"
+    UGA:
+      name: "乌干达"
+      ARU:
+        name: "阿鲁阿"
+      APC:
+        name: "阿帕克"
+      ADJ:
+        name: "阿朱马尼"
+      BUN:
+        name: "本迪布焦"
+      BUG:
+        name: "布吉里"
+      BUS:
+        name: "布西亚"
+      BSH:
+        name: "布谢尼"
+      NTU:
+        name: "恩通加莫"
+      GUL:
+        name: "古卢"
+      HOI:
+        name: "霍伊马"
+      KBA:
+        name: "基巴莱"
+      KIB:
+        name: "基博加"
+      KYE:
+        name: "基恩乔乔"
+      KIS:
+        name: "基索罗"
+      KIT:
+        name: "基特古姆"
+      JIN:
+        name: "金贾"
+      KBL:
+        name: "卡巴莱"
+      KAR:
+        name: "卡巴罗莱"
+      KAB:
+        name: "卡贝拉马伊多"
+      KAL:
+        name: "卡兰加拉"
+      KAM:
+        name: "卡姆文盖"
+      KML:
+        name: "卡穆利"
+      KAN:
+        name: "卡农古"
+      KPC:
+        name: "卡普乔鲁瓦"
+      KAS:
+        name: "卡塞塞"
+      KTK:
+        name: "卡塔奎"
+      KAY:
+        name: "卡永加"
+      KMP:
+        name: "坎帕拉"
+      KOT:
+        name: "科蒂多"
+      KUM:
+        name: "库米"
+      RAK:
+        name: "拉卡伊"
+      LIR:
+        name: "利拉"
+      LUW:
+        name: "卢韦罗"
+      RUK:
+        name: "鲁昆吉里"
+      MAS:
+        name: "马萨卡"
+      MSN:
+        name: "马辛迪"
+      MAY:
+        name: "马尤盖"
+      MRT:
+        name: "莫罗托"
+      MOY:
+        name: "莫约"
+      MBR:
+        name: "姆巴拉拉"
+      MBA:
+        name: "姆巴莱"
+      MPI:
+        name: "姆皮吉"
+      MUB:
+        name: "穆本德"
+      MUK:
+        name: "穆科诺"
+      NAK:
+        name: "纳卡皮里皮里特"
+      NKS:
+        name: "纳卡松戈拉"
+      NEB:
+        name: "内比"
+      PAD:
+        name: "帕德尔"
+      PAL:
+        name: "帕利萨"
+      SEM:
+        name: "森巴布莱"
+      SOR:
+        name: "索罗提"
+      TOR:
+        name: "托罗罗"
+      WAK:
+        name: "瓦基索"
+      SIR:
+        name: "锡龙科"
+      IGA:
+        name: "伊甘加"
+      YUM:
+        name: "永贝"
+  UKR:
+    name: "乌克兰"
+    UKR:
+      name: "乌克兰"
+      :51:
+        name: "敖德萨"
+      :53:
+        name: "波尔塔瓦"
+      :12:
+        name: "第聂伯罗波得罗夫斯克"
+      :14:
+        name: "顿涅茨克"
+      :63:
+        name: "哈尔科夫"
+      :65:
+        name: "赫尔松州"
+      :68:
+        name: "赫梅利尼茨基"
+      :30:
+        name: "基辅"
+      :35:
+        name: "基洛夫格勒"
+      :61:
+        name: "捷尔诺波尔"
+      :43:
+        name: "克里米亚自治共和国"
+      :46:
+        name: "利沃夫"
+      :9:
+        name: "卢甘斯克"
+      :56:
+        name: "罗夫诺"
+      :48:
+        name: "尼古拉耶夫"
+      :71:
+        name: "切尔卡瑟"
+      :74:
+        name: "切尔尼戈夫"
+      :77:
+        name: "切尔诺夫策"
+      :18:
+        name: "日托米尔"
+      :59:
+        name: "苏梅"
+      :21:
+        name: "外喀尔巴阡"
+      :5:
+        name: "文尼察"
+      :7:
+        name: "沃伦"
+      :26:
+        name: "伊万－弗兰科夫州"
+      :23:
+        name: "扎波罗热"
+  URY:
+    name: "乌拉圭"
+    URY:
+      name: "乌拉圭"
+      AR:
+        name: "阿蒂加斯"
+      DU:
+        name: "杜拉斯诺"
+      FA:
+        name: "佛罗里达"
+      FS:
+        name: "弗洛雷斯"
+      CA:
+        name: "卡内洛内斯"
+      CO:
+        name: "科洛尼亚"
+      LA:
+        name: "拉瓦耶哈"
+      RV:
+        name: "里韦拉"
+      RO:
+        name: "罗恰"
+      MA:
+        name: "马尔多纳多"
+      MO:
+        name: "蒙得维的亚"
+      RN:
+        name: "内格罗河"
+      PA:
+        name: "派桑杜"
+      SL:
+        name: "萨尔托"
+      CL:
+        name: "塞罗拉尔戈"
+      TT:
+        name: "三十三人"
+      SJ:
+        name: "圣何塞"
+      SO:
+        name: "索里亚诺"
+      TAW:
+        name: "塔夸伦博"
+  UZB:
+    name: "乌兹别克斯坦"
+    UZB:
+      name: "乌兹别克斯坦"
+      AN:
+        name: "安集延"
+      BU:
+        name: "布哈拉"
+      FA:
+        name: "费尔干纳"
+      XO:
+        name: "花拉子模"
+      JI:
+        name: "吉扎克"
+      QR:
+        name: "卡拉卡尔帕克斯坦共和国"
+      QA:
+        name: "卡什卡达里亚"
+      NG:
+        name: "纳曼干"
+      NW:
+        name: "纳沃伊"
+      SA:
+        name: "撒马尔罕"
+      SU:
+        name: "苏尔汉河"
+      TK:
+        name: "塔什干"
+      TO:
+        name: "塔什干市"
+      SI:
+        name: "锡尔河"
+  ESP:
+    name: "西班牙"
+    ESP:
+      name: "西班牙"
+      LEI:
+        name: "阿尔梅里亚"
+      ALB:
+        name: "阿尔瓦塞特"
+      ALA:
+        name: "阿拉瓦"
+      ALC:
+        name: "阿利坎特"
+      AST:
+        name: "阿斯图利亚斯"
+      AVI:
+        name: "阿维拉"
+      ORE:
+        name: "奥伦塞"
+      BJZ:
+        name: "巴达霍斯"
+      BLR:
+        name: "巴利阿里"
+      VLL:
+        name: "巴利亚多利德"
+      VLC:
+        name: "巴伦西亚"
+      BCN:
+        name: "巴塞罗那"
+      VSE:
+        name: "比斯开"
+      BUR:
+        name: "布尔戈斯"
+      GRX:
+        name: "格拉纳达"
+      GUA:
+        name: "瓜达拉哈拉"
+      JAE:
+        name: "哈恩"
+      GRO:
+        name: "赫罗纳"
+      GUI:
+        name: "吉普斯夸"
+      CAD:
+        name: "加的斯"
+      CCS:
+        name: "卡塞雷斯"
+      CIR:
+        name: "卡斯蒂利亚"
+      CAS:
+        name: "卡斯特利翁"
+      ODB:
+        name: "科尔多瓦"
+      CUE:
+        name: "昆卡"
+      LCG:
+        name: "拉科鲁尼亚"
+      ARL:
+        name: "拉里奥哈"
+      LPA:
+        name: "拉斯帕尔马斯"
+      LEN:
+        name: "莱昂"
+      LLE:
+        name: "莱里达"
+      LGO:
+        name: "卢戈"
+      MAD:
+        name: "马德里"
+      AGP:
+        name: "马拉加"
+      MJV:
+        name: "穆尔西亚"
+      NVV:
+        name: "纳瓦拉"
+      PAC:
+        name: "帕伦西亚"
+      PEV:
+        name: "蓬特韦德拉"
+      ZAZ:
+        name: "萨拉戈萨"
+      SLM:
+        name: "萨拉曼卡"
+      ZMR:
+        name: "萨莫拉"
+      SEG:
+        name: "塞哥维亚"
+      SVQ:
+        name: "塞维利亚"
+      SDR:
+        name: "桑坦德"
+      SCT:
+        name: "圣克鲁斯-德特内里费"
+      SOR:
+        name: "索里亚"
+      TAR:
+        name: "塔拉戈纳"
+      TER:
+        name: "特鲁埃尔"
+      TOL:
+        name: "托莱多"
+      HUV:
+        name: "韦尔瓦"
+      HUC:
+        name: "韦斯卡"
+  GRC:
+    name: "希腊"
+    GRC:
+      name: "希腊"
+      PRI:
+        name: "比雷埃夫斯"
+      DO:
+        name: "多德卡尼斯"
+      CHQ:
+        name: "干尼亚"
+      CY:
+        name: "基克拉迪"
+      LST:
+        name: "拉西锡"
+      LES:
+        name: "莱斯博斯"
+      RET:
+        name: "雷西姆农"
+      SMI:
+        name: "萨摩斯"
+      ATH:
+        name: "雅典"
+      HER:
+        name: "伊拉克里翁"
+  SGP:
+    name: "新加坡"
+    SGP:
+      name: "新加坡"
+      SGP:
+        name: "新加坡"
+  NCL:
+    name: "新喀里多尼亚"
+    NCL:
+      name: "新喀里多尼亚"
+      NCL:
+        name: "新喀里多尼亚"
+  NZL:
+    name: "新西兰"
+    NZL:
+      name: "新西兰"
+      AUK:
+        name: "奥克兰"
+      NSH:
+        name: "北岸"
+      PMR:
+        name: "北帕默斯顿"
+      FNR:
+        name: "北远"
+      BHE:
+        name: "布莱尼姆"
+      DUD:
+        name: "达尼丁"
+      GMN:
+        name: "格雷茅斯"
+      HLZ:
+        name: "哈密尔顿"
+      HAS:
+        name: "黑斯廷斯"
+      WAE:
+        name: "怀塔科拉"
+      GIS:
+        name: "吉斯伯恩"
+      KAI:
+        name: "凯帕拉"
+      CHC:
+        name: "克赖斯特彻奇"
+      RMD:
+        name: "里士满"
+      MNK:
+        name: "马努考"
+      NSN:
+        name: "纳尔逊"
+      NPE:
+        name: "内皮尔"
+      STR:
+        name: "斯特拉特福德"
+      TAU:
+        name: "陶马鲁努伊"
+      WHK:
+        name: "瓦卡塔尼"
+      WRE:
+        name: "旺阿雷"
+      WAG:
+        name: "旺格努伊"
+      NPL:
+        name: "新普利茅斯"
+      IVC:
+        name: "因弗卡吉尔"
+  HUN:
+    name: "匈牙利"
+    HUN:
+      name: "匈牙利"
+      BA:
+        name: "巴兰尼亚"
+      BK:
+        name: "巴奇-基什孔"
+      BZ:
+        name: "包尔绍德-奥包乌伊-曾普伦"
+      BE:
+        name: "贝凯什"
+      BU:
+        name: "布达佩斯"
+      FE:
+        name: "费耶尔"
+      HB:
+        name: "豪伊杜-比豪尔"
+      HE:
+        name: "赫维什"
+      JN:
+        name: "加兹-纳杰孔-索尔诺克"
+      GS:
+        name: "杰尔-莫松-肖普朗"
+      KE:
+        name: "科马罗姆"
+      NO:
+        name: "诺格拉德"
+      PE:
+        name: "佩斯"
+      CS:
+        name: "琼格拉德"
+      SO:
+        name: "绍莫吉"
+      SZ:
+        name: "索博尔奇-索特马尔-贝拉格"
+      TO:
+        name: "托尔瑙"
+      VE:
+        name: "维斯普雷姆"
+      VA:
+        name: "沃什"
+      ZA:
+        name: "佐洛"
+  SYR:
+    name: "叙利亚"
+    SYR:
+      name: "叙利亚"
+      HL:
+        name: "阿勒颇"
+      RD:
+        name: "大马士革"
+      DI:
+        name: "大马士革市"
+      DZ:
+        name: "代尔祖尔"
+      DA:
+        name: "德拉"
+      HM:
+        name: "哈马"
+      HA:
+        name: "哈塞克"
+      HI:
+        name: "霍姆斯"
+      GH:
+        name: "加布"
+      QA:
+        name: "卡米什利"
+      QU:
+        name: "库奈特拉"
+      RQ:
+        name: "拉卡"
+      LA:
+        name: "拉塔基亚"
+      SU:
+        name: "苏韦达"
+      TA:
+        name: "塔尔图斯"
+      ID:
+        name: "伊德利卜"
+  JAM:
+    name: "牙买加"
+    JAM:
+      name: "牙买加"
+      POR:
+        name: "波特兰"
+      HAN:
+        name: "汉诺威"
+      KIN:
+        name: "金斯敦"
+      CLA:
+        name: "克拉伦登"
+      MAN:
+        name: "曼彻斯特"
+      AND:
+        name: "圣安德鲁斯"
+      ANN:
+        name: "圣安娜"
+      CAT:
+        name: "圣凯瑟琳"
+      MAR:
+        name: "圣玛丽"
+      THO:
+        name: "圣托马斯"
+      ELI:
+        name: "圣伊丽莎白"
+      JAM:
+        name: "圣詹姆斯"
+      TRL:
+        name: "特里洛尼"
+      WML:
+        name: "西摩兰"
+  ARM:
+    name: "亚美尼亚"
+    ARM:
+      name: "亚美尼亚"
+      ARM:
+        name: "阿尔马维尔"
+      AGT:
+        name: "阿拉加措特恩"
+      ARA:
+        name: "阿拉拉特"
+      EVN:
+        name: "埃里温市"
+      GEG:
+        name: "格加尔库尼克"
+      KOT:
+        name: "科泰克"
+      LOR:
+        name: "洛里"
+      TAV:
+        name: "塔武什"
+      VAY:
+        name: "瓦约茨·佐尔"
+      SHI:
+        name: "希拉克"
+      SYU:
+        name: "休尼克"
+  YEM:
+    name: "也门"
+    YEM:
+      name: "也门"
+      AB:
+        name: "阿比扬"
+      AM:
+        name: "阿姆兰"
+      BA:
+        name: "贝达"
+      DA:
+        name: "达利"
+      HD:
+        name: "哈德拉毛"
+      HJ:
+        name: "哈杰"
+      HU:
+        name: "荷台达"
+      JA:
+        name: "焦夫"
+      LA:
+        name: "拉赫季"
+      MA:
+        name: "马里卜"
+      MR:
+        name: "迈赫拉"
+      MW:
+        name: "迈赫维特"
+      SD:
+        name: "萨达"
+      SN:
+        name: "萨那"
+      GXF:
+        name: "赛文"
+      SH:
+        name: "舍卜沃"
+      TA:
+        name: "塔伊兹"
+      ASR:
+        name: "希赫尔"
+      AD:
+        name: "亚丁"
+      IB:
+        name: "伊卜"
+      DH:
+        name: "扎玛尔"
+  IRQ:
+    name: "伊拉克"
+    IRQ:
+      name: "伊拉克"
+      IRQ:
+        name: "伊拉克"
+  IRN:
+    name: "伊朗"
+    IRN:
+      name: "伊朗"
+      IRN:
+        name: "伊朗"
+  ISR:
+    name: "以色列"
+    ISR:
+      name: "以色列"
+      ASH:
+        name: "阿什杜德"
+      BEV:
+        name: "贝尔谢巴"
+      BAT:
+        name: "贝特雁"
+      HFA:
+        name: "海法"
+      HOL:
+        name: "霍隆"
+      NAT:
+        name: "内坦亚"
+      TLV:
+        name: "特拉维夫"
+      J:
+        name: "耶路撒冷"
+  ITA:
+    name: "意大利"
+    ITA:
+      name: "意大利"
+      AST:
+        name: "阿斯蒂"
+      ASP:
+        name: "阿斯科利皮切诺"
+      AOI:
+        name: "安科纳"
+      OLB:
+        name: "奥尔比亚"
+      QOS:
+        name: "奥里斯塔诺"
+      AOT:
+        name: "奥斯塔"
+      PMO:
+        name: "巴勒莫"
+      BRI:
+        name: "巴里"
+      BGO:
+        name: "贝加莫"
+      BEN:
+        name: "贝内文托"
+      PSA:
+        name: "比萨"
+      PRD:
+        name: "波代诺内"
+      QPO:
+        name: "波坦察"
+      BLQ:
+        name: "博洛尼亚"
+      BIE:
+        name: "布拉"
+      BRC:
+        name: "布雷西亚"
+      BDS:
+        name: "布林迪西"
+      TRS:
+        name: "的里雅斯特"
+      TRN:
+        name: "都灵"
+      FRR:
+        name: "费拉拉"
+      FLR:
+        name: "佛罗伦萨"
+      FOG:
+        name: "福贾"
+      CAG:
+        name: "卡利亚里"
+      CST:
+        name: "卡塞塔"
+      CTA:
+        name: "卡塔尼亚"
+      QCZ:
+        name: "卡坦扎罗"
+      COB:
+        name: "坎波巴索"
+      CIY:
+        name: "科摩"
+      QCS:
+        name: "科森扎"
+      CRV:
+        name: "克罗托内"
+      CUN:
+        name: "库内奥"
+      LAQ:
+        name: "拉奎拉"
+      SPE:
+        name: "拉斯佩齐亚"
+      LCO:
+        name: "莱科"
+      LCC:
+        name: "莱切"
+      RNE:
+        name: "雷焦艾米利亚"
+      REG:
+        name: "雷焦卡拉布里亚"
+      LIV:
+        name: "里窝那"
+      ROM:
+        name: "罗马"
+      MCR:
+        name: "马萨"
+      MTR:
+        name: "马泰拉"
+      MZA:
+        name: "蒙扎"
+      MIL:
+        name: "米兰"
+      MOD:
+        name: "摩德纳"
+      MSN:
+        name: "墨西拿"
+      NAP:
+        name: "那不勒斯"
+      QNU:
+        name: "努奥罗"
+      NVR:
+        name: "诺瓦拉"
+      PMF:
+        name: "帕尔马"
+      PAV:
+        name: "帕维亚"
+      PEG:
+        name: "佩鲁贾"
+      CAX:
+        name: "热那亚"
+      SAL:
+        name: "萨莱诺"
+      QSS:
+        name: "萨萨里"
+      SVN:
+        name: "萨沃纳"
+      TAR:
+        name: "塔兰托"
+      TPS:
+        name: "特拉帕尼"
+      TRT:
+        name: "特伦托"
+      VCE:
+        name: "威尼斯"
+      VRL:
+        name: "韦尔切利"
+      VIT:
+        name: "维泰博"
+      UDN:
+        name: "乌迪内"
+      SYR:
+        name: "锡拉库扎"
+      SNA:
+        name: "锡耶纳"
+      ALE:
+        name: "亚历山德里亚"
+      ISE:
+        name: "伊塞尔尼亚"
+  IND:
+    name: "印度"
+    IND:
+      name: "印度"
+      AJL:
+        name: "艾藻尔"
+      BLR:
+        name: "班加罗尔"
+      PNY:
+        name: "本地治里"
+      BHO:
+        name: "博帕尔"
+      BBI:
+        name: "布巴内斯瓦尔"
+      IXC:
+        name: "昌迪加尔"
+      DAM:
+        name: "达曼"
+      DIU:
+        name: "第乌"
+      GTO:
+        name: "甘托克"
+      CJB:
+        name: "哥印拜陀"
+      CCU:
+        name: "加尔各答"
+      KRK:
+        name: "加里加尔"
+      JLR:
+        name: "贾巴尔普尔"
+      JUC:
+        name: "贾朗达尔"
+      JDH:
+        name: "焦特布尔"
+      MAA:
+        name: "金奈"
+      KVA:
+        name: "卡瓦拉蒂"
+      KOM:
+        name: "科希马"
+      MAH:
+        name: "马埃"
+      IXM:
+        name: "马杜赖"
+      SLR:
+        name: "森伯尔布尔"
+      TRV:
+        name: "特里凡得琅"
+      UDR:
+        name: "乌代布尔"
+      SHL:
+        name: "西隆"
+      SIL:
+        name: "锡尔萨瓦"
+      ICD:
+        name: "新德里"
+      SRV:
+        name: "亚南"
+      IMF:
+        name: "因帕尔"
+      IDR:
+        name: "印多尔"
+      JAI:
+        name: "斋普尔"
+  IDN:
+    name: "印度尼西亚"
+    IDN:
+      name: "印度尼西亚"
+      BA:
+        name: "巴厘"
+      BB:
+        name: "邦加－勿里洞群岛"
+      SA:
+        name: "北苏拉威西"
+      SU:
+        name: "北苏门答腊"
+      KB:
+        name: "大雅加达首都特区"
+      KI:
+        name: "东加里曼丹"
+      SG:
+        name: "东南苏拉威西"
+      NT:
+        name: "东努沙登加拉"
+      JI:
+        name: "东爪哇"
+      RI:
+        name: "廖内"
+      MA:
+        name: "马鲁古"
+      BE:
+        name: "明古鲁"
+      LA:
+        name: "楠榜"
+      KS:
+        name: "南加里曼丹"
+      SN:
+        name: "南苏拉威西"
+      SS:
+        name: "南苏门答腊"
+      YO:
+        name: "日惹特区"
+      BT:
+        name: "万丹"
+      NB:
+        name: "西努沙登加拉"
+      SR:
+        name: "西苏门答腊"
+      JB:
+        name: "西爪哇"
+      JK:
+        name: "雅加达"
+      AC:
+        name: "亚齐"
+      IJ:
+        name: "伊里安查亚"
+      JA:
+        name: "占碑"
+      KT:
+        name: "中加里曼丹"
+      ST:
+        name: "中苏拉威西"
+      JT:
+        name: "中爪哇"
+  GBR:
+    name: "英国"
+    NIR:
+      name: "北爱尔兰"
+      BFS:
+        name: "贝尔法斯特"
+      DRY:
+        name: "德里"
+      LSB:
+        name: "利斯本"
+      NYM:
+        name: "纽里"
+    SCT:
+      name: "苏格兰"
+      ABD:
+        name: "阿伯丁"
+      EDH:
+        name: "爱丁堡"
+      DND:
+        name: "丹迪"
+      GLG:
+        name: "格拉斯哥"
+      STG:
+        name: "斯特灵"
+      INV:
+        name: "因弗内斯"
+    WLS:
+      name: "威尔士"
+      BAN:
+        name: "班戈"
+      CDF:
+        name: "卡迪夫"
+      NWP:
+        name: "纽波特"
+      SWA:
+        name: "斯旺西"
+    ENG:
+      name: "英格兰"
+      EXE:
+        name: "埃克塞特"
+      BAS:
+        name: "巴斯"
+      PTE:
+        name: "彼得伯勒"
+      BIR:
+        name: "伯明翰"
+      BRD:
+        name: "布拉德福德"
+      BNH:
+        name: "布莱顿与赫福"
+      BST:
+        name: "布里斯托尔"
+      DER:
+        name: "德比"
+      DUR:
+        name: "德罕"
+      GLO:
+        name: "格洛斯特"
+      KUH:
+        name: "赫尔河畔京斯敦"
+      HAF:
+        name: "赫里福德"
+      CAM:
+        name: "剑桥"
+      CAX:
+        name: "卡莱尔"
+      CNG:
+        name: "坎特伯雷"
+      COV:
+        name: "考文垂"
+      LAN:
+        name: "兰开斯特"
+      RIP:
+        name: "里彭"
+      LHF:
+        name: "利奇菲尔德"
+      LIV:
+        name: "利物浦"
+      LDS:
+        name: "利茲"
+      LCE:
+        name: "列斯特"
+      LCN:
+        name: "林肯"
+      LND:
+        name: "伦敦"
+      MAN:
+        name: "曼彻斯特"
+      STH:
+        name: "南安普敦"
+      OXF:
+        name: "牛津"
+      NCL:
+        name: "纽卡斯尔"
+      NGM:
+        name: "诺丁汉"
+      NRW:
+        name: "诺里奇"
+      POR:
+        name: "朴茨茅斯"
+      PRE:
+        name: "普雷斯顿"
+      PLY:
+        name: "普利茅斯"
+      CST:
+        name: "奇切斯特"
+      CEG:
+        name: "切斯特"
+      SUN:
+        name: "桑德兰"
+      TBL:
+        name: "圣阿本斯"
+      SLS:
+        name: "索尔斯堡"
+      SLF:
+        name: "索福特"
+      TRU:
+        name: "特鲁罗"
+      SOT:
+        name: "特伦特河畔斯多克"
+      WLS:
+        name: "威尔斯"
+      WKF:
+        name: "韦克菲尔德"
+      WNE:
+        name: "温彻斯特"
+      WOV:
+        name: "伍尔弗汉普顿"
+      WOR:
+        name: "伍斯特"
+      SHE:
+        name: "谢菲尔德"
+      ELY:
+        name: "伊利"
+      YOR:
+        name: "约克"
+  IOT:
+    name: "英属印度洋领地"
+    IOT:
+      name: "英属印度洋领地"
+      IOT:
+        name: "英属印度洋领地"
+  JOR:
+    name: "约旦"
+    JOR:
+      name: "约旦"
+      AJ:
+        name: "阿吉隆"
+      AM:
+        name: "安曼"
+      BA:
+        name: "拜勒加"
+      JA:
+        name: "杰拉什"
+      KA:
+        name: "卡拉克"
+      RU:
+        name: "鲁赛法"
+      MN:
+        name: "马安"
+      MD:
+        name: "马德巴"
+      MF:
+        name: "马夫拉克"
+      TA:
+        name: "塔菲拉"
+      AQ:
+        name: "亚喀巴"
+      IR:
+        name: "伊尔比德"
+      ZA:
+        name: "扎尔卡"
+  VNM:
+    name: "越南"
+    VNM:
+      name: "越南"
+      HP:
+        name: "海防"
+      HI:
+        name: "河内"
+      HC:
+        name: "胡志明市"
+  ZMB:
+    name: "赞比亚"
+    ZMB:
+      name: "赞比亚"
+      NO:
+        name: "北方"
+      EA:
+        name: "东方"
+      LP:
+        name: "卢阿普拉"
+      LK:
+        name: "卢萨卡"
+      SO:
+        name: "南方"
+      CB:
+        name: "铜带"
+      NW:
+        name: "西北"
+      WE:
+        name: "西方"
+      CE:
+        name: "中央"
+  JEY:
+    name: "泽西岛"
+    JEY:
+      name: "泽西岛"
+      JEY:
+        name: "泽西岛"
+  TCD:
+    name: "乍得"
+    TCD:
+      name: "乍得"
+      TCD:
+        name: "乍得"
+  GIB:
+    name: "直布罗陀"
+    GIB:
+      name: "直布罗陀"
+      GIB:
+        name: "直布罗陀"
+  CHL:
+    name: "智利"
+    CHL:
+      name: "智利"
+      AR:
+        name: "阿劳卡尼亚大区"
+      AT:
+        name: "阿塔卡马大区"
+      AN:
+        name: "安托法加斯塔大区"
+      BI:
+        name: "比奥比奥大区"
+      LI:
+        name: "复活节岛"
+      LL:
+        name: "湖大区"
+      CO:
+        name: "科金博大区"
+      ML:
+        name: "马乌莱大区"
+      MA:
+        name: "麦哲伦-智利南极大区"
+      RM:
+        name: "圣地亚哥"
+      TA:
+        name: "塔拉帕卡大区"
+      VS:
+        name: "瓦尔帕莱索大区"
+      AI:
+        name: "伊瓦涅斯将军的艾森大区"
+  CAF:
+    name: "中非共和国"
+    CAF:
+      name: "中非共和国"
+      BB:
+        name: "巴明吉-班戈兰"
+      BGF:
+        name: "班吉直辖市"
+      BI:
+        name: "宾博"
+      KG:
+        name: "凯莫"
+      LB:
+        name: "洛巴伊"
+      HS:
+        name: "曼贝雷-卡代"
+      MB:
+        name: "姆博穆"
+      KB:
+        name: "纳纳-格里比齐"
+      NM:
+        name: "纳纳-曼贝雷"
+      SE:
+        name: "桑加-姆巴埃雷"
+      HK:
+        name: "上科托"
+      HM:
+        name: "上姆博穆"
+      UK:
+        name: "瓦卡"
+      VK:
+        name: "瓦卡加"
+      AC:
+        name: "瓦姆"
+      OP:
+        name: "瓦姆-彭代"
+      MP:
+        name: "翁贝拉-姆波科"
+      BK:
+        name: "下科托"

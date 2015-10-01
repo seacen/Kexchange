@@ -1,0 +1,8961 @@
+en:
+  SCN:
+    name: "United Kingdom of Seacen"
+    SSC:
+      name: "Seacen Special City"
+      TYD:
+        name: "Taeyeon District"
+  AFG:
+    name: "Afghanistan"
+    AFG:
+      name: "Afghanistan"
+      HEA:
+        name: "Herat"
+      KBL:
+        name: "Kabul"
+      KDH:
+        name: "Kandahar"
+      MZR:
+        name: "Mazar-i Sharif"
+  ALA:
+    name: "Aland lslands"
+    ALA:
+      name: "Aland lslands"
+      ALA:
+        name: "Aland lslands"
+  ALB:
+    name: "Albania"
+    ALB:
+      name: "Albania"
+      BR:
+        name: "Berat"
+      DI:
+        name: "Diber"
+      DR:
+        name: "Durres"
+      EL:
+        name: "Elbasan"
+      FR:
+        name: "Fier"
+      GJ:
+        name: "Gjirokaster"
+      KO:
+        name: "Korce"
+      KU:
+        name: "Kukes"
+      LE:
+        name: "Lezhe"
+      SH:
+        name: "Shkoder"
+      TR:
+        name: "Tirane"
+      VL:
+        name: "Vlore"
+  DZA:
+    name: "Algeria"
+    DZA:
+      name: "Algeria"
+      ADR:
+        name: "Adrar"
+      ADE:
+        name: "Ain Defla"
+      ATE:
+        name: "Ain Temouchent"
+      ALG:
+        name: "Alger"
+      AAE:
+        name: "Annaba"
+      BAT:
+        name: "Batna"
+      BEC:
+        name: "Bechar"
+      BJA:
+        name: "Bejaia"
+      BIS:
+        name: "Biskra"
+      BLI:
+        name: "Blida"
+      BOR:
+        name: "Bordj Bou Arreridj"
+      BOA:
+        name: "Bouira"
+      BOU:
+        name: "Boumerdes"
+      CHL:
+        name: "Chlef"
+      CZL:
+        name: "Constantine"
+      DJE:
+        name: "Djelfa"
+      EBA:
+        name: "El Bayadh"
+      EOU:
+        name: "El Oued"
+      ETA:
+        name: "El Tarf"
+      GHA:
+        name: "Ghardaia"
+      GUE:
+        name: "Guelma"
+      ILL:
+        name: "Illizi"
+      JIJ:
+        name: "Jijel"
+      KHE:
+        name: "Khenchela"
+      LAG:
+        name: "Laghouat"
+      MUA:
+        name: "Mascara"
+      MED:
+        name: "Medea"
+      MIL:
+        name: "Mila"
+      MOS:
+        name: "Mostaganem"
+      MSI:
+        name: "Msila"
+      NAA:
+        name: "Naama"
+      ORA:
+        name: "Oran"
+      OUA:
+        name: "Ouargla"
+      OEB:
+        name: "Oum el Bouaghi"
+      REL:
+        name: "Relizane"
+      SAI:
+        name: "Saida"
+      SET:
+        name: "Setif"
+      SBA:
+        name: "Sidi Bel Abbes"
+      SKI:
+        name: "Skikda"
+      SAH:
+        name: "Souk Ahras"
+      TAM:
+        name: "Tamanghasset"
+      TEB:
+        name: "Tebessa"
+      TIA:
+        name: "Tiaret"
+      TIN:
+        name: "Tindouf"
+      TIP:
+        name: "Tipaza"
+      TIS:
+        name: "Tissemsilt"
+      IOU:
+        name: "Tizi Ouzou"
+      TLE:
+        name: "Tlemcen"
+  ASM:
+    name: "American Samoa"
+    ASM:
+      name: "American Samoa"
+      AAN:
+        name: "Aana"
+      AIT:
+        name: "Aigaile Tai"
+      ATU:
+        name: "Atua"
+      FAA:
+        name: "Faasaleleaga"
+      GMG:
+        name: "Gagaemauga"
+      GFG:
+        name: "Gagaifomauga"
+      PAL:
+        name: "Palauli"
+      SAT:
+        name: "Satupaitea"
+      SAV:
+        name: "Savaii"
+      TUA:
+        name: "Tuamasaga"
+      UPO:
+        name: "Upolu"
+      VAF:
+        name: "Vaao Fonoti"
+      VAI:
+        name: "Vaisigano"
+  AND:
+    name: "Andorra"
+    AND:
+      name: "Andorra"
+      :7:
+        name: "Andorra la Vella"
+      :2:
+        name: "Canillo"
+      :3:
+        name: "Encamp"
+      :8:
+        name: "Escaldes-Engordany"
+      :4:
+        name: "La Massana"
+      :5:
+        name: "Ordino"
+      :6:
+        name: "Sant Julia de Laria"
+  AGO:
+    name: "Angola"
+    AGO:
+      name: "Angola"
+      BGO:
+        name: "Bengo"
+      BGU:
+        name: "Benguela"
+      BIE:
+        name: "Bie"
+      CAB:
+        name: "Cabinda"
+      CCU:
+        name: "Cuando Cubango"
+      CNO:
+        name: "Cuanza Norte"
+      CUS:
+        name: "Cuanza Sul"
+      CNN:
+        name: "Cunene"
+      HUA:
+        name: "Huambo"
+      HUI:
+        name: "Huila"
+      LUA:
+        name: "Luanda"
+      LNO:
+        name: "Lunda Norte"
+      LSU:
+        name: "Lunda Sul"
+      MAL:
+        name: "Malanje"
+      MOX:
+        name: "Moxico"
+      NAM:
+        name: "Namibe"
+      UIG:
+        name: "Uige"
+      ZAI:
+        name: "Zaire"
+  AIA:
+    name: "Anguilla"
+    AIA:
+      name: "Anguilla"
+      AIA:
+        name: "Anguilla"
+  ATA:
+    name: "Antarctica"
+    ATA:
+      name: "Antarctica"
+      ATA:
+        name: "Antarctica"
+  ATG:
+    name: "Antigua and Barbuda"
+    ATG:
+      name: "Antigua and Barbuda"
+      ATG:
+        name: "Antigua and Barbuda"
+  ARG:
+    name: "Argentina"
+    ARG:
+      name: "Argentina"
+      BHI:
+        name: "Bahia Blanca"
+      BUE:
+        name: "Buenos Aires"
+      CTC:
+        name: "Catamarca"
+      CRD:
+        name: "Comodoro Rivadavia"
+      COC:
+        name: "Concordia"
+      COR:
+        name: "Cordoba"
+      CNQ:
+        name: "Corrientes"
+      FMA:
+        name: "Formosa"
+      JUJ:
+        name: "Jujuy"
+      LPG:
+        name: "La Plata"
+      IRJ:
+        name: "La Rioja"
+      MDQ:
+        name: "Mar del Plata"
+      MDZ:
+        name: "Mendoza"
+      NQN:
+        name: "Neuquen"
+      PRA:
+        name: "Parana"
+      PSS:
+        name: "Posadas"
+      RWO:
+        name: "Rawson"
+      RES:
+        name: "Resistencia"
+      RCU:
+        name: "Rio Cuarto"
+      RGL:
+        name: "Rio Gallegos"
+      ROS:
+        name: "Rosario"
+      SLA:
+        name: "Salta"
+      UAQ:
+        name: "San Juan"
+      SMC:
+        name: "San Miguel de Tucuman"
+      SNS:
+        name: "San Nicolas"
+      AFA:
+        name: "San Rafael"
+      LUQ:
+        name: "San Luis"
+      SFN:
+        name: "Santa Fe"
+      RSA:
+        name: "Santa Rosa"
+      SDE:
+        name: "Santiago del Estero"
+      REL:
+        name: "Trelew"
+      USH:
+        name: "Ushuaia"
+      VDM:
+        name: "Viedma"
+      VLK:
+        name: "Villa Krause"
+  ARM:
+    name: "Armenia"
+    ARM:
+      name: "Armenia"
+      AGT:
+        name: "Aragacotn"
+      ARA:
+        name: "Ararat"
+      ARM:
+        name: "Armavir"
+      GEG:
+        name: "Gelarkunik"
+      KOT:
+        name: "Kotayk"
+      LOR:
+        name: "Lorri"
+      SHI:
+        name: "Shirak"
+      SYU:
+        name: "Syunik"
+      TAV:
+        name: "Tavus"
+      VAY:
+        name: "VayocJor"
+      EVN:
+        name: "Yerevan"
+  ABW:
+    name: "Aruba"
+    ABW:
+      name: "Aruba"
+      ABW:
+        name: "Aruba"
+  ASC:
+    name: "Ascension Island"
+    ASC:
+      name: "Ascension Island"
+      ASC:
+        name: "Ascension Island"
+  AUS:
+    name: "Australia"
+    ACT:
+      name: "Canberra"
+      CBR:
+        name: "Canberra"
+    NSW:
+      name: "New South Wales"
+      NTL:
+        name: "Newcastle"
+      HBS:
+        name: "Sydney"
+      WOL:
+        name: "Wollongong"
+    NT:
+      name: "Northern Territory"
+      DRW:
+        name: "Darwin"
+      PAL:
+        name: "Palmerston"
+    QLD:
+      name: "Queensland"
+      BNE:
+        name: "Brisbane"
+      CNS:
+        name: "Cairns"
+      CUD:
+        name: "Caloundra"
+      OOL:
+        name: "Gold Coast"
+      TWB:
+        name: "Toowoomba"
+      TSV:
+        name: "Townsville"
+    SA:
+      name: "South Australia"
+      ADL:
+        name: "Adelaide"
+      MGB:
+        name: "Mount Gambier"
+      MYB:
+        name: "Murray Bridge"
+      PUG:
+        name: "Port Augusta"
+      PLO:
+        name: "Port Lincoln"
+      PPI:
+        name: "Port Pirie"
+      VHA:
+        name: "Victor Harbor"
+      WAY:
+        name: "Whyalla"
+    TAS:
+      name: "Tasmania"
+      BWT:
+        name: "Burnie"
+      DPO:
+        name: "Devonport"
+      HBA:
+        name: "Hobart"
+      LST:
+        name: "Launceston"
+    VIC:
+      name: "Victoria"
+      GEX:
+        name: "Geelong"
+      MEL:
+        name: "Melbourne"
+    WA:
+      name: "Western Australia"
+      ALH:
+        name: "Albany"
+      BUY:
+        name: "Bunbury"
+      FRE:
+        name: "Fremantle"
+      GET:
+        name: "Geraldton"
+      KGI:
+        name: "Kalgoorlie"
+      MDU:
+        name: "Mandurah"
+      PER:
+        name: "Perth"
+  AUT:
+    name: "Austria"
+    AUT:
+      name: "Austria"
+      BUR:
+        name: "Burgenland"
+      CAT:
+        name: "Carinthia"
+      LAU:
+        name: "Lower Austria"
+      SZG:
+        name: "Salzburg"
+      STY:
+        name: "Styria"
+      TYR:
+        name: "Tyrol"
+      UAU:
+        name: "Upper Austria"
+      VDD:
+        name: "Vienna"
+      VOR:
+        name: "Vorarlberg"
+  AZE:
+    name: "Azerbaijan"
+    AZE:
+      name: "Azerbaijan"
+      ABS:
+        name: "Abseron"
+      GA:
+        name: "Ganca"
+      KAL:
+        name: "Kalbacar"
+      LAN:
+        name: "Lankaran"
+      MQA:
+        name: "Mil-Qarabax"
+      MSA:
+        name: "Mugan-Salyan"
+      NQA:
+        name: "Nagorni-Qarabax"
+      NX:
+        name: "Naxcivan"
+      PRI:
+        name: "Priaraks"
+      QAZ:
+        name: "Qazax"
+      SA:
+        name: "Saki"
+      SIR:
+        name: "Sirvan"
+      SMC:
+        name: "Sumqayit"
+      XAC:
+        name: "Xacmaz"
+  BHS:
+    name: "Bahamas"
+    BHS:
+      name: "Bahamas"
+      BHS:
+        name: "Bahamas"
+  BHR:
+    name: "Bahrain"
+    BHR:
+      name: "Bahrain"
+      :10:
+        name: "Al-Gharbiyah"
+      :1:
+        name: "Al-Hadd"
+      :3:
+        name: "Al-Manamah"
+      :2:
+        name: "Al-Muharraq"
+      :7:
+        name: "Al-Wusta"
+      :9:
+        name: "Ar-Rifa"
+      :5:
+        name: "Ash-Shamaliyah"
+      :12:
+        name: "Hammad"
+      :8:
+        name: "Isa"
+  BGD:
+    name: "Bangladesh"
+    BGD:
+      name: "Bangladesh"
+      CGP:
+        name: "Chittagong"
+      DAC:
+        name: "Dhaka"
+      KHL:
+        name: "Khulna"
+  BRB:
+    name: "Barbados"
+    BRB:
+      name: "Barbados"
+      BRB:
+        name: "Barbados"
+  BEL:
+    name: "Belgium"
+    BEL:
+      name: "Belgium"
+      VAN:
+        name: "Antwerpen"
+      WBR:
+        name: "Brabant-Wallone"
+      BRU:
+        name: "Brussels"
+      WHT:
+        name: "Hainaut"
+      WLG:
+        name: "Liege"
+      VLI:
+        name: "Limburg"
+      WLX:
+        name: "Luxembourg"
+      WNA:
+        name: "Namur"
+      VOV:
+        name: "Oost-Vlaanderen"
+      VBR:
+        name: "Vlaams-Brabant"
+      VWV:
+        name: "West-Vlaanderen"
+  BLZ:
+    name: "Belize"
+    BLZ:
+      name: "Belize"
+      BZ:
+        name: "Belize"
+      CY:
+        name: "Cayo"
+      CR:
+        name: "Corozal"
+      OW:
+        name: "Orange Walk"
+      SC:
+        name: "Stann Creek"
+      TO:
+        name: "Toledo"
+  BEN:
+    name: "Benin"
+    BEN:
+      name: "Benin"
+      AL:
+        name: "Alibori"
+      AK:
+        name: "Atakora"
+      AQ:
+        name: "Atlantique"
+      BOH:
+        name: "Bohicon"
+      BO:
+        name: "Borgou"
+      CO:
+        name: "Collines"
+      DO:
+        name: "Donga"
+      KO:
+        name: "Kouffo"
+      LI:
+        name: "Littoral"
+      MO:
+        name: "Mono"
+      OU:
+        name: "Oueme"
+      PL:
+        name: "Plateau"
+      ZO:
+        name: "Zou"
+  BMU:
+    name: "Bermuda"
+    BMU:
+      name: "Bermuda"
+      BMU:
+        name: "Bermuda"
+  BTN:
+    name: "Bhutan"
+    BTN:
+      name: "Bhutan"
+      BTN:
+        name: "Bhutan"
+  BOL:
+    name: "Bolivia"
+    BOL:
+      name: "Bolivia"
+      CHU:
+        name: "Chuquisaca"
+      CBB:
+        name: "Cochabamba"
+      ALT:
+        name: "El Alto"
+      BEN:
+        name: "El Beni"
+      LPB:
+        name: "La Paz"
+      ORU:
+        name: "Oruro"
+      PAN:
+        name: "Pando"
+      POI:
+        name: "Potosi"
+      QUI:
+        name: "Quillacollo"
+      SAC:
+        name: "Sacaba"
+      SRZ:
+        name: "Santa Cruz"
+      TJA:
+        name: "Tarija"
+  BIH:
+    name: "Bosnia and Herzegovina"
+    BIH:
+      name: "Bosnia and Herzegovina"
+      FBP:
+        name: "Bosansko-Podrinjski"
+      FHB:
+        name: "Hercegovacko-Bosanski"
+      FHN:
+        name: "Hercegovacko-Neretvanski"
+      FPO:
+        name: "Posavski"
+      FSA:
+        name: "Sarajevo"
+      FSB:
+        name: "Srednjo-Bosanski"
+      FTO:
+        name: "Tomislavgrad"
+      FTU:
+        name: "Tuzlanski-Podrinjski"
+      FUS:
+        name: "Unsko-Sanski"
+      FZH:
+        name: "Zapadno-Hercegovaki"
+      FZE:
+        name: "Zenicko-Dobojski"
+  BWA:
+    name: "Botswana"
+    BWA:
+      name: "Botswana"
+      BWA:
+        name: "Botswana"
+  BVT:
+    name: "Bouvet Island"
+    BVT:
+      name: "Bouvet Island"
+      BVT:
+        name: "Bouvet Island"
+  BRA:
+    name: "Brazil"
+    BRA:
+      name: "Brazil"
+      AC:
+        name: "Acre"
+      AL:
+        name: "Alagoas"
+      AP:
+        name: "Amapa"
+      AM:
+        name: "Amazonas"
+      BA:
+        name: "Bahia"
+      BSB:
+        name: "Brasilia"
+      CE:
+        name: "Ceara"
+      ES:
+        name: "Espirito Santo"
+      GO:
+        name: "Goias"
+      MA:
+        name: "Maranhao"
+      MT:
+        name: "Mato Grosso"
+      MS:
+        name: "Mato Grosso do Sul"
+      MG:
+        name: "Minas Gerais"
+      PA:
+        name: "Para"
+      PB:
+        name: "Paraiba"
+      PR:
+        name: "Parana"
+      PE:
+        name: "Pernambuco"
+      PI:
+        name: "Piaui"
+      RJ:
+        name: "Rio de Janeiro"
+      RN:
+        name: "Rio Grande do Norte"
+      RS:
+        name: "Rio Grande do Sul"
+      RO:
+        name: "Rondonia"
+      RR:
+        name: "Roraima"
+      SC:
+        name: "Santa Catarina"
+      SP:
+        name: "Sao Paulo"
+      SE:
+        name: "Sergipe"
+      TO:
+        name: "Tocantins"
+  IOT:
+    name: "British Indian Ocean Territory"
+    IOT:
+      name: "British Indian Ocean Territory"
+      IOT:
+        name: "British Indian Ocean Territory"
+  BRN:
+    name: "Brunei"
+    BRN:
+      name: "Brunei"
+      BRN:
+        name: "Brunei"
+  BGR:
+    name: "Bulgaria"
+    BGR:
+      name: "Bulgaria"
+      BOJ:
+        name: "Burgas"
+      GSO:
+        name: "Grad Sofiya"
+      KHO:
+        name: "Khaskovo"
+      LVP:
+        name: "Lovech"
+      OZA:
+        name: "Montana"
+      PDV:
+        name: "Plovdiv"
+      ROU:
+        name: "Ruse"
+      SOF:
+        name: "Sofiya"
+      VAR:
+        name: "Varna"
+  BFA:
+    name: "Burkina Faso"
+    BFA:
+      name: "Burkina Faso"
+      BAL:
+        name: "Bale"
+      BAM:
+        name: "Bam"
+      BAN:
+        name: "Banwa"
+      BAZ:
+        name: "Bazega"
+      BOR:
+        name: "Bougouriba"
+      BLG:
+        name: "Boulgou"
+      BOK:
+        name: "Boulkiemde"
+      COM:
+        name: "Comoe"
+      GAN:
+        name: "Ganzourgou"
+      GNA:
+        name: "Gnagna"
+      GOU:
+        name: "Gourma"
+      HOU:
+        name: "Houet"
+      IOA:
+        name: "Ioba"
+      KAD:
+        name: "Kadiogo"
+      KEN:
+        name: "Kenedougou"
+      KOO:
+        name: "Komondjari"
+      KOP:
+        name: "Kompienga"
+      KOS:
+        name: "Kossi"
+      KOL:
+        name: "Koulpelogo"
+      KOT:
+        name: "Kouritenga"
+      KOW:
+        name: "Kourweogo"
+      LER:
+        name: "Leraba"
+      LOR:
+        name: "Loroum"
+      MOU:
+        name: "Mouhoun"
+      NAH:
+        name: "Nahouri"
+      NAM:
+        name: "Namentenga"
+      NAY:
+        name: "Nayala"
+      NOU:
+        name: "Noumbiel"
+      OUB:
+        name: "Oubritenga"
+      OUD:
+        name: "Oudalan"
+      PAS:
+        name: "Passore"
+      PON:
+        name: "Poni"
+      SAG:
+        name: "Sanguie"
+      SAM:
+        name: "Sanmatenga"
+      SEN:
+        name: "Seno"
+      SIS:
+        name: "Sissili"
+      SOM:
+        name: "Soum"
+      SOR:
+        name: "Sourou"
+      TAP:
+        name: "Tapoa"
+      TUY:
+        name: "Tuy"
+      YAG:
+        name: "Yagha"
+      YAT:
+        name: "Yatenga"
+      ZIR:
+        name: "Ziro"
+      ZOD:
+        name: "Zondoma"
+      ZOW:
+        name: "Zoundweogo"
+  BDI:
+    name: "Burundi"
+    BDI:
+      name: "Burundi"
+      BB:
+        name: "Bubanza"
+      BM:
+        name: "Bujumbura Mairie"
+      BU:
+        name: "Bujumbura Rural"
+      BR:
+        name: "Bururi"
+      CA:
+        name: "Cankuzo"
+      CI:
+        name: "Cibitoke"
+      GI:
+        name: "Gitega"
+      KR:
+        name: "Karuzi"
+      KY:
+        name: "Kayanza"
+      KI:
+        name: "Kirundo"
+      MA:
+        name: "Makamba"
+      MU:
+        name: "Muramvya"
+      MY:
+        name: "Muyinga"
+      MW:
+        name: "Mwaro"
+      NG:
+        name: "Ngozi"
+      RT:
+        name: "Rutana"
+      RY:
+        name: "Ruyigi"
+  KHM:
+    name: "Cambodia"
+    KHM:
+      name: "Cambodia"
+      BM:
+        name: "Banteay Mean Chey"
+      BA:
+        name: "Bat Dambang"
+      KM:
+        name: "Kampong Cham"
+      KZC:
+        name: "Kampong Chhnang"
+      KO:
+        name: "Kampong Spoe"
+      KZK:
+        name: "Kampong Thum"
+      KMT:
+        name: "Kampot"
+      KL:
+        name: "Kandal"
+      KKZ:
+        name: "Kaoh Kong"
+      KH:
+        name: "Kracheh"
+      KB:
+        name: "Krong Keb"
+      PL:
+        name: "Krong Pailin"
+      KA:
+        name: "Krong Preah"
+      MWV:
+        name: "Mondol Kiri"
+      OC:
+        name: "Otdar Mean Chey"
+      PNH:
+        name: "Phnum Penh"
+      PO:
+        name: "Pouthĭsat"
+      PR:
+        name: "Preah Vihear"
+      PG:
+        name: "Prey Veng"
+      RBE:
+        name: "Rotanak Kiri"
+      REP:
+        name: "Siem Reab"
+      TNX:
+        name: "Stoeng Treng"
+      SVR:
+        name: "Svay Rieng"
+      TK:
+        name: "Takev"
+  CMR:
+    name: "Cameroon"
+    CMR:
+      name: "Cameroon"
+      ADA:
+        name: "Adamaoua"
+      CEN:
+        name: "Centre"
+      EST:
+        name: "Est"
+      EXN:
+        name: "Extreme-Nord"
+      LIT:
+        name: "Littoral"
+      NOR:
+        name: "Nord"
+      NOT:
+        name: "Nord-Oueste"
+      OUE:
+        name: "Ouest"
+      SUD:
+        name: "Sud"
+      SOU:
+        name: "Sud-Oueste"
+  CAN:
+    name: "Canada"
+    CAN:
+      name: "Canada"
+      ABB:
+        name: "Abbotsford"
+      BAR:
+        name: "Barrie"
+      BRP:
+        name: "Brampton"
+      CAL:
+        name: "Calgary"
+      CBR:
+        name: "Cape Breton"
+      CHA:
+        name: "Charlottetown"
+      EDM:
+        name: "Edmonton"
+      FRE:
+        name: "Fredericton"
+      GLP:
+        name: "Guelph"
+      HAL:
+        name: "Halifax"
+      HAM:
+        name: "Hamilton"
+      IQL:
+        name: "Iqaluit"
+      KWL:
+        name: "Kelowna"
+      KGN:
+        name: "Kingston"
+      LOD:
+        name: "London"
+      MTR:
+        name: "Montreal"
+      OSH:
+        name: "Oshawa"
+      OTT:
+        name: "Ottawa"
+      QUE:
+        name: "Quebec"
+      REG:
+        name: "Regina"
+      SJB:
+        name: "Saint-John's"
+      SAK:
+        name: "Saskatoon"
+      SBE:
+        name: "Sherbrooke"
+      SCA:
+        name: "St. Catharines"
+      SUD:
+        name: "Sudbury"
+      THU:
+        name: "Thunder Bay"
+      TOR:
+        name: "Toronto"
+      TRR:
+        name: "Trois-Rivieres"
+      VAN:
+        name: "Vancouver"
+      VIC:
+        name: "Victoria"
+      YXY:
+        name: "Whitehorse"
+      WDR:
+        name: "Windsor"
+      WNP:
+        name: "Winnipeg"
+      YZF:
+        name: "Yellowknife"
+  CPV:
+    name: "Cape Verde"
+    CPV:
+      name: "Cape Verde"
+      BV:
+        name: "Boa Vista"
+      BR:
+        name: "Brava"
+      FO:
+        name: "Fogo"
+      MA:
+        name: "Maio"
+      MO:
+        name: "Mosteiros"
+      PA:
+        name: "Paul"
+      PN:
+        name: "Porto Novo"
+      PR:
+        name: "Praia"
+      RG:
+        name: "Ribeira Grande"
+      SL:
+        name: "Sal"
+      CA:
+        name: "Santa Catarina"
+      CR:
+        name: "Santa Cruz"
+      IA:
+        name: "Santiago"
+      SA:
+        name: "Santo Antao"
+      SD:
+        name: "Sao Domingos"
+      SF:
+        name: "Sao Filipe"
+      SM:
+        name: "Sao Miguel"
+      SN:
+        name: "Sao Nicolau"
+      SV:
+        name: "Sao Vicente"
+      TA:
+        name: "Tarrafal"
+  CYM:
+    name: "Cayman Islands"
+    CYM:
+      name: "Cayman Islands"
+      CYM:
+        name: "Cayman Islands"
+  CAF:
+    name: "Central African Republic"
+    CAF:
+      name: "Central African Republic"
+      BB:
+        name: "Bamingui-Bangoran"
+      BGF:
+        name: "Bangui"
+      BK:
+        name: "Basse-Kotto"
+      BI:
+        name: "Bimbo"
+      HK:
+        name: "Haute-Kotto"
+      HM:
+        name: "Haut-Mbomou"
+      KG:
+        name: "Kemo"
+      LB:
+        name: "Lobaye"
+      HS:
+        name: "Mambere-Kadei"
+      MB:
+        name: "Mbomou"
+      KB:
+        name: "Nana-Gribizi"
+      NM:
+        name: "Nana-Mambere"
+      MP:
+        name: "Ombella-Mpoko"
+      UK:
+        name: "Ouaka"
+      AC:
+        name: "Ouham"
+      OP:
+        name: "Ouham-Pende"
+      SE:
+        name: "Sangha-Mbaere"
+      VK:
+        name: "Vakaga"
+  TCD:
+    name: "Chad"
+    TCD:
+      name: "Chad"
+      TCD:
+        name: "Chad"
+  CHL:
+    name: "Chile"
+    CHL:
+      name: "Chile"
+      LI:
+        name: "Libertador"
+      MA:
+        name: "Magallanes y Antartica Chilena"
+      RM:
+        name: "Metropolitana de Santiago"
+      AI:
+        name: "Region de Alsen del General Carlos Ibanez del"
+      AN:
+        name: "Region de Antofagasta"
+      AT:
+        name: "Region de Atacama"
+      CO:
+        name: "Region de Coquimbo"
+      AR:
+        name: "Region de la Araucania"
+      LL:
+        name: "Region de los Lagos"
+      TA:
+        name: "Region de Tarapaca"
+      VS:
+        name: "Region de Valparaiso"
+      BI:
+        name: "Region del Biobio"
+      ML:
+        name: "Region del Maule"
+  :1:
+    name: "China"
+    :34:
+      name: "Anhui"
+      :8:
+        name: "Anqing"
+      :3:
+        name: "Bengbu"
+      :16:
+        name: "Bozhou"
+      :17:
+        name: "Chizhou"
+      :11:
+        name: "Chuzhou"
+      :12:
+        name: "Fuyang"
+      :1:
+        name: "Hefei"
+      :6:
+        name: "Huaibei"
+      :4:
+        name: "Huainan"
+      :10:
+        name: "Huangshan"
+      :15:
+        name: "Lu'an"
+      :5:
+        name: "Ma'anshan"
+      :13:
+        name: "Suzhou"
+      :7:
+        name: "Tongling"
+      :2:
+        name: "Wuhu"
+      :18:
+        name: "Xuancheng"
+    :11:
+      name: "Beijing"
+      :21:
+        name: "Changping"
+      :5:
+        name: "Chaoyang"
+      :3:
+        name: "Chongwen"
+      :24:
+        name: "Daxing"
+      :1:
+        name: "Dongcheng"
+      :11:
+        name: "Fangshan"
+      :6:
+        name: "Fengtai"
+      :8:
+        name: "Haidian"
+      :27:
+        name: "Huairou"
+      :9:
+        name: "Mentougou"
+      :28:
+        name: "Miyun"
+      :26:
+        name: "Pinggu"
+      :7:
+        name: "Shijingshan"
+      :13:
+        name: "Shunyi"
+      :12:
+        name: "Tongzhou"
+      :2:
+        name: "Xicheng"
+      :29:
+        name: "Yanqing"
+    :50:
+      name: "Chongqing"
+      :13:
+        name: "Ba'nan"
+      :9:
+        name: "Beibei"
+      :27:
+        name: "Bishan"
+      :21:
+        name: "Changshou"
+      :29:
+        name: "Chengkou"
+      :4:
+        name: "Dadukou"
+      :25:
+        name: "Dazu"
+      :31:
+        name: "Dianjiang"
+      :30:
+        name: "Fengdu"
+      :36:
+        name: "Fengjie"
+      :2:
+        name: "Fuling"
+      :82:
+        name: "Hechuan"
+      :5:
+        name: "Jiangbei"
+      :81:
+        name: "Jiangjin"
+      :7:
+        name: "Jiulongpo"
+      :34:
+        name: "Kaixian"
+      :85:
+        name: "Kaixian"
+      :28:
+        name: "Liangping"
+      :8:
+        name: "Nan'an"
+      :84:
+        name: "Liangjiangxinqu"
+      :43:
+        name: "Pengshui Miao-Tujia Autonomous Country"
+      :39:
+        name: "Qianjiang"
+      :22:
+        name: "Qijiang"
+      :26:
+        name: "Rongchang"
+      :6:
+        name: "Shapingba"
+      :40:
+        name: "Shizhu Tujia Autonomous Country"
+      :11:
+        name: "Shuangqiao"
+      :24:
+        name: "Tongliang"
+      :23:
+        name: "Tongnan"
+      :10:
+        name: "Wansheng"
+      :1:
+        name: "Wanzhou"
+      :32:
+        name: "Wulong"
+      :37:
+        name: "Wushan"
+      :38:
+        name: "Wuxi"
+      :41:
+        name: "Xiushan Tujia-Miao Autonomous Country"
+      :83:
+        name: "Yongchuan"
+      :42:
+        name: "Youyang Tujia-Miao Autonomous Country"
+      :12:
+        name: "Yubei"
+      :35:
+        name: "Yunyang"
+      :3:
+        name: "Yuzhong"
+      :33:
+        name: "Zhongxian"
+    :35:
+      name: "Fujian"
+      :1:
+        name: "Fuzhou"
+      :8:
+        name: "Longyan"
+      :7:
+        name: "Nanping"
+      :9:
+        name: "Ningde"
+      :3:
+        name: "Putian"
+      :5:
+        name: "Quanzhou"
+      :4:
+        name: "Sanming"
+      :2:
+        name: "Xiamen"
+      :6:
+        name: "Zhangzhou"
+    :62:
+      name: "Gansu"
+      :3:
+        name: "Baiyin"
+      :11:
+        name: "Dingxi"
+      :30:
+        name: "Gannan Tibetan Autonomous Prefecture"
+      :5:
+        name: "Jiayuguan"
+      :2:
+        name: "Jinchang"
+      :9:
+        name: "Jiuquan"
+      :1:
+        name: "Lanzhou"
+      :29:
+        name: "Linxia Hui Autonomous Prefecture"
+      :12:
+        name: "Longnan"
+      :8:
+        name: "Pingliang"
+      :10:
+        name: "Qingyang"
+      :4:
+        name: "Tianshui"
+      :6:
+        name: "Wuwei"
+      :7:
+        name: "Zhangye"
+    :44:
+      name: "Guangdong"
+      :51:
+        name: "Chaozhou"
+      :19:
+        name: "Dongguan"
+      :6:
+        name: "Foshan"
+      :1:
+        name: "Guangzhou"
+      :16:
+        name: "Heyuan"
+      :13:
+        name: "Huizhou"
+      :7:
+        name: "Jiangmen"
+      :52:
+        name: "Jieyang"
+      :9:
+        name: "Maoming"
+      :14:
+        name: "Meizhou"
+      :18:
+        name: "Qingyuan"
+      :5:
+        name: "Shantou"
+      :15:
+        name: "Shanwei"
+      :2:
+        name: "Shaoguan"
+      :3:
+        name: "Shenzhen"
+      :17:
+        name: "Yangjiang"
+      :53:
+        name: "Yunfu"
+      :8:
+        name: "Zhanjiang"
+      :12:
+        name: "Zhaoqing"
+      :20:
+        name: "Zhongshan"
+      :4:
+        name: "Zhuhai"
+    :45:
+      name: "Guangxi"
+      :10:
+        name: "Baise"
+      :5:
+        name: "Beihai"
+      :14:
+        name: "Chongzuo"
+      :6:
+        name: "Fangchenggang"
+      :8:
+        name: "Guigang"
+      :3:
+        name: "Guilin"
+      :12:
+        name: "Hechi"
+      :11:
+        name: "Hezhou"
+      :13:
+        name: "Laibin"
+      :2:
+        name: "Liuzhou"
+      :1:
+        name: "Nanning"
+      :7:
+        name: "Qinzhou"
+      :4:
+        name: "Wuzhou"
+      :9:
+        name: "Yulin"
+    :52:
+      name: "Guizhou"
+      :4:
+        name: "Anshun"
+      :24:
+        name: "Bijie"
+      :1:
+        name: "Guiyang"
+      :2:
+        name: "Liupanshui"
+      :26:
+        name: "Qiandongnan Miao-Dong Autonomous Prefecture"
+      :27:
+        name: "Qiannan Buyi Autonomous Prefecture"
+      :23:
+        name: "Qianxinan Buyi-Miao Autonomous Prefecture"
+      :22:
+        name: "Tongren"
+      :3:
+        name: "Zunyi"
+    :46:
+      name: "Hainan"
+      A30:
+        name: "Baisha Li Autonomous County"
+      A35:
+        name: "Baoting Li-Miao Autonomous County"
+      A27:
+        name: "Cengmai"
+      :93:
+        name: "Danzhou"
+      A25:
+        name: "Ding'an"
+      :97:
+        name: "Dongfang"
+      :1:
+        name: "Haikou"
+      A31:
+        name: "Jiang Li Autonomous County"
+      A33:
+        name: "Ledong Li Autonomous County"
+      A28:
+        name: "Lingao"
+      A34:
+        name: "Lingshui Li Autonomous County"
+      :92:
+        name: "Qionghai"
+      A36:
+        name: "Qiongzhong Li-Miao Autonomous County"
+      :3:
+        name: "Shansha"
+      :2:
+        name: "Sanya"
+      A26:
+        name: "Tunchang"
+      :96:
+        name: "Wanning"
+      :95:
+        name: "Wenchang"
+      :91:
+        name: "Wuzhishan"
+    :13:
+      name: "Hebei"
+      :6:
+        name: "Baoding"
+      :9:
+        name: "Cangzhou"
+      :8:
+        name: "Chengde"
+      :4:
+        name: "Handan"
+      :11:
+        name: "Hengshui"
+      :10:
+        name: "Langfang"
+      :3:
+        name: "Qinhuangdao"
+      :1:
+        name: "Shijiazhuang"
+      :2:
+        name: "Tangshan"
+      :5:
+        name: "Xingtai"
+      :7:
+        name: "Zhangjiakou"
+    :23:
+      name: "Heilongjiang"
+      :27:
+        name: "Da Hinggan Ling"
+      :6:
+        name: "Daqing"
+      :1:
+        name: "Harbin"
+      :4:
+        name: "Hegang"
+      :11:
+        name: "Heihe"
+      :8:
+        name: "Jiamusi"
+      :3:
+        name: "Jixi"
+      :10:
+        name: "Mudanjiang"
+      :2:
+        name: "Qiqihar"
+      :9:
+        name: "Qitaihe"
+      :5:
+        name: "Shuangyashan"
+      :12:
+        name: "Suihua"
+      :7:
+        name: "Yichun"
+    :41:
+      name: "Henan"
+      :5:
+        name: "Anyang"
+      :6:
+        name: "Hebi"
+      :8:
+        name: "Jiaozuo"
+      :18:
+        name: "Jiyuan"
+      :2:
+        name: "Kaifeng"
+      :11:
+        name: "Luohe"
+      :3:
+        name: "Luoyang"
+      :13:
+        name: "Nanyang"
+      :4:
+        name: "Pingdingshan"
+      :9:
+        name: "Puyang"
+      :12:
+        name: "Sanmenxia"
+      :14:
+        name: "Shangqiu"
+      :7:
+        name: "Xinxiang"
+      :15:
+        name: "Xinyang"
+      :10:
+        name: "Xuchang"
+      :1:
+        name: "Zhengzhou"
+      :16:
+        name: "Zhoukou"
+      :17:
+        name: "Zhumadian"
+    :81:
+      name: "Hongkong SAR"
+      :81:
+        name: "Hongkong SAR"
+    :42:
+      name: "Hubei"
+      :28:
+        name: "Enshi Tujia-Miao Autonomous Prefecture"
+      :7:
+        name: "Ezhou"
+      :11:
+        name: "Huanggang"
+      :2:
+        name: "Huangshi"
+      :8:
+        name: "Jingmen"
+      :10:
+        name: "Jingzhou"
+      :95:
+        name: "Qianjiang"
+      A21:
+        name: "Shennongjia"
+      :3:
+        name: "Shiyan"
+      :13:
+        name: "Suizhou"
+      :96:
+        name: "Tianmen"
+      :1:
+        name: "Wuhan"
+      :6:
+        name: "Xiangyang"
+      :12:
+        name: "Xianning"
+      :94:
+        name: "Xiantao"
+      :9:
+        name: "Xiaogan"
+      :5:
+        name: "Yichang"
+    :43:
+      name: "Hunan"
+      :7:
+        name: "Changde"
+      :1:
+        name: "Changsha"
+      :10:
+        name: "Chenzhou"
+      :4:
+        name: "Hengyang"
+      :12:
+        name: "Huaihua"
+      :13:
+        name: "Loudi"
+      :5:
+        name: "Shaoyang"
+      :3:
+        name: "Xiangtan"
+      :31:
+        name: "Xiangxi Tujia-Miao Autonomous Prefecture"
+      :9:
+        name: "Yiyang"
+      :11:
+        name: "Yongzhou"
+      :6:
+        name: "Yueyang"
+      :8:
+        name: "Zhangjiajie"
+      :2:
+        name: "Zhuzhou"
+    :15:
+      name: "Inner Mongolia"
+      :29:
+        name: "Alxa"
+      :2:
+        name: "Baotou"
+      :8:
+        name: "Bayannur"
+      :4:
+        name: "Chifeng"
+      :1:
+        name: "Hohhot"
+      :7:
+        name: "Hulun Buir"
+      :6:
+        name: "Ordos"
+      :5:
+        name: "Tongliao"
+      :9:
+        name: "Ulan Qab"
+      :3:
+        name: "Wuhai"
+      :25:
+        name: "Xilin Gol"
+      :22:
+        name: "Xing'an"
+    :32:
+      name: "Jiangsu"
+      :4:
+        name: "Changzhou"
+      :8:
+        name: "Huai'an"
+      :7:
+        name: "Lianyungang"
+      :1:
+        name: "Nanjing"
+      :6:
+        name: "Nantong"
+      :13:
+        name: "Suqian"
+      :5:
+        name: "Suzhou"
+      :12:
+        name: "Taizhou"
+      :2:
+        name: "Wuxi"
+      :3:
+        name: "Xuzhou"
+      :9:
+        name: "Yancheng"
+      :10:
+        name: "Yangzhou"
+      :11:
+        name: "Zhenjiang"
+    :36:
+      name: "Jiangxi"
+      :10:
+        name: "Fuzhou"
+      :7:
+        name: "Ganzhou"
+      :8:
+        name: "Ji'an"
+      :2:
+        name: "Jingdezhen"
+      :4:
+        name: "Jiujiang"
+      :1:
+        name: "Nanchang"
+      :3:
+        name: "Pingxiang"
+      :11:
+        name: "Shangrao"
+      :5:
+        name: "Xinyu"
+      :9:
+        name: "Yichun"
+      :6:
+        name: "Yingtan"
+    :22:
+      name: "Jilin"
+      :8:
+        name: "Baicheng"
+      :6:
+        name: "Baishan"
+      :1:
+        name: "Changchun"
+      :2:
+        name: "Jilin"
+      :4:
+        name: "Liaoyuan"
+      :3:
+        name: "Siping"
+      :7:
+        name: "Songyuan"
+      :5:
+        name: "Tonghua"
+      :24:
+        name: "Yanbian Korean Autonomous Prefecture"
+    :21:
+      name: "Liaoning"
+      :3:
+        name: "Anshan"
+      :5:
+        name: "Benxi"
+      :13:
+        name: "Chaoyang"
+      :2:
+        name: "Dalian"
+      :6:
+        name: "Dandong"
+      :4:
+        name: "Fushun"
+      :9:
+        name: "Fuxin"
+      :14:
+        name: "Huludao"
+      :7:
+        name: "Jinzhou"
+      :10:
+        name: "Liaoyang"
+      :11:
+        name: "Panjin"
+      :1:
+        name: "Shenyang"
+      :12:
+        name: "Tieling"
+      :8:
+        name: "Yingkou"
+    :82:
+      name: "Macao SAR"
+      :82:
+        name: "Macao SAR"
+    :64:
+      name: "Ningxia"
+      :4:
+        name: "Guyuan"
+      :2:
+        name: "Shizuishan"
+      :3:
+        name: "Wuzhong"
+      :1:
+        name: "Yinchuan"
+      :5:
+        name: "Zhongwei"
+    :63:
+      name: "Qinghai"
+      :26:
+        name: "Guoluo Tibetan Autonomous Prefecture"
+      :22:
+        name: "Haibei Tibetan Autonomous Prefecture"
+      :21:
+        name: "Haidong"
+      :25:
+        name: "Hainan Tibetan Autonomous Prefecture"
+      :28:
+        name: "Haixi Mongol-Tibetan Autonomous Prefecture"
+      :23:
+        name: "Huangnan Tibetan Autonomous Prefecture"
+      :1:
+        name: "Xining"
+      :27:
+        name: "Yushu Tibetan Autonomous Prefecture"
+    :61:
+      name: "Shaanxi"
+      :9:
+        name: "Ankang"
+      :3:
+        name: "Baoji"
+      :7:
+        name: "Hanzhong"
+      :10:
+        name: "Shangluo"
+      :2:
+        name: "Tongchuan"
+      :5:
+        name: "Weinan"
+      :1:
+        name: "Xi'an"
+      :4:
+        name: "Xianyang"
+      :6:
+        name: "Yan'an"
+      :8:
+        name: "Yulin"
+    :37:
+      name: "Shandong"
+      :16:
+        name: "Binzhou"
+      :14:
+        name: "Dezhou"
+      :5:
+        name: "Dongying"
+      :17:
+        name: "Heze"
+      :1:
+        name: "Jinan"
+      :8:
+        name: "Jining"
+      :12:
+        name: "Laiwu"
+      :15:
+        name: "Liaocheng"
+      :13:
+        name: "Linyi"
+      :2:
+        name: "Qingdao"
+      :11:
+        name: "Rizhao"
+      :9:
+        name: "Tai'an"
+      :7:
+        name: "Weifang"
+      :10:
+        name: "Weihai"
+      :6:
+        name: "Yantai"
+      :4:
+        name: "Zaozhuang"
+      :3:
+        name: "Zibo"
+    :31:
+      name: "Shanghai"
+      :13:
+        name: "Baoshan"
+      :5:
+        name: "Changning"
+      :30:
+        name: "Chongming"
+      :26:
+        name: "Fengxian"
+      :9:
+        name: "Hongkou"
+      :1:
+        name: "Huangpu"
+      :14:
+        name: "Jiading"
+      :6:
+        name: "Jing'an"
+      :16:
+        name: "Jinshan"
+      :3:
+        name: "Luwan"
+      :12:
+        name: "Minhang"
+      :15:
+        name: "Pudong New Area"
+      :7:
+        name: "Putuo"
+      :29:
+        name: "Qingpu"
+      :17:
+        name: "Songjiang"
+      :4:
+        name: "Xuhui"
+      :11:
+        name: "Yangpu"
+      :8:
+        name: "Zhabei"
+    :14:
+      name: "Shanxi"
+      :4:
+        name: "Changzhi"
+      :2:
+        name: "Datong"
+      :5:
+        name: "Jincheng"
+      :7:
+        name: "Jinzhong"
+      :10:
+        name: "Linfen"
+      :11:
+        name: "luliang"
+      :6:
+        name: "Shuozhou"
+      :1:
+        name: "Taiyuan"
+      :9:
+        name: "Xinzhou"
+      :3:
+        name: "Yangquan"
+      :8:
+        name: "Yuncheng"
+    :51:
+      name: "Sichuan"
+      :32:
+        name: "Aba Tibetan-Qiang Autonomous Prefecture"
+      :19:
+        name: "Bazhong"
+      :1:
+        name: "Chengdu"
+      :17:
+        name: "Dazhou"
+      :6:
+        name: "Deyang"
+      :33:
+        name: "Garze Tibetan Autonomous Prefecture"
+      :16:
+        name: "Guang'an"
+      :8:
+        name: "Guangyuan"
+      :11:
+        name: "Leshan"
+      :34:
+        name: "Liangshan Yi Autonomous Prefecture"
+      :5:
+        name: "Luzhou"
+      :14:
+        name: "Meishan"
+      :7:
+        name: "Mianyang"
+      :13:
+        name: "Nanchong"
+      :10:
+        name: "Neijiang"
+      :4:
+        name: "Panzhihua"
+      :9:
+        name: "Suining"
+      :18:
+        name: "Ya'an"
+      :15:
+        name: "Yibin"
+      :3:
+        name: "Zigong"
+      :20:
+        name: "Ziyang"
+    :71:
+      name: "Taiwan"
+      :14:
+        name: "Changhwa County"
+      :7:
+        name: "Chiayi City"
+      :17:
+        name: "Chiayi County"
+      :6:
+        name: "Hsinchu City"
+      :11:
+        name: "Hsinchu County"
+      :23:
+        name: "Hualian County"
+      :9:
+        name: "Ilan County"
+      :2:
+        name: "Kaohsiung City"
+      :19:
+        name: "Kaohsiung County"
+      :3:
+        name: "Keelung City"
+      :12:
+        name: "Miaoli County"
+      :15:
+        name: "Nantou County"
+      :21:
+        name: "Penghu County"
+      :20:
+        name: "Pingtung County"
+      :4:
+        name: "Taichung City"
+      :13:
+        name: "Taichung County"
+      :5:
+        name: "Tainan City"
+      :18:
+        name: "Tainan County"
+      :1:
+        name: "Taipei City"
+      :8:
+        name: "Taipei County"
+      :22:
+        name: "Taitung County"
+      :10:
+        name: "Taoyuan County"
+      :16:
+        name: "Yunnlin County"
+    :12:
+      name: "Tianjin"
+      :24:
+        name: "Baodi"
+      :13:
+        name: "Beichen"
+      :26:
+        name: "Binghaixinqu"
+      :10:
+        name: "Dongli"
+      :5:
+        name: "Hebei"
+      :2:
+        name: "Hedong"
+      :1:
+        name: "Heping"
+      :3:
+        name: "Hexi"
+      :6:
+        name: "Hongqiao"
+      :23:
+        name: "Jinghai"
+      :12:
+        name: "Jinnan"
+      :25:
+        name: "Jixian"
+      :4:
+        name: "Nankai"
+      :21:
+        name: "Ninghe"
+      :22:
+        name: "Wuqing"
+      :11:
+        name: "Xiqing"
+    :54:
+      name: "Tibet"
+      :1:
+        name: "Lhasa"
+      :24:
+        name: "Nagqu"
+      :25:
+        name: "Ngari"
+      :26:
+        name: "Nyingchi"
+      :21:
+        name: "Qamdo"
+      :22:
+        name: "Shannan"
+      :23:
+        name: "Xigaze"
+    :65:
+      name: "Xinjiang"
+      :29:
+        name: "Aksu"
+      :92:
+        name: "Alar"
+      :43:
+        name: "Altay"
+      :28:
+        name: "Bayingolin Mongol Autonomous Prefecture"
+      :95:
+        name: "Beitun"
+      :27:
+        name: "Bortala Mongol Autonomous Prefecture"
+      :23:
+        name: "Changji Hui Autonomous Prefecture"
+      :22:
+        name: "Hami"
+      :32:
+        name: "Hotan"
+      :40:
+        name: "Ili Kazakh Autonomous Prefecture"
+      :2:
+        name: "Karamay"
+      :31:
+        name: "Kashi"
+      :30:
+        name: "Kizilsu Kirgiz Autonomous Prefecture"
+      :91:
+        name: "Shihezi"
+      :42:
+        name: "Tacheng"
+      :93:
+        name: "Tumsuk"
+      :21:
+        name: "Turpan"
+      :1:
+        name: "Urumqi"
+      :94:
+        name: "Wujiaqu"
+    :53:
+      name: "Yunnan"
+      :5:
+        name: "Baoshan"
+      :23:
+        name: "Chuxiong Yi Autonomous Prefecture"
+      :29:
+        name: "Dali Bai Autonomous Prefecture"
+      :31:
+        name: "Dehong Dai-Jingpo Autonomous Prefecture"
+      :34:
+        name: "Diqing Tibetan Autonomous Prefecture"
+      :25:
+        name: "Honghe Hani-Yi Autonomous Prefecture"
+      :1:
+        name: "Kunming"
+      :7:
+        name: "Lijiang"
+      :9:
+        name: "Lincang"
+      :33:
+        name: "Nujiang Lisu Autonomous Prefecture"
+      :8:
+        name: "Pu'er"
+      :3:
+        name: "Qujing"
+      :26:
+        name: "Wenshan Zhuang-Miao Autonomous Prefecture"
+      :28:
+        name: "Xishuangbanna Dai Autonomous Prefecture"
+      :4:
+        name: "Yuxi"
+      :6:
+        name: "Zhaotong"
+    :33:
+      name: "Zhejiang"
+      :1:
+        name: "Hangzhou"
+      :5:
+        name: "Huzhou"
+      :4:
+        name: "Jiaxing"
+      :7:
+        name: "Jinhua"
+      :11:
+        name: "Lishui"
+      :2:
+        name: "Ningbo"
+      :8:
+        name: "Quzhou"
+      :6:
+        name: "Shaoxing"
+      :10:
+        name: "Taizhou"
+      :3:
+        name: "Wenzhou"
+      :9:
+        name: "Zhoushan"
+  CXR:
+    name: "Christmas Island"
+    CXR:
+      name: "Christmas Island"
+      CXR:
+        name: "Christmas Island"
+  CCK:
+    name: "Cocos(Keeling)Islands"
+    CCK:
+      name: "Cocos(Keeling)Islands"
+      CCK:
+        name: "Cocos(Keeling)Islands"
+  COL:
+    name: "Colombia"
+    COL:
+      name: "Colombia"
+      AMZ:
+        name: "Amazonas"
+      ANT:
+        name: "Antioquia"
+      ARA:
+        name: "Arauca"
+      ATL:
+        name: "Atlantico"
+      BDC:
+        name: "Bogota"
+      BOL:
+        name: "Bolivar"
+      BOY:
+        name: "Boyaca"
+      CAL:
+        name: "Caldas"
+      CAQ:
+        name: "Caqueta"
+      CAS:
+        name: "Casanare"
+      CAU:
+        name: "Cauca"
+      CES:
+        name: "Cesar"
+      CHO:
+        name: "Choco"
+      COR:
+        name: "Cordoba"
+      CAM:
+        name: "Cundinamarca"
+      GNA:
+        name: "Guainia"
+      GVR:
+        name: "Guaviare"
+      HUI:
+        name: "Huila"
+      GJR:
+        name: "La Guajira"
+      MAG:
+        name: "Magdalena"
+      MET:
+        name: "Meta"
+      NAR:
+        name: "Narino"
+      NDS:
+        name: "Norte de Santander"
+      PUT:
+        name: "Putumayo"
+      QUI:
+        name: "Quindio"
+      RIS:
+        name: "Risaralda"
+      SAP:
+        name: "San Andres y Providencia"
+      SAN:
+        name: "Santander"
+      SUC:
+        name: "Sucre"
+      TOL:
+        name: "Tolima"
+      VDC:
+        name: "Valle del Cauca"
+      VAU:
+        name: "Vaupes"
+      VIC:
+        name: "Vichada"
+  COM:
+    name: "Comoros"
+    COM:
+      name: "Comoros"
+      COM:
+        name: "Comoros"
+  COG:
+    name: "Congo"
+    COG:
+      name: "Congo"
+      COG:
+        name: "Congo"
+  COD:
+    name: "Congo(DRC)"
+    COD:
+      name: "Congo(DRC)"
+      COD:
+        name: "Congo(DRC)"
+  COK:
+    name: "Cook Islands"
+    COK:
+      name: "Cook Islands"
+      COK:
+        name: "Cook Islands"
+  CRI:
+    name: "Costa Rica"
+    CRI:
+      name: "Costa Rica"
+      A:
+        name: "Alajuela"
+      C:
+        name: "Cartago"
+      G:
+        name: "Guanacaste"
+      H:
+        name: "Heredia"
+      L:
+        name: "Limon"
+      P:
+        name: "Puntarenas"
+      SJ:
+        name: "San Jose"
+  CIV:
+    name: "Cote d'Ivoire"
+    CIV:
+      name: "Cote d'Ivoire"
+      AG:
+        name: "Agnebi"
+      BF:
+        name: "Bafing"
+      BS:
+        name: "Bas-Sassandra"
+      DE:
+        name: "Denguele"
+      FR:
+        name: "Fromager"
+      HT:
+        name: "Haut-Sassandra"
+      LC:
+        name: "Lacs"
+      LG:
+        name: "Lagunes"
+      MR:
+        name: "Marahoue"
+      DH:
+        name: "Montagnes"
+      MV:
+        name: "Moyen-Cavally"
+      MC:
+        name: "Moyen-Comoe"
+      NC:
+        name: "Nzi-Comoe"
+      SV:
+        name: "Savanes"
+      SB:
+        name: "Sud-Bandama"
+      SC:
+        name: "Sud-Comoe"
+      VB:
+        name: "Vallee du Bandama"
+      WR:
+        name: "Worodougou"
+      ZA:
+        name: "Zanzan"
+  HRV:
+    name: "Croatia"
+    HRV:
+      name: "Croatia"
+      :7:
+        name: "Bjelovarsko-Bilogorska"
+      :12:
+        name: "Brodsko-Posavska"
+      :19:
+        name: "Dubrovacko-Neretvanska"
+      :21:
+        name: "Grad Zagreb"
+      :18:
+        name: "Istarska"
+      :4:
+        name: "Karlovacka"
+      :6:
+        name: "Koprivnicko-Krizevacka"
+      :2:
+        name: "Krapinsko-Zagorska"
+      :9:
+        name: "Licko-Senjska"
+      :20:
+        name: "Medimurska"
+      :14:
+        name: "Osjecko-Baranjska"
+      :11:
+        name: "Pozega-Slavonia"
+      :8:
+        name: "Primorsko-Goranska"
+      :15:
+        name: "Sibensko-Kninska"
+      :3:
+        name: "Sisacko-Moslavacka"
+      :17:
+        name: "Splitsko-Dalmatinska"
+      :5:
+        name: "Varazdinska"
+      :10:
+        name: "Viroviticko-Podravska"
+      :16:
+        name: "Vukovarsko-Srijemska"
+      :13:
+        name: "Zadarska"
+      :1:
+        name: "Zagrebacka"
+  CUB:
+    name: "Cuba"
+    CUB:
+      name: "Cuba"
+      :9:
+        name: "Camaguey"
+      :8:
+        name: "Ciego de Avila"
+      :6:
+        name: "Cienfuegos"
+      :3:
+        name: "Ciudad de la Habana"
+      :12:
+        name: "Granma"
+      :14:
+        name: "Guantanamo"
+      :11:
+        name: "Holguin"
+      :99:
+        name: "Isla de la Juventud"
+      :2:
+        name: "La Habana"
+      :10:
+        name: "Las Tunas"
+      MZO:
+        name: "Manzanillo"
+      :4:
+        name: "Matanzas"
+      MAY:
+        name: "Mayari"
+      :1:
+        name: "Pinar del Rio"
+      :7:
+        name: "Sancti Spiritus"
+      :13:
+        name: "Santiago de Cuba"
+      :5:
+        name: "Villa Clara"
+  CYP:
+    name: "Cyprus"
+    CYP:
+      name: "Cyprus"
+      :4:
+        name: "Famagusta"
+      :6:
+        name: "Kyrenia"
+      :3:
+        name: "Larnaca"
+      :2:
+        name: "Limassol"
+      :1:
+        name: "Nicosia"
+      :5:
+        name: "Pafos"
+  CZE:
+    name: "Czech Republic"
+    CZE:
+      name: "Czech Republic"
+      JC:
+        name: "Jihomoravsky"
+      KA:
+        name: "Karlovarsky"
+      KR:
+        name: "Kralovehradecky"
+      LI:
+        name: "Liberecky"
+      MO:
+        name: "Moravskoslezsky"
+      OL:
+        name: "Olomoucky"
+      PA:
+        name: "Pardubicky"
+      PL:
+        name: "Plzensky"
+      PR:
+        name: "Prague"
+      ST:
+        name: "Stredocesky"
+      US:
+        name: "Ustecky"
+      VY:
+        name: "Vysocina"
+      ZL:
+        name: "Zlinsky"
+  DNK:
+    name: "Denmark"
+    DNK:
+      name: "Denmark"
+      AR:
+        name: "Aarhus"
+      BO:
+        name: "Bornholm"
+      CPH:
+        name: "Copenhagen"
+      FRE:
+        name: "Frederiksborg"
+      FY:
+        name: "Fyn"
+      VSV:
+        name: "Nordjylland"
+      RIB:
+        name: "Ribe"
+      RKG:
+        name: "Ringkoebing"
+      RKE:
+        name: "Roskilde"
+      VBI:
+        name: "Soenderjylland"
+      ST:
+        name: "Storstroem"
+      VEJ:
+        name: "Vejle"
+      VS:
+        name: "Vestsjaelland"
+      VIB:
+        name: "Viborg"
+  DJI:
+    name: "Djibouti"
+    DJI:
+      name: "Djibouti"
+      S:
+        name: "Ali Sabih"
+      K:
+        name: "Dikhil"
+      O:
+        name: "Obock"
+      T:
+        name: "Tadjoura"
+  DMA:
+    name: "Dominica"
+    DMA:
+      name: "Dominica"
+      DMA:
+        name: "Dominica"
+  DOM:
+    name: "Dominican Republic"
+    DOM:
+      name: "Dominican Republic"
+      DOM:
+        name: "Dominican Republic"
+  ECU:
+    name: "Ecuador"
+    ECU:
+      name: "Ecuador"
+      A:
+        name: "Azuay"
+      B:
+        name: "Bolivar"
+      F:
+        name: "Canar"
+      C:
+        name: "Carchi"
+      H:
+        name: "Chimborazo"
+      X:
+        name: "Cotopaxi"
+      O:
+        name: "El Oro"
+      E:
+        name: "Esmeraldas"
+      W:
+        name: "Galapagos"
+      G:
+        name: "Guayas"
+      I:
+        name: "Imbabura"
+      L:
+        name: "Loja"
+      R:
+        name: "Los Rios"
+      M:
+        name: "Manabi"
+      S:
+        name: "Morona-Santiago"
+      D:
+        name: "Napo, Orellana"
+      Y:
+        name: "Pastaza"
+      P:
+        name: "Pichincha"
+      U:
+        name: "Sucumbios"
+      T:
+        name: "Tungurahua"
+      Z:
+        name: "Zamora-Chinchipe"
+  EGY:
+    name: "Egypt"
+    EGY:
+      name: "Egypt"
+      GBY:
+        name: "Al Ghurdaqah"
+      ALY:
+        name: "Alexandria"
+      ASW:
+        name: "Aswan"
+      CAI:
+        name: "Cairo"
+      SKH:
+        name: "Shubra al Khaymah"
+  SLV:
+    name: "El Salvador"
+    SLV:
+      name: "El Salvador"
+      AH:
+        name: "Ahuachapan"
+      APO:
+        name: "Apopa"
+      CA:
+        name: "Cabanas"
+      CS:
+        name: "Centro Sur"
+      CH:
+        name: "Chalatenango"
+      CU:
+        name: "Cuscatlan"
+      DE:
+        name: "Delgado"
+      IL:
+        name: "Ilopango"
+      KN:
+        name: "Kie-Ntem"
+      LB:
+        name: "La Libertad"
+      PZ:
+        name: "La Paz"
+      UN:
+        name: "La Union"
+      LI:
+        name: "Litoral"
+      MEJ:
+        name: "Mejicanos"
+      MO:
+        name: "Morazan"
+      SM:
+        name: "San Miguel"
+      SS:
+        name: "San Salvador"
+      SV:
+        name: "San Vicente"
+      SA:
+        name: "Santa Ana"
+      SO:
+        name: "Sonsonate"
+      SOY:
+        name: "Soyapango"
+      US:
+        name: "Usulutan"
+      WN:
+        name: "Wele-Nzas"
+  ERI:
+    name: "Eritrea"
+    ERI:
+      name: "Eritrea"
+      KE:
+        name: "Anseba"
+      DE:
+        name: "Debub"
+      DK:
+        name: "Debubawi Keyih Bahri"
+      BR:
+        name: "Gash Barka"
+      MA:
+        name: "Maekel"
+      SK:
+        name: "Semenawi Keyih Bahri"
+  EST:
+    name: "Estonia"
+    EST:
+      name: "Estonia"
+      :37:
+        name: "Harju"
+      :39:
+        name: "Hiiu"
+      :44:
+        name: "Ida-Viru"
+      :51:
+        name: "Jarva"
+      :49:
+        name: "Jogeva"
+      :57:
+        name: "Laane"
+      :59:
+        name: "Laane-Viru"
+      :67:
+        name: "Parnu"
+      :65:
+        name: "Polva"
+      :70:
+        name: "Rapla"
+      :74:
+        name: "Saare"
+      :78:
+        name: "Tartu"
+      :82:
+        name: "Valga"
+      :84:
+        name: "Viljandi"
+      :86:
+        name: "Voru"
+  ETH:
+    name: "Ethiopia"
+    ETH:
+      name: "Ethiopia"
+      AA:
+        name: "Adis abeba"
+      AF:
+        name: "Afar"
+      AH:
+        name: "Amara"
+      BG:
+        name: "Binshangul Gumuz"
+      DD:
+        name: "Dire Dawa"
+      GB:
+        name: "Gambela Hizboch"
+      HR:
+        name: "Hareri  Hizb"
+      OR:
+        name: "Oromiya"
+      SM:
+        name: "Sumale"
+      TG:
+        name: "Tigray"
+      SN:
+        name: "YeDebub Biheroch"
+  FLK:
+    name: "Falkland Islands"
+    FLK:
+      name: "Falkland Islands"
+      FLK:
+        name: "Falkland Islands"
+  FRO:
+    name: "Faroe Islands"
+    FRO:
+      name: "Faroe Islands"
+      FRO:
+        name: "Faroe Islands"
+  FJI:
+    name: "Fiji Islands"
+    FJI:
+      name: "Fiji Islands"
+      FJI:
+        name: "Fiji Islands"
+  FIN:
+    name: "Finland"
+    FIN:
+      name: "Finland"
+      ESP:
+        name: "Espoo"
+      HMY:
+        name: "Hameenlinna"
+      HEL:
+        name: "Helsinki"
+      JOE:
+        name: "Joensuu"
+      KAJ:
+        name: "Kajaani"
+      KOK:
+        name: "Kokkola"
+      KTK:
+        name: "Kotka"
+      KUO:
+        name: "Kuopio"
+      LHI:
+        name: "Lahti"
+      LPP:
+        name: "Lappeenranta"
+      MHQ:
+        name: "Mariehamn"
+      MIK:
+        name: "Mikkeli"
+      OLU:
+        name: "Oulu"
+      POR:
+        name: "Pori"
+      PRV:
+        name: "Porvoo"
+      RVN:
+        name: "Rovaniemi"
+      TMP:
+        name: "Tampere"
+      TKU:
+        name: "Turku"
+      VAA:
+        name: "Vaasa"
+      VAT:
+        name: "Vantaa"
+  FRA:
+    name: "France"
+    FRA:
+      name: "France"
+      QXB:
+        name: "Aix-en-Provence"
+      AJA:
+        name: "Ajaccio"
+      AMI:
+        name: "Amiens"
+      ARL:
+        name: "Arles"
+      BSN:
+        name: "Besancon"
+      CFR:
+        name: "Caen"
+      CSM:
+        name: "Chalons-en-Champagne"
+      DIJ:
+        name: "Dijon"
+      FRJ:
+        name: "Frejus"
+      LLE:
+        name: "Lille"
+      LIG:
+        name: "Limoges"
+      LIO:
+        name: "Lyon"
+      MRS:
+        name: "Marseille"
+      MZM:
+        name: "Metz"
+      MPL:
+        name: "Montpellier"
+      NTE:
+        name: "Nantes"
+      NCE:
+        name: "Nice"
+      ORR:
+        name: "Orleans"
+      PAR:
+        name: "Paris"
+      RNS:
+        name: "Rennes"
+      URO:
+        name: "Rouen"
+      TLS:
+        name: "Toulouse"
+      VAA:
+        name: "Valence"
+  PYF:
+    name: "Frech Polynesia"
+    PYF:
+      name: "Frech Polynesia"
+      PYF:
+        name: "Frech Polynesia"
+  GUF:
+    name: "French Guiana"
+    GUF:
+      name: "French Guiana"
+      GUF:
+        name: "French Guiana"
+  ATF:
+    name: "French Southern and Antarctic Lands"
+    ATF:
+      name: "French Southern and Antarctic Lands"
+      ATF:
+        name: "French Southern and Antarctic Lands"
+  GAB:
+    name: "Gabon"
+    GAB:
+      name: "Gabon"
+      ES:
+        name: "Estuaire"
+      HO:
+        name: "Haut-Ogooue"
+      MO:
+        name: "Moyen-Ogooue"
+      NG:
+        name: "Ngounie"
+      NY:
+        name: "Nyanga"
+      OI:
+        name: "Ogooue-Ivindo"
+      OL:
+        name: "Ogooue-Lolo"
+      OM:
+        name: "Ogooue-Maritime"
+      WN:
+        name: "Woleu-Ntem"
+  GMB:
+    name: "Gambia"
+    GMB:
+      name: "Gambia"
+      GMB:
+        name: "Gambia"
+  GEO:
+    name: "Georgia"
+    GEO:
+      name: "Georgia"
+      GEO:
+        name: "Georgia"
+  DEU:
+    name: "Germany"
+    DEU:
+      name: "Germany"
+      ANS:
+        name: "Ansbach"
+      ARN:
+        name: "Arnsberg"
+      AGB:
+        name: "Augsburg"
+      BYU:
+        name: "Bayreuth"
+      BE:
+        name: "Berlin"
+      BFE:
+        name: "Bielefeld"
+      BOM:
+        name: "Bochum"
+      HB:
+        name: "Bremen"
+      BRW:
+        name: "Brunswick"
+      CHE:
+        name: "Chemnitz"
+      CGN:
+        name: "Cologne"
+      DAR:
+        name: "Darmstadt"
+      DES:
+        name: "Dessau"
+      DET:
+        name: "Detmold"
+      DRS:
+        name: "Dresden"
+      DUS:
+        name: "Dusseldorf"
+      ERF:
+        name: "Erfurt"
+      FFO:
+        name: "Frankfurt"
+      FBG:
+        name: "Freiburg"
+      GBN:
+        name: "GieBen"
+      HAE:
+        name: "Halle"
+      HH:
+        name: "Hamburg"
+      HAJ:
+        name: "Hannover"
+      KAE:
+        name: "Karlsruhe"
+      KAS:
+        name: "Kassel"
+      KEL:
+        name: "Kiel"
+      KOB:
+        name: "Koblenz"
+      LDH:
+        name: "Landshut"
+      LEJ:
+        name: "Leipzig"
+      LBG:
+        name: "Luneburg"
+      MAG:
+        name: "Magdeburg"
+      MAI:
+        name: "Mainz"
+      MHG:
+        name: "Mannheim"
+      MUN:
+        name: "Muenster"
+      MUC:
+        name: "Munich"
+      NUE:
+        name: "Nuremberg"
+      POT:
+        name: "Potsdam"
+      SWH:
+        name: "Schwerin"
+      STR:
+        name: "Stuttgart"
+      TRI:
+        name: "Trier"
+      WIB:
+        name: "Wiesbaden"
+      WUG:
+        name: "Wuerzburg"
+  GHA:
+    name: "Ghana"
+    GHA:
+      name: "Ghana"
+      AS:
+        name: "Ashanti"
+      BA:
+        name: "Brong Ahafo"
+      CE:
+        name: "Central"
+      EA:
+        name: "Eastern"
+      GA:
+        name: "Greater Accra"
+      NO:
+        name: "Northern"
+      OBU:
+        name: "Obuasi"
+      UE:
+        name: "Upper East"
+      UW:
+        name: "Upper West"
+      VO:
+        name: "Volta"
+      WE:
+        name: "Western"
+  GIB:
+    name: "Gibraltar"
+    GIB:
+      name: "Gibraltar"
+      GIB:
+        name: "Gibraltar"
+  GRC:
+    name: "Greece"
+    GRC:
+      name: "Greece"
+      ATH:
+        name: "Athens"
+      CHQ:
+        name: "Chanion"
+      CY:
+        name: "Cyclades"
+      DO:
+        name: "Dodecanese"
+      HER:
+        name: "Irakleiou"
+      LST:
+        name: "Lasithiou"
+      LES:
+        name: "Lesbos"
+      PRI:
+        name: "Peiraievs"
+      RET:
+        name: "Rethymnis"
+      SMI:
+        name: "Samos"
+  GRL:
+    name: "Greenland"
+    GRL:
+      name: "Greenland"
+      GRL:
+        name: "Greenland"
+  GRD:
+    name: "Grenada"
+    GRD:
+      name: "Grenada"
+      GRD:
+        name: "Grenada"
+  GLP:
+    name: "Guadeloupe"
+    GLP:
+      name: "Guadeloupe"
+      GLP:
+        name: "Guadeloupe"
+  GUM:
+    name: "Guam"
+    GUM:
+      name: "Guam"
+      GUM:
+        name: "Guam"
+  GTM:
+    name: "Guatemala"
+    GTM:
+      name: "Guatemala"
+      AV:
+        name: "Alta Verapaz"
+      BV:
+        name: "Baja Verapaz"
+      CM:
+        name: "Chimaltenango"
+      CQ:
+        name: "Chiquimula"
+      PR:
+        name: "El Progreso"
+      ES:
+        name: "Escuintla"
+      GU:
+        name: "Guatemala"
+      HU:
+        name: "Huehuetenango"
+      IZ:
+        name: "Izabal"
+      JA:
+        name: "Jalapa"
+      JU:
+        name: "Jutiapa"
+      MIX:
+        name: "Mixco"
+      PE:
+        name: "Peten"
+      QZ:
+        name: "Quetzaltenango"
+      QC:
+        name: "Quiche"
+      RE:
+        name: "Retalhuleu"
+      ST:
+        name: "Sacatepequez"
+      SM:
+        name: "San Marcos"
+      SR:
+        name: "Santa Rosa"
+      SO:
+        name: "Solola"
+      SU:
+        name: "Suchitepequez"
+      TO:
+        name: "Totonicapan"
+      VIN:
+        name: "Villa Nueva"
+      ZA:
+        name: "Zacapa"
+  GGY:
+    name: "Guernsey"
+    GGY:
+      name: "Guernsey"
+      GGY:
+        name: "Guernsey"
+  GIN:
+    name: "Guinea"
+    GIN:
+      name: "Guinea"
+      BOK:
+        name: "Boke"
+      CNK:
+        name: "Conakry"
+      FRN:
+        name: "Faranah"
+      KNK:
+        name: "Kankan"
+      KND:
+        name: "Kindia"
+      LAB:
+        name: "Labe"
+      MAM:
+        name: "Mamou"
+      NZR:
+        name: "Nzerekore"
+  GNB:
+    name: "Guinea-Bissau"
+    GNB:
+      name: "Guinea-Bissau"
+      GNB:
+        name: "Guinea-Bissau"
+  GUY:
+    name: "Guyana"
+    GUY:
+      name: "Guyana"
+      BW:
+        name: "Barima-Waini"
+      CM:
+        name: "Cuyuni-Mazaruni"
+      DM:
+        name: "Demerara-Mahaica"
+      EC:
+        name: "East Berbice-Corentyne"
+      EW:
+        name: "Essequibo Islands-West Demerara"
+      MB:
+        name: "Mahaica-Berbice"
+      PM:
+        name: "Pomeroon-Supenaam"
+      PI:
+        name: "Potaro-Siparuni"
+      UD:
+        name: "Upper Demerara-Berbice"
+      UT:
+        name: "Upper Takutu-Upper Essequibo"
+  HTI:
+    name: "Haiti"
+    HTI:
+      name: "Haiti"
+      HTI:
+        name: "Haiti"
+  HMD:
+    name: "Heard Island and McDonald Islands"
+    HMD:
+      name: "Heard Island and McDonald Islands"
+      HMD:
+        name: "Heard Island and McDonald Islands"
+  HND:
+    name: "Honduras"
+    HND:
+      name: "Honduras"
+      AT:
+        name: "Atlantida"
+      CHO:
+        name: "Choloma"
+      CH:
+        name: "Choluteca"
+      CL:
+        name: "Colon"
+      CM:
+        name: "Comayagua"
+      CP:
+        name: "Copan"
+      CR:
+        name: "Cortes"
+      PA:
+        name: "El Paraiso"
+      FM:
+        name: "Francisco Morazan"
+      GD:
+        name: "Gracias a Dios"
+      IN:
+        name: "Intibuca"
+      IB:
+        name: "Islas de la Bahia"
+      PZ:
+        name: "La Paz"
+      LE:
+        name: "Lempira"
+      OC:
+        name: "Ocotepeque"
+      OL:
+        name: "Olancho"
+      SB:
+        name: "Santa Barbara"
+      VA:
+        name: "Valle"
+      YO:
+        name: "Yoro"
+  HUN:
+    name: "Hungary"
+    HUN:
+      name: "Hungary"
+      BK:
+        name: "Bacs-Kiskun"
+      BA:
+        name: "Baranya"
+      BE:
+        name: "Bekes"
+      BZ:
+        name: "Borsod-Abauj-Zemplen"
+      BU:
+        name: "Budapest"
+      CS:
+        name: "Csongrad"
+      FE:
+        name: "Fejer"
+      GS:
+        name: "Gyor-Moson-Sopron"
+      HB:
+        name: "Hajdu-Bihar"
+      HE:
+        name: "Heves"
+      JN:
+        name: "Jasz-Nagykun-Szolnok"
+      KE:
+        name: "Komarom-Esztergom"
+      NO:
+        name: "Nograd"
+      PE:
+        name: "Pest"
+      SO:
+        name: "Somogy"
+      SZ:
+        name: "Szabolcs-Szatmar-Bereg"
+      TO:
+        name: "Tolna"
+      VA:
+        name: "Vas"
+      VE:
+        name: "Veszprem"
+      ZA:
+        name: "Zala"
+  ISL:
+    name: "Iceland"
+    ISL:
+      name: "Iceland"
+      ISL:
+        name: "Iceland"
+  IND:
+    name: "India"
+    IND:
+      name: "India"
+      AJL:
+        name: "Aizawl"
+      BLR:
+        name: "Bangalore"
+      BHO:
+        name: "Bhopal"
+      BBI:
+        name: "Bhubaneswar"
+      CCU:
+        name: "Calcutta"
+      IXC:
+        name: "Chandigarh"
+      MAA:
+        name: "Chennai"
+      CJB:
+        name: "Coimbatore"
+      DAM:
+        name: "Daman"
+      DIU:
+        name: "Diu"
+      GTO:
+        name: "Gangtok"
+      IMF:
+        name: "Imphal"
+      IDR:
+        name: "Indore"
+      JLR:
+        name: "Jabalpur"
+      JAI:
+        name: "Jaipur"
+      JUC:
+        name: "Jalandhar"
+      JDH:
+        name: "Jodhpur"
+      KRK:
+        name: "Karaikal"
+      KVA:
+        name: "Kavaratti"
+      KOM:
+        name: "Kohima"
+      IXM:
+        name: "Madurai"
+      MAH:
+        name: "Mahe"
+      ICD:
+        name: "New Delhi"
+      PNY:
+        name: "Pondicherry"
+      SLR:
+        name: "Sambalpur"
+      SHL:
+        name: "Shillong"
+      SIL:
+        name: "Silvassa"
+      TRV:
+        name: "Trivandrum"
+      UDR:
+        name: "Udaipur"
+      SRV:
+        name: "Yanam"
+  IDN:
+    name: "Indonesia"
+    IDN:
+      name: "Indonesia"
+      AC:
+        name: "Aceh"
+      BA:
+        name: "Bali"
+      BT:
+        name: "Banten"
+      BE:
+        name: "Bengkulu"
+      YO:
+        name: "Daerah Istimewa Yogyakarta"
+      KB:
+        name: "Daerah Tingkat I Kalimantan Barat"
+      IJ:
+        name: "Irian Jaya"
+      JK:
+        name: "Jakarta Raya"
+      JA:
+        name: "Jambi"
+      JB:
+        name: "Java Barat"
+      JT:
+        name: "Java Tengah"
+      JI:
+        name: "Java Timur"
+      KS:
+        name: "Kalimantan Selatan"
+      KT:
+        name: "Kalimantan Tengah"
+      KI:
+        name: "Kalimantan Timur"
+      BB:
+        name: "Kepulauan Bangka Belitung"
+      LA:
+        name: "Lampung"
+      MA:
+        name: "Maluku"
+      NB:
+        name: "Nusa Tenggara Barat"
+      NT:
+        name: "Nusa Tenggara Timur"
+      RI:
+        name: "Riau"
+      SN:
+        name: "Sulawesi Selatan"
+      ST:
+        name: "Sulawesi Tengah"
+      SG:
+        name: "Sulawesi Tenggara"
+      SA:
+        name: "Sulawesi Utara"
+      SR:
+        name: "Sumatera Barat"
+      SS:
+        name: "Sumatera Selatan"
+      SU:
+        name: "Sumatera Utara"
+  IRN:
+    name: "Iran"
+    IRN:
+      name: "Iran"
+      IRN:
+        name: "Iran"
+  IRQ:
+    name: "Iraq"
+    IRQ:
+      name: "Iraq"
+      IRQ:
+        name: "Iraq"
+  IRL:
+    name: "Ireland"
+    IRL:
+      name: "Ireland"
+      CW:
+        name: "Carlow"
+      CV:
+        name: "Cavan"
+      CL:
+        name: "Clare"
+      CK:
+        name: "Cork"
+      DG:
+        name: "Donegal"
+      DB:
+        name: "Dublin"
+      GW:
+        name: "Galway"
+      KR:
+        name: "Kerry"
+      KD:
+        name: "Kildare"
+      KK:
+        name: "Kilkenny"
+      LA:
+        name: "Laois"
+      LR:
+        name: "Leitrim"
+      LM:
+        name: "Limerick"
+      LF:
+        name: "Longford"
+      LT:
+        name: "Louth"
+      MY:
+        name: "Mayo"
+      MT:
+        name: "Meath"
+      MG:
+        name: "Monaghan"
+      OF:
+        name: "Offaly"
+      RC:
+        name: "Roscommon"
+      SL:
+        name: "Sligo"
+      TP:
+        name: "Tipperary"
+      WF:
+        name: "Waterford"
+      WM:
+        name: "Westmeath"
+      WX:
+        name: "Wexford"
+      WK:
+        name: "Wicklow"
+  IMN:
+    name: "Isle of Man"
+    IMN:
+      name: "Isle of Man"
+      IMN:
+        name: "Isle of Man"
+  ISR:
+    name: "Israel"
+    ISR:
+      name: "Israel"
+      ASH:
+        name: "Ashdod"
+      BAT:
+        name: "Bat Yam"
+      BEV:
+        name: "Beersheba"
+      HFA:
+        name: "Haifa"
+      HOL:
+        name: "Holon"
+      J:
+        name: "Jerusalem"
+      NAT:
+        name: "Netanya"
+      TLV:
+        name: "Tel Aviv-Yafo"
+  ITA:
+    name: "Italy"
+    ITA:
+      name: "Italy"
+      ALE:
+        name: "Alessandria"
+      AOI:
+        name: "Ancona"
+      AOT:
+        name: "Aosta"
+      ASP:
+        name: "Ascoli Piceno"
+      AST:
+        name: "Asti"
+      BRI:
+        name: "Bari"
+      BEN:
+        name: "Benevento"
+      BGO:
+        name: "Bergamo"
+      BIE:
+        name: "Biella"
+      BLQ:
+        name: "Bologna"
+      BRC:
+        name: "Brescia"
+      BDS:
+        name: "Brindisi"
+      CAG:
+        name: "Cagliari"
+      COB:
+        name: "Campobasso"
+      CST:
+        name: "Caserta"
+      CTA:
+        name: "Catania"
+      QCZ:
+        name: "Catanzaro"
+      CIY:
+        name: "Como"
+      QCS:
+        name: "Cosenza"
+      CRV:
+        name: "Crotone"
+      CUN:
+        name: "Cuneo"
+      FRR:
+        name: "Ferrara"
+      FLR:
+        name: "Firenze"
+      FOG:
+        name: "Foggia"
+      CAX:
+        name: "Genova"
+      ISE:
+        name: "Isernia"
+      LAQ:
+        name: "L'Aquila"
+      SPE:
+        name: "La Spezia"
+      LCC:
+        name: "Lecce"
+      LCO:
+        name: "Lecco"
+      LIV:
+        name: "Livorno"
+      MCR:
+        name: "Massa-Carrara"
+      MTR:
+        name: "Matera"
+      MSN:
+        name: "Messina"
+      MIL:
+        name: "Milano"
+      MOD:
+        name: "Modena"
+      MZA:
+        name: "Monza e Brianza"
+      NAP:
+        name: "Naples"
+      NVR:
+        name: "Novara"
+      QNU:
+        name: "Nuoro"
+      OLB:
+        name: "Olbia-Tempio"
+      QOS:
+        name: "Oristano"
+      PMO:
+        name: "Palermo"
+      PMF:
+        name: "Parma"
+      PAV:
+        name: "Pavia"
+      PEG:
+        name: "Perugia"
+      PSA:
+        name: "Pisa"
+      PRD:
+        name: "Pordenone"
+      QPO:
+        name: "Potenza"
+      REG:
+        name: "Reggio Calabria"
+      RNE:
+        name: "Reggio Emilia"
+      ROM:
+        name: "Roma"
+      SAL:
+        name: "Salerno"
+      QSS:
+        name: "Sassari"
+      SVN:
+        name: "Savona"
+      SNA:
+        name: "Siena"
+      SYR:
+        name: "Syracuse"
+      TAR:
+        name: "Taranto"
+      TPS:
+        name: "Trapani"
+      TRT:
+        name: "Trento"
+      TRS:
+        name: "Trieste"
+      TRN:
+        name: "Turin"
+      UDN:
+        name: "Udine"
+      VCE:
+        name: "Venice"
+      VRL:
+        name: "Vercelli"
+      VIT:
+        name: "Viterbo"
+  JAM:
+    name: "Jamaica"
+    JAM:
+      name: "Jamaica"
+      CLA:
+        name: "Clarendon"
+      HAN:
+        name: "Hanover"
+      KIN:
+        name: "Kingston"
+      MAN:
+        name: "Manchester"
+      POR:
+        name: "Portland"
+      AND:
+        name: "St. Andrews"
+      ANN:
+        name: "St. Ann"
+      CAT:
+        name: "St. Catherine"
+      ELI:
+        name: "St. Elizabeth"
+      JAM:
+        name: "St. James"
+      MAR:
+        name: "St. Mary"
+      THO:
+        name: "St. Thomas"
+      TRL:
+        name: "Trelawny"
+      WML:
+        name: "Westmoreland"
+  JPN:
+    name: "Japan"
+    JPN:
+      name: "Japan"
+      :23:
+        name: "Aichi"
+      :5:
+        name: "Akita"
+      :2:
+        name: "Aomori"
+      :12:
+        name: "Chiba"
+      :38:
+        name: "Ehime"
+      :18:
+        name: "Fukui"
+      :40:
+        name: "Fukuoka"
+      :7:
+        name: "Fukushima"
+      :21:
+        name: "Gifu"
+      :10:
+        name: "Gunma"
+      :34:
+        name: "Hiroshima"
+      :1:
+        name: "Hokkaido"
+      :28:
+        name: "Hyogo"
+      :8:
+        name: "Ibaraki"
+      :17:
+        name: "Ishikawa"
+      :3:
+        name: "Iwate"
+      :37:
+        name: "Kagawa"
+      :46:
+        name: "Kagoshima"
+      :14:
+        name: "Kanagawa"
+      :39:
+        name: "Kochi"
+      :43:
+        name: "Kumamoto"
+      :26:
+        name: "Kyoto"
+      :24:
+        name: "Mie"
+      :4:
+        name: "Miyagi"
+      :45:
+        name: "Miyazaki"
+      :20:
+        name: "Nagano"
+      :42:
+        name: "Nagasaki"
+      :29:
+        name: "Nara"
+      :15:
+        name: "Niigata"
+      :44:
+        name: "Oita"
+      :33:
+        name: "Okayama"
+      :47:
+        name: "Okinawa"
+      :27:
+        name: "Osaka"
+      :41:
+        name: "Saga"
+      :11:
+        name: "Saitama"
+      :25:
+        name: "Shiga"
+      :32:
+        name: "Shimane"
+      :22:
+        name: "Shizuoka"
+      :9:
+        name: "Tochigi"
+      :36:
+        name: "Tokushima"
+      :13:
+        name: "Tokyo"
+      :31:
+        name: "Tottori"
+      :16:
+        name: "Toyama"
+      :30:
+        name: "Wakayama"
+      :6:
+        name: "Yamagata"
+      :35:
+        name: "Yamaguchi"
+      :19:
+        name: "Yamanashi"
+  JEY:
+    name: "Jersey"
+    JEY:
+      name: "Jersey"
+      JEY:
+        name: "Jersey"
+  JOR:
+    name: "Jordan"
+    JOR:
+      name: "Jordan"
+      AJ:
+        name: "Allun"
+      AM:
+        name: "Amman"
+      AQ:
+        name: "Aqaba"
+      BA:
+        name: "Balqa"
+      IR:
+        name: "Irbid"
+      JA:
+        name: "Jarash"
+      KA:
+        name: "Karak"
+      MN:
+        name: "Maan"
+      MD:
+        name: "Madaba"
+      MF:
+        name: "Mafraq"
+      RU:
+        name: "Rusayfah"
+      TA:
+        name: "Tafiela"
+      ZA:
+        name: "Zarqa"
+  KAZ:
+    name: "Kazakhstan"
+    KAZ:
+      name: "Kazakhstan"
+      AKS:
+        name: "Aksu"
+      ALA:
+        name: "Almaty"
+      AKM:
+        name: "Aqmola"
+      AKT:
+        name: "Aqtobe"
+      AYK:
+        name: "Arkalyk"
+      ARY:
+        name: "Arys"
+      AST:
+        name: "Astana"
+      ATY:
+        name: "Atyrau"
+      BXH:
+        name: "Balkhash"
+      ZAP:
+        name: "Batys Qazaqstan"
+      EKB:
+        name: "Ekibastuz"
+      KAP:
+        name: "Kapchagay"
+      KZO:
+        name: "Karazhal"
+      KEN:
+        name: "Kentau"
+      KUR:
+        name: "Kurchatov"
+      LEN:
+        name: "Leninogorsk"
+      LKK:
+        name: "Lisakovsk"
+      MAN:
+        name: "Mangghystau"
+      KGT:
+        name: "Ongtustik Qazaqstan"
+      PAV:
+        name: "Pavlodar"
+      KAR:
+        name: "Qaraghandy"
+      KST:
+        name: "Qostanay"
+      KZY:
+        name: "Qyzylorda"
+      RUD:
+        name: "Rudny"
+      SAR:
+        name: "Saran"
+      SEM:
+        name: "Semey"
+      SAK:
+        name: "Shakhtinsk"
+      VOS:
+        name: "Shyghys Qazaqstan"
+      SEV:
+        name: "Soltustik Qazaqstan"
+      STE:
+        name: "Stepnogorsk"
+      TEK:
+        name: "Tekeli"
+      TEM:
+        name: "Temirtau"
+      TUR:
+        name: "Turkestan"
+      DMB:
+        name: "Zhambyl"
+      ZHA:
+        name: "Zhanaozen"
+      DZH:
+        name: "Zhezkazgan"
+      ZYR:
+        name: "Zyryanovsk"
+  KEN:
+    name: "Kenya"
+    KEN:
+      name: "Kenya"
+      BAR:
+        name: "Baringo"
+      BOM:
+        name: "Bomet"
+      BUN:
+        name: "Bungoma"
+      BUS:
+        name: "Busia"
+      CE:
+        name: "Central"
+      EMA:
+        name: "Elgeyo-Marakwet"
+      EMB:
+        name: "Embu"
+      GAS:
+        name: "Garissa"
+      HOB:
+        name: "Homa Bay"
+      ISI:
+        name: "Isiolo"
+      KAJ:
+        name: "Kajiado"
+      KAK:
+        name: "Kakamega"
+      KEY:
+        name: "Kericho"
+      KIA:
+        name: "Kiambu"
+      KIL:
+        name: "Kilifi"
+      KIR:
+        name: "Kirinyaga"
+      KII:
+        name: "Kisii"
+      KIS:
+        name: "Kisumu"
+      KIT:
+        name: "Kitui"
+      KWA:
+        name: "Kwale"
+      LAI:
+        name: "Laikipia"
+      LAU:
+        name: "Lamu"
+      MAC:
+        name: "Machakos"
+      MAK:
+        name: "Makueni"
+      MAN:
+        name: "Mandera"
+      RBT:
+        name: "Marsabit"
+      MER:
+        name: "Meru"
+      MIG:
+        name: "Migori"
+      MOM:
+        name: "Mombasa"
+      MUR:
+        name: "Muranga"
+      NA:
+        name: "Nairobi"
+      NUU:
+        name: "Nakuru"
+      NAN:
+        name: "Nandi"
+      NAR:
+        name: "Narok"
+      NIT:
+        name: "Nithi"
+      NYM:
+        name: "Nyamira"
+      NYN:
+        name: "Nyandarua"
+      NYE:
+        name: "Nyeri"
+      UAS:
+        name: "Samburu"
+      SIA:
+        name: "Siaya"
+      TTA:
+        name: "Taita-Taveta"
+      TRI:
+        name: "Tana River"
+      TNZ:
+        name: "Trans-Nzoia"
+      TUR:
+        name: "Turkana"
+      UGI:
+        name: "Uasin Gishu"
+      VIH:
+        name: "Vihiga"
+      WJR:
+        name: "Wajir"
+      WPO:
+        name: "West Pokot"
+  KIR:
+    name: "Kiribati"
+    KIR:
+      name: "Kiribati"
+      GIL:
+        name: "Gilberts Islands"
+      LIN:
+        name: "Line Islands"
+      PHO:
+        name: "Phoenix Islands"
+  KOR:
+    name: "Korea"
+    :26:
+      name: "Busan"
+      :26:
+        name: "Busan"
+    :43:
+      name: "Chungcheongbuk-do"
+      ADG:
+        name: "Andong"
+      BHA:
+        name: "Bonghwa County"
+      CDO:
+        name: "Cheongdo County"
+      CSG:
+        name: "Cheongsong County"
+      CGK:
+        name: "Chilgok County"
+      KMC:
+        name: "Gimcheon"
+      GRG:
+        name: "Goryeong County"
+      KUM:
+        name: "Gumi"
+      GWI:
+        name: "Gunwi County"
+      GJU:
+        name: "Gyeongju"
+      GYS:
+        name: "Gyeongsan"
+      MGG:
+        name: "Mungyeong"
+      KPO:
+        name: "Pohang"
+      SJU:
+        name: "Sangju"
+      SEJ:
+        name: "Seongju County"
+      USG:
+        name: "Uiseong County"
+      UJN:
+        name: "Uljin County"
+      ULG:
+        name: "Ulleung County"
+      YEC:
+        name: "Yecheon County"
+      YCH:
+        name: "Yeongcheon"
+      YDK:
+        name: "Yeongdeok County"
+      YEJ:
+        name: "Yeongju"
+      YYG:
+        name: "Yeongyang County"
+    :44:
+      name: "Chungcheongnam-do"
+      CNG:
+        name: "Changnyeong County"
+      CHW:
+        name: "Changwon"
+      GCH:
+        name: "Geochang County"
+      KJE:
+        name: "Geoje"
+      KMH:
+        name: "Gimhae"
+      GSO:
+        name: "Goseong County"
+      HDG:
+        name: "Hadong County"
+      HAN:
+        name: "Haman County"
+      HYG:
+        name: "Hamyang County"
+      HCE:
+        name: "Hapcheon County"
+      CHF:
+        name: "Jinhae"
+      HIN:
+        name: "Jinju"
+      MAS:
+        name: "Masan"
+      MIR:
+        name: "Miryang"
+      NHE:
+        name: "Namhae County"
+      SAH:
+        name: "Sacheon"
+      SCH:
+        name: "Sancheong County"
+      TYG:
+        name: "Tongyeong"
+      URG:
+        name: "Uiryeong County"
+      YSN:
+        name: "Yangsan"
+    :27:
+      name: "Daegu"
+      TAE:
+        name: "Daegu"
+      DSG:
+        name: "Dalseong-gun"
+      SUS:
+        name: "Suseong-gu"
+    :30:
+      name: "Daejeon"
+      :30:
+        name: "Daejeon"
+    :42:
+      name: "Gangwon-do"
+      CWN:
+        name: "Cheorwon County"
+      CHC:
+        name: "Chuncheon"
+      TGH:
+        name: "Donghae"
+      KAG:
+        name: "Gangneung"
+      GSG:
+        name: "Goseong County"
+      HSG:
+        name: "Hoengseong County"
+      HCN:
+        name: "Hongcheon County"
+      HCH:
+        name: "Hwacheon County"
+      IJE:
+        name: "Inje County"
+      JSE:
+        name: "Jeongseon County"
+      POG:
+        name: "Pyeongchang County"
+      SUK:
+        name: "Samcheok"
+      SHO:
+        name: "Sokcho"
+      TBK:
+        name: "Taebaek"
+      WJU:
+        name: "Wonju"
+      YGU:
+        name: "Yanggu County"
+      YNY:
+        name: "Yangyang County"
+      YWL:
+        name: "Yeongwol County"
+    :29:
+      name: "Gwangju"
+      :29:
+        name: "Gwangju"
+    :41:
+      name: "Jeju-do"
+      :41:
+        name: "Jeju-do"
+    :47:
+      name: "Gyeongsangbuk-do"
+      PUS:
+        name: "Buan County"
+      GJE:
+        name: "Gimje"
+      GCG:
+        name: "Gochang County"
+      KUV:
+        name: "Gunsan"
+      IKS:
+        name: "Iksan"
+      ISL:
+        name: "Imsil County"
+      JSU:
+        name: "Jangsu County"
+      JEO:
+        name: "Jeongeup"
+      JNJ:
+        name: "Jeonju"
+      JAN:
+        name: "Jinan County"
+      MJU:
+        name: "Muju County"
+      NWN:
+        name: "Namwon"
+      SCG:
+        name: "Sunchang County"
+      WAJ:
+        name: "Wanju County"
+    :48:
+      name: "Gyeongsangnam-do"
+      BSG:
+        name: "Boseong County"
+      DYA:
+        name: "Damyang County"
+      GJN:
+        name: "Gangjin County"
+      GHG:
+        name: "Goheung County"
+      GSE:
+        name: "Gokseong County"
+      GRE:
+        name: "Gurye County"
+      KAN:
+        name: "Gwangyang"
+      HAE:
+        name: "Haenam County"
+      HPG:
+        name: "Hampyeong County"
+      HSN:
+        name: "Hwasun County"
+      JHG:
+        name: "Jangheung County"
+      JSN:
+        name: "Jangseong County"
+      JDO:
+        name: "Jindo County"
+      MOK:
+        name: "Mokpo"
+      MAN:
+        name: "Muan County"
+      NJU:
+        name: "Naju"
+      SAN:
+        name: "Sinan County"
+      SYS:
+        name: "Suncheon"
+      WND:
+        name: "Wando County"
+      YAM:
+        name: "Yeongam County"
+      YGG:
+        name: "Yeonggwang County"
+      YOS:
+        name: "Yeosu"
+    :28:
+      name: "Incheon"
+      :28:
+        name: "Incheon"
+    :49:
+      name: "Gyeonggi-do"
+      ASN:
+        name: "Ansan"
+      ASG:
+        name: "Anseong"
+      ANY:
+        name: "Anyang"
+      BCN:
+        name: "Bucheon"
+      DDC:
+        name: "Dongducheon"
+      GPG:
+        name: "Gapyeong County"
+      GMP:
+        name: "Gimpo"
+      GYG:
+        name: "Goyang"
+      GUN:
+        name: "Gunpo"
+      GRI:
+        name: "Guri"
+      GCN:
+        name: "Gwacheon"
+      KWU:
+        name: "Gwangju"
+      GMG:
+        name: "Gwangmyeong"
+      HNM:
+        name: "Hanam"
+      HCH:
+        name: "Hwaseong"
+      ICE:
+        name: "Icheon"
+      NYU:
+        name: "Namyangju"
+      OSN:
+        name: "Osan"
+      PJU:
+        name: "Paju"
+      POC:
+        name: "Pocheon"
+      PTK:
+        name: "Pyeongtaek"
+      SEO:
+        name: "Seongnam"
+      SHE:
+        name: "Siheung"
+      SUO:
+        name: "Suwon"
+      UIJ:
+        name: "Uijeongbu"
+      UWN:
+        name: "Uiwang"
+      YYU:
+        name: "Yangju"
+      YPG:
+        name: "Yangpyeong County"
+      YJU:
+        name: "Yeoju County"
+      YCN:
+        name: "Yeoncheon County"
+      YNG:
+        name: "Yongin"
+    :45:
+      name: "Jeollabuk-do"
+      BEN:
+        name: "Boeun County"
+      CJJ:
+        name: "Cheongju"
+      CWO:
+        name: "Cheongwon County"
+      CHU:
+        name: "Chungju"
+      DYG:
+        name: "Danyang County"
+      ESG:
+        name: "Eumseong County"
+      GSN:
+        name: "Goesan County"
+      JCH:
+        name: "Jecheon"
+      JYG:
+        name: "Jeungpyeong County"
+      JCN:
+        name: "Jincheon County"
+      OCN:
+        name: "Okcheon County"
+      YDG:
+        name: "Yeongdong County"
+    :46:
+      name: "Jeollanam-do"
+      ASA:
+        name: "Asan"
+      BOR:
+        name: "Boryeong"
+      BYO:
+        name: "Buyeo County"
+      CHO:
+        name: "Cheonan"
+      CYG:
+        name: "Cheongyang County"
+      TJI:
+        name: "Dangjin County"
+      GSA:
+        name: "Geumsan County"
+      GOJ:
+        name: "Gongju"
+      GYE:
+        name: "Gyeryong"
+      HSE:
+        name: "Hongseong County"
+      NSN:
+        name: "Nonsan"
+      SCE:
+        name: "Seocheon County"
+      SSA:
+        name: "Seosan"
+      TAN:
+        name: "Taean County"
+      YGI:
+        name: "Yeongi County"
+      YOS:
+        name: "Yesan County"
+    :11:
+      name: "Seoul"
+      :11:
+        name: "Seoul"
+    :31:
+      name: "Ulsan"
+      :31:
+        name: "Ulsan"
+  KWT:
+    name: "Kuwait"
+    KWT:
+      name: "Kuwait"
+      KWT:
+        name: "Kuwait"
+  KGZ:
+    name: "Kyrgyzstan"
+    KGZ:
+      name: "Kyrgyzstan"
+      B:
+        name: "Batken"
+      GB:
+        name: "Bishkek"
+      C:
+        name: "Chuy"
+      J:
+        name: "Jalal-Abad"
+      KAN:
+        name: "Kant"
+      KBA:
+        name: "Karabalta"
+      KKO:
+        name: "Kara-Kol"
+      KJ:
+        name: "Kok-Jangak"
+      MS:
+        name: "Mailuu-Suu"
+      N:
+        name: "Naryn"
+      O:
+        name: "Osh"
+      SU:
+        name: "Suluktu"
+      T:
+        name: "Talas"
+      TK:
+        name: "Tash-Kumyr"
+      UG:
+        name: "Uzgen"
+      Y:
+        name: "Ysyk-Kol"
+  LAO:
+    name: "Laos"
+    LAO:
+      name: "Laos"
+      AT:
+        name: "Attapu"
+      BK:
+        name: "Bokeo"
+      BL:
+        name: "Bolikhamxai"
+      CH:
+        name: "Champasak"
+      HO:
+        name: "Houaphan"
+      KH:
+        name: "Khammouan"
+      LM:
+        name: "Louang Namtha"
+      LP:
+        name: "Louangphrabang"
+      OU:
+        name: "Oudomxai"
+      PH:
+        name: "Phongsali"
+      SL:
+        name: "Saravan"
+      SV:
+        name: "Savannakhet"
+      VI:
+        name: "Vientiane"
+      XA:
+        name: "Xaignabouri"
+      XN:
+        name: "Xaisomboun"
+      XE:
+        name: "Xekong"
+      XI:
+        name: "Xiangkhoang"
+  LVA:
+    name: "Latvia"
+    LVA:
+      name: "Latvia"
+      AIZ:
+        name: "Aizkraukles"
+      ALU:
+        name: "Aluksnes"
+      BAL:
+        name: "Balvu"
+      BAU:
+        name: "Bauskas"
+      CES:
+        name: "Cesu"
+      DGR:
+        name: "Daugavpils"
+      DOB:
+        name: "Dobeles"
+      GUL:
+        name: "Gulbenes"
+      JEK:
+        name: "Jekabpils"
+      JGR:
+        name: "Jelgavas"
+      KRA:
+        name: "Kraslavas"
+      KUL:
+        name: "Kuldigas"
+      LPK:
+        name: "Liepajas"
+      LIM:
+        name: "Limbazu"
+      LUD:
+        name: "Ludzas"
+      MAD:
+        name: "Madonas"
+      OGR:
+        name: "Ogres"
+      PRE:
+        name: "Preilu"
+      RZR:
+        name: "Rezeknes"
+      RGA:
+        name: "Rigas"
+      SAL:
+        name: "Saldus"
+      TAL:
+        name: "Talsu"
+      TUK:
+        name: "Tukuma"
+      VLK:
+        name: "Valkas"
+      VLM:
+        name: "Valmieras"
+      VSL:
+        name: "Ventspils"
+  LBN:
+    name: "Lebanon"
+    LBN:
+      name: "Lebanon"
+      BI:
+        name: "Al-Biqa"
+      JA:
+        name: "Al-Janub"
+      NA:
+        name: "An-Nabatiyah"
+      AS:
+        name: "Ash-Shamal"
+      BA:
+        name: "Bayrut"
+      JL:
+        name: "Jabal Lubnan"
+  LSO:
+    name: "Lesotho"
+    LSO:
+      name: "Lesotho"
+      D:
+        name: "Berea"
+      B:
+        name: "Butha-Buthe"
+      C:
+        name: "Leribe"
+      E:
+        name: "Mafeteng"
+      A:
+        name: "Maseru"
+      F:
+        name: "Mohales Hoek"
+      J:
+        name: "Mokhotlong"
+      H:
+        name: "Qachas Nek"
+      G:
+        name: "Quthing"
+      K:
+        name: "Thaba-Tseka"
+  LBR:
+    name: "Liberia"
+    LBR:
+      name: "Liberia"
+      BM:
+        name: "Bomi"
+      BG:
+        name: "Bong"
+      BOP:
+        name: "Bopolu"
+      FT:
+        name: "Fish Town"
+      GBA:
+        name: "Gbarpolu"
+      GB:
+        name: "Grand Bassa"
+      CM:
+        name: "Grand Cape Mount"
+      GG:
+        name: "Grand Gedeh"
+      GK:
+        name: "Grand Kru"
+      LO:
+        name: "Lofa"
+      MG:
+        name: "Margibi"
+      MY:
+        name: "Maryland"
+      MO:
+        name: "Montserrado"
+      NI:
+        name: "Nimba"
+      RI:
+        name: "River Cess"
+      RG:
+        name: "River Gee"
+      SI:
+        name: "Sinoe"
+  LBY:
+    name: "Libya"
+    LBY:
+      name: "Libya"
+      LBY:
+        name: "Libya"
+  LIE:
+    name: "Liechtenstein"
+    LIE:
+      name: "Liechtenstein"
+      LIE:
+        name: "Liechtenstein"
+  LTU:
+    name: "Lithuania"
+    LTU:
+      name: "Lithuania"
+      AKM:
+        name: "Akmenes"
+      AL:
+        name: "Alytus"
+      KA:
+        name: "Kaunas"
+      KL:
+        name: "Klaipeda"
+      MA:
+        name: "Marijampole"
+      PA:
+        name: "Panevezys"
+      SI:
+        name: "Siauliai"
+      TA:
+        name: "Taurages"
+      TE:
+        name: "Telsiu"
+      UT:
+        name: "Utenos"
+      VI:
+        name: "Vilnius"
+  LUX:
+    name: "Luxembourg"
+    LUX:
+      name: "Luxembourg"
+      DD:
+        name: "Diekirch"
+      GG:
+        name: "Grevenmacher"
+      LL:
+        name: "Luxembourg"
+  MKD:
+    name: "Macedonia,Former Yugoslav Republic of"
+    MKD:
+      name: "Macedonia,Former Yugoslav Republic of"
+      MKD:
+        name: "Macedonia,Former Yugoslav Republic of"
+  MDG:
+    name: "Madagascar"
+    MDG:
+      name: "Madagascar"
+      AN:
+        name: "Antananarivo"
+      AS:
+        name: "Antsiranana"
+      FN:
+        name: "Fianarantsoa"
+      MJ:
+        name: "Mahajanga"
+      TM:
+        name: "Toamasina"
+      TL:
+        name: "Toliary"
+  MWI:
+    name: "Malawi"
+    MWI:
+      name: "Malawi"
+      C:
+        name: "Central"
+      N:
+        name: "Northern"
+      S:
+        name: "Southern"
+  MYS:
+    name: "Malaysia"
+    JH:
+      name: "Johor"
+      BAT:
+        name: "Batu Pahat"
+      JHB:
+        name: "Johor Bahru"
+      KLA:
+        name: "Kluang"
+      KTI:
+        name: "Kota Tinggi"
+      MEP:
+        name: "Mersing"
+      MUA:
+        name: "Muar"
+      POW:
+        name: "Pontian"
+      SGM:
+        name: "Segamat"
+    KD:
+      name: "Kedah"
+      BLZ:
+        name: "Baling"
+      BMA:
+        name: "Bandar Baharu"
+      KOR:
+        name: "Kota Setar"
+      KMU:
+        name: "Kuala Muda"
+      KPA:
+        name: "Kubang Pasu"
+      KLM:
+        name: "Kulim"
+      LGK:
+        name: "Langkawi"
+      PGT:
+        name: "Padang Terap"
+      PEN:
+        name: "Pendang"
+    KN:
+      name: "Kelantan"
+      BAC:
+        name: "Bachok"
+      GMU:
+        name: "Gua Musang"
+      JEL:
+        name: "Jeli"
+      KBR:
+        name: "Kota Bharu"
+      KUG:
+        name: "Kuala Krai"
+      MAC:
+        name: "Machang"
+      PMA:
+        name: "Pasir Mas"
+      PPU:
+        name: "Pasir Putih"
+      TMR:
+        name: "Tanah Merah"
+      TUM:
+        name: "Tumpat"
+    KL:
+      name: "Kuala Lumpur"
+      KUL:
+        name: "Kuala Lumpur"
+    LB:
+      name: "Labuan"
+      LBU:
+        name: "Labuan"
+      VIC:
+        name: "Victoria"
+    ML:
+      name: "Malacca"
+      AOG:
+        name: "Alor Gajah"
+      JAS:
+        name: "Jasin"
+      MEL:
+        name: "Melaka"
+    NS:
+      name: "Negeri Sembilan"
+      JEL:
+        name: "Jelebu"
+      JEP:
+        name: "Jempol"
+      KPI:
+        name: "Kuala Pilah"
+      PDI:
+        name: "Port Dickson"
+      REM:
+        name: "Rembau"
+      SRB:
+        name: "Seremban"
+      TAI:
+        name: "Tampin"
+    PG:
+      name: "Pahang"
+      BEN:
+        name: "Bentong"
+      BER:
+        name: "Bera"
+      CAH:
+        name: "Cameron Highlands"
+      JER:
+        name: "Jerantut"
+      KUL:
+        name: "Kuala Lipis"
+      KUA:
+        name: "Kuantan"
+      MAR:
+        name: "Maran"
+      PEK:
+        name: "Pekan"
+      RAU:
+        name: "Raub"
+      TOM:
+        name: "Rompin"
+      TEM:
+        name: "Temerloh"
+    PK:
+      name: "Perak"
+      BGA:
+        name: "Batu Gajah"
+      IPH:
+        name: "Ipoh"
+      KAR:
+        name: "Kuala Kangsar"
+      LUM:
+        name: "Lumut"
+      SSP:
+        name: "Sungai Siput"
+      TPG:
+        name: "Taiping"
+      TAM:
+        name: "Tanjung Malim"
+      TAS:
+        name: "Teluk Intan"
+    PS:
+      name: "Perlis"
+      KGR:
+        name: "Kangar"
+    PH:
+      name: "Pulau Pinang"
+      BMJ:
+        name: "Bukit Mertajam"
+      BWH:
+        name: "Butterworth"
+      PEN:
+        name: "George Town"
+      NTE:
+        name: "Nibong Tebal"
+    SB:
+      name: "Sabah"
+      BEF:
+        name: "Beaufort"
+      BEL:
+        name: "Beluran"
+      KEG:
+        name: "Keningau"
+      KBT:
+        name: "Kinabatangan"
+      KBD:
+        name: "Kota Belud"
+      BKI:
+        name: "Kota Kinabalu"
+      KMU:
+        name: "Kota Marudu"
+      KPU:
+        name: "Kuala Penyu"
+      KUD:
+        name: "Kudat"
+      KUN:
+        name: "Kunak"
+      LDU:
+        name: "Lahad Datu"
+      NAB:
+        name: "Nabawan"
+      PAP:
+        name: "Papar"
+      PMP:
+        name: "Penampang"
+      PIT:
+        name: "Pitas"
+      RNU:
+        name: "Ranau"
+      SDK:
+        name: "Sandakan"
+      SMM:
+        name: "Semporna"
+      SPT:
+        name: "Sipitang"
+      TAB:
+        name: "Tambunan"
+      TAW:
+        name: "Tawau"
+      TEN:
+        name: "Tenom"
+      TUR:
+        name: "Tuaran"
+    SR:
+      name: "Sarawak"
+      BTG:
+        name: "Betong"
+      BTU:
+        name: "Bintulu"
+      KPI:
+        name: "Kapit"
+      KCH:
+        name: "Kuching"
+      LMN:
+        name: "Limbang"
+      MYY:
+        name: "Miri"
+      MKM:
+        name: "Mukah"
+      SMH:
+        name: "Samarahan"
+      SAR:
+        name: "Sarikei"
+      SBW:
+        name: "Sibu"
+      SAM:
+        name: "Sri Aman"
+    SL:
+      name: "Selangor"
+      GOM:
+        name: "Gombak"
+      HUL:
+        name: "Hulu Langat"
+      HUS:
+        name: "Hulu Selangor"
+      KLG:
+        name: "Kuala Langat"
+      KSL:
+        name: "Kuala Selangor"
+      PJA:
+        name: "Petaling"
+      SBM:
+        name: "Sabak Bernam"
+      SEP:
+        name: "Sepang"
+    TR:
+      name: "Terengganu"
+      BES:
+        name: "Besut"
+      DGN:
+        name: "Dungun"
+      HUL:
+        name: "Hulu"
+      KEM:
+        name: "Kemaman"
+      TGG:
+        name: "Kuala Terengganu"
+      MAR:
+        name: "Marang"
+      SET:
+        name: "Setiu"
+  MDV:
+    name: "Maldives"
+    MDV:
+      name: "Maldives"
+      ADD:
+        name: "Addu Atoll"
+      FAA:
+        name: "Faadhippolhu"
+      FEA:
+        name: "Felidhu Atoll"
+      FMU:
+        name: "Foammulah"
+      HDH:
+        name: "Hadhdhunmathi"
+      KLH:
+        name: "Kolhumadulu"
+      MAL:
+        name: "Male"
+      MAA:
+        name: "Male Atoll"
+      MUA:
+        name: "Mulakatholhu"
+      AAD:
+        name: "North Ari Atoll"
+      HAD:
+        name: "North Huvadhu Atoll"
+      MAD:
+        name: "North Maalhosmadhulu"
+      MLD:
+        name: "North Miladhunmadhulu"
+      NAD:
+        name: "North Nilandhe Atoll"
+      THD:
+        name: "North Thiladhunmathi"
+      AAU:
+        name: "South Ari Atoll"
+      HAU:
+        name: "South Huvadhu Atoll"
+      MAU:
+        name: "South Maalhosmadulu"
+      MLU:
+        name: "South Miladhunmadhulu"
+      NAU:
+        name: "South Nilandhe Atoll"
+      THU:
+        name: "South Thiladhunmathi"
+  MLI:
+    name: "Mali"
+    MLI:
+      name: "Mali"
+      CD:
+        name: "Bamako"
+      GA:
+        name: "Gao"
+      KY:
+        name: "Kayes"
+      KD:
+        name: "Kidal"
+      KL:
+        name: "Koulikoro"
+      MP:
+        name: "Mopti"
+      SG:
+        name: "Segou"
+      SK:
+        name: "Sikasso"
+      TB:
+        name: "Tombouctou"
+  MLT:
+    name: "Malta"
+    MLT:
+      name: "Malta"
+      MLT:
+        name: "Malta"
+  MHL:
+    name: "Marshall Islands"
+    MHL:
+      name: "Marshall Islands"
+      MHL:
+        name: "Marshall Islands"
+  MTQ:
+    name: "Martinique"
+    MTQ:
+      name: "Martinique"
+      MTQ:
+        name: "Martinique"
+  MRT:
+    name: "Mauritania"
+    MRT:
+      name: "Mauritania"
+      AD:
+        name: "Adrar"
+      BR:
+        name: "Brakna"
+      DN:
+        name: "Dakhlet Nouadhibou"
+      AS:
+        name: "El-Acaba"
+      GO:
+        name: "Gorgol"
+      GM:
+        name: "Guidimaka"
+      HC:
+        name: "Hodh ech-Chargui"
+      HG:
+        name: "Hodh el-Gharbi"
+      IN:
+        name: "Inchiri"
+      NO:
+        name: "Nouakchott"
+      TA:
+        name: "Tagant"
+      TZ:
+        name: "Tiris Zemmour"
+      TR:
+        name: "Trarza"
+  MUS:
+    name: "Mauritius"
+    MUS:
+      name: "Mauritius"
+      MUS:
+        name: "Mauritius"
+  MYT:
+    name: "Mayotte"
+    MYT:
+      name: "Mayotte"
+      MYT:
+        name: "Mayotte"
+  MEX:
+    name: "Mexico"
+    MEX:
+      name: "Mexico"
+      ACA:
+        name: "Acapulco"
+      AGU:
+        name: "Aguascalientes"
+      BJU:
+        name: "Benito Juare"
+      CAM:
+        name: "Campeche"
+      CAR:
+        name: "Carmen"
+      CLY:
+        name: "Celaya"
+      CTM:
+        name: "Cheturnal"
+      CHH:
+        name: "Chihuahua"
+      CHI:
+        name: "Chilpancingo"
+      COA:
+        name: "Coatzacoalcos"
+      COL:
+        name: "Colima"
+      CVC:
+        name: "Cuernavaca"
+      CUL:
+        name: "Culiacan"
+      DUR:
+        name: "Durango"
+      ESE:
+        name: "Ensenada"
+      GDL:
+        name: "Guadalajara"
+      GUA:
+        name: "Guanajuato"
+      HMO:
+        name: "Hermosillo"
+      IRP:
+        name: "Irapuato"
+      JAL:
+        name: "Jalapa"
+      JUZ:
+        name: "Juarez"
+      LAP:
+        name: "La Paz"
+      LEN:
+        name: "Leon"
+      LMM:
+        name: "Los Mochis"
+      MAM:
+        name: "Matamoros"
+      MZT:
+        name: "Mazatlan"
+      MID:
+        name: "Merida"
+      MXL:
+        name: "Mexicali"
+      MEX:
+        name: "Mexico City"
+      LOV:
+        name: "Monclova"
+      MTY:
+        name: "Monterrey"
+      MLM:
+        name: "Morelia"
+      NOG:
+        name: "Nogales"
+      NLE:
+        name: "Nuevo Laredo"
+      OAX:
+        name: "Oaxaca"
+      OBR:
+        name: "Obregon"
+      ORI:
+        name: "Orizaba"
+      PAC:
+        name: "Pachuca"
+      PRH:
+        name: "Poza Rica de Hidalgo"
+      PUE:
+        name: "Puebla"
+      PVR:
+        name: "Puerto Vallarta"
+      QUE:
+        name: "Queretaro"
+      REX:
+        name: "Reynosa"
+      SLW:
+        name: "Saltillo"
+      SLP:
+        name: "San Luis Potosi"
+      TAM:
+        name: "Tampico"
+      TAP:
+        name: "Tapachula"
+      TCN:
+        name: "Tehuacan"
+      TPQ:
+        name: "Tepic"
+      TIJ:
+        name: "Tijuana"
+      TLA:
+        name: "Tlaxcala"
+      TLC:
+        name: "Toluca"
+      TRC:
+        name: "Torreon"
+      TGZ:
+        name: "Tuxtla Gutierrez"
+      UPN:
+        name: "Uruapan"
+      VHM:
+        name: "Valles"
+      VER:
+        name: "Veracruz"
+      VIC:
+        name: "Victoria"
+      VSA:
+        name: "Villahermosa"
+      ZAC:
+        name: "Zacatecas"
+  FSM:
+    name: "Micronesia"
+    FSM:
+      name: "Micronesia"
+      FSM:
+        name: "Micronesia"
+  MDA:
+    name: "Moldova"
+    MDA:
+      name: "Moldova"
+      MDA:
+        name: "Moldova"
+  MCO:
+    name: "Monaco"
+    MCO:
+      name: "Monaco"
+      MCO:
+        name: "Monaco"
+  MNG:
+    name: "Mongolia"
+    MNG:
+      name: "Mongolia"
+      :73:
+        name: "Arhangay"
+      :69:
+        name: "Bayanhongor"
+      :71:
+        name: "Bayan-Ulgiy"
+      :67:
+        name: "Bulgan"
+      :37:
+        name: "Darhan-Uul"
+      :61:
+        name: "Dornod"
+      :63:
+        name: "Dornogovi"
+      :59:
+        name: "Dundgovi"
+      :57:
+        name: "Dzavhan"
+      :65:
+        name: "Govi-Altay"
+      :64:
+        name: "Govisumber"
+      :39:
+        name: "Hentiy"
+      :43:
+        name: "Hovd"
+      :41:
+        name: "Hovsgol"
+      :35:
+        name: "Orhon"
+      :49:
+        name: "Selenge"
+      :51:
+        name: "Suhbaatar"
+      :47:
+        name: "Tov"
+      :1:
+        name: "Ulaanbaatar hot"
+      UMN:
+        name: "Umnogovi"
+      UVO:
+        name: "Uvorhangay"
+      :46:
+        name: "Uvs"
+  MSR:
+    name: "Montserrat"
+    MSR:
+      name: "Montserrat"
+      MSR:
+        name: "Montserrat"
+  MAR:
+    name: "Morocco"
+    MAR:
+      name: "Morocco"
+      CBL:
+        name: "Casablanca"
+      FES:
+        name: "Fes"
+      MRK:
+        name: "Marrakech"
+      MKN:
+        name: "Meknes"
+      OUJ:
+        name: "Oujda"
+      RSA:
+        name: "Rabat"
+      TGR:
+        name: "Tangier"
+      TET:
+        name: "Tetouan"
+      WSH:
+        name: "Western Sahara"
+  MOZ:
+    name: "Mozambique"
+    MOZ:
+      name: "Mozambique"
+      MOZ:
+        name: "Mozambique"
+  MMR:
+    name: "Myanmar"
+    MMR:
+      name: "Myanmar"
+      AY:
+        name: "Ayeyarwady"
+      BG:
+        name: "Bago"
+      CH:
+        name: "Chin"
+      KC:
+        name: "Kachin"
+      KH:
+        name: "Kayah"
+      KN:
+        name: "Kayin"
+      MG:
+        name: "Magway"
+      MD:
+        name: "Mandalay"
+      MN:
+        name: "Mon"
+      RK:
+        name: "Rakhine"
+      SG:
+        name: "Sagaing"
+      SH:
+        name: "Shan"
+      TN:
+        name: "Tanintharyi"
+      YG:
+        name: "Yangon"
+  NAM:
+    name: "Namibia"
+    NAM:
+      name: "Namibia"
+      CA:
+        name: "Caprivi"
+      ER:
+        name: "Erongo"
+      HA:
+        name: "Hardap"
+      KR:
+        name: "Karas"
+      KH:
+        name: "Khomas"
+      KU:
+        name: "Kunene"
+      OW:
+        name: "Ohangwena"
+      KV:
+        name: "Okavango"
+      OK:
+        name: "Omaheke"
+      OT:
+        name: "Omusati"
+      ON:
+        name: "Oshana"
+      OO:
+        name: "Oshikoto"
+      OJ:
+        name: "Otjozondjupa"
+  NRU:
+    name: "Nauru"
+    NRU:
+      name: "Nauru"
+      NRU:
+        name: "Nauru"
+  NPL:
+    name: "Nepal"
+    NPL:
+      name: "Nepal"
+      BA:
+        name: "Bagmati"
+      BH:
+        name: "Bheri"
+      DH:
+        name: "Dhawalagiri"
+      GA:
+        name: "Gandaki"
+      JA:
+        name: "Janakpur"
+      KA:
+        name: "Karnali"
+      KO:
+        name: "Kosi"
+      LU:
+        name: "Lumbini"
+      MA:
+        name: "Mahakali"
+      ME:
+        name: "Mechi"
+      NA:
+        name: "Narayani"
+      RA:
+        name: "Rapti"
+      SE:
+        name: "Seti"
+      SA:
+        name: "Sogarmatha"
+  NLD:
+    name: "Netherlands"
+    NLD:
+      name: "Netherlands"
+      HTB:
+        name: "'s-Hertogenbosch"
+      AER:
+        name: "Almere"
+      AME:
+        name: "Amersfoort"
+      AMS:
+        name: "Amsterdam"
+      APE:
+        name: "Apeldoorn"
+      ARN:
+        name: "Arnhem"
+      ASS:
+        name: "Assen"
+      BRD:
+        name: "Breda"
+      DOR:
+        name: "Dordrecht"
+      EDE:
+        name: "Ede"
+      EIN:
+        name: "Eindhoven"
+      EMM:
+        name: "Emmen"
+      ENS:
+        name: "Enschede"
+      GRQ:
+        name: "Groningen"
+      HRA:
+        name: "Haarlem"
+      HAG:
+        name: "Hague"
+      HFD:
+        name: "Hoofddorp"
+      LWR:
+        name: "Leeuwarden"
+      LID:
+        name: "Leiden"
+      LEY:
+        name: "Lelystad"
+      MST:
+        name: "Maastricht"
+      MDL:
+        name: "Middelburg"
+      NIJ:
+        name: "Nijmegen"
+      RTM:
+        name: "Rotterdam"
+      TLB:
+        name: "Tilburg"
+      UTC:
+        name: "Utrecht"
+      ZTM:
+        name: "Zoetermeer"
+      ZWO:
+        name: "Zwolle"
+  ANT:
+    name: "Netherlands Antilles"
+    ANT:
+      name: "Netherlands Antilles"
+      ANT:
+        name: "Netherlands Antilles"
+  NCL:
+    name: "New Caledonia"
+    NCL:
+      name: "New Caledonia"
+      NCL:
+        name: "New Caledonia"
+  NZL:
+    name: "New Zealand"
+    NZL:
+      name: "New Zealand"
+      AUK:
+        name: "Auckland"
+      BHE:
+        name: "Blenheim"
+      CHC:
+        name: "Christchurch"
+      DUD:
+        name: "Dunedin"
+      FNR:
+        name: "Far North"
+      GIS:
+        name: "Gisborne"
+      GMN:
+        name: "Greymouth"
+      HLZ:
+        name: "Hamilton"
+      HAS:
+        name: "Hastings"
+      IVC:
+        name: "Invercargill"
+      KAI:
+        name: "Kaipara"
+      MNK:
+        name: "Manukau"
+      NPE:
+        name: "Napier"
+      NSN:
+        name: "Nelson"
+      NPL:
+        name: "New Plymouth"
+      NSH:
+        name: "North Shore"
+      PMR:
+        name: "Palmerston North"
+      RMD:
+        name: "Richmond"
+      STR:
+        name: "Stratford"
+      TAU:
+        name: "Taumarunui"
+      WAE:
+        name: "Waitakere"
+      WAG:
+        name: "Wanganui"
+      WHK:
+        name: "Whakatane"
+      WRE:
+        name: "Whangarei"
+  NIC:
+    name: "Nicaragua"
+    NIC:
+      name: "Nicaragua"
+      AN:
+        name: "Atlantico Norte"
+      AS:
+        name: "Atlantico Sur"
+      BO:
+        name: "Boaco"
+      CA:
+        name: "Carazo"
+      CD:
+        name: "Chinandega"
+      CT:
+        name: "Chontales"
+      ES:
+        name: "Esteli"
+      GR:
+        name: "Granada"
+      JI:
+        name: "Jinotega"
+      LE:
+        name: "Leon"
+      MD:
+        name: "Madriz"
+      MN:
+        name: "Managua"
+      MS:
+        name: "Masaya"
+      MT:
+        name: "Matagalpa"
+      NS:
+        name: "Nueva Segovia"
+      SJ:
+        name: "Rio San Juan"
+      RV:
+        name: "Rivas"
+  NER:
+    name: "Niger"
+    NER:
+      name: "Niger"
+      AJY:
+        name: "Agadez"
+      DIF:
+        name: "Diffa"
+      DSS:
+        name: "Dosso"
+      MFQ:
+        name: "Maradi"
+      NIM:
+        name: "Niamey C.U."
+      THZ:
+        name: "Tahoua"
+      TIL:
+        name: "Tillaberi"
+      ZND:
+        name: "Zinder"
+  NGA:
+    name: "Nigeria"
+    NGA:
+      name: "Nigeria"
+      ABV:
+        name: "Abuja"
+      IBA:
+        name: "Ibadan"
+      KAN:
+        name: "Kano"
+      LOS:
+        name: "Lagos"
+      OGB:
+        name: "Ogbomosho"
+  NIU:
+    name: "Niue"
+    NIU:
+      name: "Niue"
+      NIU:
+        name: "Niue"
+  NFK:
+    name: "Norfolk Island"
+    NFK:
+      name: "Norfolk Island"
+      NFK:
+        name: "Norfolk Island"
+  PRK:
+    name: "North Korea"
+    PRK:
+      name: "North Korea"
+      CHO:
+        name: "Ch'ongjin"
+      HAE:
+        name: "Haeju"
+      HAM:
+        name: "Hamhung"
+      HYE:
+        name: "Hyesan"
+      KSN:
+        name: "Kaesong"
+      KAN:
+        name: "Kanggye"
+      NAM:
+        name: "Namp'o"
+      NAS:
+        name: "Naseon"
+      FNJ:
+        name: "Pyongyang"
+      SAR:
+        name: "Sariwon"
+      SII:
+        name: "Sinuiju"
+      WON:
+        name: "Wonsan"
+  MNP:
+    name: "Northern Mariana Islands"
+    MNP:
+      name: "Northern Mariana Islands"
+      MNP:
+        name: "Northern Mariana Islands"
+  NOR:
+    name: "Norway"
+    NOR:
+      name: "Norway"
+      :2:
+        name: "Akershus"
+      :9:
+        name: "Aust-Agder"
+      :6:
+        name: "Buskerud"
+      :20:
+        name: "Finnmark"
+      :4:
+        name: "Hedmark"
+      :12:
+        name: "Hordaland"
+      :15:
+        name: "More og Romsdal"
+      :18:
+        name: "Nordland"
+      :17:
+        name: "Nord-Trondelag"
+      :5:
+        name: "Oppland"
+      :3:
+        name: "Oslo"
+      :1:
+        name: "Ostfold"
+      :11:
+        name: "Rogaland"
+      :14:
+        name: "Sogn og Fjordane"
+      :16:
+        name: "Sor-Trondelag"
+      :8:
+        name: "Telemark"
+      :19:
+        name: "Troms"
+      :10:
+        name: "Vest-Agder"
+      :7:
+        name: "Vestfold"
+  OMN:
+    name: "Oman"
+    OMN:
+      name: "Oman"
+      DA:
+        name: "Ad-Dakhiliyah"
+      BA:
+        name: "Al-Batinah"
+      WU:
+        name: "Al-Wusta"
+      SH:
+        name: "Ash-Sharqiyah"
+      ZA:
+        name: "Az-Zahirah"
+      MA:
+        name: "Masqat"
+      MU:
+        name: "Musandam"
+      ZU:
+        name: "Zufar"
+  PAK:
+    name: "Pakistan"
+    PAK:
+      name: "Pakistan"
+      LYP:
+        name: "Faisalabad"
+      GUJ:
+        name: "Gujranwala"
+      HDD:
+        name: "Hyderabad"
+      ISB:
+        name: "Islamabad"
+      KCT:
+        name: "Karachi"
+      LHE:
+        name: "Lahore"
+      MUX:
+        name: "Multan"
+      PEW:
+        name: "Peshawar"
+      RWP:
+        name: "Rawalpindi"
+  PLW:
+    name: "Palau"
+    PLW:
+      name: "Palau"
+      PLW:
+        name: "Palau"
+  PSE:
+    name: "Palestinian Authority"
+    PSE:
+      name: "Palestinian Authority"
+      GZ:
+        name: "Gaza Strip"
+      WE:
+        name: "West Bank"
+  PAN:
+    name: "Panama"
+    PAN:
+      name: "Panama"
+      PAN:
+        name: "Panama"
+  PNG:
+    name: "Papua New Guinea"
+    PNG:
+      name: "Papua New Guinea"
+      BV:
+        name: "Bougainville"
+      EB:
+        name: "East New Britain"
+      ES:
+        name: "East Sepik"
+      EH:
+        name: "Eastern Highlands"
+      EN:
+        name: "Enga"
+      GU:
+        name: "Gulf"
+      MD:
+        name: "Madang"
+      MN:
+        name: "Manus"
+      MB:
+        name: "Milne Bay"
+      MR:
+        name: "Morobe"
+      NI:
+        name: "New Ireland"
+      NO:
+        name: "Northern"
+      NC:
+        name: "Port Moresby"
+      SA:
+        name: "Sandaun"
+      SI:
+        name: "Simbu"
+      SH:
+        name: "Southern Highlands"
+      WB:
+        name: "West New Britain"
+      WE:
+        name: "Western"
+      WH:
+        name: "Western Highlands"
+  PRY:
+    name: "Paraguay"
+    PRY:
+      name: "Paraguay"
+      AG:
+        name: "Alto Paraguay"
+      AN:
+        name: "Alto Parana"
+      AM:
+        name: "Amambay"
+      AS:
+        name: "Asuncion"
+      BO:
+        name: "Boqueron"
+      CG:
+        name: "Caaguazu"
+      CZ:
+        name: "Caazapa"
+      CN:
+        name: "Canindeyu"
+      CE:
+        name: "Central"
+      CC:
+        name: "Concepcion"
+      CD:
+        name: "Cordillera"
+      GU:
+        name: "Guaira"
+      IT:
+        name: "Itapua"
+      MI:
+        name: "Misiones"
+      NE:
+        name: "Neembucu"
+      PA:
+        name: "Paraguari"
+      PH:
+        name: "Presidente Hayes"
+      SP:
+        name: "San Pedro"
+  PER:
+    name: "Peru"
+    PER:
+      name: "Peru"
+      AM:
+        name: "Amazonas"
+      AN:
+        name: "Ancash"
+      AP:
+        name: "Apurimac"
+      AR:
+        name: "Arequipa"
+      AY:
+        name: "Ayacucho"
+      CJ:
+        name: "Cajamarca"
+      CL:
+        name: "Callao"
+      CHM:
+        name: "Chimbote"
+      CHI:
+        name: "Chincha Alta"
+      CU:
+        name: "Cusco"
+      HV:
+        name: "Huancavelica"
+      HO:
+        name: "Huanuco"
+      IC:
+        name: "Ica"
+      JUL:
+        name: "Juliaca"
+      JU:
+        name: "Junin"
+      LD:
+        name: "La Libertad"
+      LY:
+        name: "Lambayeque"
+      LI:
+        name: "Lima"
+      LO:
+        name: "Loreto"
+      MD:
+        name: "Madre de Dios"
+      MO:
+        name: "Moquegua"
+      PA:
+        name: "Pasco"
+      PI:
+        name: "Piura"
+      PU:
+        name: "Puno"
+      SM:
+        name: "San Martin"
+      SUL:
+        name: "Sullana"
+      TA:
+        name: "Tacna"
+      TU:
+        name: "Tumbes"
+      UC:
+        name: "Ucayali"
+  PHL:
+    name: "Philippines"
+    PHL:
+      name: "Philippines"
+      CAO:
+        name: "Caloocan"
+      CEB:
+        name: "Cebu"
+      DOR:
+        name: "Davao"
+      MNL:
+        name: "Manila"
+  PCN:
+    name: "Pitcairn Islands"
+    PCN:
+      name: "Pitcairn Islands"
+      PCN:
+        name: "Pitcairn Islands"
+  POL:
+    name: "Poland"
+    POL:
+      name: "Poland"
+      BAP:
+        name: "Biała Podlaska"
+      BIA:
+        name: "Białystok"
+      BZG:
+        name: "Bydgoszcz"
+      BYT:
+        name: "Bytom"
+      CHO:
+        name: "Chełm"
+      CHZ:
+        name: "Chorzow"
+      CIE:
+        name: "Ciechanow"
+      DAB:
+        name: "Dabrowa Gornicza"
+      ELB:
+        name: "Elbląg"
+      GDN:
+        name: "Gdansk"
+      GDY:
+        name: "Gdynia"
+      GWC:
+        name: "Gliwice"
+      GOW:
+        name: "Gorzow Wlkp"
+      GRU:
+        name: "Grudziadz"
+      JAW:
+        name: "Jaworzno"
+      JEG:
+        name: "Jelenia Gora"
+      KAL:
+        name: "Kalisz"
+      KTW:
+        name: "Katowice"
+      KLC:
+        name: "Kielce"
+      KON:
+        name: "Konin"
+      OSZ:
+        name: "Koszalin"
+      KRK:
+        name: "Krakow"
+      KRO:
+        name: "Krosno"
+      LEG:
+        name: "Legnica"
+      LEZ:
+        name: "Leszno"
+      LOD:
+        name: "Lodz"
+      QOY:
+        name: "Lomza"
+      LUL:
+        name: "Lublin"
+      MYL:
+        name: "Mysłowice"
+      NOW:
+        name: "Nowy Sacz"
+      OLS:
+        name: "Olsztyn"
+      OPO:
+        name: "Opole"
+      OSS:
+        name: "Ostrołeka"
+      PIL:
+        name: "Piła"
+      PIO:
+        name: "Piotrkow"
+      PLO:
+        name: "Plock"
+      POZ:
+        name: "Poznan"
+      PRZ:
+        name: "Przemysl"
+      RDM:
+        name: "Radom"
+      RDS:
+        name: "Ruda Sl"
+      RZE:
+        name: "Rzeszow"
+      SDC:
+        name: "Siedlce"
+      SOW:
+        name: "Siemianowice Sl"
+      SIR:
+        name: "Sieradz"
+      SKI:
+        name: "Skierniewice"
+      SLP:
+        name: "Slupsk"
+      SOP:
+        name: "Sopot"
+      SWC:
+        name: "Sosnowiec"
+      SWL:
+        name: "Suwałki"
+      SWT:
+        name: "Swietochłowice"
+      SWI:
+        name: "Swinoujscie"
+      SZZ:
+        name: "Szczecin"
+      QEP:
+        name: "Tarnobrzeg"
+      TAR:
+        name: "Tarnow"
+      TOR:
+        name: "Torun"
+      TYY:
+        name: "Tychy"
+      WZH:
+        name: "Walbrzych"
+      WAW:
+        name: "Warszawa"
+      WLO:
+        name: "Wlocławek"
+      WRO:
+        name: "Wroclaw"
+      ZAB:
+        name: "Zabrze"
+      ZAM:
+        name: "Zamosc"
+      IEG:
+        name: "Zielona Gora"
+  PRT:
+    name: "Portugal"
+    PRT:
+      name: "Portugal"
+      ALC:
+        name: "Alentejo Central"
+      ALL:
+        name: "Alentejo Litoral"
+      AAT:
+        name: "Alto Alentejo"
+      ATM:
+        name: "Alto Tros-os-Montes"
+      AES:
+        name: "Ave"
+      BAL:
+        name: "Baixo Alentejo"
+      BMO:
+        name: "Baixo Mondego"
+      BVO:
+        name: "Baixo Vouga"
+      BIN:
+        name: "Beira Interior Norte"
+      BIS:
+        name: "Beira Interior Sul"
+      CAV:
+        name: "Cavado"
+      CLB:
+        name: "Cova da Beira"
+      MDR:
+        name: "Douro"
+      EDV:
+        name: "Entre Douro e Vouga"
+      FAO:
+        name: "Faro"
+      FUN:
+        name: "Funchal"
+      LTE:
+        name: "Leziria do Tejo"
+      LIS:
+        name: "Lisboa"
+      MTE:
+        name: "Medio Tejo"
+      MLI:
+        name: "Minho-Lima"
+      OES:
+        name: "Oeste"
+      PSE:
+        name: "Peninsula de Setubal"
+      PIN:
+        name: "Pinhal Interior Norte"
+      PIS:
+        name: "Pinhal Interior Sul"
+      PLT:
+        name: "Pinhal Litoral"
+      PDL:
+        name: "Ponta Delgada"
+      VDP:
+        name: "Porto"
+      SES:
+        name: "Serra da Estrela"
+      TAM:
+        name: "Tamega"
+  PRI:
+    name: "Puerto Rico"
+    PRI:
+      name: "Puerto Rico"
+      PRI:
+        name: "Puerto Rico"
+  QAT:
+    name: "Qatar"
+    QAT:
+      name: "Qatar"
+      DW:
+        name: "Ad Dawhah"
+      GW:
+        name: "Al Ghuwariyah"
+      JM:
+        name: "Al Jumaliyah"
+      KR:
+        name: "Al Khawr"
+      WK:
+        name: "Al Wakrah"
+      RN:
+        name: "Ar Rayyan"
+      JB:
+        name: "Jariyan al Batnah"
+      MS:
+        name: "Madinat ach Shamal"
+      UL:
+        name: "Umm Salal"
+  REU:
+    name: "Reunion"
+    REU:
+      name: "Reunion"
+      REU:
+        name: "Reunion"
+  ROU:
+    name: "Romania"
+    ROU:
+      name: "Romania"
+      AL:
+        name: "Alba Iulia"
+      AD:
+        name: "Alexandria"
+      AR:
+        name: "Arad"
+      BA:
+        name: "Bacau"
+      BM:
+        name: "Baia Mare"
+      BN:
+        name: "Bistrita"
+      BO:
+        name: "Botosani"
+      BL:
+        name: "Braila"
+      BS:
+        name: "Brasov"
+      BC:
+        name: "Bucuresti"
+      BZ:
+        name: "Buzau"
+      CR:
+        name: "Calarasi"
+      CN:
+        name: "Cluj-Napoca"
+      CT:
+        name: "Constanta"
+      DO:
+        name: "Craiova"
+      DE:
+        name: "Deva"
+      DT:
+        name: "Drobeta-Turnu Severin"
+      FO:
+        name: "Focsani"
+      GL:
+        name: "Galati"
+      GG:
+        name: "Giurgiu"
+      IS:
+        name: "Iasi"
+      MC:
+        name: "Miercurea-Ciuc"
+      OR:
+        name: "Oradea"
+      PN:
+        name: "Piatra Neamt"
+      PI:
+        name: "Pitesti"
+      PL:
+        name: "Ploiesti"
+      RE:
+        name: "Resita"
+      SM:
+        name: "Satu Mare"
+      SG:
+        name: "Sfantu-Gheorghe"
+      SO:
+        name: "Sibiu"
+      ST:
+        name: "Slatina"
+      SB:
+        name: "Slobozia"
+      SU:
+        name: "Suceava"
+      TA:
+        name: "Targovişte"
+      TI:
+        name: "Timisoara"
+      TM:
+        name: "Tirgu Mures"
+      TJ:
+        name: "Tirgu-Jiu"
+      TU:
+        name: "Tulcea"
+      VA:
+        name: "Vaslui"
+      VI:
+        name: "XRimnicu Vilcea"
+      ZA:
+        name: "Zalau"
+  RUS:
+    name: "Russia"
+    RUS:
+      name: "Russia"
+      ABA:
+        name: "Abakan"
+      AGI:
+        name: "Aginskoye"
+      DYR:
+        name: "Anadyr"
+      ARK:
+        name: "Arkhangelsk"
+      AST:
+        name: "Astrakhan"
+      BAX:
+        name: "Barnaul"
+      BEL:
+        name: "Belgorod"
+      BBZ:
+        name: "Birobidzan"
+      BQS:
+        name: "Blagoveshchensk"
+      BRY:
+        name: "Bryansk"
+      COK:
+        name: "Chabarovsk"
+      CSY:
+        name: "Cheboksary"
+      CHE:
+        name: "Chelyabinsk"
+      CKS:
+        name: "Cherkessk"
+      CHI:
+        name: "Chita"
+      ESL:
+        name: "Elista"
+      GOA:
+        name: "Gorno-Altajsk"
+      GRV:
+        name: "Grozny"
+      IKT:
+        name: "Irkutsk"
+      IVO:
+        name: "Ivanovo"
+      IJK:
+        name: "Izhevsk"
+      JAK:
+        name: "Jakutsk"
+      JAR:
+        name: "Jaroslavl"
+      JEK:
+        name: "Jekaterinburg"
+      JSA:
+        name: "Juzno-Sachalinsk"
+      KGD:
+        name: "Kaliningrad"
+      KLF:
+        name: "Kaluga"
+      KZN:
+        name: "Kazan"
+      KEM:
+        name: "Kemerovo"
+      KHM:
+        name: "Khanty-Mansiysk"
+      KIR:
+        name: "Kirov"
+      KOS:
+        name: "Kostroma"
+      KRR:
+        name: "Krasnodar"
+      KYA:
+        name: "Krasnojarsk"
+      KUD:
+        name: "Kudymkar"
+      KRO:
+        name: "Kurgan"
+      URS:
+        name: "Kursk"
+      KYZ:
+        name: "Kyzyl"
+      LIP:
+        name: "Lipeck"
+      MAG:
+        name: "Magadan"
+      IN:
+        name: "Magas"
+      MCX:
+        name: "Makhachkala"
+      MAY:
+        name: "Maykop"
+      MOW:
+        name: "Moscow"
+      MMK:
+        name: "Murmansk"
+      NAL:
+        name: "Nalchik"
+      NNM:
+        name: "Naryan-Mar"
+      GOJ:
+        name: "Niznij Novgorod"
+      NVS:
+        name: "Novosibirsk"
+      OMS:
+        name: "Omsk"
+      ORL:
+        name: "Orel"
+      ORE:
+        name: "Orenburg"
+      PAL:
+        name: "Palana"
+      PNZ:
+        name: "Penza"
+      PER:
+        name: "Perm"
+      PKC:
+        name: "Petropavlovsk-Kamchatskiy"
+      PES:
+        name: "Petrozavodsk"
+      PSK:
+        name: "Pskov"
+      ROS:
+        name: "Rostov-na-Donu"
+      RYA:
+        name: "Ryazan"
+      SLY:
+        name: "Salekhard"
+      SAM:
+        name: "Samara"
+      SKX:
+        name: "Saransk"
+      SAR:
+        name: "Saratov"
+      LNX:
+        name: "Smolensk"
+      SPE:
+        name: "St. Peterburg"
+      STA:
+        name: "Stavropol"
+      SCW:
+        name: "Syktyvkar"
+      TAM:
+        name: "Tambov"
+      TOM:
+        name: "Tomsk"
+      TUL:
+        name: "Tula"
+      TVE:
+        name: "Tver"
+      TYU:
+        name: "Tyumen"
+      UFA:
+        name: "Ufa"
+      UUD:
+        name: "Ulan-Ude"
+      ULY:
+        name: "Uljanovsk"
+      UOB:
+        name: "Ust-Ordynsky"
+      VUS:
+        name: "Velikij Novgorod"
+      VLA:
+        name: "Vladikavkaz"
+      VMR:
+        name: "Vladimir"
+      VVO:
+        name: "Vladivostok"
+      VOG:
+        name: "Volgograd"
+      VLG:
+        name: "Vologda"
+      VOR:
+        name: "Voronezh"
+      YOL:
+        name: "Yoshkar-Ola"
+  RWA:
+    name: "Rwanda"
+    RWA:
+      name: "Rwanda"
+      BU:
+        name: "Butare"
+      BY:
+        name: "Byumba"
+      CY:
+        name: "Cyangugu"
+      GK:
+        name: "Gikongoro"
+      GS:
+        name: "Gisenyi"
+      GT:
+        name: "Gitarama"
+      KA:
+        name: "Kabuga"
+      KG:
+        name: "Kibungo"
+      KY:
+        name: "Kibuye"
+      KR:
+        name: "Kigali-Ngali"
+      KV:
+        name: "Kigali-Ville"
+      NY:
+        name: "Nyanza"
+      RH:
+        name: "Ruhango"
+      RU:
+        name: "Ruhengeri"
+      RW:
+        name: "Rwamagana"
+      UM:
+        name: "Umutara"
+  WSM:
+    name: "Samoa"
+    WSM:
+      name: "Samoa"
+      WSM:
+        name: "Samoa"
+  SMR:
+    name: "San Marino"
+    SMR:
+      name: "San Marino"
+      SMR:
+        name: "San Marino"
+  STP:
+    name: "Sao Tome and Principe"
+    STP:
+      name: "Sao Tome and Principe"
+      STP:
+        name: "Sao Tome and Principe"
+  SAU:
+    name: "Saudi Arabia"
+    SAU:
+      name: "Saudi Arabia"
+      AHB:
+        name: "Abha"
+      BH:
+        name: "Al Bahah"
+      HFF:
+        name: "Al-Hufuf"
+      JBI:
+        name: "Al-Jubayl"
+      AKH:
+        name: "Al-Kharj"
+      MBR:
+        name: "Al-Mubarraz"
+      ARA:
+        name: "Arar"
+      TAR:
+        name: "At Tarif"
+      BUR:
+        name: "Buraydah"
+      DAM:
+        name: "Dammam"
+      HBT:
+        name: "Hafar al-Batin"
+      HL:
+        name: "Hail"
+      JED:
+        name: "Jiddah"
+      JZ:
+        name: "Jizan"
+      KMX:
+        name: "Khamis Mushayt"
+      ML:
+        name: "Makkah"
+      MED:
+        name: "Medina"
+      NR:
+        name: "Najran"
+      RD:
+        name: "Riyad"
+      SAK:
+        name: "Sakaka"
+      TB:
+        name: "Tabuk"
+      YNB:
+        name: "Yanbu al-Bahr"
+  SEN:
+    name: "Senegal"
+    SEN:
+      name: "Senegal"
+      DA:
+        name: "Dakar"
+      DI:
+        name: "Diourbel"
+      FA:
+        name: "Fatick"
+      KA:
+        name: "Kaolack"
+      KO:
+        name: "Kolda"
+      LO:
+        name: "Louga"
+      MA:
+        name: "Matam"
+      SL:
+        name: "Saint-Louis"
+      TA:
+        name: "Tambacounda"
+      TH:
+        name: "Thies"
+      ZI:
+        name: "Ziguinchor"
+  SCG:
+    name: "Serbia,Montenegro"
+    SCG:
+      name: "Serbia,Montenegro"
+      BEG:
+        name: "Beograd"
+      KGV:
+        name: "Kragujevac"
+      INI:
+        name: "Nis"
+      NVS:
+        name: "Novi Sad"
+      POD:
+        name: "Podgorica"
+      PRN:
+        name: "Pristina"
+      SUB:
+        name: "Subotica"
+      ZEM:
+        name: "Zemun"
+  SYC:
+    name: "Seychelles"
+    SYC:
+      name: "Seychelles"
+      SYC:
+        name: "Seychelles"
+  SLE:
+    name: "Sierra Leone"
+    SLE:
+      name: "Sierra Leone"
+      E:
+        name: "Eastern"
+      N:
+        name: "Northern"
+      S:
+        name: "Southern"
+      W:
+        name: "Western"
+  SGP:
+    name: "Singapore"
+    SGP:
+      name: "Singapore"
+      SGP:
+        name: "Singapore"
+  SVK:
+    name: "Slovakia"
+    SVK:
+      name: "Slovakia"
+      BBY:
+        name: "Banskobystricky"
+      BTS:
+        name: "Bratislavsky"
+      KOR:
+        name: "Koricky"
+      NRA:
+        name: "Nitriansky"
+      POV:
+        name: "Prerovsky"
+      RIL:
+        name: "Rilinsky"
+      TRE:
+        name: "Trenriansky"
+      TNA:
+        name: "Trnavsky"
+  SVN:
+    name: "Slovenia"
+    SVN:
+      name: "Slovenia"
+      DLJ:
+        name: "Dolenjska"
+      GSZ:
+        name: "Gorenjska"
+      GSK:
+        name: "Goriska"
+      KOR:
+        name: "Koroska"
+      NKR:
+        name: "Notranjsko-kraska"
+      OKR:
+        name: "Obalno-kraska"
+      OSR:
+        name: "Osrednjeslovenska"
+      POD:
+        name: "Podravska"
+      POM:
+        name: "Pomurska"
+      SAV:
+        name: "Savinjska"
+      SPO:
+        name: "Spodnjeposavska"
+      ZAS:
+        name: "Zasavska"
+  SLB:
+    name: "Solomon Islands"
+    SLB:
+      name: "Solomon Islands"
+      CE:
+        name: "Central Islands"
+      CH:
+        name: "Choiseul"
+      GC:
+        name: "Guadalcanal"
+      HO:
+        name: "Honiara"
+      IS:
+        name: "Isabel"
+      MK:
+        name: "Makira"
+      ML:
+        name: "Malaita"
+      RB:
+        name: "Rennell and Bellona"
+      TM:
+        name: "Temotu"
+      WE:
+        name: "Western"
+  SOM:
+    name: "Somalia"
+    SOM:
+      name: "Somalia"
+      SOM:
+        name: "Somalia"
+  ZAF:
+    name: "South Africa"
+    ZAF:
+      name: "South Africa"
+      BAE:
+        name: "Barkley East"
+      BEW:
+        name: "Beaufort West"
+      BIY:
+        name: "Bisho"
+      BFN:
+        name: "Bloemfontein"
+      BDD:
+        name: "Bredasdorp"
+      BHT:
+        name: "Bronkhorstspruit"
+      CPT:
+        name: "Cape Town"
+      DAA:
+        name: "De Aar"
+      DUN:
+        name: "Dundee"
+      DUR:
+        name: "Durban"
+      ELS:
+        name: "East London"
+      GRJ:
+        name: "George"
+      GIY:
+        name: "Giyani"
+      GBD:
+        name: "Groblersdal"
+      IXO:
+        name: "Ixopo"
+      JNB:
+        name: "Johannesburg"
+      KIM:
+        name: "Kimberley"
+      KXE:
+        name: "Klerksdorp"
+      KMH:
+        name: "Kuruman"
+      LAY:
+        name: "Ladysmith"
+      MDB:
+        name: "Middelburg"
+      MZQ:
+        name: "Mkuze"
+      MOO:
+        name: "Moorreesburg"
+      MAY:
+        name: "Mount Ayliff"
+      NLP:
+        name: "Nelspruit"
+      NCS:
+        name: "Newcastle"
+      NYL:
+        name: "Nylstroom"
+      PZB:
+        name: "Pietermaritzburg"
+      PTG:
+        name: "Pietersburg"
+      PLZ:
+        name: "Port Elizabeth"
+      PSS:
+        name: "Port Shepstone"
+      PRY:
+        name: "Pretoria"
+      UTW:
+        name: "Queenstown"
+      RFT:
+        name: "Randfontein"
+      RCB:
+        name: "Richards Bay"
+      RSB:
+        name: "Rustenburg"
+      SAS:
+        name: "Sasolburg"
+      ZEC:
+        name: "Secunda"
+      SBU:
+        name: "Springbok"
+      THY:
+        name: "Thohoyandou"
+      TLH:
+        name: "Thulamahashe"
+      TPB:
+        name: "Trompsburg"
+      ULD:
+        name: "Ulundi"
+      UTT:
+        name: "Umtata"
+      UTN:
+        name: "Upington"
+      VGG:
+        name: "Vereeniging"
+      VRU:
+        name: "Vryburg"
+      WEL:
+        name: "Welkom"
+      WSH:
+        name: "Witsieshoek"
+      WOR:
+        name: "Worcester"
+  SGS:
+    name: "South Georgia and South Sandwich Islands"
+    SGS:
+      name: "South Georgia and South Sandwich Islands"
+      SGS:
+        name: "South Georgia and South Sandwich Islands"
+  ESP:
+    name: "Spain"
+    ESP:
+      name: "Spain"
+      ALA:
+        name: "Alava"
+      ALB:
+        name: "Albacete"
+      ALC:
+        name: "Alicante"
+      LEI:
+        name: "Almeria"
+      AST:
+        name: "Asturias"
+      AVI:
+        name: "Avila"
+      BJZ:
+        name: "Badajoz"
+      BLR:
+        name: "Baleares"
+      BCN:
+        name: "Barcelona"
+      BUR:
+        name: "Burgos"
+      CCS:
+        name: "Caceres"
+      CAD:
+        name: "Cadiz"
+      CAS:
+        name: "Castellon"
+      CIR:
+        name: "Cludad Real"
+      ODB:
+        name: "Cordoba"
+      CUE:
+        name: "Cuenca"
+      GRO:
+        name: "Gerona"
+      GRX:
+        name: "Granada"
+      GUA:
+        name: "Guadalajara"
+      GUI:
+        name: "Guipuzcoa"
+      HUV:
+        name: "Huelva"
+      HUC:
+        name: "Huesca"
+      JAE:
+        name: "Jaen"
+      LCG:
+        name: "La Coruna"
+      ARL:
+        name: "La Rioja"
+      LPA:
+        name: "Las Palmas"
+      LEN:
+        name: "Leon"
+      LLE:
+        name: "Lleida"
+      MAD:
+        name: "Madrid"
+      AGP:
+        name: "Malaga"
+      MJV:
+        name: "Murcia"
+      NVV:
+        name: "Navarra"
+      ORE:
+        name: "Orense"
+      PAC:
+        name: "Palencia"
+      LGO:
+        name: "Provincia de Lugo"
+      PEV:
+        name: "Provincia de Pontevedra"
+      SLM:
+        name: "Salamanca"
+      SCT:
+        name: "Santa Cruz de Tenerife"
+      SDR:
+        name: "Santander"
+      SEG:
+        name: "Segovia"
+      SVQ:
+        name: "Sevilla"
+      SOR:
+        name: "Soria"
+      TAR:
+        name: "Tarragona"
+      TER:
+        name: "Teruel"
+      TOL:
+        name: "Toledo"
+      VLC:
+        name: "Valencia"
+      VLL:
+        name: "Valladolid"
+      VSE:
+        name: "Vizcaya"
+      ZMR:
+        name: "Zamora"
+      ZAZ:
+        name: "Zaragoza"
+  LKA:
+    name: "Sri Lanka"
+    LKA:
+      name: "Sri Lanka"
+      AMP:
+        name: "Ampara"
+      ADP:
+        name: "Anuradhapura"
+      BAD:
+        name: "Badulla"
+      BTC:
+        name: "Batticaloa"
+      CMB:
+        name: "Colombo"
+      GAL:
+        name: "Galle"
+      GAM:
+        name: "Gampaha"
+      HBA:
+        name: "Hambantota"
+      JAF:
+        name: "Jaffna"
+      KLT:
+        name: "Kalutara"
+      KAN:
+        name: "Kandy"
+      KEG:
+        name: "Kegalle"
+      KIL:
+        name: "Kilinochchi"
+      KUR:
+        name: "Kurunegala"
+      MAN:
+        name: "Mannar"
+      MAT:
+        name: "Matale"
+      MAA:
+        name: "Matara"
+      MON:
+        name: "Monaragala"
+      MUL:
+        name: "Mullathivu"
+      NUE:
+        name: "Nuwara Eliya"
+      POL:
+        name: "Polonnaruwa"
+      PUT:
+        name: "Puttalam"
+      RAT:
+        name: "Ratnapura"
+      TRR:
+        name: "Trincomalee"
+      VAV:
+        name: "Vavuniya"
+  SHN:
+    name: "St.Helena"
+    SHN:
+      name: "St.Helena"
+      SHN:
+        name: "St.Helena"
+  KNA:
+    name: "St.Kitts and Nevis"
+    KNA:
+      name: "St.Kitts and Nevis"
+      KNA:
+        name: "St.Kitts and Nevis"
+  LCA:
+    name: "St.Lucia"
+    LCA:
+      name: "St.Lucia"
+      LCA:
+        name: "St.Lucia"
+  SPM:
+    name: "St.Pierre and Miquelon"
+    SPM:
+      name: "St.Pierre and Miquelon"
+      SPM:
+        name: "St.Pierre and Miquelon"
+  VCT:
+    name: "St.Vincent and the Grenadines"
+    VCT:
+      name: "St.Vincent and the Grenadines"
+      VCT:
+        name: "St.Vincent and the Grenadines"
+  SDN:
+    name: "Sudan"
+    SDN:
+      name: "Sudan"
+      ANB:
+        name: "Aali an-Nil"
+      WDH:
+        name: "Al Wasta"
+      SIS:
+        name: "Al-Istiwaiyah"
+      KRT:
+        name: "Al-Khartum"
+      ASH:
+        name: "Ash-Shamaliyah"
+      SHA:
+        name: "Ash-Sharqiyah"
+      SBG:
+        name: "Bahr al-Ghazal"
+      SDA:
+        name: "Darfur"
+      GKU:
+        name: "Kurdufan"
+  SUR:
+    name: "Suriname"
+    SUR:
+      name: "Suriname"
+      BR:
+        name: "Brokopondo"
+      CM:
+        name: "Commewijne"
+      CR:
+        name: "Coronie"
+      MA:
+        name: "Marowijne"
+      NI:
+        name: "Nickerie"
+      PA:
+        name: "Para"
+      PM:
+        name: "Paramaribo"
+      SA:
+        name: "Saramacca"
+      SI:
+        name: "Sipaliwini"
+      WA:
+        name: "Wanica"
+  SJM:
+    name: "Svalbard and Jan Mayen"
+    SJM:
+      name: "Svalbard and Jan Mayen"
+      SJM:
+        name: "Svalbard and Jan Mayen"
+  SWZ:
+    name: "Swaziland"
+    SWZ:
+      name: "Swaziland"
+      SWZ:
+        name: "Swaziland"
+  SWE:
+    name: "Sweden"
+    SWE:
+      name: "Sweden"
+      K:
+        name: "Blekinge"
+      DLN:
+        name: "Dalarnas"
+      X:
+        name: "Gavleborgs"
+      I:
+        name: "Gotlands"
+      N:
+        name: "Hallands"
+      Z:
+        name: "Jamtlands"
+      F:
+        name: "Jonkopings"
+      H:
+        name: "Kalmar"
+      G:
+        name: "Kronobergs"
+      BD:
+        name: "Norrbottens"
+      T:
+        name: "Orebro"
+      M:
+        name: "Skane"
+      D:
+        name: "Sodermanlands"
+      AB:
+        name: "Stockholms"
+      C:
+        name: "Uppsala"
+      UGL:
+        name: "Ustergotland"
+      S:
+        name: "Varmlands"
+      AC:
+        name: "Vasterbottens"
+      Y:
+        name: "Vasternorrlands"
+      U:
+        name: "Vastmanlands"
+      O:
+        name: "Vastra Gotalands"
+  CHE:
+    name: "Switzerland"
+    CHE:
+      name: "Switzerland"
+      AG:
+        name: "Aargau"
+      AR:
+        name: "Appenzell Ausserrhon"
+      AI:
+        name: "Appenzell Innerrhodn"
+      BL:
+        name: "Basel Landschaft"
+      BS:
+        name: "Basel－Sstadt"
+      BE:
+        name: "Bern"
+      FR:
+        name: "Freiburg"
+      GE:
+        name: "Geneve"
+      GL:
+        name: "Glarus"
+      GR:
+        name: "Graubünden"
+      JU:
+        name: "Jura"
+      LA:
+        name: "Lausanne"
+      LU:
+        name: "Luzern"
+      NE:
+        name: "Neuchatel"
+      NW:
+        name: "Nidwalden"
+      OW:
+        name: "Obwalden"
+      SH:
+        name: "Schaffhausen"
+      SZ:
+        name: "Schwyz"
+      SO:
+        name: "Solothurn"
+      SG:
+        name: "St.Gallen"
+      TG:
+        name: "Thurgau"
+      TI:
+        name: "Ticino"
+      UR:
+        name: "Uri"
+      VD:
+        name: "Vaud"
+      VS:
+        name: "Wallis"
+      ZG:
+        name: "Zug"
+      ZH:
+        name: "Zurich"
+  SYR:
+    name: "Syria"
+    SYR:
+      name: "Syria"
+      GH:
+        name: "Al Ghab"
+      HA:
+        name: "Al Hasakah"
+      LA:
+        name: "Al Ladhiqiyah"
+      QU:
+        name: "Al Qunaytirah"
+      QA:
+        name: "Al-Qamishli"
+      RQ:
+        name: "Ar Raqqah"
+      SU:
+        name: "As Suwayda"
+      DA:
+        name: "Dara"
+      DZ:
+        name: "Dayr az Zawr"
+      HL:
+        name: "Halab"
+      HM:
+        name: "Hamah"
+      HI:
+        name: "Hims"
+      ID:
+        name: "Idlib"
+      DI:
+        name: "Madinat Dimashq"
+      RD:
+        name: "Rif Dimashq"
+      TA:
+        name: "Tartus"
+  TJK:
+    name: "Tajikistan"
+    TJK:
+      name: "Tajikistan"
+      DYU:
+        name: "Dushanbe"
+      ISF:
+        name: "Isfara"
+      KAN:
+        name: "Kanibadam"
+      KHO:
+        name: "Khorugh"
+      KHU:
+        name: "Khujand"
+      KOF:
+        name: "Kofarnihon"
+      KLB:
+        name: "Kulob"
+      KTJ:
+        name: "Kurgan-Tjube"
+      NUR:
+        name: "Nurek"
+      PJK:
+        name: "Pendzhikent"
+      RGU:
+        name: "Rogun"
+      SBA:
+        name: "Sarband"
+      TBS:
+        name: "Taboshar"
+      TSZ:
+        name: "Tursunzade"
+      UTJ:
+        name: "Ura-Tjube"
+  TZA:
+    name: "Tanzania"
+    TZA:
+      name: "Tanzania"
+      AR:
+        name: "Arusha"
+      DS:
+        name: "Dar es Salaam"
+      DO:
+        name: "Dodoma"
+      IR:
+        name: "Iringa"
+      KA:
+        name: "Kagera"
+      PN:
+        name: "Kaskazini Pemba"
+      UN:
+        name: "Kaskazini Unguja"
+      KI:
+        name: "Kigoma"
+      KJ:
+        name: "Kilimanjaro"
+      PS:
+        name: "Kusini Pemba"
+      US:
+        name: "Kusini Unguja"
+      LN:
+        name: "Lindi"
+      MY:
+        name: "Manyara"
+      MR:
+        name: "Mara"
+      MB:
+        name: "Mbeya"
+      MM:
+        name: "Mjini Magharibi"
+      MO:
+        name: "Morogoro"
+      MT:
+        name: "Mtwara"
+      MW:
+        name: "Mwanza"
+      PW:
+        name: "Pwani"
+      RK:
+        name: "Rukwa"
+      RV:
+        name: "Ruvuma"
+      SH:
+        name: "Shinyanga"
+      SI:
+        name: "Singida"
+      TB:
+        name: "Tabora"
+      TN:
+        name: "Tanga"
+      ZN:
+        name: "Zanzibar"
+  THA:
+    name: "Thailand"
+    THA:
+      name: "Thailand"
+      :37:
+        name: "Amnat Charoen"
+      :15:
+        name: "Ang Thong"
+      :10:
+        name: "Bangkok"
+      :31:
+        name: "Buri Ram"
+      :24:
+        name: "Chachoengsao"
+      :18:
+        name: "Chai Nat"
+      :36:
+        name: "Chaiyaphum"
+      :22:
+        name: "Chanthaburi"
+      :50:
+        name: "Chiang Mai"
+      :57:
+        name: "Chiang Rai"
+      :20:
+        name: "Chon Buri"
+      :86:
+        name: "Chumphon"
+      :46:
+        name: "Kalasin"
+      :62:
+        name: "Kamphaeng Phet"
+      :71:
+        name: "Kanchanaburi"
+      :40:
+        name: "Khon Kaen"
+      :81:
+        name: "Krabi"
+      :51:
+        name: "Lamphun"
+      :42:
+        name: "Loei"
+      :16:
+        name: "Lop Buri"
+      :58:
+        name: "Mae Hong Son"
+      :44:
+        name: "Maha Sarakham"
+      :49:
+        name: "Mukdahan"
+      :26:
+        name: "Nakhon Nayok"
+      :73:
+        name: "Nakhon Pathom"
+      :48:
+        name: "Nakhon Phanom"
+      :60:
+        name: "Nakhon Sawan"
+      :80:
+        name: "Nakhon Si Thammarat"
+      :55:
+        name: "Nan"
+      :96:
+        name: "Narathiwat"
+      :39:
+        name: "Nong Bua Lamphu"
+      :43:
+        name: "Nong Khai"
+      :12:
+        name: "Nonthaburi"
+      :13:
+        name: "Pathum Thani"
+      :94:
+        name: "Pattani"
+      :82:
+        name: "Phangnga"
+      :93:
+        name: "Phatthalung"
+      :56:
+        name: "Phayao"
+      :76:
+        name: "Phetchabun"
+      :78:
+        name: "Phetchaburi"
+      :66:
+        name: "Phichit"
+      :65:
+        name: "Phitsanulok"
+      :14:
+        name: "Phra Nakhon Si Ayutthaya"
+      :54:
+        name: "Phrae"
+      :83:
+        name: "Phuket"
+      :25:
+        name: "Prachin Buri"
+      :77:
+        name: "Prachuap Khiri Khan"
+      :85:
+        name: "Ranong"
+      :70:
+        name: "Ratchaburi"
+      :21:
+        name: "Rayong"
+      :45:
+        name: "Roi Et"
+      :27:
+        name: "Sa Kaeo"
+      :47:
+        name: "Sakon Nakhon"
+      :11:
+        name: "Samut Prakan"
+      :74:
+        name: "Samut Sakhon"
+      :75:
+        name: "Samut Songkhram"
+      :19:
+        name: "Saraburi"
+      :91:
+        name: "Satun"
+      :33:
+        name: "Si sa ket"
+      :17:
+        name: "Sing Buri"
+      :90:
+        name: "Songkhla"
+      :64:
+        name: "Sukhothai"
+      :72:
+        name: "Suphan Buri"
+      :84:
+        name: "Surat Thani"
+      :32:
+        name: "Surin"
+      :63:
+        name: "Tak"
+      :92:
+        name: "Trang"
+      :23:
+        name: "Trat"
+      :34:
+        name: "Ubon Ratchathani"
+      :41:
+        name: "Udon Thani"
+      :61:
+        name: "Uthai Thani"
+      :53:
+        name: "Uttaradit"
+      :95:
+        name: "Yala"
+      :35:
+        name: "Yasothon"
+  TLS:
+    name: "Timor-Leste"
+    TLS:
+      name: "Timor-Leste"
+      AL:
+        name: "Aileu"
+      AN:
+        name: "Ainaro"
+      AM:
+        name: "Ambeno"
+      BA:
+        name: "Baucau"
+      BO:
+        name: "Bobonaro"
+      DI:
+        name: "Dili"
+      ER:
+        name: "Ermera"
+      KO:
+        name: "Kovalima"
+      LA:
+        name: "Lautem"
+      LI:
+        name: "Liquica"
+      MT:
+        name: "Manatuto"
+      MF:
+        name: "Manofahi"
+      VI:
+        name: "Viqueque"
+  TGO:
+    name: "Togo"
+    TGO:
+      name: "Togo"
+      C:
+        name: "Centre"
+      K:
+        name: "Kara"
+      M:
+        name: "Maritime"
+      P:
+        name: "Plateaux"
+      S:
+        name: "Savanes"
+  TKL:
+    name: "Tokelau"
+    TKL:
+      name: "Tokelau"
+      TKL:
+        name: "Tokelau"
+  TON:
+    name: "Tonga"
+    TON:
+      name: "Tonga"
+      E:
+        name: "Eua"
+      H:
+        name: "Haapai"
+      N:
+        name: "Niuas"
+      T:
+        name: "Tongatapu"
+      V:
+        name: "Vavau"
+  TTO:
+    name: "Trinidad and Tobago"
+    TTO:
+      name: "Trinidad and Tobago"
+      TTO:
+        name: "Trinidad and Tobago"
+  TAA:
+    name: "Tristan da Cunha"
+    TAA:
+      name: "Tristan da Cunha"
+      TAA:
+        name: "Tristan da Cunha"
+  TUN:
+    name: "Tunisia"
+    TUN:
+      name: "Tunisia"
+      AR:
+        name: "Ariana"
+      BJ:
+        name: "Beja"
+      BA:
+        name: "Ben Arous"
+      BI:
+        name: "Bizerte"
+      GB:
+        name: "Gabes"
+      GF:
+        name: "Gafsa"
+      JE:
+        name: "Jendouba"
+      KR:
+        name: "Kairouan"
+      KS:
+        name: "Kasserine"
+      KB:
+        name: "Kebili"
+      LK:
+        name: "Le Kef"
+      MH:
+        name: "Mahdia"
+      MN:
+        name: "Manouba"
+      ME:
+        name: "Medenine"
+      MO:
+        name: "Monastir"
+      NA:
+        name: "Nabeul"
+      SF:
+        name: "Sfax"
+      SD:
+        name: "Sidi Bouzid"
+      SL:
+        name: "Siliana"
+      SO:
+        name: "Sousse"
+      TA:
+        name: "Tataouine"
+      TO:
+        name: "Tozeur"
+      TU:
+        name: "Tunis"
+      ZA:
+        name: "Zaghouan"
+  TUR:
+    name: "Turkey"
+    TUR:
+      name: "Turkey"
+      ADA:
+        name: "Adana"
+      ADI:
+        name: "Adiyaman"
+      AFY:
+        name: "Afyon"
+      AGR:
+        name: "Agri"
+      AKS:
+        name: "Aksaray"
+      AMA:
+        name: "Amasya"
+      ANK:
+        name: "Ankara"
+      ANT:
+        name: "Antalya"
+      ARD:
+        name: "Ardahan"
+      ART:
+        name: "Artvin"
+      AYI:
+        name: "Aydin"
+      BAL:
+        name: "Balikesir"
+      BAR:
+        name: "Bartin"
+      BAT:
+        name: "Batman"
+      BAY:
+        name: "Bayburt"
+      BIL:
+        name: "Bilecik"
+      BIN:
+        name: "Bingol"
+      BIT:
+        name: "Bitlis"
+      BOL:
+        name: "Bolu"
+      BRD:
+        name: "Burdur"
+      BRS:
+        name: "Bursa"
+      CKL:
+        name: "Canakkale"
+      CKR:
+        name: "Cankiri"
+      COR:
+        name: "Corum"
+      DEN:
+        name: "Denizli"
+      DIY:
+        name: "Diyarbakir"
+      EDI:
+        name: "Edirne"
+      ELA:
+        name: "Elazig"
+      EZC:
+        name: "Erzincan"
+      EZR:
+        name: "Erzurum"
+      ESK:
+        name: "Eskisehir"
+      GAZ:
+        name: "Gaziantep"
+      GIR:
+        name: "Giresun"
+      GMS:
+        name: "Gumushane"
+      HKR:
+        name: "Hakkari"
+      HTY:
+        name: "Hatay"
+      ICE:
+        name: "Icel"
+      IGD:
+        name: "Igdir"
+      ISP:
+        name: "Isparta"
+      IST:
+        name: "Istanbul"
+      IZM:
+        name: "Izmir"
+      KAH:
+        name: "Kahraman Maras"
+      KRB:
+        name: "Karabuk"
+      KRM:
+        name: "Karaman"
+      KRS:
+        name: "Kars"
+      KAS:
+        name: "Kastamonu"
+      KAY:
+        name: "Kayseri"
+      KLS:
+        name: "Kilis"
+      KRK:
+        name: "Kirikkale"
+      KLR:
+        name: "Kirklareli"
+      KRH:
+        name: "Kirsehir"
+      KOC:
+        name: "Kocaeli"
+      KON:
+        name: "Konya"
+      KUT:
+        name: "Kutahya"
+      MAL:
+        name: "Malatya"
+      MAN:
+        name: "Manisa"
+      MAR:
+        name: "Mardin"
+      MUG:
+        name: "Mugla"
+      MUS:
+        name: "Mus"
+      NEV:
+        name: "Nevsehir"
+      NIG:
+        name: "Nigde"
+      ORD:
+        name: "Ordu"
+      RIZ:
+        name: "Rize"
+      SAK:
+        name: "Sakarya"
+      SAM:
+        name: "Samsun"
+      SII:
+        name: "Siirt"
+      SIN:
+        name: "Sinop"
+      SIR:
+        name: "Sirnak"
+      SIV:
+        name: "Sivas"
+      TEL:
+        name: "Tekirdag"
+      TOK:
+        name: "Tokat"
+      TRA:
+        name: "Trabzon"
+      TUN:
+        name: "Tunceli"
+      URF:
+        name: "Urfa"
+      USK:
+        name: "Usak"
+      VAN:
+        name: "Van"
+      YOZ:
+        name: "Yozgat"
+      ZON:
+        name: "Zonguldak"
+  TKM:
+    name: "Turkmenistan"
+    TKM:
+      name: "Turkmenistan"
+      A:
+        name: "Ahal"
+      ASB:
+        name: "Ashgabat"
+      B:
+        name: "Balkan"
+      D:
+        name: "Dashoguz"
+      L:
+        name: "Lebap"
+      M:
+        name: "Mary"
+      NEB:
+        name: "Nebitdag"
+  TCA:
+    name: "Turks and Caicos Islands"
+    TCA:
+      name: "Turks and Caicos Islands"
+      TCA:
+        name: "Turks and Caicos Islands"
+  TUV:
+    name: "Tuvalu"
+    TUV:
+      name: "Tuvalu"
+      TUV:
+        name: "Tuvalu"
+  UGA:
+    name: "Uganda"
+    UGA:
+      name: "Uganda"
+      ADJ:
+        name: "Adjumani"
+      APC:
+        name: "Apac"
+      ARU:
+        name: "Arua"
+      BUG:
+        name: "Bugiri"
+      BUN:
+        name: "Bundibugyo"
+      BSH:
+        name: "Bushenyi"
+      BUS:
+        name: "Busia"
+      GUL:
+        name: "Gulu"
+      HOI:
+        name: "Hoima"
+      IGA:
+        name: "Iganga"
+      JIN:
+        name: "Jinja"
+      KBL:
+        name: "Kabale"
+      KAR:
+        name: "Kabarole"
+      KAB:
+        name: "Kaberamaido"
+      KAL:
+        name: "Kalangala"
+      KMP:
+        name: "Kampala"
+      KML:
+        name: "Kamuli"
+      KAM:
+        name: "Kamwenge"
+      KAN:
+        name: "Kanungu"
+      KPC:
+        name: "Kapchorwa"
+      KAS:
+        name: "Kasese"
+      KTK:
+        name: "Katakwi"
+      KAY:
+        name: "Kayunga"
+      KBA:
+        name: "Kibaale"
+      KIB:
+        name: "Kiboga"
+      KIS:
+        name: "Kisoro"
+      KIT:
+        name: "Kitgum"
+      KOT:
+        name: "Kotido"
+      KUM:
+        name: "Kumi"
+      KYE:
+        name: "Kyenjojo"
+      LIR:
+        name: "Lira"
+      LUW:
+        name: "Luwero"
+      MAS:
+        name: "Masaka"
+      MSN:
+        name: "Masindi"
+      MAY:
+        name: "Mayuge"
+      MBA:
+        name: "Mbale"
+      MBR:
+        name: "Mbarara"
+      MRT:
+        name: "Moroto"
+      MOY:
+        name: "Moyo"
+      MPI:
+        name: "Mpigi"
+      MUB:
+        name: "Mubende"
+      MUK:
+        name: "Mukono"
+      NAK:
+        name: "Nakapiripirit"
+      NKS:
+        name: "Nakasongola"
+      NEB:
+        name: "Nebbi"
+      NTU:
+        name: "Ntungamo"
+      PAD:
+        name: "Pader"
+      PAL:
+        name: "Pallisa"
+      RAK:
+        name: "Rakai"
+      RUK:
+        name: "Rukungiri"
+      SEM:
+        name: "Sembabule"
+      SIR:
+        name: "Sironko"
+      SOR:
+        name: "Soroti"
+      TOR:
+        name: "Tororo"
+      WAK:
+        name: "Wakiso"
+      YUM:
+        name: "Yumbe"
+  UKR:
+    name: "Ukraine"
+    UKR:
+      name: "Ukraine"
+      :71:
+        name: "Cherkasy"
+      :74:
+        name: "Chernihiv"
+      :77:
+        name: "Chernivtsi"
+      :12:
+        name: "Dnipropetrovsk"
+      :14:
+        name: "Donetsk"
+      :26:
+        name: "Ivano-Frankivsk"
+      :63:
+        name: "Kharkiv"
+      :65:
+        name: "Khersonsrka"
+      :68:
+        name: "Khmelnytsky"
+      :35:
+        name: "Kirovohrad"
+      :30:
+        name: "Kyiv"
+      :9:
+        name: "Luhansk"
+      :46:
+        name: "Lviv"
+      :48:
+        name: "Mykolayiv"
+      :51:
+        name: "Odessa"
+      :53:
+        name: "Poltava"
+      :43:
+        name: "Respublika Krym"
+      :56:
+        name: "Rivne"
+      :59:
+        name: "Sumy"
+      :61:
+        name: "Ternopil"
+      :5:
+        name: "Vinnytsya"
+      :7:
+        name: "Volyn"
+      :21:
+        name: "Zakarpatska"
+      :23:
+        name: "Zaporizhzhya"
+      :18:
+        name: "Zhytomyr"
+  ARE:
+    name: "United Arab Emirates"
+    ARE:
+      name: "United Arab Emirates"
+      AZ:
+        name: "Abu Dhabi"
+      AL:
+        name: "Al l'Ayn"
+      SH:
+        name: "Ash Shariqah"
+      DU:
+        name: "Dubai"
+  GBR:
+    name: "United Kingdom"
+    ENG:
+      name: "England"
+      BAS:
+        name: "Bath"
+      BIR:
+        name: "Birmingham"
+      BRD:
+        name: "Bradford"
+      BNH:
+        name: "Brighton & Hove"
+      BST:
+        name: "Bristol"
+      CAM:
+        name: "Cambridge"
+      CNG:
+        name: "Canterbury"
+      CAX:
+        name: "Carlisle"
+      CEG:
+        name: "Chester"
+      CST:
+        name: "Chichester"
+      COV:
+        name: "Coventry"
+      DER:
+        name: "Derby"
+      DUR:
+        name: "Durham"
+      ELY:
+        name: "Ely"
+      EXE:
+        name: "Exeter"
+      GLO:
+        name: "Gloucester"
+      HAF:
+        name: "Hereford"
+      KUH:
+        name: "Kingston upon Hull"
+      LAN:
+        name: "Lancaster"
+      LDS:
+        name: "Leeds"
+      LCE:
+        name: "Leicester"
+      LHF:
+        name: "Lichfield"
+      LCN:
+        name: "Lincoln"
+      LIV:
+        name: "Liverpool"
+      LND:
+        name: "London"
+      MAN:
+        name: "Manchester"
+      NCL:
+        name: "Newcastle"
+      NRW:
+        name: "Norwich"
+      NGM:
+        name: "Nottingham"
+      OXF:
+        name: "Oxford"
+      PTE:
+        name: "Peterborough"
+      PLY:
+        name: "Plymouth"
+      POR:
+        name: "Portsmouth"
+      PRE:
+        name: "Preston"
+      RIP:
+        name: "Ripon"
+      TBL:
+        name: "Saint Albans"
+      SLF:
+        name: "Salford"
+      SLS:
+        name: "Salisbury"
+      SHE:
+        name: "Sheffield"
+      STH:
+        name: "Southampton"
+      SOT:
+        name: "Stoke-on-Trent"
+      SUN:
+        name: "Sunderland"
+      TRU:
+        name: "Truro"
+      WKF:
+        name: "Wakefield"
+      WLS:
+        name: "Wells"
+      WNE:
+        name: "Winchester"
+      WOV:
+        name: "Wolverhampton"
+      WOR:
+        name: "Worcester"
+      YOR:
+        name: "York"
+    NIR:
+      name: "Northern Ireland"
+      BFS:
+        name: "Belfast"
+      DRY:
+        name: "Derry"
+      LSB:
+        name: "Lisburn"
+      NYM:
+        name: "Newry"
+    SCT:
+      name: "Scotland"
+      ABD:
+        name: "Aberdeen"
+      DND:
+        name: "Dundee"
+      EDH:
+        name: "Edinburgh"
+      GLG:
+        name: "Glasgow"
+      INV:
+        name: "Inverness"
+      STG:
+        name: "Stirling"
+    WLS:
+      name: "Wales"
+      BAN:
+        name: "Bangor"
+      CDF:
+        name: "Cardiff"
+      NWP:
+        name: "Newport"
+      SWA:
+        name: "Swansea"
+  USA:
+    name: "United States"
+    AL:
+      name: "Alabama"
+      BHM:
+        name: "Birmingham"
+      MOB:
+        name: "Mobile"
+      MGM:
+        name: "Montgomery"
+    AK:
+      name: "Alaska"
+      ANC:
+        name: "Anchorage"
+      FAI:
+        name: "Fairbanks"
+      JNU:
+        name: "Juneau"
+    AZ:
+      name: "Arizona"
+      GDA:
+        name: "Glendale"
+      MQA:
+        name: "Mesa"
+      PHX:
+        name: "Phoenix"
+      STZ:
+        name: "Scottsdale"
+      TPE:
+        name: "Tempe"
+      TUC:
+        name: "Tucson"
+      YUM:
+        name: "Yuma"
+    AR:
+      name: "Arkansas"
+      FYV:
+        name: "Fayetteville"
+      FSM:
+        name: "Fort Smith"
+      LIT:
+        name: "Little Rock"
+    CA:
+      name: "California"
+      LAX:
+        name: "Los Angeles"
+      SAN:
+        name: "San Diego"
+      SFO:
+        name: "San Francisco"
+      SJC:
+        name: "San Jose"
+    CO:
+      name: "Colorado"
+      ASE:
+        name: "Aspen"
+      AUX:
+        name: "Aurora"
+      WBU:
+        name: "Boulder"
+      COS:
+        name: "Colorado Springs"
+      DEN:
+        name: "Denver"
+      FNL:
+        name: "Fort Collins"
+      GJT:
+        name: "Grand Junction"
+      VAC:
+        name: "Vail"
+    CT:
+      name: "Connecticut"
+      BDR:
+        name: "Bridgeport"
+      DAQ:
+        name: "Darien"
+      GRH:
+        name: "Greenwich"
+      HFD:
+        name: "Hartford"
+      XIN:
+        name: "Middletown"
+      NWT:
+        name: "New Britain"
+      HVN:
+        name: "New Haven"
+      WAT:
+        name: "Waterbury"
+      WPT:
+        name: "Westport"
+    DE:
+      name: "Delaware"
+      DOR:
+        name: "Dover"
+      NWK:
+        name: "Newark"
+      ILG:
+        name: "Wilmington"
+    DC:
+      name: "District of Columbia"
+      WAS:
+        name: "Washington D.C."
+    FL:
+      name: "Florida"
+      CPV:
+        name: "Cape Canaveral"
+      FLL:
+        name: "Fort Lauderdale"
+      JAX:
+        name: "Jacksonville"
+      EYW:
+        name: "Key West"
+      MIA:
+        name: "Miami"
+      ORL:
+        name: "Orlando"
+      PIE:
+        name: "St. Petersburg"
+      TLH:
+        name: "Tallahassee"
+      TPA:
+        name: "Tampa"
+    GA:
+      name: "Georgia"
+      TAT:
+        name: "Atlanta"
+      AUT:
+        name: "Augusta"
+      CZX:
+        name: "Columbus"
+      MCN:
+        name: "Macon"
+      SAV:
+        name: "Savannah"
+    HI:
+      name: "Hawaii"
+      ITO:
+        name: "Hilo"
+      HNL:
+        name: "Honolulu"
+      KHH:
+        name: "Kailua"
+    ID:
+      name: "Idaho"
+      YAF:
+        name: "American Falls"
+      BLK:
+        name: "Blackfoot"
+      BOI:
+        name: "Boise"
+      COE:
+        name: "Coeur d'Alene"
+      IDA:
+        name: "Idaho Falls"
+      QKM:
+        name: "Ketchum"
+      LWS:
+        name: "Lewiston"
+      MJL:
+        name: "Moscow"
+      ZMU:
+        name: "Murphy"
+      NPA:
+        name: "Nampa"
+      PIH:
+        name: "Pocatello"
+      SVY:
+        name: "Sun Valley"
+    IL:
+      name: "Illinois"
+      ALN:
+        name: "Alton"
+      AUZ:
+        name: "Aurora"
+      BLO:
+        name: "Bloomington"
+      MDH:
+        name: "Carbondale"
+      CRA:
+        name: "Centralia"
+      CMI:
+        name: "Champaign-Urbana"
+      CHI:
+        name: "Chicago"
+      DVI:
+        name: "Danville"
+      DEK:
+        name: "De Kalb"
+      DEC:
+        name: "Decatur"
+      ESL:
+        name: "East St Louis"
+      GSU:
+        name: "Galesburg"
+      NOM:
+        name: "Normal"
+      PLA:
+        name: "Peoria"
+      RKI:
+        name: "Rock Island"
+      RFD:
+        name: "Rockford"
+      SPI:
+        name: "Springfield"
+      UGN:
+        name: "Waukegan"
+    IN:
+      name: "Indiana"
+      EVV:
+        name: "Evansville"
+      FWA:
+        name: "Fort Wayne"
+      IND:
+        name: "Indianapolis"
+    IA:
+      name: "Iowa"
+      CID:
+        name: "Cedar Rapids"
+      DVN:
+        name: "Davenport"
+      DSM:
+        name: "Des Moines"
+    KS:
+      name: "Kansas"
+      ABZ:
+        name: "Abilene"
+      HCH:
+        name: "Hutchinson"
+      KCK:
+        name: "Kansas City"
+      LWC:
+        name: "Lawrence"
+      XIA:
+        name: "Leavenworth"
+      MHK:
+        name: "Manhattan"
+      OVL:
+        name: "Overland Park"
+      TOP:
+        name: "Topeka"
+      ICT:
+        name: "Wichita"
+    KY:
+      name: "Kentucky"
+      LEX:
+        name: "Lexington"
+      LUI:
+        name: "Louisville"
+      OWB:
+        name: "Owensboro"
+    LA:
+      name: "Louisiana"
+      BTR:
+        name: "Baton Rouge"
+      MSY:
+        name: "New Orleans"
+      SHV:
+        name: "Shreveport"
+    ME:
+      name: "Maine"
+      BNQ:
+        name: "Bangor"
+      QLW:
+        name: "Lewiston"
+      POL:
+        name: "Portland"
+    MD:
+      name: "Maryland"
+      BAL:
+        name: "Balitmore"
+      GAI:
+        name: "Gaithersburg"
+      RKV:
+        name: "Rockville"
+    MA:
+      name: "Massachusetts"
+      BZD:
+        name: "Boston"
+      SFY:
+        name: "Springfield"
+      ORH:
+        name: "Worcester"
+    MI:
+      name: "Michigan"
+      ARB:
+        name: "Ann Arbor"
+      BTL:
+        name: "Battle Creek"
+      BCY:
+        name: "Bay City"
+      DEO:
+        name: "Dearborn"
+      DET:
+        name: "Detroit"
+      FNT:
+        name: "Flint"
+      GRR:
+        name: "Grand Rapids"
+      AZO:
+        name: "Kalamazoo"
+      LAN:
+        name: "Lansing"
+      MKG:
+        name: "Muskegon"
+      PTK:
+        name: "Pontiac"
+      PHN:
+        name: "Port Huron"
+      SGM:
+        name: "Saginaw"
+      SSM:
+        name: "Sault Ste Marie"
+      WAM:
+        name: "Warren"
+      WYD:
+        name: "Wyandotte"
+    MN:
+      name: "Minnesota"
+      MES:
+        name: "Minneapolis"
+      RST:
+        name: "Rochester"
+      STP:
+        name: "Saint Paul"
+    MS:
+      name: "Mississippi"
+      BIX:
+        name: "Biloxi"
+      GLH:
+        name: "Greenville"
+      GPT:
+        name: "Gulfport"
+      HBG:
+        name: "Hattiesburg"
+      JAN:
+        name: "Jackson"
+      MEI:
+        name: "Meridian"
+      VKS:
+        name: "Vicksburg"
+    MO:
+      name: "Missouri"
+      COV:
+        name: "Columbia"
+      JEF:
+        name: "Jefferson City"
+      MKC:
+        name: "Kansas City"
+      STL:
+        name: "Sanit Louis"
+      SGF:
+        name: "Springfield"
+    MT:
+      name: "Montana"
+      BGS:
+        name: "Billings"
+      GTF:
+        name: "Great Falls"
+      MSO:
+        name: "Missoula"
+    NE:
+      name: "Nebraska"
+      XDE:
+        name: "Bellevue"
+      LNK:
+        name: "Lincoln"
+      OMA:
+        name: "Omaha"
+    NV:
+      name: "Nevada"
+      CSN:
+        name: "Carson City"
+      EKO:
+        name: "Elko"
+      HNZ:
+        name: "Henderson"
+      LAS:
+        name: "Las Vegas"
+      NVS:
+        name: "North Las Vegas"
+      RNO:
+        name: "Reno"
+      SPK:
+        name: "Sparks"
+      VGI:
+        name: "Virginia City"
+    NH:
+      name: "New Hampshire"
+      CON:
+        name: "Concord"
+      MHT:
+        name: "Manchester"
+      ASH:
+        name: "Nashua"
+    NJ:
+      name: "New Jersey"
+      JEC:
+        name: "Jersey City"
+      NRK:
+        name: "Newark"
+      PAT:
+        name: "Paterson"
+    NM:
+      name: "New Mexico"
+      ABQ:
+        name: "Albuquerque"
+      LRU:
+        name: "Las Cruces"
+      ROW:
+        name: "Roswell"
+      SAF:
+        name: "Santa Fe"
+    NY:
+      name: "New York"
+      FFO:
+        name: "Buffalo"
+      QEE:
+        name: "New York"
+      ROC:
+        name: "Rochester"
+    NC:
+      name: "North Carolina"
+      AEV:
+        name: "Asheville"
+      CHE:
+        name: "Chapel Hill"
+      CRQ:
+        name: "Charlotte"
+      DHH:
+        name: "Durham"
+      GBO:
+        name: "Greensboro"
+      RAG:
+        name: "Raleigh"
+      RDU:
+        name: "Raleigh-Durham"
+    ND:
+      name: "North Dakota"
+      BIS:
+        name: "Bismarck"
+      FAR:
+        name: "Fargo"
+      GFK:
+        name: "Grand Forks"
+      MOT:
+        name: "Minot"
+    OH:
+      name: "Ohio"
+      CVG:
+        name: "Cincinnati"
+      CLE:
+        name: "Cleveland"
+      CZX:
+        name: "Columbus"
+      DYT:
+        name: "Dayton"
+      TOL:
+        name: "Toledo"
+    OK:
+      name: "Oklahoma"
+      OUN:
+        name: "Norman"
+      OKC:
+        name: "Oklahoma City"
+      TUL:
+        name: "Tulsa"
+    OR:
+      name: "Oregon"
+      BZO:
+        name: "Bend"
+      COB:
+        name: "Coos Bay"
+      YCV:
+        name: "Corvallis"
+      CTR:
+        name: "Crater Lake"
+      DAC:
+        name: "Dallas"
+      EUG:
+        name: "Eugene"
+      XFX:
+        name: "Grant's Pass"
+      HDX:
+        name: "Hood River"
+      MFR:
+        name: "Medford"
+      PDX:
+        name: "Portland"
+      SLE:
+        name: "Salem"
+      SPY:
+        name: "Springfield"
+      STH:
+        name: "St Helens"
+      DLS:
+        name: "The Dalles"
+      TLM:
+        name: "Tillamook"
+    PA:
+      name: "Pennsylvania"
+      AEW:
+        name: "Allentown"
+      PHL:
+        name: "Philadephia"
+      PIT:
+        name: "Pittsburgh"
+    RI:
+      name: "Rhode Island"
+      CQH:
+        name: "Cranston"
+      NPO:
+        name: "Newport"
+      PAW:
+        name: "Pawtucket"
+      PVD:
+        name: "Providence"
+      UZO:
+        name: "Warwick"
+      WST:
+        name: "Westerly"
+      SFN:
+        name: "Woonsocket"
+    SC:
+      name: "South Carolina"
+      CHS:
+        name: "Charleston"
+      COV:
+        name: "Columbia"
+      NTS:
+        name: "North Charleston"
+    SD:
+      name: "South Dakota"
+      ABK:
+        name: "Aberdeen"
+      RAP:
+        name: "Rapid City"
+      FSD:
+        name: "Sioux Falls"
+    TN:
+      name: "Tennessee"
+      BSJ:
+        name: "Bristol"
+      CHA:
+        name: "Chattanooga"
+      JCY:
+        name: "Johnson City"
+      TRI:
+        name: "Kingsport"
+      TYS:
+        name: "Knoxville"
+      MEM:
+        name: "Memphis"
+      BNA:
+        name: "Nashville"
+      MQY:
+        name: "Smyrna"
+      RGI:
+        name: "Spring Hill"
+      YTC:
+        name: "Tri-City Area"
+    TX:
+      name: "Texas"
+      AUS:
+        name: "Austin"
+      CRP:
+        name: "Corpus Christi"
+      DAL:
+        name: "Dallas"
+      ELP:
+        name: "El Paso"
+      GLS:
+        name: "Galveston"
+      HOU:
+        name: "Houston"
+      LRD:
+        name: "Laredo"
+      TXC:
+        name: "McAllen"
+      SAT:
+        name: "San Antonio"
+    UT:
+      name: "Utah"
+      LTJ:
+        name: "Layton"
+      OGD:
+        name: "Ogden"
+      OEU:
+        name: "Orem"
+      PAC:
+        name: "Park City"
+      PVU:
+        name: "Provo"
+      SLC:
+        name: "Salt Lake City"
+      SGU:
+        name: "St.George"
+      WVC:
+        name: "West Valley City"
+    VT:
+      name: "Vermont"
+      BTV:
+        name: "Burlington"
+      RUT:
+        name: "Rutland"
+      ZBR:
+        name: "South Burlington"
+    VA:
+      name: "Virginia"
+      HTW:
+        name: "Chesapeake"
+      ORF:
+        name: "Norfolk"
+      VAB:
+        name: "Virginia Beach"
+    WA:
+      name: "Washington"
+      SEA:
+        name: "Seattle"
+      GEG:
+        name: "Spokane"
+      TTW:
+        name: "Tacoma"
+    WV:
+      name: "West Virginia"
+      CRW:
+        name: "Charleston"
+      HNU:
+        name: "Huntington"
+      PKB:
+        name: "Parkersburg"
+    WI:
+      name: "Wisconsin"
+      ATW:
+        name: "Appleton"
+      EAU:
+        name: "Eau Claire"
+      GBK:
+        name: "Green Bay"
+      ENW:
+        name: "Kenosha"
+      LSE:
+        name: "LaCrosse"
+      QMD:
+        name: "Madison"
+      MTW:
+        name: "Manitowoc"
+      MKE:
+        name: "Milwaukee"
+      OSH:
+        name: "Oshkosh"
+      RAC:
+        name: "Racine"
+      SBM:
+        name: "Sheboygan"
+      AUW:
+        name: "Wausau"
+    WY:
+      name: "Wyoming"
+      CPR:
+        name: "Casper"
+      CYS:
+        name: "Cheyenne"
+      EVD:
+        name: "Evanston"
+      LAR:
+        name: "Laramie"
+      RKS:
+        name: "Rock Springs"
+      SHR:
+        name: "Sheridan"
+  UMI:
+    name: "United States Minor Outlying Islands"
+    UMI:
+      name: "United States Minor Outlying Islands"
+      UMI:
+        name: "United States Minor Outlying Islands"
+  URY:
+    name: "Uruguay"
+    URY:
+      name: "Uruguay"
+      AR:
+        name: "Artigas"
+      CA:
+        name: "Canelones"
+      CL:
+        name: "Cerro Largo"
+      CO:
+        name: "Colonia"
+      DU:
+        name: "Durazno"
+      FS:
+        name: "Flores"
+      FA:
+        name: "Florida"
+      LA:
+        name: "Lavalleja"
+      MA:
+        name: "Maldonado"
+      MO:
+        name: "Montevideo"
+      PA:
+        name: "Paysandu"
+      RN:
+        name: "Rio Negro"
+      RV:
+        name: "Rivera"
+      RO:
+        name: "Rocha"
+      SL:
+        name: "Salto"
+      SJ:
+        name: "San Jose"
+      SO:
+        name: "Soriano"
+      TAW:
+        name: "Tacuarembo"
+      TT:
+        name: "Treinta y Tres"
+  UZB:
+    name: "Uzbekistan"
+    UZB:
+      name: "Uzbekistan"
+      AN:
+        name: "Andijon"
+      BU:
+        name: "Buxoro"
+      FA:
+        name: "Fargona"
+      JI:
+        name: "Jizzax"
+      NG:
+        name: "Namangan"
+      NW:
+        name: "Navoiy"
+      QA:
+        name: "Qasqadaryo"
+      QR:
+        name: "Qoraqalpogiston"
+      SA:
+        name: "Samarqand"
+      SI:
+        name: "Sirdaryo"
+      SU:
+        name: "Surxondaryo"
+      TK:
+        name: "Toshkent"
+      TO:
+        name: "Toshkent Shahri"
+      XO:
+        name: "Xorazm"
+  VUT:
+    name: "Vanuatu"
+    VUT:
+      name: "Vanuatu"
+      MA:
+        name: "Malampa"
+      PE:
+        name: "Penama"
+      SA:
+        name: "Sanma"
+      SH:
+        name: "Shefa"
+      TA:
+        name: "Tafea"
+      TO:
+        name: "Torba"
+  VAT:
+    name: "Vatican City"
+    VAT:
+      name: "Vatican City"
+      VAT:
+        name: "Vatican City"
+  VEN:
+    name: "Venezuela"
+    VEN:
+      name: "Venezuela"
+      Z:
+        name: "Amazonas"
+      B:
+        name: "Anzoategui"
+      C:
+        name: "Apure"
+      D:
+        name: "Aragua"
+      E:
+        name: "Barinas"
+      F:
+        name: "Bolivar"
+      G:
+        name: "Carabobo"
+      A:
+        name: "Caracas"
+      H:
+        name: "Cojedes"
+      Y:
+        name: "Delta Amacuro"
+      W:
+        name: "Dependencias Federales"
+      O:
+        name: "Estado Nueva Esparta"
+      I:
+        name: "Falcon"
+      J:
+        name: "Guarico"
+      K:
+        name: "Lara"
+      L:
+        name: "Merida"
+      M:
+        name: "Miranda"
+      N:
+        name: "Monagas"
+      P:
+        name: "Portuguesa"
+      R:
+        name: "Sucre"
+      S:
+        name: "Tachira"
+      T:
+        name: "Trujillo"
+      U:
+        name: "Yaracuy"
+      V:
+        name: "Zulia"
+  VNM:
+    name: "Vietnam"
+    VNM:
+      name: "Vietnam"
+      HP:
+        name: "Haiphong"
+      HI:
+        name: "Hanoi"
+      HC:
+        name: "Ho Chi Minh City"
+  VIR:
+    name: "Virgin Islands"
+    VIR:
+      name: "Virgin Islands"
+      VIR:
+        name: "Virgin Islands"
+  VGB:
+    name: "Virgin Islands,British"
+    VGB:
+      name: "Virgin Islands,British"
+      VGB:
+        name: "Virgin Islands,British"
+  WLF:
+    name: "Wallis and Futuna"
+    WLF:
+      name: "Wallis and Futuna"
+      WLF:
+        name: "Wallis and Futuna"
+  BLR:
+    name: "White Russia"
+    BLR:
+      name: "White Russia"
+      BR:
+        name: "Bresckaja"
+      HO:
+        name: "Homelskaja"
+      HR:
+        name: "Hrodzenskaja"
+      MA:
+        name: "Mahileuskaja"
+      MI:
+        name: "Minsk"
+      VI:
+        name: "Vicebskaja"
+  YEM:
+    name: "Yemen"
+    YEM:
+      name: "Yemen"
+      AB:
+        name: "Abyan"
+      AD:
+        name: "Adan"
+      DA:
+        name: "Ad-Dali"
+      BA:
+        name: "Al-Bayda"
+      HU:
+        name: "Al-Hudaydah"
+      JA:
+        name: "Al-Jawf"
+      MR:
+        name: "Al-Mahrah"
+      MW:
+        name: "Al-Mahwit"
+      AM:
+        name: "Amran Sana"
+      ASR:
+        name: "Ash-Shihr"
+      DH:
+        name: "Dhamar"
+      HD:
+        name: "Hadramawt"
+      HJ:
+        name: "Hajjah"
+      IB:
+        name: "Ibb"
+      LA:
+        name: "Lahij"
+      MA:
+        name: "Marib"
+      SD:
+        name: "Sadah"
+      SN:
+        name: "Sana"
+      GXF:
+        name: "Seiyun"
+      SH:
+        name: "Shabwah"
+      TA:
+        name: "Taizz"
+  ZMB:
+    name: "Zambia"
+    ZMB:
+      name: "Zambia"
+      CE:
+        name: "Central"
+      CB:
+        name: "Copperbelt"
+      EA:
+        name: "Eastern"
+      LP:
+        name: "Luapula"
+      LK:
+        name: "Lusaka"
+      NO:
+        name: "Northern"
+      NW:
+        name: "North-Western"
+      SO:
+        name: "Southern"
+      WE:
+        name: "Western"
+  ZWE:
+    name: "Zimbabwe"
+    ZWE:
+      name: "Zimbabwe"
+      BU:
+        name: "Bulawayo"
+      HA:
+        name: "Harare"
+      ML:
+        name: "Manicaland"
+      MC:
+        name: "Mashonaland Central"
+      ME:
+        name: "Mashonaland East"
+      MW:
+        name: "Mashonaland West"
+      MV:
+        name: "Masvingo"
+      MN:
+        name: "Matabeleland North"
+      MS:
+        name: "Matabeleland South"
+      MD:
+        name: "Midlands"

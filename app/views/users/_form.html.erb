@@ -4,7 +4,12 @@
   <%= f.input :password %>
   <%= f.input :password_confirmation %>
   <%= f.input :email %>
-  <%= f.input :city %>
+  <%= f.input :country, collection: [] %>
+  <%= f.input :state, collection: [] %>
+  <%= f.input :city, collection: [] %>
   <%= f.button :submit, t('submit') %>
   <span><%= link_to t('back'), home_path, class:"btn btn-default back" %></span>
 <% end %>
+<script>
+  populateCountries('<%= I18n.locale.to_s %>','<%= @user.country %>','<%= @user.state %>','<%= @user.city %>');
+</script>

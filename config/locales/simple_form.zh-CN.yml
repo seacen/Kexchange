@@ -18,7 +18,9 @@ zh-CN:
         username: '用户名'
         email: '邮箱'
         location: '所在地'
-        city: '城市'
+        city: '市/区（直辖市）/城市'
+        state: '省/自治区/直辖市/州'
+        country: '国家'
     #   user:
     #     new:
     #       email: 'E-mail to sign in.'
