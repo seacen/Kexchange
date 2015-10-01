@@ -26,9 +26,11 @@ function populateCities(locale,countryElementId,stateElementId,curr_city) {
         cityElement.options[cityElement.length] = new Option(city_arr[i][0], city_arr[i][1]);
     }
 
-    cityElement.value = curr_city;
+    cityElement.selectedIndex = -1;
 
-    console.log(cityElement.value);
+    if (curr_city) {
+      cityElement.value = curr_city;
+    }
 }
 
 function populateStates(locale,countryElementId,curr_state,curr_city) {
@@ -51,11 +53,12 @@ function populateStates(locale,countryElementId,curr_state,curr_city) {
         stateElement.options[stateElement.length] = new Option(state_arr[i][0], state_arr[i][1]);
     }
 
-    stateElement.value = curr_state;
+    stateElement.selectedIndex = -1;
 
-    console.log(stateElement.value);
-
-    populateCities(locale,countryElementId,stateElementId,curr_city);
+    if (curr_state) {
+      stateElement.value = curr_state;
+      populateCities(locale,countryElementId,stateElementId,curr_city);
+    }
 
     stateElement.onchange = function () {
         populateCities(locale,countryElementId,stateElementId,curr_city);
@@ -76,13 +79,18 @@ function populateCountries(locale,curr_country,curr_state,curr_city) {
     }
 
     countryElement.length = 0;
+
     for (var i = 0; i < country_arr.length; i++) {
       countryElement.options[countryElement.length] = new Option(country_arr[i][0], country_arr[i][1]);
     }
 
-    countryElement.value = curr_country;
+    countryElement.selectedIndex = -1;
+
+    if (curr_country) {
+      countryElement.value = curr_country;
+      populateStates(locale,countryElementId,curr_state,curr_city);
+    }
     // Assigned all countries. Now assign event listener for the states.
-    populateStates(locale,countryElementId,curr_state,curr_city);
 
     countryElement.onchange = function () {
         populateStates(locale,countryElementId,curr_state,curr_city);
