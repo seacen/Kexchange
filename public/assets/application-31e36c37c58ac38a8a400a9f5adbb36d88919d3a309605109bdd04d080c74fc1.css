@@ -269,8 +269,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('/assets/glyphicons-halflings-regular.eot');
-  src: url('/assets/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('/assets/glyphicons-halflings-regular.woff2') format('woff2'), url('/assets/glyphicons-halflings-regular.woff') format('woff'), url('/assets/glyphicons-halflings-regular.ttf') format('truetype'), url('/assets/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('../fonts/glyphicons-halflings-regular.eot');
+  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
@@ -7557,3 +7557,229 @@ input[type="checkbox"]:disabled:checked:after,
 .carousel-caption h6 {
   color: inherit;
 }
+/* line 1, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+.dropdown-menu {
+  padding: 20px;
+}
+
+/* line 12, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+.navbar-default {
+  background-color: #FF6666;
+}
+
+/* line 16, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+.navbar-default input {
+  color: #FF6666;
+}
+
+@media (max-width: 767px) {
+  /* line 21, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+  .navbar-default input {
+    color: #FFFFFF;
+  }
+}
+/* line 25, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+.navbar-default input.black {
+  color: #FF6666;
+}
+
+/* title */
+/* line 30, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+.navbar-default .navbar-brand {
+  color: #FFFFFF;
+}
+
+/* line 33, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #FFE6FF;
+}
+
+/* link */
+/* line 38, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+.navbar-default .navbar-nav > li > a {
+  color: #FFFFFF;
+}
+
+/* line 41, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #FFE6FF;
+}
+
+/* line 45, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #FF6666;
+  background-color: #FFFFFF;
+}
+
+/* line 51, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #FF6666;
+  background-color: #FFFFFF;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+/* line 60, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+/* line 64, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 40px;
+}
+
+/* line 68, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 48px;
+  background-color: #FF6666;
+  color: #FFFFFF;
+  padding-top: 12px;
+}
+
+/* line 81, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+.footer-drop > li > a {
+  color: #FF6666;
+}
+
+/* line 84, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+.lang_select_lang_select {
+  margin-bottom: 0px;
+}
+
+/* line 87, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+#lang_select_lang_select {
+  height: 35px;
+}
+
+/* line 90, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/nav.scss */
+a.white:hover, a.white:focus, a.white {
+  color: #FFFFFF;
+}
+/* line 7, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+body {
+  padding-top: 60px;
+}
+/* line 10, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+html[lang="zh-CN"] body {
+  font-family: "PingFang","Microsoft YaHei",sans-serif;
+}
+
+/* line 14, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+.btn {
+  color: #FF6666;
+}
+
+/* line 18, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+.alert {
+  text-align: center;
+}
+
+/* line 21, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+.jumbotron {
+  background-color: #FFFFFF;
+}
+/* line 23, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+.jumbotron .btn {
+  color: #FFFFFF;
+  background-color: #FF6666;
+}
+/* line 27, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+.jumbotron h1 {
+  color: #FF6666;
+}
+
+/* line 31, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+.jumbotext {
+  padding-top: 16vh;
+  padding-bottom: 7vh;
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  /* line 37, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+  .jumbotext {
+    padding-top: 10vh;
+    padding-bottom: 4vh;
+  }
+
+  /* line 42, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+  .jumbotron h1 {
+    font-size: 3.5em;
+  }
+  /* line 45, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+  .jumbotron p {
+    padding-top: 10px;
+    font-size: 1.3em;
+  }
+  /* line 49, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+  .jumbotron .btn {
+    font-size: 1.1em;
+  }
+
+  /* line 55, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+  html[lang="zh-CN"] .building h5 {
+    font-size: 1.42em;
+  }
+}
+/* line 61, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+.jumbobtn {
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+/* line 65, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+.jumbobtn-login {
+  margin-top: 20px;
+  margin-left: 10px;
+  padding-left: 42px;
+  padding-right: 42px;
+}
+/* line 70, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+html[lang="zh-CN"] .jumbobtn-login {
+  padding-left: 33px;
+  padding-right: 33px;
+}
+
+/* line 76, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+.page-header h1, .page-header h2, .page-header h3, .page-title h1, .page-title h2, .page-title h3 {
+  color: #FF6666;
+}
+
+/* line 80, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+.page-title {
+  padding: 20px;
+}
+
+/* line 83, /media/seacen/OS/seacen/projects/Kexchange/app/assets/stylesheets/whole.scss */
+.back {
+  margin-left: 10px;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+

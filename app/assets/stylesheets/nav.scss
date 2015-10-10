@@ -73,11 +73,22 @@ body {
   height: 48px;
   background-color: $theme;
   color: $text;
-  text-align:center;
+  .text {
+    padding-top: 12px;
+  }
 }
-.foottext {
-  padding-top: 12px;
-  padding-bottom: -12px;
+.footer-drop > li > a{
+  color: $theme;
+}
+.langbtn {
+  margin-top: 8px;
+  // margin-right: -8px;
+}
+.lang_select_lang_select {
+  margin-bottom: 0px;
+}
+#lang_select_lang_select {
+  height: 35px;
 }
 a.white:hover,a.white:focus,a.white {
   color: $text;

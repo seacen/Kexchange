@@ -12,7 +12,9 @@ en:
     body: 'The site is still under construction, stay turned for real soon updates!'
     hint: 'You can check your profile detail at edit profile on top right'
   footer:
+    link: "http://www.seacen.tk/"
     tech: " tech"
     copyright: " All Right Reserved"
+    lang_select: '选择语言'
   login_fail: 'wrong username or password, please try again'
   login_required: 'please login to proceed the previous actions'

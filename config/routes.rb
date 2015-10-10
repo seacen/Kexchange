@@ -9,9 +9,11 @@ Rails.application.routes.draw do
     get 'login' => 'sessions#login', as: :login
     post 'sessions/do_login', as: :signin
     delete 'sessions/logout', as: :logout
-    get '/:locale' => 'sessions#index'
+    get 'languages/select', as: :lang_select
 
     resources :users, only: [:new, :create, :show, :edit, :update, :destroy]
+
+    get '/:locale' => 'sessions#index'
   end
 
   # Example of named route that can be invoked with purchase_url(id: product.id)

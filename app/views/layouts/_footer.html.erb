@@ -1,5 +1,22 @@
 <div class="footer">
-  <div class="container foottext">
-    <p>&copy;&nbsp;<%= Date.today.year %>&nbsp;&nbsp;<a href="http://www.seacen.tk/me" target="_blank" class="white">Seacen&trade;<%= t 'footer.tech' %></a><%= t 'footer.copyright' %></p>
+  <div class="container-fluid">
+    <div class='row'>
+      <div class="col-xs-10 text">
+        <p>&copy;&nbsp;<%= Date.today.year %>&nbsp;&nbsp;<a href=<%= t 'footer.link' %> target="_blank" class="white">Seacen&trade;<%= t 'footer.tech' %></a><%= t 'footer.copyright' %></p>
+      </div>
+      <div class="col-xs-2">
+        <div class="btn-group dropup pull-right">
+          <button type="button" class="btn btn-default dropdown-toggle langbtn" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
+            <span class="caret"></span>
+          </button>
+          <ul class="dropdown-menu footer-drop">
+            <li><%= link_to '简体中文', lang_select_path(lang: 'zh-CN') %></li>
+            <li role="separator" class="divider"></li>
+            <li><%= link_to 'English', lang_select_path(lang: 'en') %></li>
+          </ul>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
