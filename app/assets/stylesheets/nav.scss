@@ -78,7 +78,7 @@ body {
   }
 }
 .footer-drop > li > a{
-  color: $theme;
+  // color: $theme;
 }
 .langbtn {
   margin-top: 8px;
@@ -88,9 +88,6 @@ body {
 }
 #lang_select_lang_select {
   height: 35px;
-}
-.asdfjksfd {
-  color:inherit;
 }
 a.white:hover,a.white:focus,a.white {
   color: $text;
