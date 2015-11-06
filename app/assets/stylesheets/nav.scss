@@ -7,6 +7,7 @@
 
 $theme: #FF6666;
 $text: #FFFFFF;
+$sectheme: #F1C40F;
 $hover: #FFE6FF;
 
 .navbar-default {
@@ -63,7 +64,7 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 40px;
+  margin-bottom: 48px;
 }
 .footer {
   position: absolute;
@@ -77,8 +78,14 @@ body {
     padding-top: 12px;
   }
 }
-.footer-drop > li > a{
-  color: $theme;
+.footer-drop {
+  .btn {
+    color: $theme;
+  }
+}
+.footer-drop-break {
+  padding-bottom: 10px;
+
 }
 .langbtn {
   margin-top: 8px;

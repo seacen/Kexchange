@@ -11,9 +11,18 @@
             <span class="caret"></span>
           </button>
           <ul class="dropdown-menu footer-drop">
-            <li><%= link_to '简体中文', lang_select_path(lang: 'zh-CN'), 'data-no-turbolink' => true %></li>
-            <li role="separator" class="divider"></li>
-            <li><%= link_to 'English', lang_select_path(lang: 'en'), 'data-no-turbolink' => true %></li>
+            <% if true %>
+              <% if request.env['PATH_INFO'][0...3] == '/en' %>
+                <% rpath = request.env['PATH_INFO'][3..-1] %>
+              <% elsif request.env['PATH_INFO'][0...6] == '/zh-CN' %>
+                <% rpath = request.env['PATH_INFO'][6..-1] %>
+              <% else %>
+                <% rpath = request.env['PATH_INFO'] %>
+              <% end %>
+              <li><%= link_to '简体中文', '/zh-CN'+rpath, class:"btn btn-default", 'data-no-turbolink' => true %></li>
+              <div class="footer-drop-break"></div>
+              <li><%= link_to 'English', '/en'+rpath, class:"btn btn-default", 'data-no-turbolink' => true %></li>
+            <% end %>
           </ul>
         </div>
       </div>
