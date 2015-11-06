@@ -19,9 +19,16 @@
               <% else %>
                 <% rpath = request.env['PATH_INFO'] %>
               <% end %>
-              <li><%= link_to '简体中文', '/zh-CN'+rpath, class:"btn btn-default", 'data-no-turbolink' => true %></li>
+              <% if (I18n.locale.to_s == 'en') %>
+                <% lang_en = 'active' %>
+                <% lang_zh = 'inactive' %>
+              <% else %>
+                <% lang_en = 'inactive' %>
+                <% lang_zh = 'active' %>
+              <% end %>
+              <li><%= link_to '简体中文', '/zh-CN'+rpath, class:lang_zh, 'data-no-turbolink' => true, 'ontouchstart' => '' %></li>
               <div class="footer-drop-break"></div>
-              <li><%= link_to 'English', '/en'+rpath, class:"btn btn-default", 'data-no-turbolink' => true %></li>
+              <li><%= link_to 'English', '/en'+rpath, class:lang_en, 'data-no-turbolink' => true, 'ontouchstart' => '' %></li>
             <% end %>
           </ul>
         </div>

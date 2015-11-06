@@ -7,7 +7,7 @@
 
 $theme: #FF6666;
 $text: #FFFFFF;
-$sectheme: #F1C40F;
+$sectheme: #FFE6FF;
 $hover: #FFE6FF;
 
 .navbar-default {
@@ -80,7 +80,21 @@ body {
 }
 .footer-drop {
   .btn {
-    color: $theme;
+    color: $text;
+    background-color: $theme;
+  }
+  li {
+    a {
+      color: $theme;
+    }
+    a.active {
+      color: $text;
+      background-color: $theme;
+    }
+    a:focus, a:hover, a:active {
+      color: $hover;
+      background-color: $theme;
+    }
   }
 }
 .footer-drop-break {
