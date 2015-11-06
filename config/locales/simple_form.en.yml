@@ -25,6 +25,7 @@ en:
         city: 'City'
         state: 'State'
         country: 'Country'
+        locale: 'Language Preference'
     #   user:
     #     new:
     #       email: 'E-mail to sign in.'

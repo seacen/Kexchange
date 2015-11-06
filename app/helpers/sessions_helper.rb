@@ -3,6 +3,7 @@ module SessionsHelper
 	# Log a user in after authenticating, store in session
 	def log_in user
 		session[:user_id] = user.id
+		I18n.locale = user.locale
 	end
 
 	# Return the currently logged in user for this session

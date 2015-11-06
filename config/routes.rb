@@ -2,10 +2,9 @@ Rails.application.routes.draw do
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
   # You can have the root of your site routed with "root"
-  root 'sessions#index'
+  root 'sessions#index', as: :home
   # Example of regular route:
   scope "(:locale)" do
-    get 'index' => 'sessions#index', as: :home
     get 'login' => 'sessions#login', as: :login
     post 'sessions/do_login', as: :signin
     delete 'sessions/logout', as: :logout

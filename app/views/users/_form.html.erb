@@ -7,6 +7,12 @@
   <%= f.input :country, collection: [] %>
   <%= f.input :state, collection: [] %>
   <%= f.input :city, collection: [] %>
+  <% locale_list = [['简体中文','zh-CN'],['English','en']] %>
+  <% if defined?(new) %>
+    <%= f.input :locale, collection: locale_list, selected: I18n.locale %>
+  <% else %>
+    <%= f.input :locale, collection: locale_list %>
+  <% end %>
   <%= f.button :submit, t('submit') %>
   <span><%= link_to t('back'), home_path, class:"btn btn-default back" %></span>
 <% end %>
