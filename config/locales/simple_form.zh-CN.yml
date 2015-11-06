@@ -10,6 +10,10 @@ zh-CN:
       # html: '<abbr title="required">*</abbr>'
     error_notification:
       default_message: "请修改下列错误："
+      email:
+        format: "无效的邮箱地址"
+      username:
+        format: "只能包含字母、数字及下划线"
     # Examples
     labels:
       defaults:

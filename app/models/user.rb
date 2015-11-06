@@ -3,9 +3,9 @@ class User < ActiveRecord::Base
   has_secure_password
 
   validates_presence_of :email, :username, :city, :state, :country
-  validates :email, format: { with: /(.+)@(.+).[a-z]{2,4}/, message: "%{value} is not a valid email" }
+  validates :email, format: { with: /(.+)@(.+).[a-z]{2,4}/, message: I18n.t('simple_form.error_notification.email.format') }
   validates :username, length: { minimum: 3 }
-  validates :username, format: { with: /\w+/, message: "can only constitute alphbet characters and underscores" }
+  validates :username, format: { with: /\A\w+\z/, message: I18n.t('simple_form.error_notification.username.format') }
   validates :password, length: {minimum: 6 }, allow_blank: true
-  validates :username, uniqueness: { message: "username is taken, please choose a different one" }
+  validates :username, uniqueness: true
 end

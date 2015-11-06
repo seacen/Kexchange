@@ -1,0 +1,6 @@
+en:
+  session:
+    login:
+      alert:
+        fail: 'wrong username or password, please try again'
+        required: 'please login to proceed the previous actions'

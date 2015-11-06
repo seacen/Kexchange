@@ -15,6 +15,3 @@ en:
     link: "http://www.seacen.tk/"
     tech: " tech"
     copyright: " All Right Reserved"
-    lang_select: '选择语言'
-  login_fail: 'wrong username or password, please try again'
-  login_required: 'please login to proceed the previous actions'

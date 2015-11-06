@@ -13,7 +13,7 @@ class SessionsController < ApplicationController
       # Redirect to posts page
       redirect_to user
     else
-      redirect_to login_path, alert: t('login_fail')
+      redirect_to login_path, alert: t('session.login.alert.fail')
     end
   end
 

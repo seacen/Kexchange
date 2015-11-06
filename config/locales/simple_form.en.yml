@@ -10,6 +10,10 @@ en:
       # html: '<abbr title="required">*</abbr>'
     error_notification:
       default_message: "Please review the problems below:"
+      email:
+        format: "not a valid email"
+      username:
+        format: "can only constitute alphbet characters, numbers and underscores"
     # Examples
     labels:
       defaults:

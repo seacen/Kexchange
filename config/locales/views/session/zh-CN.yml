@@ -1,0 +1,6 @@
+zh-CN:
+  session:
+    login:
+      alert:
+        fail: '您输入的用户名或密码有误，请重试'
+        required: '请登录'

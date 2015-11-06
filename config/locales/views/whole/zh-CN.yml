@@ -15,6 +15,3 @@ zh-CN:
     link: "http://www.xichang.tk/"
     tech: "科技"
     copyright: "版权所有"
-    lang_select: 'Choose language'
-  login_fail: '您输入的用户名或密码有误，请重试'
-  login_required: '请登录'
