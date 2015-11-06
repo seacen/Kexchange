@@ -10,7 +10,6 @@ Card.destroy_all
 Album.destroy_all
 Artist.destroy_all
 Company.destroy_all
-User.destroy_all
 
 sm = Company.new
 sm.attributes = { name: 'SM娱乐', locale: 'zh-CN' }
