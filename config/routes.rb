@@ -3,9 +3,8 @@ Rails.application.routes.draw do
   # See how all your routes lay out with "rake routes".
   # You can have the root of your site routed with "root"
   # Example of regular route:
-  root 'sessions#index'
   scope "(:locale)" do
-    get 'index' => 'sessions#index', as: :home
+    root 'sessions#index', as: :home
     get 'login' => 'sessions#login', as: :login
     post 'sessions/do_login', as: :signin
     delete 'sessions/logout', as: :logout
