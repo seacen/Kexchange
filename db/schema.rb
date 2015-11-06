@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151106112651) do
+ActiveRecord::Schema.define(version: 20151106155535) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -47,29 +47,49 @@ ActiveRecord::Schema.define(version: 20151106112651) do
 
   add_index "artists", ["company_id"], name: "index_artists_on_company_id", using: :btree
 
-  create_table "card_translations", force: :cascade do |t|
-    t.integer  "card_id",    null: false
+  create_table "cards", force: :cascade do |t|
+    t.string   "image"
+    t.integer  "album_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.integer  "member_id"
+  end
+
+  add_index "cards", ["album_id"], name: "index_cards_on_album_id", using: :btree
+  add_index "cards", ["member_id"], name: "index_cards_on_member_id", using: :btree
+
+  create_table "companies", force: :cascade do |t|
+    t.string   "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "company_translations", force: :cascade do |t|
+    t.integer  "company_id", null: false
     t.string   "locale",     null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string   "name"
   end
 
-  add_index "card_translations", ["card_id"], name: "index_card_translations_on_card_id", using: :btree
-  add_index "card_translations", ["locale"], name: "index_card_translations_on_locale", using: :btree
+  add_index "company_translations", ["company_id"], name: "index_company_translations_on_company_id", using: :btree
+  add_index "company_translations", ["locale"], name: "index_company_translations_on_locale", using: :btree
 
-  create_table "cards", force: :cascade do |t|
-    t.string   "name"
-    t.string   "image"
-    t.integer  "album_id"
+  create_table "member_translations", force: :cascade do |t|
+    t.integer  "member_id",  null: false
+    t.string   "locale",     null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string   "name"
   end
 
-  add_index "cards", ["album_id"], name: "index_cards_on_album_id", using: :btree
+  add_index "member_translations", ["locale"], name: "index_member_translations_on_locale", using: :btree
+  add_index "member_translations", ["member_id"], name: "index_member_translations_on_member_id", using: :btree
 
-  create_table "companies", force: :cascade do |t|
+  create_table "members", force: :cascade do |t|
     t.string   "name"
+    t.string   "image"
+    t.text     "bio"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
@@ -99,5 +119,6 @@ ActiveRecord::Schema.define(version: 20151106112651) do
   add_foreign_key "albums", "artists"
   add_foreign_key "artists", "companies"
   add_foreign_key "cards", "albums"
+  add_foreign_key "cards", "members"
   add_foreign_key "requests", "users"
 end
