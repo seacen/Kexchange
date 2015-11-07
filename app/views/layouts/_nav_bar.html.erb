@@ -15,19 +15,24 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <% if curr_user %>
         <ul class="nav navbar-nav navbar-right">
-          <% if current_page?(curr_user) %>
-            <li class="active">
-          <% else %>
-            <li>
-          <% end %>
-          <%= link_to t('welcome')+curr_user.username, curr_user %></li>
-          <% if current_page?(edit_user_path(id:curr_user.id)) %>
-            <li class="active">
-          <% else %>
-            <li>
-          <% end %>
-          <%= link_to t('user.edit.heading'), edit_user_path(curr_user.id)%></li>
-          <li><%= link_to t('logout'), logout_path, method: :delete%></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><%= curr_user.username %> <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <% if current_page?(curr_user) %>
+                <li class="active">
+              <% else %>
+                <li>
+              <% end %>
+                <%= link_to t('welcome')+curr_user.username, curr_user %></li>
+              <% if current_page?(edit_user_path(id:curr_user.id)) %>
+                <li class="active">
+              <% else %>
+                <li>
+              <% end %>
+                <%= link_to t('user.edit.heading'), edit_user_path(curr_user.id)%></li>
+              <li><%= link_to t('logout'), logout_path, method: :delete%></li>
+            </ul>
+          </li>
         </ul>
       <% else %>
         <ul class="nav navbar-nav navbar-right">

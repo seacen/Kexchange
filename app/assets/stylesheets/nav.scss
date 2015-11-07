@@ -7,7 +7,8 @@
 
 $theme: #FF6666;
 $text: #FFFFFF;
-$sectheme: #FFE6FF;
+$sectheme: #2f2f2f;
+$sectext: $text;
 $hover: #FFE6FF;
 
 .navbar-default {
@@ -21,6 +22,15 @@ $hover: #FFE6FF;
 @media (max-width: 767px) {
   .navbar-default input {
       color: $text;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: $text;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: $theme;
+    background-color: $text;
   }
 }
 .navbar-default input.black {
@@ -55,6 +65,20 @@ $hover: #FFE6FF;
     color: $theme;
     background-color: $text;
 }
+.dropdown-menu > li > a {
+  color: $theme;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  color: $theme;
+  background-color: $sectheme;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+  color: $text;
+  background-color: $theme;
+}
 
 /* Sticky footer styles
 -------------------------------------------------- */
@@ -73,16 +97,19 @@ body {
   /* Set the fixed height of the footer here */
   height: 48px;
   background-color: $theme;
-  color: $text;
+  color: $sectext;
   .text {
     padding-top: 12px;
   }
+  a {
+    color: $sectext;
+  }
+  // .btn {
+  //   color: $text;
+  //   background-color: $theme;
+  // }
 }
 .footer-drop {
-  .btn {
-    color: $text;
-    background-color: $theme;
-  }
   li {
     a {
       color: $theme;
@@ -92,8 +119,8 @@ body {
       background-color: $theme;
     }
     a:focus, a:hover, a:active {
-      color: $hover;
-      background-color: $theme;
+      color: $theme;
+      background-color: $sectheme;
     }
   }
 }

@@ -8,8 +8,9 @@ Rails.application.routes.draw do
     get 'login' => 'sessions#login', as: :login
     post 'sessions/do_login', as: :signin
     delete 'sessions/logout', as: :logout
-
     resources :users, only: [:new, :create, :show, :edit, :update, :destroy]
+
+    resources :requests, only: [:index, :new, :create, :show, :edit, :update, :destroy]
   end
 
   # Example of named route that can be invoked with purchase_url(id: product.id)

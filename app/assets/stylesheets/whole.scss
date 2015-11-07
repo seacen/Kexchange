@@ -4,6 +4,9 @@
 // }
 $theme: #FF6666;
 $text: #FFFFFF;
+$sectheme: #2f2f2f;
+$sectext: $text;
+
 body {
   // color: $theme;
   padding-top: 60px;
@@ -45,6 +48,9 @@ body {
     p {
       padding-top: 10px;
       font-size: 1.3em;
+      html[lang="zh-CN"] & {
+        color: #000000;
+      }
     }
     .btn {
       font-size: 1.1em;
