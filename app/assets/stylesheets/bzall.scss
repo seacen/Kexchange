@@ -1,0 +1,192 @@
+// .nospace {
+//   margin-bottom: auto;
+//   /*min-height: 300px;*/
+// }
+$theme: #FF6666;
+$text: #FFFFFF;
+$sectheme: #5D5D5D;
+$sectext: $text;
+$theme_hover: #f66262;
+$sectheme_hover: #494949;
+
+textarea:focus,
+textarea.form-control:focus,
+input.form-control:focus,
+input[type=text]:focus,
+input[type=password]:focus,
+input[type=email]:focus,
+input[type=number]:focus,
+[type=text].form-control:focus,
+[type=password].form-control:focus,
+[type=email].form-control:focus,
+[type=tel].form-control:focus,
+[contenteditable].form-control:focus {
+  -webkit-box-shadow: inset 0 -2px 0 $theme;
+  box-shadow: inset 0 -2px 0 $theme;
+}
+
+@media (max-width: 767px) {
+  .dropdown-menu {
+    textarea:focus,
+    textarea.form-control:focus,
+    input.form-control:focus,
+    input[type=text]:focus,
+    input[type=password]:focus,
+    input[type=email]:focus,
+    input[type=number]:focus,
+    [type=text].form-control:focus,
+    [type=password].form-control:focus,
+    [type=email].form-control:focus,
+    [type=tel].form-control:focus,
+    [contenteditable].form-control:focus {
+      -webkit-box-shadow: inset 0 -2px 0 $text;
+      box-shadow: inset 0 -2px 0 $text;
+    }
+  }
+}
+
+select:focus,
+select.form-control:focus {
+  -webkit-box-shadow: inset 0 -2px 0 $theme;
+  box-shadow: inset 0 -2px 0 $theme;
+}
+
+.form-control:focus {
+  border-color: $theme;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
+}
+
+body {
+  // color: $theme;
+  padding-top: 60px;
+  html[lang="zh-CN"] & {
+    font-family: "PingFang","Microsoft YaHei",sans-serif;
+  }
+}
+.modal-title {
+  color: $theme;
+}
+.btn-default {
+  color: $theme;
+  // background-color: $theme;
+}
+.btn-default:hover, .btn-default:focus, .btn-default.focus {
+  color: $theme;
+}
+.btn-sectheme {
+  color: $sectext;
+  background-color: $sectheme;
+}
+.btn-sectheme:hover, .btn-sectheme:focus, .btn-sectheme.focus {
+  color: $text;
+  background-color: $sectheme_hover;
+}
+.btn-revtheme {
+  color: $text;
+  background-color: $theme;
+}
+.btn-revtheme:hover, .btn-revtheme:focus, .btn-revtheme.focus {
+  color: $text;
+  background-color: $theme_hover;
+}
+.badge {
+  background-color: $text;
+  color: $theme;
+}
+.alert {
+  text-align: center;
+}
+
+.label-ktheme {
+  background-color: $theme;
+}
+.label-ksectheme {
+  background-color: $sectheme;
+}
+
+.jumbotron {
+  background-color: $text;
+  h1 {
+    color: $theme;
+  }
+  .btn {
+    color: $text;
+    background-color: $theme;
+  }
+}
+.jumbotext {
+  padding-top: 16vh;
+  padding-bottom: 7vh;
+  text-align:center;
+}
+@media (max-width: 767px) {
+  .jumbotext {
+      padding-top: 10vh;
+      padding-bottom: 4vh;
+  }
+  .jumbotron {
+    h1 {
+      font-size: 3.5em;
+    }
+    p {
+      padding-top: 10px;
+      font-size: 1.3em;
+      html[lang="zh-CN"] & {
+        color: #000000;
+      }
+    }
+    .btn {
+      font-size: 1.1em;
+    }
+  }
+  .building {
+    html[lang="zh-CN"] & {
+      // h5 {
+      //   font-size: 1.4em;
+      // }
+    }
+  }
+}
+.jumbobtn {
+  margin-top: 20px;
+  margin-right: 10px;
+}
+.jumbobtn-login {
+  margin-top: 20px;
+  margin-left: 10px;
+  padding-left: 42px;
+  padding-right: 42px;
+  html[lang="zh-CN"] & {
+    padding-left: 33px;
+    padding-right: 33px;
+  }
+}
+.page-header,.page-title, .central-title {
+  h1,h2,h3 {
+    color: $theme;
+  }
+}
+.page-title {
+  padding-top: 25px;
+}
+.central-title {
+  padding: 15px;
+}
+.back {
+  margin-left: 10px;
+}
+.ktheme {
+  color: $theme;
+}
+.row-spacer {
+  padding-left: 10px;
+  @media (max-width: 767px) {
+    padding-left: 0px;
+  }
+}
+.line-depadding {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}

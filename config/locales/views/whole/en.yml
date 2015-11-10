@@ -1,15 +1,29 @@
 en:
+  kexchange: 'Kexchange'
   login: "Login"
   username: "Username"
   password: "Password"
+  cancel: 'Cancel'
   back: "Back"
   create: 'Create'
   submit: 'Submit'
   welcome: 'Welcome! '
   logout: 'Log Out'
+  myrequest: 'My Requests'
+  album: 'Album'
+  member: 'Member'
+  colon: ': '
+  edit: 'Edit'
+  delete: 'Delete'
+  search_match: 'Search Matches'
+  applications: 'Applications'
+  confirm:
+    delete:
+      title: 'Confirm Deletion'
+      msg: "Confirm to delete request with card owned: %{own} and card wanted: %{want}?"
   building:
     title: 'Welcome to Kexchange!'
-    body: 'The site is still under construction, stay turned for real soon updates!'
+    body: 'The page you are visiting is still under construction, stay turned for real soon updates!'
     hint: 'You can check your profile detail at edit profile on top right'
   footer:
     link: "http://www.seacen.tk/"

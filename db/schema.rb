@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151106155535) do
+ActiveRecord::Schema.define(version: 20151110081348) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -26,6 +26,17 @@ ActiveRecord::Schema.define(version: 20151106155535) do
   end
 
   add_index "albums", ["artist_id"], name: "index_albums_on_artist_id", using: :btree
+
+  create_table "applications", force: :cascade do |t|
+    t.integer  "user_id"
+    t.integer  "request_id"
+    t.integer  "own_request_id"
+    t.datetime "created_at",     null: false
+    t.datetime "updated_at",     null: false
+  end
+
+  add_index "applications", ["request_id"], name: "index_applications_on_request_id", using: :btree
+  add_index "applications", ["user_id"], name: "index_applications_on_user_id", using: :btree
 
   create_table "artist_translations", force: :cascade do |t|
     t.integer  "artist_id",  null: false
@@ -100,6 +111,7 @@ ActiveRecord::Schema.define(version: 20151106155535) do
     t.integer  "want_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer  "new_app"
   end
 
   add_index "requests", ["user_id"], name: "index_requests_on_user_id", using: :btree
@@ -117,6 +129,8 @@ ActiveRecord::Schema.define(version: 20151106155535) do
   end
 
   add_foreign_key "albums", "artists"
+  add_foreign_key "applications", "requests"
+  add_foreign_key "applications", "users"
   add_foreign_key "artists", "companies"
   add_foreign_key "cards", "albums"
   add_foreign_key "cards", "members"

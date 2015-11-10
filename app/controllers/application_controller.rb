@@ -16,7 +16,7 @@ class ApplicationController < ActionController::Base
   # check if user has not been logined
   def check_unlogin
     if curr_user
-      redirect_to curr_user
+      redirect_to requests_path
     end
   end
 

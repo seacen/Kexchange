@@ -1,0 +1,11 @@
+zh-CN:
+  request:
+    index:
+      heading: '我的交换'
+      createcard: '新建小卡交换'
+      createother: '新建其他交换'
+      none: '还没有东西可换'
+    own: '拥有'
+    want: '想要'
+    destroy:
+      success: '交换请求删除成功'

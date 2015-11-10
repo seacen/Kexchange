@@ -11,7 +11,7 @@ class SessionsController < ApplicationController
       # Save them in the session
       log_in user
       # Redirect to posts page
-      redirect_to user
+      redirect_to home_path
     else
       redirect_to login_path, alert: t('session.login.alert.fail')
     end

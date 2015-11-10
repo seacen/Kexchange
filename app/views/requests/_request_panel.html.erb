@@ -1,0 +1,57 @@
+<a href=<%= request_path(request.id) %>>
+<div class="panel panel-default">
+  <div class="panel-body">
+    <div class="row">
+      <div class="col-xs-9">
+        <div class="row">
+          <div class="col-xs-3 panel-col">
+            <h5 class="ktheme row-spacer"><%= t 'request.own' %></h5>
+          </div>
+          <div class="col-xs-9">
+            <h6><span class="label label-ksectheme"><%= t('album') %></span>&nbsp;<%= request.own.album.name %></h6>
+            <h6><span class="label label-ktheme"><%= t('member') %></span>&nbsp;<%= request.own.member.name %></h6>
+          </div>
+        </div>
+        <hr class="line-depadding">
+        <div class="row">
+          <div class="col-xs-3 panel-col">
+            <h5 class="ktheme row-spacer"><%= t 'request.want' %></h5>
+          </div>
+          <div class="col-xs-9">
+            <h6><span class="label label-ksectheme"><%= t('album') %></span>&nbsp;<%= request.want.album.name %></h6>
+            <h6><span class="label label-ktheme"><%= t('member') %></span>&nbsp;<%= request.want.member.name %></h6>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-3">
+        <% %w(request-btn-desktop request-btn-mobile).each do |device| %>
+          <% if request.new_app == 0 %>
+            <% badge = '' %>
+          <% else %>
+            <% badge = %Q(&nbsp;<span class="badge">#{request.new_app}</span>) %>
+          <% end %>
+          <% appicon = %q(<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>) %>
+          <% searchicon = %q(<span class="glyphicon glyphicon-search" aria-hidden="true"></span>) %>
+          <% delicon = %q(<span class="glyphicon glyphicon-trash" aria-hidden="true"></span>) %>
+          <div class=<%= device %>>
+          <% if device == 'request-btn-desktop' %>
+            <% appbtn = appicon+'&nbsp;'+t('applications')+badge %>
+            <% searchbtn = searchicon+'&nbsp;'+t('search_match') %>
+            <% delbtn = delicon+'&nbsp;'+t('delete') %>
+          <% else %>
+            <% appbtn = appicon+badge %>
+            <% searchbtn = searchicon %>
+            <% delbtn = delicon %>
+          <% end %>
+            <%= link_to raw(appbtn), applications_path, class:'btn btn-revtheme btn-lg btn-block btn-request btn-msg' %>
+            <%= link_to raw(searchbtn), request, class:'btn btn-default btn-lg btn-block btn-request' %>
+            <button type="button" class="btn btn-danger btn-lg btn-block btn-request" data-toggle="modal" data-target=<%= "\##{request.id}delModal" %>><%= raw(delbtn) %></button>
+          </div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</div>
+</a>
+
+<%= render partial: 'layouts/delete_modal', locals: {object: request} %>

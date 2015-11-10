@@ -1,0 +1,16 @@
+<div class="page-title request-title">
+  <h3><%= t 'request.index.heading' %></h3>
+</div>
+<div class="btn-group btn-group-justified createbtn pull-right" role="group">
+  <%= link_to t('request.index.createcard'), new_request_path, class:'btn btn-default' %>
+  <%= link_to t('request.index.createother'), new_request_path, class:'btn btn-default btn-sectheme' %>
+</div>
+<div class="panel-btngroup-divider"></div>
+<hr>
+<% if @requests.empty? %>
+  <p class="requestnonetext"><%= t 'request.index.none' %>//(ㄒoㄒ)//</p>
+<% else %>
+  <% @requests.each do |request| %>
+    <%= render partial: 'request_panel', locals: {request: request} %>
+  <% end %>
+<% end %>

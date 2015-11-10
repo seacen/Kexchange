@@ -1,3 +1,67 @@
 // Place all the styles related to the requests controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+$theme: #FF6666;
+$text: #FFFFFF;
+$sectheme: #5D5D5D;
+$sectext: $text;
+
+.requestnonetext {
+  padding-top: 12vh;
+  text-align:center;
+  @media (max-width: 767px) {
+    padding-top: 7vh;
+  }
+}
+
+.createbtn {
+  padding-top: 25px;
+}
+
+.btn-request {
+  white-space: normal;
+  word-wrap:break-word;
+}
+
+.request-btn-desktop {
+  display: block !important;
+}
+.request-btn-mobile {
+  display: none !important;
+}
+
+@media (max-width: 767px) {
+  .btn-msg {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+  .createbtn {
+    .btn {
+      html[lang="en"] & {
+        font-size: 11px;
+      }
+    }
+  }
+  .request-title {
+    h3 {
+      html[lang="en"] & {
+        font-size: 2.4em;
+      }
+    }
+  }
+  .panel-col {
+    html[lang="zh-CN"] & {
+      padding-right: 8px;
+    }
+  }
+  .request-btn-desktop {
+    display: none !important;
+  }
+  .request-btn-mobile {
+    display: block !important;
+  }
+}
+
+.panel-btngroup-divider {
+  padding-bottom: 70px;
+}

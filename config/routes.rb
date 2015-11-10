@@ -10,7 +10,8 @@ Rails.application.routes.draw do
     delete 'sessions/logout', as: :logout
     resources :users, only: [:new, :create, :show, :edit, :update, :destroy]
 
-    resources :requests, only: [:index, :new, :create, :show, :edit, :update, :destroy]
+    resources :requests, only: [:index, :new, :create, :show, :destroy]
+    resources :applications, only: [:index, :new, :create, :show, :edit, :update, :destroy]
   end
 
   # Example of named route that can be invoked with purchase_url(id: product.id)

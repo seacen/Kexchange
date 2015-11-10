@@ -1,0 +1,11 @@
+en:
+  request:
+    index:
+      heading: 'My Exchange Requests'
+      createcard: 'Create Card Exchange'
+      createother: 'Create Other Exchange'
+      none: "Nothing's available yet to Kexchange"
+    own: 'Own'
+    want: 'Want'
+    destroy:
+      success: 'Request was successfully destroyed.'

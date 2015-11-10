@@ -7,9 +7,20 @@
 
 $theme: #FF6666;
 $text: #FFFFFF;
-$sectheme: #2f2f2f;
+$sectheme: #5D5D5D;
 $sectext: $text;
 $hover: #FFE6FF;
+
+// .navbar-collapse.collapse {
+// display: block!important;
+// }
+// .navbar-nav>li, .navbar-nav {
+// float: left !important;
+// }
+// .navbar-right {
+// float: right!important;
+// }
+
 
 .navbar-default {
     background-color: $theme;
@@ -70,7 +81,7 @@ $hover: #FFE6FF;
 }
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
-  color: $theme;
+  color: $sectext;
   background-color: $sectheme;
 }
 .dropdown-menu > .active > a,
@@ -119,7 +130,7 @@ body {
       background-color: $theme;
     }
     a:focus, a:hover, a:active {
-      color: $theme;
+      color: $sectext;
       background-color: $sectheme;
     }
   }

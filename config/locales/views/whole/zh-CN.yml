@@ -1,15 +1,29 @@
 zh-CN:
+  kexchange: '可换'
   login: "登录"
   username: "用户名"
   password: "密码"
+  cancel: '取消'
   back: "返回"
   create: '创建'
   submit: '确定'
   welcome: '欢迎！'
   logout: '注销'
+  myrequest: '我的交换'
+  album: '专辑'
+  member: '成员'
+  colon: '：'
+  edit: '编辑'
+  delete: '删除'
+  search_match: '搜索匹配'
+  applications: '交换申请'
+  confirm:
+    delete:
+      title: '确认删除'
+      msg: "确认删除拥有卡片:%{own} 和想要卡片:%{want} 为内容的交换请求？"
   building:
-    title: '欢迎进入Kexchange！'
-    body: '网站还在建造，敬请期待马上到来的更新！'
+    title: '欢迎进入可换 !'
+    body: '您访问的页面还在建造，敬请期待马上到来的更新！'
     hint: '您可以在右上角点击“修改资料”查看个人资料'
   footer:
     link: "http://www.xichang.tk/"
