@@ -1,6 +1,7 @@
 class RequestsController < ApplicationController
   before_action :authenticate_user
   before_action :set_request, only: [:show, :destroy]
+  before_action :check_valid, only: [:show, :destroy]
 
   def index
     @requests = curr_user.requests
@@ -21,5 +22,10 @@ class RequestsController < ApplicationController
 
   def set_request
     @request = Request.find(params[:id])
+  end
+
+  def check_valid
+    return if @request.user == curr_user
+    redirect_to home_path, alert: t('user.unauthorized')
   end
 end

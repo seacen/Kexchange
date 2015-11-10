@@ -9,8 +9,13 @@
 <hr>
 <% if @requests.empty? %>
   <p class="requestnonetext"><%= t 'request.index.none' %>//(ㄒoㄒ)//</p>
+  <hr>
+  <p align="center"><%= t 'request.index.example' %></p>
+  <% example = User.find_by(username:'admin').requests.first %>
+  <%= render partial: 'request_panel', locals: {request: example} %>
+  <br>
 <% else %>
   <% @requests.each do |request| %>
-    <%= render partial: 'request_panel', locals: {request: request} %>
+    <%= render partial: 'request_panel', locals: {request: example} %>
   <% end %>
 <% end %>

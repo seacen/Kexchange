@@ -4,7 +4,8 @@ en:
       heading: 'My Exchange Requests'
       createcard: 'Create Card Exchange'
       createother: 'Create Other Exchange'
-      none: "Nothing's available yet to Kexchange"
+      none: "Nothing's yet available to Kexchange"
+      example: 'An example of a exchange request'
     own: 'Own'
     want: 'Want'
     destroy:

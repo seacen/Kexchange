@@ -7,10 +7,12 @@ $sectheme: #5D5D5D;
 $sectext: $text;
 
 .requestnonetext {
-  padding-top: 12vh;
+  padding-top: 3vh;
+  padding-bottom: 2vh;
   text-align:center;
   @media (max-width: 767px) {
-    padding-top: 7vh;
+    padding-top: 2vh;
+    padding-bottom: 1vh;
   }
 }
 

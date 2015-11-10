@@ -61,7 +61,7 @@ class UsersController < ApplicationController
 
   def check_valid
     unless @user == curr_user
-      redirect_to curr_user, alert: t('user.unauthorized')# , status: :unauthorized
+      redirect_to home_path, alert: t('user.unauthorized')# , status: :unauthorized
     end
   end
 

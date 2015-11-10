@@ -5,6 +5,7 @@ zh-CN:
       createcard: '新建小卡交换'
       createother: '新建其他交换'
       none: '还没有东西可换'
+      example: '交换请求示例'
     own: '拥有'
     want: '想要'
     destroy:
