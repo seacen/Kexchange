@@ -1,6 +1,7 @@
 en:
   kexchange: 'Kexchange'
   login: "Login"
+  signup: 'Sign Up'
   username: "Username"
   password: "Password"
   cancel: 'Cancel'

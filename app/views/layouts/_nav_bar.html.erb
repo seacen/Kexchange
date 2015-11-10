@@ -25,12 +25,6 @@
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><%= curr_user.username %> <span class="caret"></span></a>
             <ul class="dropdown-menu">
-              <% if current_page?(curr_user) %>
-                <li class="active">
-              <% else %>
-                <li>
-              <% end %>
-                <%= link_to t('welcome')+curr_user.username, curr_user %></li>
               <% if current_page?(edit_user_path(id:curr_user.id)) %>
                 <li class="active">
               <% else %>
@@ -43,6 +37,12 @@
         </ul>
       <% else %>
         <ul class="nav navbar-nav navbar-right">
+          <% if current_page?(new_user_path) %>
+            <li class="active">
+          <% else %>
+            <li>
+          <% end %>
+            <%= link_to t('signup'), new_user_path %></li>
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><%= t 'login' %> <span class="caret"></span></a>
             <ul class="dropdown-menu">

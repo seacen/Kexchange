@@ -16,6 +16,6 @@
   <br>
 <% else %>
   <% @requests.each do |request| %>
-    <%= render partial: 'request_panel', locals: {request: example} %>
+    <%= render partial: 'request_panel', locals: {request: request} %>
   <% end %>
 <% end %>
