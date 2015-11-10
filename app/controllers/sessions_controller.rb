@@ -10,7 +10,7 @@ class SessionsController < ApplicationController
     if user && user.authenticate(@credentials[:password])
       # Save them in the session
       log_in user
-      # Redirect to posts page
+
       redirect_to home_path
     else
       redirect_to login_path, alert: t('session.login.alert.fail')

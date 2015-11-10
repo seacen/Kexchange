@@ -5,7 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
-Request.destroy_all
+# Request.destroy_all
 Card.destroy_all
 Album.destroy_all
 Artist.destroy_all
@@ -29,8 +29,8 @@ ic = Album.create(name: 'Ice Cream Cake', date: '2015-03-17', artist: rv)
   Card.create(member: rvm, album: ic)
 end
 
-Request.create(user: User.first, own: Card.second, want: Card.fourth)
-Request.create(user: User.first, own: Card.fifth, want: Card.all[6])
+# Request.create(user: User.first, own: Card.second, want: Card.fourth)
+# Request.create(user: User.first, own: Card.fifth, want: Card.all[6])
 
 # Card.create(name: 'Wendy', album: tr)
 # Card.create(name: 'Irene', album: tr)
