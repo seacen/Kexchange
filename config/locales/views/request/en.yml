@@ -5,7 +5,7 @@ en:
       createcard: 'Create Card Exchange'
       createother: 'Create Other Exchange'
       none: "Nothing's yet available to Kexchange"
-      example: 'An example of a exchange request'
+      example: 'An example of an exchange request'
     own: 'Own'
     want: 'Want'
     destroy:
