@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151119113408) do
+ActiveRecord::Schema.define(version: 20151119131755) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -127,6 +127,8 @@ ActiveRecord::Schema.define(version: 20151119113408) do
     t.string   "state"
     t.string   "locale"
     t.string   "token"
+    t.boolean  "confirmed"
+    t.boolean  "is_admin"
   end
 
   add_foreign_key "albums", "artists"
