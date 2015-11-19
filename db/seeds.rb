@@ -34,15 +34,9 @@
 # Request.create(user: User.first, own: Card.all[-2], want: Card.second, new_app: 0)
 # Request.create(user: User.third, own: Card.last, want: Card.third, new_app: 9)
 
-User.all.each do |user|
-  user.confirmed = false
-  user.is_admin = false
-  user.save
+User.all.each do |user1|
+  begin
+    user1.token = SecureRandom.urlsafe_base64
+  end while User.exists?(:token => user1.token)
+  user1.save
 end
-
-# User.all.each do |user|
-#   begin
-#     user.token = SecureRandom.urlsafe_base64
-#   end while User.exists?(:token => user.token)
-#   user.save
-# end
