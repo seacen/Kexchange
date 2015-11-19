@@ -9,7 +9,7 @@ class SessionsController < ApplicationController
     user = User.find_by(username: @credentials[:username])
     if user && user.authenticate(@credentials[:password])
       # Save them in the session
-      log_in user
+      log_in user, @credentials[:remember_me]
 
       redirect_to home_path
     else
@@ -26,7 +26,7 @@ class SessionsController < ApplicationController
   # Private controller methods
   private
   def session_params
-    params.require(:credentials).permit(:password, :username)
+    params.require(:credentials).permit(:password, :username, :remember_me)
     @credentials = params[:credentials]
   end
 

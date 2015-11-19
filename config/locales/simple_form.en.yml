@@ -29,6 +29,7 @@ en:
         state: 'State'
         country: 'Country'
         locale: 'Language Preference'
+        remember_me: 'Remember Me'
     #   user:
     #     new:
     #       email: 'E-mail to sign in.'

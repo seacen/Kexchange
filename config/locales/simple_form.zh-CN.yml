@@ -29,6 +29,7 @@ zh-CN:
         state: '省/自治区/直辖市/州'
         country: '国家'
         locale: '语言偏好'
+        remember_me: '记住我'
     #   user:
     #     new:
     #       email: 'E-mail to sign in.'

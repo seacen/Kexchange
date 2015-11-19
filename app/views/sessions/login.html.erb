@@ -4,6 +4,7 @@
 <%= simple_form_for(:credentials, url: signin_path) do |f| %>
   <%= f.input :username %>
   <%= f.input :password %>
+  <%= f.input :remember_me, as: :boolean %>
   <%= f.button :submit, t('login') %>
   <span><%= link_to t('back'), home_path, class:"btn btn-default back" %></span>
 <% end %>
