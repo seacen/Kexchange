@@ -66,23 +66,6 @@ ActiveRecord::Schema.define(version: 20151120125338) do
   add_index "cards", ["album_id"], name: "index_cards_on_album_id", using: :btree
   add_index "cards", ["member_id"], name: "index_cards_on_member_id", using: :btree
 
-  create_table "companies", force: :cascade do |t|
-    t.string   "name"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
-  create_table "company_translations", force: :cascade do |t|
-    t.integer  "company_id", null: false
-    t.string   "locale",     null: false
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.string   "name"
-  end
-
-  add_index "company_translations", ["company_id"], name: "index_company_translations_on_company_id", using: :btree
-  add_index "company_translations", ["locale"], name: "index_company_translations_on_locale", using: :btree
-
   create_table "member_translations", force: :cascade do |t|
     t.integer  "member_id",  null: false
     t.string   "locale",     null: false
