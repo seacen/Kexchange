@@ -1,10 +1,12 @@
-<div class="page-header">
-  <h3><%= t('login') %></h3>
-</div>
-<%= simple_form_for(:credentials, url: signin_path) do |f| %>
-  <%= f.input :username %>
-  <%= f.input :password %>
-  <%= f.input :remember_me, as: :boolean %>
-  <%= f.button :submit, t('login') %>
-  <span><%= link_to t('back'), home_path, class:"btn btn-default back" %></span>
+<h3 class="login-title"><%= t('login') %></h3>
+<%= simple_form_for(:credentials, url: signin_path, html: { class: "form-login" }) do |f| %>
+  <%= f.input :username, placeholder: t('username'), label: false %>
+  <%= f.input :password, placeholder: t('password'), label: false %>
+  <%= f.input :remember_me, as: :boolean, input_html: { class: 'checkbox-spacer'}, label_html: { class: 'checkbox-text' } %>
+  <%= f.button :submit, t('login'), class: 'btn-revtheme btn-block' %>
+  <br>
+  <div class="btn-group btn-group-justified" role="group" aria-label="...">
+    <%= link_to t('back'), home_path, class: 'btn btn-default' %>
+    <%= link_to t('signup'), new_user_path, class: 'btn btn-sectheme' %>
+  </div>
 <% end %>

@@ -8,6 +8,8 @@ $sectheme: #5D5D5D;
 $sectext: $text;
 $theme_hover: #f66262;
 $sectheme_hover: #494949;
+$hover: #FFE6FF;
+$placeholder: #fe8f8f;
 
 textarea:focus,
 textarea.form-control:focus,
@@ -23,6 +25,18 @@ input[type=number]:focus,
 [contenteditable].form-control:focus {
   -webkit-box-shadow: inset 0 -2px 0 $theme;
   box-shadow: inset 0 -2px 0 $theme;
+}
+
+// placeholder
+.form-control::-moz-placeholder {
+  color: $placeholder;
+  opacity: 1;
+}
+.form-control:-ms-input-placeholder {
+  color: $placeholder;
+}
+.form-control::-webkit-input-placeholder {
+  color: $placeholder;
 }
 
 // checkbox
@@ -176,10 +190,8 @@ body {
     padding-right: 33px;
   }
 }
-.page-header,.page-title, .central-title {
-  h1,h2,h3 {
-    color: $theme;
-  }
+h1,h2,h3 {
+  color: $theme;
 }
 .page-title {
   padding-top: 25px;

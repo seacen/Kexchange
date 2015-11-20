@@ -1,0 +1,26 @@
+$theme: #FF6666;
+
+.login-panel {
+  margin-top: 12vh;
+  padding: 10px;
+}
+// .checkbox-text {
+//   color: $theme
+// }
+@media (max-width: 767px) {
+  .checkbox-spacer {
+    margin-right: 10px !important;
+  }
+}
+.form-login {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.center-login {
+  margin: 0 80px;
+}
+.login-title {
+  padding-top: 50px;
+  text-align: center;
+}

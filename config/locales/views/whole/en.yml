@@ -11,6 +11,7 @@ en:
   welcome: 'Welcome! '
   logout: 'Log Out'
   myrequest: 'My Requests'
+  admin_console: 'Admin Console'
   album: 'Album'
   member: 'Member'
   colon: ': '

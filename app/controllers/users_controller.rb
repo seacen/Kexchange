@@ -1,8 +1,9 @@
 class UsersController < ApplicationController
   before_action :set_user, only: [:show, :edit, :update, :destroy]
-  before_action :authenticate_user, only: [:edit, :destroy, :update, :show]
+  before_action :authenticate_user, only: [:edit, :destroy, :update, :show, :admin]
   before_action :check_valid, only: [:edit, :destroy, :update, :show]
   before_action :check_unlogin, only: [:new, :create]
+  before_action :check_is_admin, only: [:admin]
 
   # GET /users/new
   def new
@@ -13,12 +14,15 @@ class UsersController < ApplicationController
   def edit
   end
 
+  def admin
+  end
+
   def create
     @user = User.new(user_params)
     # @user.city_id = user_params[:city].to_i
     respond_to do |format|
       if @user.save
-        log_in @user
+        log_in @user, false
         format.html { redirect_to home_path, notice: t('user.new.success') }
         format.json { render :show, status: :created, location: @user }
       else
@@ -63,6 +67,11 @@ class UsersController < ApplicationController
     unless @user == curr_user
       redirect_to home_path, alert: t('user.unauthorized')# , status: :unauthorized
     end
+  end
+
+  def check_is_admin
+    return if curr_user.is_admin
+    redirect_to home_path, alert: t('user.unauthorized')
   end
 
   def user_params

@@ -11,6 +11,7 @@ zh-CN:
   welcome: '欢迎！'
   logout: '注销'
   myrequest: '我的交换'
+  admin_console: '管理员控制台'
   album: '专辑'
   member: '成员'
   colon: '：'
