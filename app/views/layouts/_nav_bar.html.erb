@@ -23,7 +23,7 @@
             <% end %>
             <%= link_to raw(%q(<span class="glyphicon glyphicon-equalizer" aria-hidden="true"></span> )+t('admin_console')), admin_path %></li>
           <% end %>
-          
+
           <% if current_page?(requests_path) %>
             <li class="active">
           <% else %>
@@ -47,8 +47,8 @@
               <% else %>
                 <li>
               <% end %>
-                <%= link_to t('user.edit.heading'), edit_user_path(curr_user.id)%></li>
-              <li><%= link_to t('logout'), logout_path, method: :delete%></li>
+                <%= link_to raw(%q(<span class="glyphicon glyphicon-edit" aria-hidden="true"></span> )+t('user.edit.heading')), edit_user_path(curr_user.id)%></li>
+              <li><%= link_to raw(%q(<span class="glyphicon glyphicon-off" aria-hidden="true"></span> )+t('logout')), logout_path, method: :delete %></li>
             </ul>
           </li>
         </ul>
