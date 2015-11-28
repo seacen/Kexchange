@@ -1,12 +1,22 @@
 en:
   request:
+    name: 'Exchange Request'
     index:
       heading: 'My Exchange Requests'
       createcard: 'Create Card Exchange'
       createother: 'Create Other Exchange'
       none: "Nothing's yet available to Kexchange"
       example: 'An example of an exchange request'
+    new:
+      artist:
+        heading: 'Choose Artists'
+      album:
+        heading: 'Choose Albums'
+      card:
+        heading: 'Choose Cards'
+      success: 'Request was successfully created.'
     own: 'Own'
     want: 'Want'
     destroy:
       success: 'Request was successfully destroyed.'
+    data_missing: 'information is missing, failed to proceed previous action'

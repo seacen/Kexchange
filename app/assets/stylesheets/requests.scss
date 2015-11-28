@@ -5,6 +5,7 @@ $theme: #FF6666;
 $text: #FFFFFF;
 $sectheme: #5D5D5D;
 $sectext: $text;
+$hover: #FFE6FF;
 
 .requestnonetext {
   padding-top: 3vh;
@@ -14,6 +15,17 @@ $sectext: $text;
     padding-top: 2vh;
     padding-bottom: 1vh;
   }
+}
+
+.label-light {
+  padding: .1em .6em .2em;
+  font-size: 70%;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.radio-text {
+  padding-bottom: 20px;
 }
 
 .createbtn {
@@ -66,4 +78,20 @@ $sectext: $text;
 
 .panel-btngroup-divider {
   padding-bottom: 70px;
+}
+
+[data-toggle="buttons"] {
+  .btn input[type="radio"],
+  .btn-group > .btn input[type="radio"] {
+    position: absolute;
+    clip: rect(0, 0, 0, 0);
+    pointer-events: none;
+  }
+}
+
+.content-bottom-divider {
+  padding: 15px;
+  @media (max-width: 767px) {
+    padding: 0px;
+  }
 }

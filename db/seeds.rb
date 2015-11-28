@@ -7,24 +7,19 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 Request.destroy_all
 Card.destroy_all
+Member.destroy_all
 Album.destroy_all
 Artist.destroy_all
-Company.destroy_all
-
-sm = Company.new
-sm.attributes = { name: 'SM娱乐', locale: 'zh-CN' }
-sm.attributes = { name: 'S.M. Entertainment', locale: 'en' }
-sm.save
 
 rv = Artist.new
-rv.attributes = { name: 'Red Velvet', company: sm }
+rv.attributes = { name: 'Red Velvet' }
 rv.save
 
 tr = Album.create(name: 'The Red', date: '2015-09-09', artist: rv, image: 'https://raw.githubusercontent.com/seacen/All-relevant/master/cover.jpg')
 ic = Album.create(name: 'Ice Cream Cake', date: '2015-03-17', artist: rv)
 
 %w(Irene Wendy Seulgi Joy Yeri).each do |name|
-  rvm = Member.create(name: name)
+  rvm = Member.create(name: name, artist: rv)
   Card.create(member: rvm, album: tr)
   Card.create(member: rvm, album: ic)
 end

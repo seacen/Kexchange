@@ -1,0 +1,27 @@
+<% i = 0 %>
+<% colors = ['btn-default','btn-revtheme','btn-sectheme'] %>
+<% objects.each do |object| %>
+  <% if i % 2 == 0 %>
+    <div class="row">
+  <% end %>
+  <div class="col-xs-6">
+    <label class="btn btn-default btn-block">
+      <input type="radio" autocomplete="off" name="<%= name %>" value=<%= "#{object.id}" %>>
+        <% if is_card %>
+          <%= object.member.name %>
+        <% else %>
+          <%= object.name %>
+        <% end %>
+      </input>
+    </label>
+  </div>
+  <% if (i+1) % 2 == 0 %>
+    </div>
+    <br>
+    <br>
+  <% end %>
+  <% i+=1 %>
+<% end %>
+<% unless i % 2 == 0 %>
+  </div>
+<% end %>

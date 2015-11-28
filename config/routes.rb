@@ -11,6 +11,9 @@ Rails.application.routes.draw do
     get 'admin' => 'users#admin', as: :admin
     resources :users, only: [:new, :create, :show, :edit, :update, :destroy]
 
+    post 'requests/new/album' => 'requests#new_album', as: :new_request_album
+    post 'requests/new/card' => 'requests#new_card', as: :new_request_card
+
     resources :requests, only: [:index, :new, :create, :show, :destroy]
     resources :applications, only: [:index, :new, :create, :show, :edit, :update, :destroy]
   end

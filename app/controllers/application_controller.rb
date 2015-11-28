@@ -20,6 +20,11 @@ class ApplicationController < ActionController::Base
     end
   end
 
+  def check_is_admin
+    return if curr_user.is_admin
+    redirect_to home_path, alert: t('user.unauthorized')
+  end
+
   private
 
   def set_locale

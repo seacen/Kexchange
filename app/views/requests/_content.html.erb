@@ -1,0 +1,18 @@
+<% is_card = false %>
+<% is_card = true if thisone=='card' %>
+<%= form_tag({controller: "requests", action: nextone}, method: "post") %>
+<h5><span class="label label-ksectheme"><%= t 'request.own' %></span></h5>
+<br>
+<div data-toggle="buttons">
+  <%= render partial: 'radioloop', locals: {objects: objects1, name: thisone+'1', is_card: is_card} %>
+</div>
+<hr>
+<h5><span class="label label-ktheme"><%= t 'request.want' %></span></h5>
+<br>
+<div data-toggle="buttons">
+  <%= render partial: 'radioloop', locals: {objects: objects2, name: thisone+'2', is_card: is_card} %>
+</div>
+<hr>
+<div class="content-bottom-divider"></div>
+<%= render partial: 'bottombtn', locals: {btnname: btnname, is_card: is_card} %>
+</form>

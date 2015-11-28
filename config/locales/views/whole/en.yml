@@ -8,6 +8,7 @@ en:
   back: "Back"
   create: 'Create'
   submit: 'Submit'
+  continue: 'Continue'
   welcome: 'Welcome! '
   logout: 'Log Out'
   myrequest: 'My Requests'

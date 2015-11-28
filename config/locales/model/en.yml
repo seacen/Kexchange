@@ -1,0 +1,8 @@
+en:
+  errors:
+    messages:
+      taken: "cannot create duplicate record"
+    attributes:
+      username:
+        taken: 'is taken'
+        invalid: "can only constitute alphbet characters, numbers and underscores"

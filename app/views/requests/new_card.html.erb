@@ -1,0 +1,6 @@
+<div class="page-title">
+  <h3><%= t 'request.new.card.heading' %>&nbsp;<span class="glyphicons vcard"><i></i></span></h3>
+</div>
+<%= render partial: 'progress_bar', locals: {value: 90} %>
+
+<%= render partial: 'content', locals: {objects1: @cards1, objects2: @cards2, nextone: 'create', thisone: 'card', btnname: t('create')} %>

@@ -1,0 +1,15 @@
+<% if is_card %>
+  <% btntype = 'btn-success' %>
+  <% backtype = 'btn-revtheme' %>
+  <% icon = %q(&nbsp;<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>) %>
+<% else %>
+  <% btntype = 'btn-revtheme' %>
+  <% backtype = 'btn-sectheme' %>
+  <% icon = %q(&nbsp;<span class="glyphicon glyphicon-circle-arrow-right" aria-hidden="true"></span>) %>
+<% end %>
+<div class="btn-group btn-group-justified bottombtn" role="group" aria-label="...">
+  <a href="javascript:history.back()" class="btn <%= "#{backtype}" %>"><span class="glyphicon glyphicon-circle-arrow-left" aria-hidden="true"></span>&nbsp;<%= t 'back' %></a>
+  <div class="btn-group" role="group">
+    <button type="submit" class="btn <%= "#{btntype}" %>"><%= btnname %><%= raw(icon) %></button>
+  </div>
+</div>

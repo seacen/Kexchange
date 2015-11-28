@@ -10,13 +10,8 @@ en:
       # html: '<abbr title="required">*</abbr>'
     error_notification:
       default_message: "Please review the problems below:"
-      email:
-        format: "not a valid email"
       username:
-        format: "can only constitute alphbet characters, numbers and underscores"
         unchangeable: "cannot be changed"
-      request:
-        uniqueness: "cannot create duplicate record"
     # Examples
     labels:
       defaults:
@@ -30,6 +25,10 @@ en:
         country: 'Country'
         locale: 'Language Preference'
         remember_me: 'Remember Me'
+        artist: 'Artist'
+    hints:
+      username:
+        disabled: 'cannot be changed'
     #   user:
     #     new:
     #       email: 'E-mail to sign in.'

@@ -1,0 +1,8 @@
+zh-CN:
+  errors:
+    messages:
+      taken: "不可创建重复记录"
+    attributes:
+      username:
+        taken: '已被注册'
+        invalid: "只能包含字母、数字及下划线"

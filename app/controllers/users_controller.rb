@@ -69,11 +69,6 @@ class UsersController < ApplicationController
     end
   end
 
-  def check_is_admin
-    return if curr_user.is_admin
-    redirect_to home_path, alert: t('user.unauthorized')
-  end
-
   def user_params
     params.require(:user).permit(:email, :username, :password, :city, :password_confirmation, :state, :country, :locale)
   end

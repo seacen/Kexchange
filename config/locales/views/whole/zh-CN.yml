@@ -8,6 +8,7 @@ zh-CN:
   back: "返回"
   create: '创建'
   submit: '确定'
+  continue: '下一步'
   welcome: '欢迎！'
   logout: '注销'
   myrequest: '我的交换'

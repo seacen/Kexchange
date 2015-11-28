@@ -3,7 +3,7 @@
   <%= f.input :username, placeholder: t('username'), label: false %>
   <%= f.input :password, placeholder: t('password'), label: false %>
   <%= f.input :remember_me, as: :boolean, input_html: { class: 'checkbox-spacer'}, label_html: { class: 'checkbox-text' } %>
-  <%= f.button :submit, t('login'), class: 'btn-revtheme btn-block' %>
+  <%= f.button :submit, t('login'), class: 'btn btn-revtheme btn-block' %>
   <br>
   <div class="btn-group btn-group-justified" role="group" aria-label="...">
     <%= link_to t('back'), home_path, class: 'btn btn-default' %>

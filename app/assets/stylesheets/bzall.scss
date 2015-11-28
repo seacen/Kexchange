@@ -8,7 +8,7 @@ $sectheme: #5D5D5D;
 $sectext: $text;
 $theme_hover: #f66262;
 $sectheme_hover: #494949;
-$hover: #FFE6FF;
+$hover: #ffe5e5;
 $placeholder: #fe8f8f;
 
 textarea:focus,
@@ -25,6 +25,14 @@ input[type=number]:focus,
 [contenteditable].form-control:focus {
   -webkit-box-shadow: inset 0 -2px 0 $theme;
   box-shadow: inset 0 -2px 0 $theme;
+}
+
+// progress-bar
+.progress-bar-ktheme {
+  background-color: $theme;
+}
+.progress-bar-ktheme:last-child:before {
+  background-color: $hover;
 }
 
 // placeholder
@@ -102,6 +110,22 @@ body {
 .btn-default:hover, .btn-default:focus, .btn-default.focus {
   color: $theme;
 }
+.btn-default:active,
+.btn-default.active,
+.open > .dropdown-toggle.btn-default {
+  color: $theme;
+}
+.btn-default:active:hover,
+.btn-default.active:hover,
+.open > .dropdown-toggle.btn-default:hover,
+.btn-default:active:focus,
+.btn-default.active:focus,
+.open > .dropdown-toggle.btn-default:focus,
+.btn-default:active.focus,
+.btn-default.active.focus,
+.open > .dropdown-toggle.btn-default.focus {
+  color: $theme;
+}
 .btn-sectheme {
   color: $sectext;
   background-color: $sectheme;
@@ -110,11 +134,47 @@ body {
   color: $text;
   background-color: $sectheme_hover;
 }
+.btn-sectheme:active,
+.btn-sectheme.active,
+.open > .dropdown-toggle.btn-sectheme {
+  color: $text;
+  background-color: $sectheme_hover;
+}
+.btn-sectheme:active:hover,
+.btn-sectheme.active:hover,
+.open > .dropdown-toggle.btn-sectheme:hover,
+.btn-sectheme:active:focus,
+.btn-sectheme.active:focus,
+.open > .dropdown-toggle.btn-sectheme:focus,
+.btn-sectheme:active.focus,
+.btn-sectheme.active.focus,
+.open > .dropdown-toggle.btn-sectheme.focus {
+  color: $text;
+  background-color: $sectheme_hover;
+}
 .btn-revtheme {
   color: $text;
   background-color: $theme;
 }
 .btn-revtheme:hover, .btn-revtheme:focus, .btn-revtheme.focus {
+  color: $text;
+  background-color: $theme_hover;
+}
+.btn-revtheme:active,
+.btn-revtheme.active,
+.open > .dropdown-toggle.btn-revtheme {
+  color: $text;
+  background-color: $theme_hover;
+}
+.btn-revtheme:active:hover,
+.btn-revtheme.active:hover,
+.open > .dropdown-toggle.btn-revtheme:hover,
+.btn-revtheme:active:focus,
+.btn-revtheme.active:focus,
+.open > .dropdown-toggle.btn-revtheme:focus,
+.btn-revtheme:active.focus,
+.btn-revtheme.active.focus,
+.open > .dropdown-toggle.btn-revtheme.focus {
   color: $text;
   background-color: $theme_hover;
 }
@@ -214,4 +274,10 @@ h1,h2,h3 {
 .line-depadding {
   margin-top: 0px;
   margin-bottom: 10px;
+}
+.bottombtn {
+  padding-bottom: 20px;
+  @media (max-width: 767px) {
+    padding-bottom: 30px;
+  }
 }

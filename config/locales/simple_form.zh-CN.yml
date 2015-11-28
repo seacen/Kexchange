@@ -10,13 +10,8 @@ zh-CN:
       # html: '<abbr title="required">*</abbr>'
     error_notification:
       default_message: "请修改下列错误："
-      email:
-        format: "无效的邮箱地址"
       username:
-        format: "只能包含字母、数字及下划线"
         unchangeable: "不可修改"
-      request:
-        uniqueness: "不可创建重复记录"
     # Examples
     labels:
       defaults:
@@ -30,6 +25,10 @@ zh-CN:
         country: '国家'
         locale: '语言偏好'
         remember_me: '记住我'
+        artist: '艺术家'
+    hints:
+      username:
+        disabled: '不可修改'
     #   user:
     #     new:
     #       email: 'E-mail to sign in.'

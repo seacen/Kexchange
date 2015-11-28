@@ -1,1 +1,6 @@
-<%= render 'layouts/building' %>
+<div class="page-title">
+  <h3><%= t 'request.new.artist.heading' %>&nbsp;<span class="glyphicons magic"><i></i></span></h3>
+</div>
+<%= render partial: 'progress_bar', locals: {value: 0} %>
+
+<%= render partial: 'content', locals: {objects1: @artists, objects2: @artists, nextone: 'new_album', thisone: 'artist', btnname: t('continue')} %>

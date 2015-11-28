@@ -1,0 +1,6 @@
+<div class="page-title">
+  <h3><%= t 'request.new.album.heading' %>&nbsp;<span class="glyphicons albums"><i></i></span></h3>
+</div>
+<%= render partial: 'progress_bar', locals: {value: 45} %>
+
+<%= render partial: 'content', locals: {objects1: @albums1, objects2: @albums2, nextone: 'new_card', thisone: 'album', btnname: t('continue')} %>

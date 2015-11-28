@@ -1,12 +1,22 @@
 zh-CN:
   request:
+    name: '交换请求'
     index:
       heading: '我的交换'
       createcard: '新建小卡交换'
       createother: '新建其他交换'
       none: '还没有东西可换'
       example: '交换请求示例'
+    new:
+      artist:
+        heading: '选择艺术家'
+      album:
+        heading: '选择专辑'
+      card:
+        heading: '选择小卡'
+      success: '交换请求创建成功'
     own: '拥有'
     want: '想要'
     destroy:
       success: '交换请求删除成功'
+    data_missing: '信息缺失，无法进行之前操作'
