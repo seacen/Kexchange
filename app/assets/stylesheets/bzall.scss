@@ -11,6 +11,13 @@ $sectheme_hover: #494949;
 $hover: #ffe5e5;
 $placeholder: #fe8f8f;
 
+.heading-btn-divider {
+  padding-top: 25px;
+}
+.btnloop-btn-divider {
+  padding-bottom: 10px;
+}
+
 textarea:focus,
 textarea.form-control:focus,
 input.form-control:focus,

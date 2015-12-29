@@ -19,8 +19,8 @@ class RequestsController < ApplicationController
       redirect_to new_request_path, alert: t('request.data_missing')
       return
     end
-    @albums1 = Album.where(artist_id: params[:artist1])
-    @albums2 = Album.where(artist_id: params[:artist2])
+    @albums1 = Album.where(artist_id: params[:artist1]).order(created_at: :desc)
+    @albums2 = Album.where(artist_id: params[:artist2]).order(created_at: :desc)
   end
 
   def new_card

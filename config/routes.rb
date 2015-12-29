@@ -13,8 +13,9 @@ Rails.application.routes.draw do
 
     post 'requests/new/album' => 'requests#new_album', as: :new_request_album
     post 'requests/new/card' => 'requests#new_card', as: :new_request_card
-
     resources :requests, only: [:index, :new, :create, :show, :destroy]
+
+    resources :artists, only: [:index, :new, :create, :show, :edit, :update, :destroy]
     resources :applications, only: [:index, :new, :create, :show, :edit, :update, :destroy]
   end
 

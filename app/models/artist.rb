@@ -5,7 +5,7 @@ class Artist < ActiveRecord::Base
   translates :name
 
   # after_create :create_group_member
-
+  validates_presence_of :name
   validates :name, uniqueness: { case_sensitive: false }
 
   # private

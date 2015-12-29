@@ -5,15 +5,12 @@
     <div class="row">
   <% end %>
   <div class="col-xs-6">
-    <label class="btn <%= colors[i%3] %> btn-block">
-      <input type="radio" autocomplete="off" name="<%= name %>" value=<%= "#{object.id}" %>>
-        <% if is_card %>
-          <%= object.member.name %>
-        <% else %>
-          <%= object.name %>
-        <% end %>
-      </input>
-    </label>
+    <% if is_card %>
+      <% name = object.member.name %>
+    <% else %>
+      <% name = object.name %>
+    <% end %>
+    <%= link_to name, object, class:"btn #{colors[i%3]} btn-block" %>
   </div>
   <% if (i+1) % 2 == 0 %>
     </div>
@@ -25,3 +22,4 @@
 <% unless i % 2 == 0 %>
   </div>
 <% end %>
+<br>

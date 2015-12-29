@@ -15,6 +15,7 @@ zh-CN:
     # Examples
     labels:
       defaults:
+        name: '名称'
         password: '密码'
         password_confirmation: '密码确认'
         username: '用户名'
@@ -26,6 +27,8 @@ zh-CN:
         locale: '语言偏好'
         remember_me: '记住我'
         artist: '艺术家'
+        en_name: '英文名称'
+        zh_name: '中文名称'
     hints:
       username:
         disabled: '不可修改'

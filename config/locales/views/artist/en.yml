@@ -1,0 +1,14 @@
+en:
+  artist:
+    index:
+      heading: 'Choose Artist'
+      popover: 'Choose the artist you want to edit or the artist that the item you want to change belongs to'
+      create: 'Create a new artist'
+    new:
+      heading: 'Create Artist'
+      success: 'Account was successfully created.'
+    edit:
+      heading: 'Edit Artist'
+      success: 'Account was successfully updated.'
+    destroy:
+      success: 'Account was successfully destroyed.'

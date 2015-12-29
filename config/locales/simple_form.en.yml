@@ -15,6 +15,7 @@ en:
     # Examples
     labels:
       defaults:
+        name: 'Name'
         password: 'Password'
         password_confirmation: 'Password confirmation'
         username: 'Username'
@@ -26,6 +27,8 @@ en:
         locale: 'Language Preference'
         remember_me: 'Remember Me'
         artist: 'Artist'
+        en_name: 'English name'
+        zh_name: 'Chinese name'
     hints:
       username:
         disabled: 'cannot be changed'
