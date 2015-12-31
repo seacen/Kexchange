@@ -21,9 +21,16 @@ zh-CN:
   report_problem: '报告错误'
   search_match: '搜索匹配'
   applications: '交换申请'
+  title: '标题'
+  body: '正文'
+  type: '类型'
+  resolved: '已解决'
+  is_archived: '已关闭'
   problem:
     name: '问题'
   suggestion: '建议'
+  feedback: '反馈'
+  create_edit: '创建编辑'
   confirm:
     delete:
       title: '确认删除'

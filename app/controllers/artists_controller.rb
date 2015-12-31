@@ -14,8 +14,10 @@ class ArtistsController < ApplicationController
 
     def create
       @artist = Artist.new(artist_params)
+      changes = @artist.changes
       respond_to do |format|
         if @artist.save
+          Klog.log('artist', 'create', changes, curr_user)
           format.html { redirect_to artists_path, notice: t('artist.new.success') }
           format.json { render :show, status: :created, location: @artist }
         else
@@ -26,8 +28,11 @@ class ArtistsController < ApplicationController
     end
 
     def update
+      @artist.attributes = artist_params
+      changes = @artist.changes
       respond_to do |format|
-        if @artist.update(artist_params)
+        if @artist.save
+          Klog.log('artist', 'update', changes, curr_user)
           format.html { redirect_to @artist, notice: t('artist.edit.success') }
           format.json { render :show, status: :ok, location: @artist }
         else

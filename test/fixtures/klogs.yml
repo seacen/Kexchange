@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  kmodel: MyString
+  kaction: MyString
+  content: MyString
+  user_id: 
+
+two:
+  kmodel: MyString
+  kaction: MyString
+  content: MyString
+  user_id: 

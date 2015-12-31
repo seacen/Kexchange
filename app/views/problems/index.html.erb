@@ -1,2 +1,55 @@
-<h1>Problems#index</h1>
-<p>Find me in app/views/problems/index.html.erb</p>
+<div class="page-title">
+  <h3><%= t 'problem.index.heading' %></h3>
+</div>
+<div class="heading-btn-divider"></div>
+<%= link_to t('problem.index.create'), new_problem_path, class: 'btn btn-default btn-lg btn-block' %>
+<div class="btnloop-btn-divider"></div>
+<hr>
+<br>
+<div class="table-responsive">
+<table class="table">
+  <tr>
+    <th><%= t 'type' %></th>
+    <th><%= t 'title' %></th>
+    <th><%= t 'body' %></th>
+    <th><%= t 'response.name' %></th>
+    <th><%= t 'resolved' %></th>
+    <th><%= t 'is_archived' %></th>
+    <th><%= t 'edit' %></th>
+  </tr>
+<% type_dict = {'problem' => t('problem.name'), 'suggestion' => t('suggestion')} %>
+<% label_dict = {'problem' => 'warning', 'suggestion' => 'success'} %>
+<% @problems.each do |problem| %>
+  <% if problem.resolved %>
+    <tr class="success">
+  <% elsif problem.is_archived %>
+    <tr class="active">
+  <% else %>
+    <tr>
+  <% end %>
+    <td><span class="label label-<%= label_dict[problem.ptype] %>"><%= type_dict[problem.ptype] %></span></td>
+    <td><%= problem.title %></td>
+    <td><%= problem.body %></td>
+    <td><%= link_to raw(%q(<span class="glyphicon glyphicon-search" aria-hidden="true"></span>)+%q(&nbsp;<span class="badge">)+problem.responses.length.to_s+"</span>"), problem, class: 'btn btn-revtheme btn-sm' %></td>
+    <td>
+      <% if problem.resolved %>
+        <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+      <% else %>
+        <span class="glyphicon glyphicon-time" aria-hidden="true"></span>
+      <% end %>
+    </td>
+    <td>
+      <% if problem.is_archived %>
+        <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+      <% else %>
+        <span class="glyphicon glyphicon-time" aria-hidden="true"></span>
+      <% end %>
+    </td>
+    <% disabled = '' %>
+    <% disabled = ' disabled' if problem.is_archived %>
+    <td><%= link_to raw(%q(<span class="glyphicon glyphicon-edit" aria-hidden="true"></span>&nbsp;)+t('edit')), edit_problem_path(problem), class: "btn btn-default btn-sm #{disabled}" %></td>
+  </tr>
+<% end %>
+</table>
+</div>
+<br>

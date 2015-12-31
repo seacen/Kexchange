@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151230090828) do
+ActiveRecord::Schema.define(version: 20151231062157) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -65,6 +65,17 @@ ActiveRecord::Schema.define(version: 20151230090828) do
 
   add_index "cards", ["album_id"], name: "index_cards_on_album_id", using: :btree
   add_index "cards", ["member_id"], name: "index_cards_on_member_id", using: :btree
+
+  create_table "klogs", force: :cascade do |t|
+    t.string   "kmodel"
+    t.string   "kaction"
+    t.text   "content"
+    t.integer  "user_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  add_index "klogs", ["user_id"], name: "index_klogs_on_user_id", using: :btree
 
   create_table "member_translations", force: :cascade do |t|
     t.integer  "member_id",  null: false
@@ -142,6 +153,7 @@ ActiveRecord::Schema.define(version: 20151230090828) do
   add_foreign_key "applications", "users"
   add_foreign_key "cards", "albums"
   add_foreign_key "cards", "members"
+  add_foreign_key "klogs", "users"
   add_foreign_key "members", "artists"
   add_foreign_key "problems", "users"
   add_foreign_key "requests", "users"

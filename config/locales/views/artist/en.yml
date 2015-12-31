@@ -3,7 +3,7 @@ en:
     index:
       heading: 'Choose Artist'
       popover: 'Choose the artist you want to edit or the artist that the item you want to change belongs to'
-      create: 'Create a new artist'
+      create: 'Create new artist'
     new:
       heading: 'Create Artist'
       success: 'Artist was successfully created.'

@@ -21,9 +21,16 @@ en:
   report_problem: 'Report a problem'
   search_match: 'Search Matches'
   applications: 'Applications'
+  title: 'Title'
+  body: 'Body'
+  type: 'Type'
+  resolved: 'Resolved'
+  is_archived: 'Archived'
   problem:
     name: 'Problem'
   suggestion: 'Suggestion'
+  feedback: 'Feedback'
+  create_edit: 'Create and Edit'
   confirm:
     delete:
       title: 'Confirm Deletion'

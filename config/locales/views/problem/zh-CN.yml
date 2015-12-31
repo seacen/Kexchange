@@ -1,9 +1,8 @@
 zh-CN:
   problem:
     index:
-      heading: '选择问题'
-      popover: '选择需要编辑的问题或需要编辑事物所属的问题'
-      create: '创建新问题'
+      heading: '反馈与建议'
+      create: '创建新反馈'
     new:
       heading: '新建反馈'
       success: '反馈成功！'

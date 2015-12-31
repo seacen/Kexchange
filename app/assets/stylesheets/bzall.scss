@@ -11,6 +11,18 @@ $sectheme_hover: #494949;
 $hover: #ffe5e5;
 $placeholder: #fe8f8f;
 
+.admin-btn-divider {
+  padding-bottom: 60px;
+}
+
+.btn-xl,
+.btn-group-xl > .btn {
+  padding: 26px 40px;
+  font-size: 29px;
+  line-height: 1.3333333;
+  border-radius: 3px;
+}
+
 .heading-btn-divider {
   padding-top: 25px;
 }

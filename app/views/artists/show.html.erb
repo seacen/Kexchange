@@ -5,3 +5,5 @@
   <%= link_to raw(%q(<span class="glyphicon glyphicon-edit" aria-hidden="true"></span>&nbsp;)+t('edit')), edit_artist_path(@artist), class:'btn btn-default' %>
   <%= link_to raw(%q(<span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span>&nbsp;)+t('report_problem')), new_problem_path+"?ptype=problem;object=id:#{@artist.id},type:#{@artist.class.to_s}", class:'btn btn-sectheme' %>
 </div>
+<div class="panel-btngroup-divider"></div>
+<hr>

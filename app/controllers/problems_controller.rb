@@ -35,6 +35,19 @@ class ProblemsController < ApplicationController
   end
 
   def update
+    @problem.attributes = problem_params
+    @problem.user = curr_user
+    changes = @problem.changes
+    respond_to do |format|
+      if @problem.save
+        Klog.log('problem', 'update', changes, curr_user)
+        format.html { redirect_to @problem, notice: t('problem.edit.success') }
+        format.json { render :show, status: :ok, location: @problem }
+      else
+        format.html { render :edit }
+        format.json { render json: @problem.errors, status: :unprocessable_entity }
+      end
+    end
   end
 
   def show

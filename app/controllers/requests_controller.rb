@@ -11,7 +11,7 @@ class RequestsController < ApplicationController
   end
 
   def new
-    @artists = Artist.all
+    @artists = Artist.order(:created_at)
   end
 
   def new_album

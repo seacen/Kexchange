@@ -1,9 +1,8 @@
 en:
   problem:
     index:
-      heading: 'Choose feedback'
-      popover: 'Choose the problem you want to edit or the problem that the item you want to change belongs to'
-      create: 'Create a new problem'
+      heading: 'Feedbacks'
+      create: 'Write new feedback'
     new:
       heading: 'Create feedback'
       success: 'feedback was successfully reported.'

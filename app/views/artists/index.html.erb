@@ -8,7 +8,7 @@
 <button type="button" class="btn btn-default btn-lg btn-block" data-toggle="modal" data-target="#newArtistModal">
   <%= t('artist.index.create') %>
 </button>
-<!-- <%= link_to t('artist.index.create'), new_artist_path, class:'btn btn-default btn-lg btn-block' %> -->
+
 <div class="btnloop-btn-divider"></div>
 <hr>
 <%= render partial: 'btnloop', locals: {objects: @artists, is_card: false } %>

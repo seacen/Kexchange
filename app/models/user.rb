@@ -2,6 +2,7 @@ class User < ActiveRecord::Base
   has_many :requests
   has_many :applications
   has_many :problems
+  has_many :klogs
   has_secure_password
 
   before_create :generate_token, :setup_confirmed, :setup_role
