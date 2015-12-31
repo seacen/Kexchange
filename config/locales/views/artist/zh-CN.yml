@@ -6,9 +6,9 @@ zh-CN:
       create: '创建新艺术家'
     new:
       heading: '创建艺术家'
-      success: '创建成功！'
+      success: '创建艺术家成功！'
     edit:
       heading: '修改艺术家'
-      success: '修改成功'
+      success: '修改艺术家成功'
     destroy:
       success: '删除艺术家成功'

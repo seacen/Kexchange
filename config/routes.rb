@@ -1,4 +1,16 @@
 Rails.application.routes.draw do
+  get 'problems/index'
+
+  get 'problems/new'
+
+  get 'problems/create'
+
+  get 'problems/edit'
+
+  get 'problems/update'
+
+  get 'problems/show'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
   # You can have the root of your site routed with "root"
@@ -11,12 +23,14 @@ Rails.application.routes.draw do
     get 'admin' => 'users#admin', as: :admin
     resources :users, only: [:new, :create, :show, :edit, :update, :destroy]
 
-    post 'requests/new/album' => 'requests#new_album', as: :new_request_album
+    post 'requests/new/album', to: 'requests#new_album', as: :new_request_album
     post 'requests/new/card' => 'requests#new_card', as: :new_request_card
     resources :requests, only: [:index, :new, :create, :show, :destroy]
 
     resources :artists, only: [:index, :new, :create, :show, :edit, :update, :destroy]
     resources :applications, only: [:index, :new, :create, :show, :edit, :update, :destroy]
+
+    resources :problems, only: [:index, :new, :create, :show, :edit, :update]
   end
 
   # Example of named route that can be invoked with purchase_url(id: product.id)

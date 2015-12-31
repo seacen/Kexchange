@@ -29,6 +29,9 @@ en:
         artist: 'Artist'
         en_name: 'English name'
         zh_name: 'Chinese name'
+        ptype: 'Type'
+        title: 'Title'
+        body: 'Body'
     hints:
       username:
         disabled: 'cannot be changed'

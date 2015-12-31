@@ -1,0 +1,17 @@
+<%= simple_form_for @problem do |f| %>
+  <%= f.error_notification %>
+  <div class="row">
+    <div class="col-xs-2">
+      <%= f.input :ptype, collection: [[t('problem.name'), 'problem'], [t('suggestion'), 'suggestion']] %>
+    </div>
+    <div class="col-xs-10">
+      <%= f.input :title %>
+    </div>
+  </div>
+  <%= f.input :body %>
+  <% unless @problem.object.nil? %>
+    <%= f.hidden_field :object, value: @problem.object %>
+  <% end %>
+  <%= f.button :submit, t('submit') %>
+  <span><%= link_to t('back'), :back, class: 'btn btn-default back' %></span>
+<% end %>

@@ -4,7 +4,8 @@ class ArtistsController < ApplicationController
     before_action :set_artist, only: [:show, :edit, :update, :destroy]
 
     def index
-      @artists = Artist.all
+      @artists = Artist.order(:created_at)
+      @artist = Artist.new
     end
 
     def new
@@ -19,6 +20,18 @@ class ArtistsController < ApplicationController
           format.json { render :show, status: :created, location: @artist }
         else
           format.html { render :new, alert: @artist.errors }
+          format.json { render json: @artist.errors, status: :unprocessable_entity }
+        end
+      end
+    end
+
+    def update
+      respond_to do |format|
+        if @artist.update(artist_params)
+          format.html { redirect_to @artist, notice: t('artist.edit.success') }
+          format.json { render :show, status: :ok, location: @artist }
+        else
+          format.html { render :edit }
           format.json { render json: @artist.errors, status: :unprocessable_entity }
         end
       end

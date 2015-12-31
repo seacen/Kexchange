@@ -29,6 +29,9 @@ zh-CN:
         artist: '艺术家'
         en_name: '英文名称'
         zh_name: '中文名称'
+        ptype: '类型'
+        title: '标题'
+        body: '正文'
     hints:
       username:
         disabled: '不可修改'

@@ -1,0 +1,14 @@
+en:
+  problem:
+    index:
+      heading: 'Choose feedback'
+      popover: 'Choose the problem you want to edit or the problem that the item you want to change belongs to'
+      create: 'Create a new problem'
+    new:
+      heading: 'Create feedback'
+      success: 'feedback was successfully reported.'
+    edit:
+      heading: 'Edit feedback'
+      success: 'feedback was successfully updated.'
+    destroy:
+      success: 'feedback was successfully destroyed.'

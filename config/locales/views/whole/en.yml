@@ -18,8 +18,12 @@ en:
   colon: ': '
   edit: 'Edit'
   delete: 'Delete'
+  report_problem: 'Report a problem'
   search_match: 'Search Matches'
   applications: 'Applications'
+  problem:
+    name: 'Problem'
+  suggestion: 'Suggestion'
   confirm:
     delete:
       title: 'Confirm Deletion'

@@ -18,8 +18,12 @@ zh-CN:
   colon: '：'
   edit: '编辑'
   delete: '删除'
+  report_problem: '报告错误'
   search_match: '搜索匹配'
   applications: '交换申请'
+  problem:
+    name: '问题'
+  suggestion: '建议'
   confirm:
     delete:
       title: '确认删除'

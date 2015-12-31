@@ -6,9 +6,9 @@ en:
       create: 'Create a new artist'
     new:
       heading: 'Create Artist'
-      success: 'Account was successfully created.'
+      success: 'Artist was successfully created.'
     edit:
       heading: 'Edit Artist'
-      success: 'Account was successfully updated.'
+      success: 'Artist was successfully updated.'
     destroy:
-      success: 'Account was successfully destroyed.'
+      success: 'Artist was successfully destroyed.'
