@@ -1,6 +1,5 @@
 class ProblemsController < ApplicationController
   before_action :authenticate_user
-  before_action :check_is_admin
   before_action :set_problem, only: [:show, :edit, :update, :destroy]
   before_action :check_valid, only: [:edit, :update, :show]
 
