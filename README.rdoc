@@ -5,7 +5,7 @@
 ====== Website: http://kexchange.tk
 
 == License
-This project is licensed under {Apache License 2.0}[link:LICENSE.txt]
+This project is licensed under {GNU General Public License v3.0}[link:LICENSE.txt]
 
 == Installation
 execute these commands to visit the website on http://localhost:3000
