@@ -2,7 +2,7 @@
 
 ===== A platform for K-pop album card exchange
 
-====== Website: http://kexchange.tk
+====== Website: https://kexchange.herokuapp.com
 
 == License
 This project is licensed under {GNU General Public License v3.0}[link:LICENSE.txt]
